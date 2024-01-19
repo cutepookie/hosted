@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Atrributes>
+    <Attribute Type = "1" Icon = "ico_money_01.png" Name = "宝石" Summary = "" />
+    <Attribute Type = "2" Icon = "ico_money_02.png" Name = "金币" Summary = "" />
+    <Attribute Type = "3" Icon = "ico_money_03.png" Name = "补天石" Summary = "" />
+    <Attribute Type = "4" Icon = "ico_bonus_0.png" Name = "积分" Summary = "" />
+    <Attribute Type = "5" Icon = "ico_morale_0.png" Name = "勇气" Summary = "" />
+    <Attribute Type = "6" Icon = "" Name = "预留货币2" Summary = "" />
+</Atrributes>

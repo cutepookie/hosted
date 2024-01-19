@@ -1,0 +1,15 @@
+#!/bin/bash
+touch ProjectTK/Resources/channel.flag
+
+
+export MAKE_NUMBER_FILE=$PWD/makeNumber
+
+./updateMakeNumber
+
+MK_NUMBER=`cat $MAKE_NUMBER_FILE`
+
+VER=`/usr/libexec/PlistBuddy -c 'Print:CFBundleVersion' $PRODUCT_SETTINGS_PATH`
+MKN="$VER ($MK_NUMBER)"
+DATA="{   \"CM\" : \"$TARGET_NAME\", \"MKN\" : \"$MKN\" }"
+echo -n $DATA > ProjectTK/Resources/channel.flag
+

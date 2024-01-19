@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Rules level="25">
+	<Rule functionType="401" richText="1" content="[color=969696]1. 活动时间为每天 [color=00e1ff]晚上20：00开启 [br][/color][color=969696]2. 在规定时间内玩家需要挑战八岐大蛇，玩家死亡后会有45秒复活时间 [br][/color][color=969696]3. BOSS被击杀后，根据玩家伤害排名发放奖励 [br][/color][color=969696]4. 奖励将以 [color=00e1ff]邮件  [/color][color=969696]形式发放，请各位修行者注意查收![/color]"/>
+    <Rule functionType="601" richText="1" content="[color=969696]1. 活动开放时间内，所有玩家都可以参加该活动。 [br][/color][color=969696]2. 玩家每天都有5次免费参与机会，且5次免费机会只能用于单次参与。[br][/color][color=969696]3. 参与达到一定次数，即可进入排名。[br][/color][color=969696]4.最终排名奖励将以 [color=00e1ff]邮件  [/color][color=969696]形式发放，请各位修行者注意查收![/color]"/>
+	<Rule functionType="602" richText="1" content="[color=969696]1. 活动开放时间内，所有玩家都可以参加该活动。 [br][/color][color=969696]2. 玩家每天都有5次免费参与机会，且5次免费机会只能用于单次参与。[br][/color][color=969696]3. 参与达到一定次数，即可进入排名。[br][/color][color=969696]4.最终排名奖励将以 [color=00e1ff]邮件  [/color][color=969696]形式发放，请各位修行者注意查收![/color]"/>
+	<Rule functionType="603" richText="1" content="暂时为空"/>
+	<Rule functionType="402" richText="1" content="[color=969696]1. 玩家每天有[color=00e1ff]3次挑战机会 [br][/color][color=969696]2. 每挑战失败一次扣除一次挑战次数 [br][/color][color=969696]3. 修行者VIP等级达到VIP3开启一键扫荡功能 [br][/color][color=969696]4. 一键扫荡只能扫荡至玩家历史挑战最高层数[/color]"/>
+    <Rule functionType="405" richText="1" content="[color=969696]1. 活动时间为[color=00e1ff]每周更新结算一次 [br][/color][color=969696]2. 每天所有玩家可以在相同的段位匹配到自己的对手 [br][/color][color=969696]3.胜利一场增加50分，输了不扣分。挑战次数20分钟回复一次 [br][/color][color=969696]4. 最终奖励将按照积分排名以 [color=00e1ff]邮件  [/color][color=969696]形式发放，请各位修行者注意查收![/color]"/>
+	<Rule functionType="407" richText="1" content="[color=969696]1. 三界之主产生后，玩家可以在指定时间进行挑战[br][/color][color=969696]2. 每打败一个boss，所有参加战斗的玩家都会收到奖励邮件。[/color]"/>
+	<Rule functionType="408" richText="1" content="[color=969696]1. 玩家每日有一定的免费挑战次数[br][/color][color=969696]2. 挑战对应难度的副本，胜利后会获得丰富奖励。[br][/color]3. 挑战失败会扣除一部分奖励，副本难度越大，挑战失败扣除的奖励越大。[br][/color]4. 提升VIP等级会增加对应的挑战次数[br][/color]"/>
+	<Rule functionType="409" richText="1" content="[color=969696]1. 活动将于每天晚上19:00开始[br][/color][color=969696]2. 每场比赛开始前有5分钟的报名时间。[br][/color]3. 比赛持续5分钟，结束后开启新的一场报名。[br][/color]4. 每位玩家每日报名挑战次数仅限3次。[br][/color]5. 比赛最终奖励将由邮件形式发放，请各位修行者注意查收。[br][/color]"/>
+	<Rule functionType="701" richText="1" content="[color=969696]1. 每一个伙伴都可以有一个守护者[br][/color][color=969696]2. 守护的伙伴不能与上阵伙伴重复[br]3. 守护伙伴会按照当前自己的星级与品阶为伙伴加成[br]4. 洗练可以刷出特殊的属性，要多多洗练哦！[/color]"/>
+</Rules>

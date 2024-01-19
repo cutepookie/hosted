@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ranking>
+    <rank level = "4" overtiem = "259200" />
+    <rank level = "5" overtiem = "172800" />
+    <rank level = "6" overtiem = "86400" />
+    <rank level = "7" overtiem = "43200" />
+    <rank level = "8" overtiem = "21600" />
+    <rank level = "9" overtiem = "10800" />
+    <rank level = "10" overtiem = "7200" />
+    <rank level = "11" overtiem = "3600" />
+    <rank level = "12" overtiem = "3600" />
+    <rank level = "13" overtiem = "3600" />
+    <rank level = "14" overtiem = "3600" />
+    <rank level = "15" overtiem = "3600" />
+    <rank level = "16" overtiem = "3600" />
+    <rank level = "17" overtiem = "3600" />
+    <rank level = "18" overtiem = "3600" />
+    <rank level = "19" overtiem = "3600" />
+    <rank level = "20" overtiem = "3600" />
+</ranking>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<time>
+    <times  id = "30009" times = "5" type = "1"/>
+    <times  id = "30010" times = "3" type = "1"/>
+    <times  id = "30011" times = "1" type = "1"/>
+    <times  id = "30012" times = "5" type = "2"/>
+    <times  id = "30013" times = "3" type = "2"/>
+    <times  id = "30014" times = "1" type = "2"/>
+    <times  id = "30015" times = "5" type = "3"/>
+    <times  id = "30016" times = "3" type = "3"/>
+    <times  id = "30017" times = "1" type = "3"/>
+</time>
+<exps>
+    <exp id = "40001" exp_add = "100"/>
+    <exp id = "40002" exp_add = "1000"/>
+    <exp id = "40003" exp_add = "10000"/>
+    <exp id = "40004" exp_add = "100000"/>
+    <exp id = "40005" exp_add = "1000000"/>
+</exps>
+</data>

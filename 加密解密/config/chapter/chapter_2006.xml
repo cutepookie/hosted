@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40051" Number="1" Name="莽撞行事1" activeneedpass="40050" costenergy="2" maxtimes="10" coin="3105" exprole="621" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2021" dungeon_level="13"/>
+	<Dungeon ID="40052" Number="2" Name="莽撞行事2" activeneedpass="40051" costenergy="2" maxtimes="10" coin="3105" exprole="621" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2091" dungeon_level="13"/>
+	<Dungeon ID="40053" Number="3" Name="莽撞行事3" activeneedpass="40052" costenergy="2" maxtimes="10" coin="3190" exprole="638" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2121" dungeon_level="13"/>
+	<Dungeon ID="40054" Number="4" Name="莽撞行事4" activeneedpass="40053" costenergy="2" maxtimes="10" coin="3190" exprole="638" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2021" dungeon_level="14"/>
+	<Dungeon ID="40055" Number="5" Name="闯入皇宫1" activeneedpass="40054" costenergy="2" maxtimes="10" coin="3275" exprole="655" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2111" dungeon_level="14"/>
+	<Dungeon ID="40056" Number="6" Name="闯入皇宫2" activeneedpass="40055" costenergy="2" maxtimes="10" coin="3275" exprole="655" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2041" dungeon_level="14"/>
+	<Dungeon ID="40057" Number="7" Name="闯入皇宫3" activeneedpass="40056" costenergy="2" maxtimes="10" coin="3360" exprole="672" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2021" dungeon_level="15"/>
+	<Dungeon ID="40058" Number="8" Name="妖言惑众" activeneedpass="40057" costenergy="2" maxtimes="10" coin="3360" exprole="672" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2081" dungeon_level="15"/>
+	<Dungeon ID="40059" Number="9" Name="争夺皇位" activeneedpass="40058" costenergy="2" maxtimes="10" coin="3445" exprole="689" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2121" dungeon_level="15"/>
+	<Dungeon ID="40060" Number="10" Name="战乱四起" activeneedpass="40059" costenergy="2" maxtimes="5" coin="3445" exprole="689" expgeneral="0" dropitem1="10307" dropitem2="0" boss_postion="10010" addMorale="0" dungeon_icon="3031" dungeon_level="15"/>
+</Dungeons>

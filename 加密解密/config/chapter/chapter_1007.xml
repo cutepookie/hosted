@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30061" Number="1" Name="解释误会1" activeneedpass="30060" costenergy="2" maxtimes="30" coin="890" exprole="178" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2023" dungeon_level="16"/>
+	<Dungeon ID="30062" Number="2" Name="解释误会2" activeneedpass="30061" costenergy="2" maxtimes="30" coin="890" exprole="178" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2063" dungeon_level="16"/>
+	<Dungeon ID="30063" Number="3" Name="解释误会3" activeneedpass="30062" costenergy="2" maxtimes="30" coin="935" exprole="187" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2093" dungeon_level="16"/>
+	<Dungeon ID="30064" Number="4" Name="大闹警局1" activeneedpass="30063" costenergy="2" maxtimes="30" coin="935" exprole="187" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2043" dungeon_level="17"/>
+	<Dungeon ID="30065" Number="5" Name="大闹警局2" activeneedpass="30064" costenergy="2" maxtimes="30" coin="985" exprole="197" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2013" dungeon_level="17"/>
+	<Dungeon ID="30066" Number="6" Name="大闹警局3" activeneedpass="30065" costenergy="2" maxtimes="30" coin="985" exprole="197" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2073" dungeon_level="17"/>
+	<Dungeon ID="30067" Number="7" Name="和睦相处1" activeneedpass="30066" costenergy="2" maxtimes="30" coin="1030" exprole="206" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2063" dungeon_level="18"/>
+	<Dungeon ID="30068" Number="8" Name="和睦相处2" activeneedpass="30067" costenergy="2" maxtimes="30" coin="1030" exprole="206" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2023" dungeon_level="18"/>
+	<Dungeon ID="30069" Number="9" Name="和睦相处3" activeneedpass="30068" costenergy="2" maxtimes="30" coin="1080" exprole="216" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2093" dungeon_level="18"/>
+	<Dungeon ID="30070" Number="10" Name="和睦相处4" activeneedpass="30069" costenergy="2" maxtimes="10" coin="1080" exprole="216" expgeneral="0" dropitem1="10309" dropitem2="0" boss_postion="101010" addMorale="0" dungeon_icon="3051" dungeon_level="18"/>
+</Dungeons>

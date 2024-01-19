@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/yr_sdk_box_all"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/yr_sdk_include_include_title_bar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp">
+
+                <LinearLayout
+                    android:id="@+id/yr_sdk_ll_border"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:orientation="vertical">
+
+                    <com.yr.gamesdk.widget.ListViewForScrollView
+                        android:id="@+id/yr_sdk_lv_border"
+                        android:layout_width="match_parent"
+                        android:divider="@color/yr_sdk_bg_line_drak"
+                        android:dividerHeight="0.5dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/yr_sdk_bg_bottom_shadow"/>
+
+                    <include layout="@layout/yr_sdk_include_switch_account" />
+                </LinearLayout>
+
+                <include layout="@layout/yr_sdk_include_login_btn" />
+
+                <RelativeLayout
+                    android:id="@+id/yr_sdk_bottom_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/yr_sdk_ll_btn_contains">
+
+                    <TextView
+                        android:id="@+id/yr_sdk_tv_tourist_login"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="6dp"
+                        android:text="@string/yr_sdk_guest_login"
+                        android:textColor="@color/yr_sdk_title_text_color"
+                        android:textSize="@dimen/yr_sdk_tourist_login_size" />
+
+                    <TextView
+                        android:id="@+id/yr_sdk_tv_use_register"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:padding="6dp"
+                        android:text="@string/yr_sdk_onekey_register"
+                        android:textColor="@color/yr_sdk_title_text_color"
+                        android:textSize="@dimen/yr_sdk_tourist_login_size" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30181" Number="1" Name="火焰山1" activeneedpass="30180" costenergy="2" maxtimes="30" coin="5505" exprole="1101" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4052" dungeon_level="50"/>
+	<Dungeon ID="30182" Number="2" Name="火焰山2" activeneedpass="30181" costenergy="2" maxtimes="30" coin="5505" exprole="1101" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4142" dungeon_level="50"/>
+	<Dungeon ID="30183" Number="3" Name="火焰山3" activeneedpass="30182" costenergy="2" maxtimes="30" coin="5615" exprole="1123" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4122" dungeon_level="50"/>
+	<Dungeon ID="30184" Number="4" Name="牛魔王1" activeneedpass="30183" costenergy="2" maxtimes="30" coin="5615" exprole="1123" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4072" dungeon_level="50"/>
+	<Dungeon ID="30185" Number="5" Name="牛魔王2" activeneedpass="30184" costenergy="2" maxtimes="30" coin="5730" exprole="1146" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5042" dungeon_level="50"/>
+	<Dungeon ID="30186" Number="6" Name="宴请1" activeneedpass="30185" costenergy="2" maxtimes="30" coin="5730" exprole="1146" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4132" dungeon_level="51"/>
+	<Dungeon ID="30187" Number="7" Name="宴请2" activeneedpass="30186" costenergy="2" maxtimes="30" coin="5840" exprole="1168" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5011" dungeon_level="51"/>
+	<Dungeon ID="30188" Number="8" Name="宴请3" activeneedpass="30187" costenergy="2" maxtimes="30" coin="5840" exprole="1168" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5151" dungeon_level="51"/>
+	<Dungeon ID="30189" Number="9" Name="劝说1" activeneedpass="30188" costenergy="2" maxtimes="30" coin="5955" exprole="1191" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4062" dungeon_level="51"/>
+	<Dungeon ID="30190" Number="10" Name="劝说2" activeneedpass="30189" costenergy="2" maxtimes="10" coin="5955" exprole="1191" expgeneral="0" dropitem1="10417" dropitem2="0" boss_postion="101010" addMorale="0" dungeon_icon="5027" dungeon_level="51"/>
+</Dungeons>

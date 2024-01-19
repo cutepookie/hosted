@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40041" Number="1" Name="夜市宵夜1" activeneedpass="40040" costenergy="2" maxtimes="10" coin="2710" exprole="542" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2102" dungeon_level="10"/>
+	<Dungeon ID="40042" Number="2" Name="夜市宵夜2" activeneedpass="40041" costenergy="2" maxtimes="10" coin="2710" exprole="542" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2051" dungeon_level="10"/>
+	<Dungeon ID="40043" Number="3" Name="皇子重病1" activeneedpass="40042" costenergy="2" maxtimes="10" coin="2785" exprole="557" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2061" dungeon_level="10"/>
+	<Dungeon ID="40044" Number="4" Name="皇子重病2" activeneedpass="40043" costenergy="2" maxtimes="10" coin="2785" exprole="557" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2081" dungeon_level="11"/>
+	<Dungeon ID="40045" Number="5" Name="探查消息1" activeneedpass="40044" costenergy="2" maxtimes="10" coin="2865" exprole="573" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2111" dungeon_level="11"/>
+	<Dungeon ID="40046" Number="6" Name="探查消息2" activeneedpass="40045" costenergy="2" maxtimes="10" coin="2865" exprole="573" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2051" dungeon_level="11"/>
+	<Dungeon ID="40047" Number="7" Name="探查消息3" activeneedpass="40046" costenergy="2" maxtimes="10" coin="2945" exprole="589" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2071" dungeon_level="12"/>
+	<Dungeon ID="40048" Number="8" Name="探查消息4" activeneedpass="40047" costenergy="2" maxtimes="10" coin="2945" exprole="589" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2032" dungeon_level="12"/>
+	<Dungeon ID="40049" Number="9" Name="探查消息5" activeneedpass="40048" costenergy="2" maxtimes="10" coin="3025" exprole="605" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2111" dungeon_level="12"/>
+	<Dungeon ID="40050" Number="10" Name="探查消息6" activeneedpass="40049" costenergy="2" maxtimes="5" coin="3025" exprole="605" expgeneral="0" dropitem1="10211" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="3028" dungeon_level="12"/>
+</Dungeons>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShowCard>
+<CardIDs>
+    <CardID ID = "5010"  />
+    <CardID ID = "5020"  />
+    <CardID ID = "5030"  />
+    <CardID ID = "5040"  />
+    <CardID ID = "5050"  />
+    <CardID ID = "5060"  />
+    <CardID ID = "5070"  />
+    <CardID ID = "5080"  />
+    <CardID ID = "5090"  />
+    <CardID ID = "5100"  />
+    <CardID ID = "5110"  />
+    <CardID ID = "5120"  />
+    <CardID ID = "5130"  />
+    <CardID ID = "5140"  />
+    <CardID ID = "5150"  />
+</CardIDs>
+</ShowCard>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activatys resource="global.plist">
+    <activaty type="501" name="体力泉水" openlable="" closelable="" level="1"  enable="" disable="" activateccbi="res/obj_event_btn_3.ccbi" />
+    <activaty type="502" name="招财" openlable="" closelable="" level="1"  enable="" disable="" activateccbi="res/obj_event_btn_4.ccbi" />
+    <activaty type="505" name="冲级活动" openlable="" closelable="" level="1"  enable="" disable="" activateccbi="res/obj_event_btn_9.ccbi" />
+</activatys>

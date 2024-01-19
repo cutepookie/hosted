@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+
+    <content tid = "16" title = "竞技场挑战失败" des = "您向%s发起的决斗战败了！获得浆果：%d。"/>
+    <content tid = "80" title = "竞技场挑战成功" des = "您向%s发起的决斗胜利了！排位升到：%d，获得浆果：%d。"/>
+    <content tid = "128" title = "竞技场防守成功" des = "%s在向您发起的%s夺宝战中败在了您的手下。"/>
+    <content tid = "144" title = "竞技场防守成功" des = "%s在决斗中向您发起了挑战，但败在了您的手下。"/>
+
+    <content tid = "208" title = "竞技场防守失败" des = "%s在决斗中战胜了您。您的排位下降到%d。"/>
+
+
+    <content tid = "301" des = "[color=ffcc00]最新战报[br][/color][color=ffffff]修行者[/color][color=ffcc00]%s[/color][color=ffffff]将修行者[/color][color=ffcc00]%s[/color][color=ffffff]击败！[br][/color][color=ffffff]修行者[/color][color=ffcc00]%s[/color][color=ffcc00]排位上升到：%d。[/color]"/>
+	
+    <content tid = "1001" des = "[color=ffcc00]好友添加申请[br][/color][color=ffcc00]@(0)@[/color][color=ffffff]请求添加您为好友。[/color]"/>
+    <content tid = "1002" des = "[color=ffcc00]好友断交通知[br][/color][color=ffcc00]@(0)@[/color][color=ffffff]已同您断交，从此形同陌路。[/color]"/>
+
+    <content tid = "1003" des = "[color=ffcc00]系统-微博绑定成功[br][/color][color=ffcc00]恭喜修行者成功绑定了微博。分享更有大量金币获赠。[/color]"/>
+	
+    <content tid = "1004" des = "[color=ffcc00]系统-邀请好友充值奖励[br][/color][color=ffcc00]@(0)@[/color][color=ffffff-24--1}恭喜修行者邀请的好友[/color][color=ffcc00]@(0)@[/color][color=ffffff]成功充值，您将获得其充值额度的[/color][color=ffcc00]@(1)@%[/color][color=ffffff]的宝石奖励。[/color]"/>
+	
+
+	<content tid = "1016" des = "[color=ffcc00]系统通知[br][/color][color=ffffff]@(0)@[/color]"/>
+
+	<content tid = "1018" des = "[color=ffcc00]挑战精灵王-击杀奖励[br][/color][color=ffffff]恭喜修行者在挑战精灵王的战斗中表现出色！[/color]"/>
+
+    <content tid = "1020" des = "[color=ffcc00]八岐大蛇入侵-击败奖励[br][/color][color=ffffff]恭喜修行者在击败八岐大蛇！[/color]"/>
+    <content tid = "1021" des = "[color=ffcc00]八岐大蛇入侵-幸运奖励[br][/color][color=ffffff]恭喜修行者在八岐大蛇中被抽中幸运奖！[/color]"/>
+    <content tid = "1022" des = "[color=ffcc00]八岐大蛇入侵-贡献@(0)@奖励[br][/color][color=ffffff]恭喜修行者在对抗八岐大蛇中累计伤害排名@(0)@！[/color]"/>
+	<content tid = "1023" des = "[color=ffcc00]八岐大蛇入侵-参与奖励[br][/color][color=ffffff]恭喜修行者在对抗八岐大蛇的战斗中表现出色！[/color]"/>
+	<content tid = "1024" des = "[color=ffcc00]八岐大蛇入侵-贡献第三奖励[br][/color][color=ffffff]恭喜修行者在对抗八岐大蛇中累计伤害排名第三！[/color]"/>
+    <content tid = "1025" des = "[color=ffcc00]八岐大蛇入侵-援军助阵奖励[br][/color][color=ffffff]恭喜修行者援军助阵对抗八岐大蛇获得参与奖励！[/color]"/>
+	
+	
+    <content tid = "1030" des = "[color=ffcc00]燃放爆竹返还宝石[br][/color][color=ffffff]修行者，燃放最后折扣为@(0)@折，获得返利！[/color]"/>
+    <content tid = "1031" des = "[color=ffcc00]燃放爆竹排名奖励[br][/color][color=ffffff]恭喜修行者，在燃放爆竹活动中获得第@(0)@名，获得奖励！[/color]"/>
+	
+
+    <content tid = "1049" des = "[color=ffcc00]新年红包到喽[br][/color][color=ffffff]恭喜修行者，在新年红包活动中,未领取奖励有！[/color]"/>
+
+	
+    <content tid = "1051" des = "[color=ffcc00] 霸主之战参与奖励[br][/color][color=ffffff]恭喜你，积极参与霸主之战，获得参与奖励！[/color]"/>
+    <content tid = "1052" des = "[color=ffcc00] 霸主之战小组前四奖励[br][/color][color=ffffff]恭喜你，在小组赛中表现突出，获得奖励！[/color]"/>
+    <content tid = "1053" des = "[color=ffcc00] 霸主之战八强奖励[br][/color][color=ffffff]恭喜你，恭喜你，在霸主之战中成为八强，获得奖励！[/color]"/>
+    <content tid = "1054" des = "[color=ffcc00] 霸主之战四强奖励[br][/color][color=ffffff]恭喜你，在霸主之战中成为四强，获得奖励！[/color]"/>
+    <content tid = "1055" des = "[color=ffcc00] 霸主之战亚军奖励[br][/color][color=ffffff]恭喜你，在霸主之战中荣获亚军，获得奖励！[/color]"/>
+    <content tid = "1056" des = "[color=ffcc00] 霸主之战冠军奖励[br][/color][color=ffffff]恭喜你，在霸主之战中脱颖而出，成为冠军！[/color]"/>
+    
+    <content tid = "1000" des = "[color=ffcc00]系统奖励[br][/color][color=ffcc00]@(1)@[/color][color=ffcc00]@(4)@ @(0)@[/color][color=ffcc00]@(2)@ @(3)@[/color][color=ffcc00]杀了你！[/color]" />
+
+
+    <content tid = "1101" des = "[color=ffcc00]挑战失败[br][/color][color=ffffff]您向[/color][color=ffcc00]%s[/color][color=ffffff]发起的挑战战败了！[br][/color][color=ffcc00]你的排名掉到了最后。[/color]"/>
+    <content tid = "1102" des = "[color=ffcc00]挑战成功[br][/color][color=ffffff]您向[/color][color=ffcc00]%s[/color][color=ffffff]发起的挑战胜利了！[br][/color][color=ffcc00]排位升到：%d[/color]"/>
+    <content tid = "1103" des = "[color=ffcc00]防守成功[br][/color][color=ffcc00]%s[/color][color=ffffff]在神妖之战对你发起了挑战，但败在了你的手下。[/color]" />
+    <content tid = "1104" des = "[color=ffcc00]防守失败[br][/color][color=ffcc00]%s[/color][color=ffffff]在神妖之战挑战中战胜了您。[br][/color][color=ffcc00] 你的排名掉到了最后。[/color]"/>
+    <content tid = "1105" des = "[color=ffcc00]最新战报[br][/color][color=ffffff]修行者[/color][color=ffcc00]%s[/color][color=ffffff]将修行者[/color][color=ffcc00]%s[/color][color=ffffff]击败！[br][/color][color=ffffff] 修行者[/color][color=ffcc00]%s[/color][color=ffffff]已经[/color][color=ffcc00]%d[/color][color=ffffff]连胜，获得连胜称号[/color][color=ffcc00]%s[/color][color=ffcc00]！[/color]"/>
+    <content tid = "1106" des = "[color=ffcc00]最新战报[br][/color][color=ffffff]修行者[/color][color=ffcc00]%s[/color][color=ffffff]将修行者[/color][color=ffcc00]%s[/color][color=ffffff]击败！[br][/color][color=ffffff] 终止了修行者[/color][color=ffcc00]%s[/color][color=ffffff]的连胜！[/color]"/>
+    <content tid = "1072" des = "[color=ffcc00]恭喜修行者获得竞技场获得前@(0)@名的好成绩，请查收您的奖励[/color]"/>
+    
+    <!--秩序战场-->
+    <content tid = "1073" des = "恭喜你战胜了[color=ffcc00]%s[/color],积分上升到[color=ffcc00]%d[/color]."/>
+    <content tid = "1074" des = "你败在了[color=ffcc00]%s[/color]手下,当前积分[color=ffcc00]%d[/color]."/>
+	<content tid = "1075" des = "恭喜您在天梯排位赛中获得了[color=ffcc00]%s[/color]点积分,排名为[color=ffcc00]%d[/color]，下面是您的奖励"/>
+	<content tid = "1076" des = "[color=ffcc00]恭喜您在活动中获得排名为@(1)@，并获得相应的奖励[/color]" />  
+	<content tid = "1077" des = "[color=ffcc00]恭喜您在宿命对决所在的阵营获胜，您的排名为@(1)@，积分为@(2)@，获得奖励[/color]" />  
+	<content tid = "1078" des = "[color=ffcc00]您在宿命对决所在的阵营战败，您的排名为@(1)@，积分为@(2)@，获得奖励[/color]" /> 
+	<content tid = "1079" des = "[color=ffcc00]恭喜您在宿命对决中连杀数达到@(1)@，并获得相应的奖励[/color]" />  
+</email>

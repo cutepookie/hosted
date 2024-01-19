@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/yr_sdk_re_switch_account"
+    android:layout_height="wrap_content"
+    android:background="@mipmap/yr_sdk_box_user1"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:visibility="gone"
+    tools:showIn="@layout/yr_sdk_activity_dialog_login">
+
+    <TextView
+        android:id="@+id/yr_sdk_login_tv_switch_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@mipmap/yr_sdk_btn_tabuser"
+        android:gravity="center"
+        android:paddingBottom="3dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="3dp"
+        android:textSize="@dimen/yr_sdk_login_ed_size"
+        android:text="@string/yr_sdk_changeaccount"
+        android:textColor="@color/yr_sdk_title_bar_white_bg" />
+
+    <TextView
+        android:id="@+id/yr_sdk_login_tv_switch_account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/yr_sdk_login_tv_switch_btn"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/yr_sdk_login_tv_switch_btn"
+        android:layout_centerVertical="true"
+        android:textSize="@dimen/yr_sdk_login_ed_size"
+        android:textColor="@color/yr_sdk_text_gray"
+        android:maxLines="1"
+        android:gravity="center_vertical"
+        android:layout_toLeftOf="@+id/yr_sdk_login_tv_switch_btn" />
+</RelativeLayout>

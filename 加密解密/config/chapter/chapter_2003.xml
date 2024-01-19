@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40021" Number="1" Name="小妖众多1" activeneedpass="40020" costenergy="2" maxtimes="10" coin="1995" exprole="399" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2031" dungeon_level="4"/>
+	<Dungeon ID="40022" Number="2" Name="小妖众多2" activeneedpass="40021" costenergy="2" maxtimes="10" coin="1995" exprole="399" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2051" dungeon_level="4"/>
+	<Dungeon ID="40023" Number="3" Name="小妖众多3" activeneedpass="40022" costenergy="2" maxtimes="10" coin="2060" exprole="412" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2061" dungeon_level="4"/>
+	<Dungeon ID="40024" Number="4" Name="小妖众多4" activeneedpass="40023" costenergy="2" maxtimes="10" coin="2060" exprole="412" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2051" dungeon_level="5"/>
+	<Dungeon ID="40025" Number="5" Name="悟净的行李1" activeneedpass="40024" costenergy="2" maxtimes="10" coin="2130" exprole="426" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2121" dungeon_level="5"/>
+	<Dungeon ID="40026" Number="6" Name="悟净的行李2" activeneedpass="40025" costenergy="2" maxtimes="10" coin="2130" exprole="426" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2121" dungeon_level="5"/>
+	<Dungeon ID="40027" Number="7" Name="悟净的行李3" activeneedpass="40026" costenergy="2" maxtimes="10" coin="2195" exprole="439" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2071" dungeon_level="6"/>
+	<Dungeon ID="40028" Number="8" Name="悟净的行李4" activeneedpass="40027" costenergy="2" maxtimes="10" coin="2195" exprole="439" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2061" dungeon_level="6"/>
+	<Dungeon ID="40029" Number="9" Name="第一部经书1" activeneedpass="40028" costenergy="2" maxtimes="10" coin="2265" exprole="453" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2041" dungeon_level="7"/>
+	<Dungeon ID="40030" Number="10" Name="第一部经书2" activeneedpass="40029" costenergy="2" maxtimes="5" coin="2265" exprole="453" expgeneral="0" dropitem1="10209" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="2029" dungeon_level="8"/>
+</Dungeons>

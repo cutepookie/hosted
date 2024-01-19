@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30301" Number="1" Name="难以收场1" activeneedpass="30300" costenergy="2" maxtimes="30" coin="14050" exprole="2810" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6011" dungeon_level="74"/>
+	<Dungeon ID="30302" Number="2" Name="难以收场2" activeneedpass="30301" costenergy="2" maxtimes="30" coin="14050" exprole="2810" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6021" dungeon_level="74"/>
+	<Dungeon ID="30303" Number="3" Name="紧箍咒1" activeneedpass="30302" costenergy="2" maxtimes="30" coin="14225" exprole="2845" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6101" dungeon_level="74"/>
+	<Dungeon ID="30304" Number="4" Name="紧箍咒2" activeneedpass="30303" costenergy="2" maxtimes="30" coin="14225" exprole="2845" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6091" dungeon_level="74"/>
+	<Dungeon ID="30305" Number="5" Name="紧箍咒3" activeneedpass="30304" costenergy="2" maxtimes="30" coin="14400" exprole="2880" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6041" dungeon_level="74"/>
+	<Dungeon ID="30306" Number="6" Name="满城废墟1" activeneedpass="30305" costenergy="2" maxtimes="30" coin="14400" exprole="2880" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6091" dungeon_level="75"/>
+	<Dungeon ID="30307" Number="7" Name="满城废墟2" activeneedpass="30306" costenergy="2" maxtimes="30" coin="14580" exprole="2916" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6051" dungeon_level="75"/>
+	<Dungeon ID="30308" Number="8" Name="满城废墟3" activeneedpass="30307" costenergy="2" maxtimes="30" coin="14580" exprole="2916" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6021" dungeon_level="75"/>
+	<Dungeon ID="30309" Number="9" Name="恢复理智" activeneedpass="30308" costenergy="2" maxtimes="30" coin="14760" exprole="2952" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6041" dungeon_level="75"/>
+	<Dungeon ID="30310" Number="10" Name="懊悔不已" activeneedpass="30309" costenergy="2" maxtimes="10" coin="14760" exprole="2952" expgeneral="0" dropitem1="10519" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="6039" dungeon_level="75"/>
+</Dungeons>

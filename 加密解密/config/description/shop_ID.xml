@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shops>
+    <shop Type = "0"  shopid = "22020"  />
+    <shop Type = "1"  shopid = "22020"  />
+    <shop Type = "2"  shopid = "6666"  />
+    <shop Type = "3"  shopid = "10000"  />
+    <shop Type = "4"  shopid = "10001"  />
+    <shop Type = "5"  shopid = "22020"  />
+</shops>
+	

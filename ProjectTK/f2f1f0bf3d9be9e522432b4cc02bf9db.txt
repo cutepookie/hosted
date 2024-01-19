@@ -1,0 +1,3 @@
+Alias: zriza2
+KeyPass: cn0mbc
+StorePass: 6gstkg

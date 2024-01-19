@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--注释 [r] 主公， ［g］武将 ［i］道具 ［s］ 其他字符-->
+<messages>
+        <message mesid= "10000" messtr="[r]侥幸获得了[i]和[g]!!!!!哈哈哈哈哈，笑个[s],[s]b啊~"/>
+        <message mesid= "10009" messtr="恭喜[r]，获得了本届霸主之战第[s]轮的冠军。"/>
+        <message mesid= "10010" messtr="恭喜[r]，成为了 [s]届 霸主之战冠军。"/>
+        <message mesid= "10011" messtr="恭喜[r]，在冒险中获得了[g] * [s]。"/>
+        <message mesid= "10012" messtr="恭喜[r]，在冒险中获得了[i] * [s]。"/>
+        <message mesid= "10013" messtr="恭喜[r]，在召唤大厅，得到了[g]。"/>
+        <message mesid= "10014" messtr="恭喜[r]，在远征中[s]中，幸运的获得了[g]。"/>
+        <message mesid= "10015" messtr="八岐大蛇已经体力不支，实力大减，请各位修行者请再接再励！"/>
+        <message mesid= "10016" messtr="各位修行者注意，东土神界[s]不久后将再次受到八岐大蛇入侵，大家快去击败他们吧！"/>
+        <message mesid= "10017" messtr="恭喜各位修行者，东土神界的骚乱被[r]及其伙伴所解决，不过要小心八岐大蛇一定还会再回来的！"/>
+        <message mesid= "10018" messtr="八岐大蛇实力太过强大，各位修行者无法击败他们，使得他们入侵了东土神界！"/>
+        <message mesid= "10019" messtr="修行者[r]一鸣惊人，成功夺得了竞技场第[s]名位置"/>
+        <message mesid= "10020" messtr="竞技场冠军[r]进入了游戏！"/>
+        <message mesid= "10021" messtr="head_notice_message.xml未配置此字符串"/>
+        <message mesid= "10022" messtr="head_notice_message.xml未配置此字符串"/>
+        <message mesid= "10023" messtr="head_notice_message.xml未配置此字符串"/>
+        <message mesid= "10024" messtr="head_notice_message.xml未配置此字符串"/>
+        <message mesid= "10025" messtr="head_notice_message.xml未配置此字符串"/>
+        <message mesid= "10026" messtr="head_notice_message.xml未配置此字符串"/>
+        <message mesid= "10027" messtr="head_notice_message.xml未配置此字符串"/>
+        <message mesid= "10028" messtr="head_notice_message.xml未配置此字符串"/>
+        <message mesid= "10029" messtr="head_notice_message.xml未配置此字符串"/>
+        <message mesid= "10030" messtr="恭喜[r]，在燃放爆竹活动中，幸运的获得了[i] * [s]。"/>
+        <message mesid= "10031" messtr="恭喜[r]，在燃放爆竹活动中，幸运的获得了[g] * [s]。"/>
+		<message mesid= "10032" messtr="恭喜[r]，在祈福装备时得到了[g]。"/>
+		<message mesid= "10033" messtr="三界之主挑战将于20:00降临，请各位修行者做好准备进行挑战"/>
+        <message mesid= "10034" messtr="王者归来！三界之主已经在天界宝座上迎接各位修行者的挑战，请大家火速前往挑战，丰厚奖励等你哟！"/>
+		<message mesid= "10035" messtr="八岐大蛇将于20:00袭击东土神界，为了保护东土神界的安全！请各位修行者做好战斗准备！"/>
+        <message mesid= "10036" messtr="强势归来！八岐大蛇已经出现在东土神界，请各位修行者速速前往并击败他们！丰厚奖励等着你哟！"/>
+</messages>

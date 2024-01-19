@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<titles>
+  <reward Id = "0">
+      <values type = "1" value = "30008" number = "10" />
+      <values type = "1" value = "30007" number = "5000" />
+      <values type = "1" value = "30006" number = "100" />
+  </reward>
+  <reward Id = "1">
+      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "10000" />
+      <values type = "1" value = "30006" number = "200" />
+  </reward>
+  <reward Id = "2">
+      <values type = "1" value = "30008" number = "60" />
+      <values type = "1" value = "30007" number = "15000" />
+      <values type = "1" value = "30006" number = "300" />
+  </reward>
+  <reward Id = "3">
+      <values type = "1" value = "30008" number = "70" />
+      <values type = "1" value = "30007" number = "20000" />
+      <values type = "1" value = "30006" number = "400" />
+  </reward>
+  <reward Id = "4">
+      <values type = "1" value = "30008" number = "80" />
+      <values type = "1" value = "30007" number = "25000" />
+      <values type = "1" value = "30006" number = "500" />
+  </reward>
+  <reward Id = "5">
+      <values type = "1" value = "30008" number = "100" />
+      <values type = "1" value = "30007" number = "30000" />
+      <values type = "1" value = "30006" number = "600" />
+  </reward>
+  <reward Id = "6">
+      <values type = "1" value = "30008" number = "120" />
+      <values type = "1" value = "30007" number = "35000" />
+      <values type = "1" value = "30006" number = "700" />
+  </reward>
+  <reward Id = "7">
+      <values type = "1" value = "30008" number = "140" />
+      <values type = "1" value = "30007" number = "40000" />
+      <values type = "1" value = "30006" number = "800" />
+  </reward>
+  <reward Id = "8">
+      <values type = "1" value = "30008" number = "160" />
+      <values type = "1" value = "30007" number = "50000" />
+      <values type = "1" value = "30006" number = "900" />
+  </reward>
+  <reward Id = "9">
+      <values type = "1" value = "30008" number = "200" />
+      <values type = "1" value = "30007" number = "60000" />
+      <values type = "1" value = "30006" number = "1000" />
+  </reward>
+</titles>

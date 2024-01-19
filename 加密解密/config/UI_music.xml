@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sounds>
+    <sound type = "0" filepath = "sound/voice/voice_shop_2.mp3" des = "进入浆果商店" />
+    <!--<sound type = "1" filepath = "sound/voice/voice_nanm.mp3" des = "进入凤王BOSS" />-->
+    <sound type = "2" filepath = "sound/voice/voice_rocket.mp3" des = "进入火箭队" />
+    <sound type = "3" filepath = "sound/voice/voice_tower.mp3" des = "进入结晶塔" />
+    <sound type = "4" filepath = "sound/voice/voice_task.mp3" des = "进入每日任务" />
+    <sound type = "5" filepath = "sound/voice/voice_pvp.mp3" des = "进入竞技场" />
+    <sound type = "6" filepath = "sound/voice/voice_monsterbattle.mp3" des = "进入精灵争霸" />
+    <!-- <sound type = "7" filepath = "sound/voice/voice_homeland.mp3" des = "进入炼金工厂" />-->
+    <sound type = "8" filepath = "sound/voice/voice_carddraw.mp3" des = "进入扭蛋" />
+    <!--<sound type = "9" filepath = "sound/voice/voice_king.mp3" des = "进入精灵王" />-->
+    <sound type = "10" filepath = "sound/voice/voice_formation.mp3" des = "进入队形" />
+    <sound type = "11" filepath = "sound/voice/voice_fishing.mp3" des = "进入探险" />
+    <sound type = "12" filepath = "sound/voice/voice_friend.mp3" des = "进入好友" />
+    <sound type = "13" filepath = "sound/voice/voice_regestion.mp3" des = "进入登陆奖励" />
+    <sound type = "14" filepath = "sound/voice/voice_vip.mp3" des = "进入VIP礼包" />
+    <sound type = "15" filepath = "sound/voice/voice_pay.mp3" des = "进入进入充值页面" />
+    <sound type = "16" filepath = "sound/voice/voice_compose.mp3" des = "进入合成页面" />
+    <sound type = "17" filepath = "sound/voice/voice_itemrank.mp3" des = "进入强化页面" />
+    <sound type = "18" filepath = "sound/voice/voice_cardrank.mp3" des = "进入进化页面" />
+    <sound type = "19" filepath = "sound/voice/voice_breakthrough1.mp3" des = "进入一转页面" />
+    <sound type = "20" filepath = "sound/voice/voice_breakthrough2.mp3" des = "进入二转页面" />
+	<sound type = "21" filepath = "sound/voice/voice_card_levelup.mp3" des = "宠物升级" />
+	<sound type = "22" filepath = "sound/voice/voice_pve.mp3" des = "进入远征" />
+	<sound type = "23" filepath = "sound/voice/voice_shop_1.mp3" des = "进入宝石商店" />
+	<sound type = "24" filepath = "sound/voice/voice_shop_3.mp3" des = "进入友好商店" />
+
+
+    <sound type = "10001" filepath = "sound/voice/voice_tutorial1.mp3" des = "训练师你好，欢迎来到神奇大陆，为了防止世界被破坏，为了保卫世界的和平，让我们出发吧" />
+    <sound type = "10002" filepath = "sound/voice/voice_tutorial2.mp3" des = "做的不错！现在，我有一些礼物要送给你，请跟我来~~" />
+    <sound type = "10003" filepath = "sound/voice/voice_tutorial3.mp3" des = "Oh~Yeah！获得了精灵球，就可以召唤小伙伴了！" />
+    <sound type = "10004" filepath = "sound/voice/voice_tutorial4.mp3" des = "获得精灵会点亮主页的图鉴哦！现在，还是先让小伙伴加入我们的队伍吧！" />
+    <sound type = "10005" filepath = "sound/voice/voice_tutorial5.mp3" des = "OK~大功告成！让我们用人海战术压倒对手吧！ " />
+    <!--<sound type = "10006" filepath = "sound/voice/voice_tutorial6.mp3" des = "继续前进，征服他们！" />-->
+    <sound type = "10007" filepath = "sound/voice/voice_tutorial7.mp3" des = "训练师，我们刚完成了一个任务，现在，请和我一起领取奖励吧!" />
+    <sound type = "10008" filepath = "sound/voice/voice_tutorial8.mp3" des = "训练师，让我们继续完成任务吧！" />
+    <sound type = "10009" filepath = "sound/voice/voice_tutorial9.mp3" des = "向着更远的地方，进发！" />
+    <sound type = "10010" filepath = "sound/voice/voice_tutorial10.mp3" des = "恭喜训练师获得了一块装备碎片，集齐装备碎片可以合成对应的装备哦！" />
+    <sound type = "10011" filepath = "sound/voice/voice_tutorial11.mp3" des = "看！合成了一件【先攻之爪】，让我们给精灵装备上它吧！" />
+    <sound type = "10012" filepath = "sound/voice/voice_tutorial12.mp3" des = "精良的武器装备，也是克敌制胜的法宝，让我们体验下它的威力吧！" />
+    <sound type = "10013" filepath = "sound/voice/voice_tutorial13.mp3" des = "恩？好像有人给你发邮件了，让我们去看看！" />
+	<sound type = "10014" filepath = "sound/voice/voice_tutorial14.mp3" des = "原来是系统奖励！游戏中的奖励都是通过邮件发送的！训练师，可不要忘记查看邮件哦~~" />
+	<sound type = "10015" filepath = "sound/voice/voice_tutorial15.mp3" des = "恭喜训练师获得了一件【冒险家外套】，让我们去装备它吧！" />
+	<sound type = "10016" filepath = "sound/voice/voice_tutorial16.mp3" des = "向着目标继续进发吧！" />
+	<sound type = "10017" filepath = "sound/voice/voice_tutorial17.mp3" des = "训练师，小伙伴也是能够升级成长的，所以请您多多花费心思培养它们哦！" />
+	<sound type = "10018" filepath = "sound/voice/voice_tutorial18.mp3" des = "对！就是这样！培养升级后的小伙伴可是变厉害了不少呢！" />
+	<sound type = "10019" filepath = "sound/voice/voice_tutorial19.mp3" des = "训练师，装备也是可以强化升级的，请跟我来！" />
+	<sound type = "10020" filepath = "sound/voice/voice_tutorial20.mp3" des = "强化后的装备，威力会变的更大，让我们去体验一下吧！" />
+	<sound type = "10021" filepath = "sound/voice/voice_tutorial21.mp3" des = "训练师，有只喵喵偷了很多的财宝，我们去制裁它吧！" />
+	<sound type = "10022" filepath = "sound/voice/voice_tutorial22.mp3" des = "没想到缴获了这么多金币！击败招财喵还会获得更丰富奖励哦！" />
+	<sound type = "10023" filepath = "sound/voice/voice_tutorial23.mp3" des = "恭喜训练师获得完美通关奖励，让我们继续战斗吧！" />
+	<sound type = "10024" filepath = "sound/voice/voice_tutorial24.mp3" des = "恭喜训练师到达5级！解锁了【冒险】功能！让我们去冒险吧！" />
+	<sound type = "10025" filepath = "sound/voice/voice_tutorial25.mp3" des = "我们现在可以上阵3个精灵了，让我们再去召唤一只精灵吧！" />
+	<sound type = "10026" filepath = "sound/voice/voice_tutorial26.mp3" des = "让我们继续战斗吧！" />
+	<sound type = "10027" filepath = "sound/voice/voice_tutorial27.mp3" des = "恭喜训练师到达15级，解锁了竞技场功能，首先，let's go shopping！" />
+	<sound type = "10028" filepath = "sound/voice/voice_tutorial28.mp3" des = "有了这件头盔，我们就能武装起来了！" />
+	<sound type = "10029" filepath = "sound/voice/voice_tutorial29.mp3" des = "现在，是该去和其他的训练师较量一下本领了！" />
+</sounds>

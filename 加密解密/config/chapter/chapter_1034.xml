@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30331" Number="1" Name="灯火辉煌1" activeneedpass="30330" costenergy="2" maxtimes="30" coin="16800" exprole="3360" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6062" dungeon_level="80"/>
+	<Dungeon ID="30332" Number="2" Name="灯火辉煌2" activeneedpass="30331" costenergy="2" maxtimes="30" coin="16800" exprole="3360" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6012" dungeon_level="80"/>
+	<Dungeon ID="30333" Number="3" Name="金山银山1" activeneedpass="30332" costenergy="2" maxtimes="30" coin="16990" exprole="3398" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6032" dungeon_level="80"/>
+	<Dungeon ID="30334" Number="4" Name="金山银山2" activeneedpass="30333" costenergy="2" maxtimes="30" coin="16990" exprole="3398" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6092" dungeon_level="80"/>
+	<Dungeon ID="30335" Number="5" Name="金山银山3" activeneedpass="30334" costenergy="2" maxtimes="30" coin="17185" exprole="3437" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6042" dungeon_level="80"/>
+	<Dungeon ID="30336" Number="6" Name="繁华背后1" activeneedpass="30335" costenergy="2" maxtimes="30" coin="17185" exprole="3437" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6072" dungeon_level="81"/>
+	<Dungeon ID="30337" Number="7" Name="繁华背后2" activeneedpass="30336" costenergy="2" maxtimes="30" coin="17375" exprole="3475" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6062" dungeon_level="81"/>
+	<Dungeon ID="30338" Number="8" Name="繁华背后3" activeneedpass="30337" costenergy="2" maxtimes="30" coin="17375" exprole="3475" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6083" dungeon_level="81"/>
+	<Dungeon ID="30339" Number="9" Name="苛捐杂税" activeneedpass="30338" costenergy="2" maxtimes="30" coin="17570" exprole="3514" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6053" dungeon_level="81"/>
+	<Dungeon ID="30340" Number="10" Name="横征暴敛" activeneedpass="30339" costenergy="2" maxtimes="10" coin="17570" exprole="3514" expgeneral="0" dropitem1="10516" dropitem2="0" boss_postion="101010" addMorale="0" dungeon_icon="7084" dungeon_level="81"/>
+</Dungeons>

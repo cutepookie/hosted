@@ -1,0 +1,36 @@
+<rolevip energyrecovery = "20" dicoveryrecovery = "20" pvprecovery = "4" rulefightrecovery = "5" coinrecovery = "30000" >
+
+    <vip  level = "0" energybuymax ="1" dicoverybuymax = "1" pvpbuymax = "0" rulefightbuymax = "0" coinbuymax = "5" lvuppay = "0" maxfriendnum = "100" moneydungeon = "2" />
+    <vip  level = "1" energybuymax ="1" dicoverybuymax = "1" pvpbuymax = "1" rulefightbuymax = "0" coinbuymax = "10" lvuppay = "60" maxfriendnum = "100" moneydungeon = "2" />
+    <vip  level = "2" energybuymax ="2" dicoverybuymax = "2" pvpbuymax = "2" rulefightbuymax = "2" coinbuymax = "10" lvuppay = "300" maxfriendnum = "100" moneydungeon = "3" />
+    <vip  level = "3" energybuymax ="4" dicoverybuymax = "4" pvpbuymax = "4" rulefightbuymax = "4" coinbuymax = "10" lvuppay = "1000" maxfriendnum = "100" moneydungeon = "3" />
+    <vip  level = "4" energybuymax ="6" dicoverybuymax = "6" pvpbuymax = "6" rulefightbuymax = "6" coinbuymax = "15" lvuppay = "2500" maxfriendnum = "100" moneydungeon = "3" />
+    <vip  level = "5" energybuymax ="8" dicoverybuymax = "8" pvpbuymax = "8" rulefightbuymax = "8" coinbuymax = "15" lvuppay = "5000" maxfriendnum = "100" moneydungeon = "4" />
+    <vip  level = "6" energybuymax ="10" dicoverybuymax = "10" pvpbuymax = "10" rulefightbuymax = "10" coinbuymax = "15" lvuppay = "8000" maxfriendnum = "100" moneydungeon = "4" />
+    <vip  level = "7" energybuymax ="12" dicoverybuymax = "12" pvpbuymax = "12" rulefightbuymax = "12" coinbuymax = "15" lvuppay = "12000" maxfriendnum = "100" moneydungeon = "4" />
+    <vip  level = "8" energybuymax ="14" dicoverybuymax = "14" pvpbuymax = "14" rulefightbuymax = "14" coinbuymax = "15" lvuppay = "17000" maxfriendnum = "100" moneydungeon = "4" />
+    <vip  level = "9" energybuymax ="16" dicoverybuymax = "16" pvpbuymax = "16" rulefightbuymax = "16" coinbuymax = "20" lvuppay = "23000" maxfriendnum = "100" moneydungeon = "4" />
+    <vip  level = "10" energybuymax ="18" dicoverybuymax = "18" pvpbuymax = "18" rulefightbuymax = "18" coinbuymax = "25" lvuppay = "31000" maxfriendnum = "100" moneydungeon = "5" />
+    <vip  level = "11" energybuymax ="20" dicoverybuymax = "20" pvpbuymax = "20" rulefightbuymax = "20" coinbuymax = "30" lvuppay = "42000" maxfriendnum = "100" moneydungeon = "5" />
+    <vip  level = "12" energybuymax ="22" dicoverybuymax = "22" pvpbuymax = "22" rulefightbuymax = "22" coinbuymax = "35" lvuppay = "57000" maxfriendnum = "100" moneydungeon = "5" />
+    <vip  level = "13" energybuymax ="24" dicoverybuymax = "24" pvpbuymax = "24" rulefightbuymax = "24" coinbuymax = "40" lvuppay = "75000" maxfriendnum = "100" moneydungeon = "5" />
+    <vip  level = "14" energybuymax ="26" dicoverybuymax = "26" pvpbuymax = "26" rulefightbuymax = "26" coinbuymax = "45" lvuppay = "93000" maxfriendnum = "100" moneydungeon = "5" />
+    <vip  level = "15" energybuymax ="28" dicoverybuymax = "28" pvpbuymax = "28" rulefightbuymax = "30" coinbuymax = "50" lvuppay = "120000" maxfriendnum = "100" moneydungeon = "5" />
+	    
+</rolevip>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

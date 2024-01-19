@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item Type = "1" 汉语 = "成功"         英文 = "fdsfsdf"  棒子文 = "12123" />
+    <item Type = "2" 汉语 = "钻石不足"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "3" 汉语 = "金币不足"         英文 = "erwerw"   棒子文 = "432423" />
+    <item Type = "4" 汉语 = "声望不足"        英文 = "dsfsdfs"  棒子文 = "4343233" />
+    <item Type = "5" 汉语 = "积分不足"         英文 = "vbnrtrt"  棒子文 = "765757" />
+    <item Type = "6" 汉语 = "其它货币不足"         英文 = "ewfsdd"       棒子文 = "4534535" />
+    <item Type = "7" 汉语 = "vip等级不足"         英文 = "xxxxx"        棒子文 = "656455" />
+    <item Type = "8" 汉语 = "购买次数超过上线" 英文 = "bbbbadasdb" 棒子文 = "656" />
+    <item Type = "9" 汉语 = " 你不拥有这个奇遇商店"        英文 = "vbnvbv"   棒子文 = "65645" />
+    <item Type = "10" 汉语 = "位置错误"       英文 = "erweerwe" 棒子文 = "6534" />
+</items>
+	

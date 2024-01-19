@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@mipmap/yr_sdk_icon_not_right" android:state_checked="false"/>
+    <item android:drawable="@mipmap/yr_sdk_icon_right" android:state_checked="true"/>
+</selector>

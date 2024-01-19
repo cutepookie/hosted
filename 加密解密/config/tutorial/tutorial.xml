@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tutorials>
+    <!-- TutorialAssignLayerWindow TutorialTriggerComplete
+     ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+     gui_main_index0 PM_LayerHome
+     CCNode-签到-1000
+     CCNode-活动-1001
+     CCNode-充值-1002
+     CCNode-礼包-1003
+     CCNode-邮件-1004
+     CCNode-招财-1005
+     CCNode-盛宴-1006
+     CCNode-任务-1007
+     CCNode-成就-1008
+     
+     CCNode-高级商店-1020
+     CCNode-图鉴-1021
+     CCNode-合成-1022
+     CCNode-扭蛋-1023
+     CCNode-商店-1024
+     CCNode-道馆-1025
+     CCNode-伙伴-1026
+     ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+     gui_main_command1  PM_LayerCommand
+     CCNode-对话-2000
+     CCNode-主页-1040
+     CCNode-队形-1041
+     CCNode-远征-1042
+     CCNode-钓鱼-1043
+     CCNode-仓库-1044
+     CCNode-好友-1045
+     ＝＝＝＝＝＝＝＝＝＝＝＝＝＝杂项＝＝＝＝＝＝＝＝＝＝＝
+     CCNode-查看-2001obj_mail_unit.ccbi.ccbi  PM_NodeMailSystem 邮件
+     CCNode-领取-2002 gui_mail_rp.ccbi  PM_LayerSystemMailDetail 邮件
+     CCNode-领取-2010 gui_reward_more.ccbi TK_LayerRewardMore 邮件
+     CCNode-穿上/强化-2004 obj_item_unit.ccbi TK_NodeItemUnit 切换装备
+     CCNode-第一章-2005 gui_normal_chapter0 PM_LayerAbsolvedPage 第一章
+     
+     CCNode-战斗-2006 obj_dungeon_unit.ccbi TK_NodeDungeonUnit cell 战斗
+     CCNode-立即签到-2007 MB_LayerRegistration Registration_layer.ccbi 签到
+     CCNode-关闭-2008 MB_LayerRegistration Registration_layer.ccbi 签到关闭按钮
+     CCNode-道具召唤-2009 PM_ShopCallElf gui_shop0_0.ccbi 召唤伙伴
+     CCNode-确定-2010 TK_LayerRewardOne gui_reward_one.ccbi 召唤伙伴确认
+     CCNode-队形位置-2011 TK_NodeGerAid obj_gerportrait_add.ccbi obj_gerportrait_skipper.ccbi 队形位置
+     CCNode-上阵-2012 TK_NodeGerUnit obj_general_unit.ccbi 伙伴选择 上阵
+     CCNode-购买-2013 TK_ShopSubItem obj_item_shopunit.ccbi 购买糖果
+     2014
+     2015
+     2017
+     2018
+     2019
+     
+     CCNode-钓鱼-2020 MB_LayerFishing gui_main_chapter_1 钓鱼
+     CCNode-功能-2021  PM_LayerWorld gui_main_boss.ccbi  道馆列表
+     CCNode-购买-2022 MB_NodeRefreshShopUnit shop_unit_0.ccbi pvp商店购买 头盔
+     CCNode-pvp商店-2023 PM_ChampionshipFunctionDialog gui_main_pvprp_1.ccbi pvp商店
+     CCNode-强化-2024 TK_LayerItemUpdate gui_enhance_itemlevel.ccbi
+     CCNode-装备碎片合成-2025 MB_NodeItemDebris item_compose_0.ccbi
+     CCNode-确定-2010 TK_LayerRewardOne gui_reward_one_s.ccbi 抽卡弹窗确定按钮
+     CCNode-战斗-2026 TK_NodePVPInfo obj_role_unit_* pvp战斗
+     CCNode-领取-2027 TK_LayerEventChangeCoin 招财
+     CCNode-领取-2028 PM_LayerAbsolvedPage 第二章
+     CCNode-领取奖励-2029
+     ＝＝＝＝＝＝＝＝＝＝＝＝＝＝杂项＝＝＝＝＝＝＝＝＝＝＝
+     
+     gui_general_equipment.ccbi TK_LayerGerEquipment
+     CCNode-对话-2000
+     CCNode-武器-1060
+     CCNode-头饰-1061
+     CCNode-衣服-1062
+     CCNode-升级-2014
+     CCNode-进化-2015
+     
+     ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+     gui_enhance_gerlevel.ccbi TK_LayerGerUpdate
+     CCNode-自动添加-2017
+     CCNode-升级-2018
+     
+     ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+     Item_list_7.ccbi MB_LayerBackpack
+     CCNode-装备碎片-2019
+     
+     PM_LayerChapterWnd 远征 列表
+     
+     
+     -->
+    
+    <!--
+     阶段2：完成关卡1-1  12
+     pos指向【远征】按钮
+     pos指向【第一章】按钮
+     pos指向“师父的崛起”【战斗】按钮	"战斗胜利后，向服务器发送请求，记录达成阶段，触发阶段4特殊处理，直接跳转回到主页"
+     -->
+    <tutorial part="1" type = "2" tagid = "2000" rolelevel = "1" text = "悟空啊，既然你也来了就开始我们取经之路吧" sound="10001" />
+    <tutorial part="1" type = "1" tagid = "1042" rolelevel = "1" />
+    <tutorial part="1" type = "1" tagid = "2005" rolelevel = "1" />
+    <tutorial part="1" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "1" gohome = "1"/>
+    <tutorial part="1" type = "1" tagid = "3000" rolelevel = "1" comp="1"/>
+    <tutorial part="1" type = "1" tagid = "3001" rolelevel = "1" />
+    
+    <!--
+     阶段1：签到
+     调用gui_story_dialog.ccb	dialog：亲爱的主人，您还有一份礼物没有领导哦！
+     pos指向【签到】按钮
+     pos指向【立即签到】按钮	奖励发送成功后，向服务器发送请求，记录达成阶段，触发阶段5
+     pos指向【确定】按钮
+     pos指向【关闭】按钮
+     调用gui_story_dialog.ccb	dialog：恭喜主人，获得召唤石，让我们去召唤伙伴吧！
+     -->
+    
+    <tutorial part="2" type = "2" tagid = "2000" rolelevel = "1" text = "做的不错！现在，我有一些礼物要送给你，请跟我来~~" sound="10002" />
+    <tutorial part="2" type = "1" tagid = "1000" rolelevel = "1" />
+    <tutorial part="2" type = "1" tagid = "2007" rolelevel = "1" comp="1" />
+    <tutorial part="2" type = "1" tagid = "2010" rolelevel = "1" />
+    <tutorial part="2" type = "1" tagid = "2008" rolelevel = "1" />
+    
+    
+    <!--
+     阶段3：抽卡
+     pos指向【伙伴召唤】
+     pos指向【道具召唤】按钮	召唤成功后，向服务器发送请求，记录达成阶段，触发阶段6
+     pos指向【确定】按钮
+     -->
+    <tutorial part="3" type = "2" tagid = "2000" rolelevel = "1" text = "Oh~Yeah！获得了经文卷轴，就可以召唤小伙伴了！" sound="10003"/>
+    <tutorial part="3" type = "1" tagid = "1023" rolelevel = "1"  />
+    <tutorial part="3" type = "1" tagid = "2009" rolelevel = "1"  comp="1" />
+    <tutorial part="3" type = "1" tagid = "2010" rolelevel = "1"  />
+    <tutorial part="3" type = "2" tagid = "2000" rolelevel = "1" text = "获得伙伴会点亮主页的图鉴哦！现在，还是先让小伙伴加入我们的队伍吧！" sound="10004" />
+    <!--
+     阶段4：上阵
+     调用gui_story_dialog.ccb	dialog：恭喜主人，让我们快去打造自己的队伍吧！
+     pos指向【队型】按钮
+     pos指向队形1号位
+     pos指向【上阵】按钮	成功上阵后，向服务器发送请求，记录达成阶段，触发阶段7
+     调用gui_story_dialog.ccb	dialog：宠物上阵了！我们去打架！
+     -->
+    <tutorial part="4" type = "1" tagid = "1041" rolelevel = "1" />
+    <tutorial part="4" type = "1" tagid = "2011" rolelevel = "1" cellIndex = "2"/>
+    <tutorial part="4" type = "2" tagid = "2000" rolelevel = "1" text = "OK~大功告成！让我们用人海战术压倒对手吧！" sound="10005" />
+    <tutorial part="4" type = "1" tagid = "1040" rolelevel = "1" comp="1" />
+    
+    <!--
+     阶段5：完成关卡1-2
+     pos指向【远征】按钮
+     pos指向【第一章】按钮
+     pos指向“走出真新镇”【战斗】按钮	"战斗胜利后，向服务器发送请求，记录达成阶段，触发阶段4特殊处理，直接跳转回到主页"
+     pos指向【确定】按钮
+     -->
+    <tutorial part="5" type = "1" tagid = "1042" rolelevel = "1" gataOpenSkip = "2" />
+    <tutorial part="5" type = "1" tagid = "2005" rolelevel = "1" />
+    <tutorial part="5" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "2" />
+    <tutorial part="5" type = "1" tagid = "3000" rolelevel = "1" comp="1"/>
+    <tutorial part="5" type = "1" tagid = "3001" rolelevel = "1" />
+    <tutorial part="5" type = "2" tagid = "2000" rolelevel = "1" text = "师父，我们刚完成了一个任务，现在，请和我一起领取奖励吧!" sound="10007" />
+    <!--
+     阶段6：任务
+     pos指向【领取奖励】按钮
+     pos指向【前往】按钮
+     -->
+    <tutorial part="6" type = "1" tagid = "1007" rolelevel = "1" />
+    <tutorial part="6" type = "1" tagid = "3002" rolelevel = "1" />
+    <tutorial part="6" type = "1" tagid = "2029" rolelevel = "1" />
+	<tutorial part="6" type = "2" tagid = "2000" rolelevel = "1" text = "师父，让我们继续完成任务吧！" sound="10008" />
+    <tutorial part="6" type = "1" tagid = "2029" rolelevel = "1" comp="1"/>
+    
+    
+    
+    <!--
+     阶段6：完成关卡1-3
+     pos指向【远征】按钮
+     pos指向【第一章】按钮
+     pos指向“收服神奇宝贝”对应的【征讨】按钮	"战斗结果产生后，向服务器发送请求，记录达成阶段，触发阶段12特殊处理：界面跳转到主页"
+     -->
+    <tutorial part="7" type = "2" tagid = "2000" rolelevel = "1" text = "向着更远的地方，进发！" sound="10009" />
+    <tutorial part="7" type = "1" tagid = "1042" rolelevel = "1" gataOpenSkip = "1" />
+    <tutorial part="7" type = "1" tagid = "2005" rolelevel = "1" />
+    <tutorial part="7" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "3" />
+    <tutorial part="7" type = "1" tagid = "3000" rolelevel = "1" comp="1"/>
+    <tutorial part="7" type = "1" tagid = "3001" rolelevel = "1" />
+    <!--
+     阶段9：完成关卡1-4
+     pos指向【远征】按钮
+     pos指向【第一章】按钮
+     pos指向“少年的挑战”对应的【征讨】按钮
+     pos指向【确定】按钮
+     -->
+    <tutorial part="8" type = "1" tagid = "1042" rolelevel = "1" gataOpenSkip = "2" />
+    <tutorial part="8" type = "1" tagid = "2005" rolelevel = "1" />
+    <tutorial part="8" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "4"/>
+    <tutorial part="8" type = "1" tagid = "3000" rolelevel = "1" comp="1"/>
+    <tutorial part="8" type = "1" tagid = "3001" rolelevel = "1" />
+    
+    
+    <!--
+     阶段7：碎片合成
+     pos指向【仓库】按钮
+     pos指向【装备碎片】分页
+     pos指向【合成】按钮
+     pos指向【确定】按钮
+     -->
+    <tutorial part="9" type = "2" tagid = "2000" rolelevel = "1" text="恭喜师父获得了一块装备碎片，集齐装备碎片可以合成对应的装备哦！" sound="10010" />
+    <tutorial part="9" type = "1" tagid = "1044" rolelevel = "1" />
+    <tutorial part="9" type = "1" tagid = "2019" rolelevel = "1" />
+    <tutorial part="9" type = "1" tagid = "3003" rolelevel = "1" />
+    <tutorial part="9" type = "1" tagid = "2025" rolelevel = "1" comp="1"/>
+    <tutorial part="9" type = "1" tagid = "2010" rolelevel = "1"/>
+    <tutorial part="9" type = "1" tagid = "3004" rolelevel = "1" />
+    
+    <!--
+     阶段8：穿戴合成装备
+     调用gui_story_dialog.ccb	dialog：亲爱的主人，快来试试您获得的礼物吧！
+     pos指向【队型】按钮
+     pos指向【铠甲】装备栏
+     指向【穿上】按钮	"穿戴成功后，向服务器发送请求，记录达成阶段，触发阶段16"
+     弹出dialog对话框	dialog：主人~让我们继续远征吧顺不顺手吧！
+     -->
+    <tutorial part="10" type = "2" tagid = "2000" rolelevel = "1" text="看！合成了一件【巨门斧】，让我们给伙伴装备上它吧！" sound="10011"/>
+    <tutorial part="10" type = "1" tagid = "1041" rolelevel = "1" />
+    <tutorial part="10" type = "1" tagid = "3005" rolelevel = "1" />
+    <tutorial part="10" type = "1" tagid = "1060" rolelevel = "1" />
+    <tutorial part="10" type = "1" tagid = "3006" rolelevel = "1" />
+    <tutorial part="10" type = "1" tagid = "2004" rolelevel = "1" comp="1" />
+    <tutorial part="10" type = "2" tagid = "2000" rolelevel = "1" text="精良的武器装备，也是克敌制胜的法宝，让我们体验下它的威力吧！" sound="10012"/>
+    <tutorial part="10" type = "1" tagid = "3004" rolelevel = "1" />
+    <tutorial part="10" type = "1" tagid = "3019" rolelevel = "1" />
+    
+    
+    <!--
+     阶段10：完成关卡1-5
+     -->
+    <tutorial part="11" type = "1" tagid = "1042" rolelevel = "1" />
+    <tutorial part="11" type = "1" tagid = "2005" rolelevel = "1" />
+    <tutorial part="11" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "5" gohome = "1" />
+    <tutorial part="11" type = "1" tagid = "3000" rolelevel = "1" comp="1"/>
+    <tutorial part="11" type = "1" tagid = "3001" rolelevel = "1" />
+    
+    <!--
+     阶段11：领取奖励
+     调用gui_story_dialog.ccb	dialog：探险家，我是大木博士，欢迎来到伙伴世界，首先来领取我为你精心准备的礼物吧！
+     pos指向【邮件】按钮
+     pos指向【查看】按钮
+     指向领取按钮	"奖励发送成功后，向服务器发送请求，记录达成阶段，触发阶段2
+     礼包需要配置一件武器"
+     指向领奖弹窗【确定】按钮
+     弹出dialog对话框	dialog：系统发放的奖励都会在邮箱里，请主人注意经常查看邮件哦！
+     -->
+    <tutorial part="12" type = "2" tagid = "2000" rolelevel = "1" text = "恩？好像有人给你发邮件了，让我们去看看！" sound="10013" />
+    <tutorial part="12" type = "1" tagid = "1004" rolelevel = "1" />
+    <tutorial part="12" type = "1" tagid = "2001" rolelevel = "1" />
+    <tutorial part="12" type = "1" tagid = "2002" rolelevel = "1" comp="1" />
+    <tutorial part="12" type = "1" tagid = "2010" rolelevel = "1" />
+    <tutorial part="12" type = "2" tagid = "2000" rolelevel = "1" text = "原来是系统奖励！游戏中的奖励都是通过邮件发送的！师父，可不要忘记查看邮件哦~~" sound="10014" />
+    <tutorial part="12" type = "1" tagid = "3004" rolelevel = "1" />
+    
+    <!--
+     阶段13：穿戴装备7
+     调用gui_story_dialog.ccb	dialog：亲爱的主人，快来试试您获得的礼物吧！
+     pos指向【队型】按钮
+     pos指向【武器】装备栏
+     指向【穿上】按钮	"穿戴成功后，向服务器发送请求，记录达成阶段，触发阶段3"
+     弹出dialog对话框	dialog：主人~让我们去试试武器顺不顺手吧！
+     -->
+    <tutorial part="13" type = "2" tagid = "2000" rolelevel = "1" text = "恭喜师父获得了一件【罗汉衫】，让我们去装备它吧！" sound="10015" />
+    <tutorial part="13" type = "1" tagid = "1041" rolelevel = "1" />
+    <tutorial part="13" type = "1" tagid = "3005" rolelevel = "1" />
+    <tutorial part="13" type = "1" tagid = "3007" rolelevel = "1" />
+    <tutorial part="13" type = "1" tagid = "3006" rolelevel = "1" />
+    <tutorial part="13" type = "1" tagid = "2004" rolelevel = "1" comp="1" />
+    <tutorial part="13" type = "1" tagid = "3004" rolelevel = "1" />
+    <tutorial part="13" type = "1" tagid = "1040" rolelevel = "1" />
+    
+    
+    <!--
+     阶段12：完成关卡1-6
+     -->
+    <tutorial part="14" type = "2" tagid = "2000" rolelevel = "1" text="向着目标继续进发吧！" sound="10016" />
+    <tutorial part="14" type = "1" tagid = "1042" rolelevel = "1"  gataOpenSkip = "2" />
+    <tutorial part="14" type = "1" tagid = "2005" rolelevel = "1"  />
+    <tutorial part="14" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "6" />
+    <tutorial part="14" type = "1" tagid = "3000" rolelevel = "1" comp="1"/>
+    <tutorial part="14" type = "1" tagid = "3001" rolelevel = "1" />
+
+    
+    
+    <!--
+     阶段14：完成关卡1-7
+     -->
+    <tutorial part="15" type = "1" tagid = "1042" rolelevel = "1" gataOpenSkip = "2" />
+    <tutorial part="15" type = "1" tagid = "2005" rolelevel = "1"  />
+    <tutorial part="15" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "7" />
+    <tutorial part="15" type = "1" tagid = "3000" rolelevel = "1" comp="1"/>
+    <tutorial part="15" type = "1" tagid = "3001" rolelevel = "1" />
+    
+    <!--
+     阶段15：购买经验糖果
+     调用gui_story_dialog.ccb	dialog：我们来给主宠物升级吧
+     pos指向【商店】建筑
+     pos指向“普通糖果”对应的【购买】按钮	购买成功后，向服务器发送请求，记录达成阶段，触发阶段10
+     -->
+    <tutorial part="16" type = "2" tagid = "2000" rolelevel = "1" text = "师父，小伙伴也是能够升级成长的，所以请您多多花费心思培养它们哦！" sound="10017" />
+    <tutorial part="16" type = "1" tagid = "1024" rolelevel = "1" />
+    <tutorial part="16" type = "1" tagid = "2013" rolelevel = "1" comp="1" />
+    <tutorial part="16" type = "1" tagid = "3004" rolelevel = "1" />
+    
+    <!--
+     阶段16：伙伴升级
+     pos指向【队形】按钮
+     pos指向【宠物栏2号位】
+     pos指向【升级】按钮
+     pos指向【自动添糖果】按钮
+     pos指向【升级】按钮	升级成功后，向服务器发送请求，记录达成阶段，触发阶段11
+     调用gui_story_dialog.ccb	dialog：宠物等级提升了，让我们去体验下升级后的威力吧！
+     -->
+    <tutorial part="17" type = "1" tagid = "1041" rolelevel = "1" />
+    <tutorial part="17" type = "1" tagid = "3008" rolelevel = "1" />
+    <tutorial part="17" type = "1" tagid = "2017" rolelevel = "1" />
+    <tutorial part="17" type = "1" tagid = "2018" rolelevel = "1" comp="1" />
+    <tutorial part="17" type = "2" tagid = "2000" rolelevel = "1" text="对！就是这样！培养升级后的小伙伴可是变厉害了不少呢！" sound="10018" />
+    <tutorial part="17" type = "1" tagid = "3004" rolelevel = "1" />
+    <tutorial part="17" type = "1" tagid = "1040" rolelevel = "1" />
+    <!--
+     阶段17：完成关卡1-8
+     -->
+    <tutorial part="18" type = "1" tagid = "1042" rolelevel = "1" gataOpenSkip = "2" />
+    <tutorial part="18" type = "1" tagid = "2005" rolelevel = "1"  />
+    <tutorial part="18" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "8" />
+    <tutorial part="18" type = "1" tagid = "3000" rolelevel = "1" comp="1"/>
+    <tutorial part="18" type = "1" tagid = "3001" rolelevel = "1" />
+    
+    <!--
+     阶段18：升级装备
+     pos指向【队形】按钮
+     pos指向【宠物栏2号位】
+     pos指向【武器】
+     pos指向【强化】按钮
+     pos指向【自动最大强化】按钮	升级成功后，向服务器发送请求，记录达成阶段，触发阶段13
+     调用gui_story_dialog.ccb	dialog：装备等级提升了，让我们去体验下升级后的威力吧！
+     -->
+    <tutorial part="19" type = "2" tagid = "2000" rolelevel = "1" text="师父，装备也是可以强化升级的，请跟我来！" sound="10019" />
+    <tutorial part="10" type = "1" tagid = "1041" rolelevel = "1" />
+    <tutorial part="10" type = "1" tagid = "3005" rolelevel = "1" />
+    <tutorial part="10" type = "1" tagid = "1060" rolelevel = "1" />
+    <tutorial part="19" type = "1" tagid = "3010" rolelevel = "1" />
+    <tutorial part="19" type = "1" tagid = "2024" rolelevel = "1" comp="1" />
+    <tutorial part="19" type = "2" tagid = "2000" rolelevel = "1" text="强化后的装备，威力会变的更大，让我们去体验一下吧！" sound="10020" />
+    <tutorial part="19" type = "1" tagid = "3004" rolelevel = "1" />
+    <tutorial part="19" type = "1" tagid = "3011" rolelevel = "1" />
+    <tutorial part="19" type = "1" tagid = "3004" rolelevel = "1" />
+    <tutorial part="19" type = "1" tagid = "1040" rolelevel = "1" />
+    
+    <!--
+     阶段20：9
+     -->
+    <tutorial part="20" type = "1" tagid = "1042" rolelevel = "1" />
+    <tutorial part="20" type = "1" tagid = "2005" rolelevel = "1"  />
+    <tutorial part="20" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "9" />
+    <tutorial part="20" type = "1" tagid = "3000" rolelevel = "1" comp="1"/>
+    <tutorial part="20" type = "1" tagid = "3001" rolelevel = "1" />
+    
+    <!--
+     阶段19：招财
+     默认回到主界面
+     pos指向【招财】悬挂
+     pos指向【招财】按钮
+     调用gui_story_dialog.ccb	dialog：伤害越高，招财越多哦！击杀招财喵还会获得更丰富奖励哦！
+     -->
+    <tutorial part="21" type = "2" tagid = "2000" rolelevel = "1" text="师父，有只妖怪偷了很多的财宝，我们去制裁它吧！" sound="10021" />
+    <tutorial part="21" type = "1" tagid = "1005" rolelevel = "1" />
+    <tutorial part="21" type = "1" tagid = "3012" rolelevel = "1" />
+    <tutorial part="21" type = "1" tagid = "2027" rolelevel = "1" comp="1" />
+    <tutorial part="21" type = "2" tagid = "2000" rolelevel = "1" text="没想到缴获了这么多金币！击败金鲨还会获得更丰富奖励哦！" sound="10022" />
+    <tutorial part="21" type = "1" tagid = "3004" rolelevel = "1" />
+    <tutorial part="21" type = "1" tagid = "3004" rolelevel = "1" />
+    
+    
+    
+    
+    
+    <!--
+     阶段21：10
+     -->
+    <tutorial part="22" type = "1" tagid = "1042" rolelevel = "1" gataOpenSkip = "2" />
+    <tutorial part="22" type = "1" tagid = "2005" rolelevel = "1"  />
+    <tutorial part="22" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "10" />
+    <tutorial part="22" type = "1" tagid = "3000" rolelevel = "1" comp="1"/><!--开始战斗按钮-->
+    <tutorial part="22" type = "1" tagid = "3013" rolelevel = "1" /> <!--胜利结算返回按钮-->
+    <tutorial part="22" type = "1" tagid = "3014" rolelevel = "1" /><!--完美通关礼包-->
+    <tutorial part="22" type = "2" tagid = "2000" rolelevel = "1" text="恭喜师父获得完美通关奖励，让我们继续战斗吧！" sound="10023"  />
+    <tutorial part="22" type = "1" tagid = "3004" rolelevel = "1" /><!--返回选大关界面-->
+    <tutorial part="22" type = "1" tagid = "3020" rolelevel = "1" gataOpenSkip = "2"/>
+    
+    <!--
+     阶段22：完成关卡2-1
+     -->
+    
+    <tutorial part="23" type = "1" tagid = "1042" rolelevel = "1" />
+    <tutorial part="23" type = "1" tagid = "2028" rolelevel = "1"  />
+    <tutorial part="23" type = "1" tagid = "2006" rolelevel = "1" cellIndex = "1" />
+    <tutorial part="23" type = "1" tagid = "3000" rolelevel = "1" comp="1"/>
+    <tutorial part="23" type = "1" tagid = "3001" rolelevel = "1" />
+    
+    
+    
+    <!--
+     阶段23：钓鱼   5级
+     调用gui_story_dialog.ccb	dialog：恭喜主人开启新功能，让我们去钓鱼吧
+     pos指向主菜单【钓鱼】按钮
+     pos指向探险界面【钓鱼】按钮	钓鱼成功后，向服务器发送请求，记录达成阶段，触发阶段18
+     -->
+    <tutorial part="24" type = "2" tagid = "2000" rolelevel = "5" text = "恭喜师父到达5级！解锁了【冒险】功能！让我们去冒险吧！" sound="10024"  />
+    <tutorial part="24" type = "1" tagid = "1005" rolelevel = "5" />
+    <tutorial part="24" type = "1" tagid = "3015" rolelevel = "1" />
+    <tutorial part="24" type = "1" tagid = "2020" rolelevel = "5" comp="1" />
+    <tutorial part="24" type = "1" tagid = "3004" rolelevel = "1" />
+    <tutorial part="24" type = "1" tagid = "3004" rolelevel = "1" />
+    <!--
+     阶段24：抽卡
+     pos指向【伙伴召唤】
+     pos指向【道具召唤】按钮	召唤成功后，向服务器发送请求，记录达成阶段，触发阶段6
+     pos指向【确定】按钮
+     -->
+    <tutorial part="25" type = "2" tagid = "2000" rolelevel = "5" text = "我们现在可以上阵3个伙伴了，让我们再去召唤一个伙伴吧！" sound="10025"  />
+    <tutorial part="25" type = "1" tagid = "1023" rolelevel = "5"  />
+    <tutorial part="25" type = "1" tagid = "2009" rolelevel = "5"  comp="1" />
+    <tutorial part="25" type = "1" tagid = "2010" rolelevel = "5"  />
+    <!--
+     阶段25：上阵
+     调用gui_story_dialog.ccb	dialog：恭喜主人，让我们快去打造自己的队伍吧！
+     pos指向【队型】按钮
+     pos指向队形1号位
+     pos指向【上阵】按钮	成功上阵后，向服务器发送请求，记录达成阶段，触发阶段7
+     调用gui_story_dialog.ccb	dialog：宠物上阵了！我们去打架！
+     -->
+    <tutorial part="26" type = "1" tagid = "1041" rolelevel = "5" />
+    <tutorial part="26" type = "1" tagid = "2011" rolelevel = "5" cellIndex = "3"/>
+    <tutorial part="26" type = "2" tagid = "2000" rolelevel = "5" text = "让我们继续战斗吧！" sound="10026"  />
+    <tutorial part="26" type = "1" tagid = "1040" rolelevel = "1" comp="1" />
+    <!--
+     阶段23：完成关卡2-2
+     -->
+    
+    <tutorial part="27" type = "1" tagid = "1042" rolelevel = "5" />
+    <tutorial part="27" type = "1" tagid = "2028" rolelevel = "5"  />
+    <tutorial part="27" type = "1" tagid = "2006" rolelevel = "5" cellIndex = "2" />
+    <tutorial part="27" type = "1" tagid = "3000" rolelevel = "5" comp="1"/>
+    <tutorial part="27" type = "1" tagid = "3001" rolelevel = "5" />
+    
+    
+    
+    
+    
+    <!--
+     阶段17：购买装备   15级
+     调用gui_story_dialog.ccb	"dialog：恭喜主人开启竞技场，首先，let's go shopping！
+     特殊处理，回到主界面"
+     pos指向主菜单【道馆】建筑
+     pos指向探险界面【竞技场】按钮
+     pos指向主菜单【神秘商店】建筑
+     pos指向道具“哥布林头盔”购买按钮	购买成功后，向服务器发送请求，记录达成阶段，触发阶段18
+     -->
+    <tutorial part="28" type = "1" tagid = "1005" rolelevel = "15" />
+    <tutorial part="28" type = "2" tagid = "2000" rolelevel = "15" text = "恭喜师父到达15级，解锁了竞技场功能，首先，let's go shopping！" sound="10027"  />
+    <tutorial part="28" type = "1" tagid = "3016" rolelevel = "15" funid="403"/>
+    <tutorial part="28" type = "1" tagid = "2023" rolelevel = "15" />
+    <tutorial part="28" type = "1" tagid = "2022" rolelevel = "15" comp="1" />
+    <tutorial part="28" type = "2" tagid = "2000" rolelevel = "15" text="有了这件头盔，我们就能武装起来了！" sound="10028"  />
+    <tutorial part="28" type = "1" tagid = "3004" rolelevel = "15" />
+    <tutorial part="28" type = "1" tagid = "3004" rolelevel = "15" />
+    <!--
+     阶段18：穿戴购买装备
+     调用gui_story_dialog.ccb	dialog：亲爱的主人，快来试试您获得的神器吧！
+     pos指向【队型】按钮
+     pos指向【头盔】装备栏
+     指向【穿上】按钮	"穿戴成功后，向服务器发送请求，记录达成阶段，触发阶段19"
+     弹出dialog对话框	dialog：恭喜主人组成套装，让我们去挑战其他玩家吧！
+     -->
+    
+    <tutorial part="29" type = "1" tagid = "3009" rolelevel = "15" />
+    <tutorial part="29" type = "1" tagid = "3018" rolelevel = "15" />
+    <tutorial part="29" type = "1" tagid = "3006" rolelevel = "15" />
+    <tutorial part="29" type = "1" tagid = "2004" rolelevel = "15" comp="1" />
+    <tutorial part="29" type = "1" tagid = "3004" rolelevel = "15" />
+    <tutorial part="29" type = "2" tagid = "2000" rolelevel = "15" text="现在，是该去和其他人较量一下本领了！" sound="10029"  />
+    
+    <!--
+     阶段19：竞技场
+     指向【道馆】建筑
+     指向【竞技场】选项
+     pos指向第一个玩家【决斗】按钮	战斗结果产生后，向服务器发送请求，记录达成阶段
+     -->
+    
+    <tutorial part="30" type = "1" tagid = "1005" rolelevel = "15" />
+    <tutorial part="30" type = "1" tagid = "3016" rolelevel = "15" funid="403"/>
+    <tutorial part="30" type = "1" tagid = "2026" rolelevel = "15" comp="1" />
+    
+</tutorials>

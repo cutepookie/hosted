@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40381" Number="1" Name="五百年后1" activeneedpass="40380" costenergy="2" maxtimes="10" coin="31545" exprole="6309" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7051" dungeon_level="90"/>
+	<Dungeon ID="40382" Number="2" Name="五百年后2" activeneedpass="40381" costenergy="2" maxtimes="10" coin="31545" exprole="6309" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7081" dungeon_level="90"/>
+	<Dungeon ID="40383" Number="3" Name="紧箍碎1" activeneedpass="40382" costenergy="2" maxtimes="10" coin="31810" exprole="6362" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7061" dungeon_level="90"/>
+	<Dungeon ID="40384" Number="4" Name="紧箍碎2" activeneedpass="40383" costenergy="2" maxtimes="10" coin="31810" exprole="6362" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7021" dungeon_level="90"/>
+	<Dungeon ID="40385" Number="5" Name="紧箍碎3" activeneedpass="40384" costenergy="2" maxtimes="10" coin="32075" exprole="6415" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7041" dungeon_level="90"/>
+	<Dungeon ID="40386" Number="6" Name="前世记忆1" activeneedpass="40385" costenergy="2" maxtimes="10" coin="32075" exprole="6415" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7011" dungeon_level="91"/>
+	<Dungeon ID="40387" Number="7" Name="前世记忆2" activeneedpass="40386" costenergy="2" maxtimes="10" coin="32340" exprole="6468" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7051" dungeon_level="91"/>
+	<Dungeon ID="40388" Number="8" Name="前世记忆3" activeneedpass="40387" costenergy="2" maxtimes="10" coin="32340" exprole="6468" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7031" dungeon_level="91"/>
+	<Dungeon ID="40389" Number="9" Name="前世记忆4" activeneedpass="40388" costenergy="2" maxtimes="10" coin="32605" exprole="6521" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7061" dungeon_level="91"/>
+	<Dungeon ID="40390" Number="10" Name="打上天庭" activeneedpass="40389" costenergy="2" maxtimes="5" coin="32605" exprole="6521" expgeneral="0" dropitem1="10523" dropitem2="0" boss_postion="101010" addMorale="0" dungeon_icon="7044" dungeon_level="91"/>
+</Dungeons>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<background>
+    <music type = "0" filepath = "music/bgm_main.mp3" des = "正常背景音mp3" />
+    <music type = "1" filepath = "music/bgm_battle.mp3" des = "战斗背景音mp3" />
+    <music type = "2" filepath = "music/bgm_win.mp3" des = "胜利背景音mp3" />
+    <music type = "3" filepath = "music/bgm_lose.mp3" des = "失败背景音mp3" />
+    <music type = "4" filepath = "sound/click_light.wav" des = "按钮默认特效音wav"/>
+    <music type = "5" filepath = "sound/ui_card_get.wav" des = "点将音效mp3" />
+    <music type = "6" filepath = "sound/ui_equip_get.wav" des = "十连抽音效mp3" />
+    <music type = "7" filepath = "music/bgm_login.mp3" des = "登陆画面mp3" />
+
+    <music type = "8" filepath = "music/bgm_battle_boss.mp3" des = "BOSS战斗背景音乐MP3（战役最后一关）" />
+	<music type = "9" filepath = "sound/ui_card_levelup.wav" des = "精灵升级时的音乐" />
+	<music type = "10" filepath = "sound/ui_card_rankup.wav" des = "精灵进化时的音乐" />
+	<music type = "11" filepath = "sound/ui_equip_levelup.wav" des = "装备强化时的音乐" />
+	<music type = "12" filepath = "sound/ui_equip_rankup.wav" des = "装备精炼时的音乐" />
+	<music type = "13" filepath = "sound/ui_star_up.wav" des = "合成时的音乐" />
+	<music type = "14" filepath = "sound/ui_achievement_complete.wav" des = "完成成就时的音乐" />
+    <music type = "15" filepath = "sound/ui_card_rankup.wav" des = "精灵转生音效" />
+    <music type = "16" filepath = "music/bgm_fishing.mp3" des = "跑酷背景音效" />
+	<music type = "17" filepath = "sound/ui_reward.wav" des = "获得物品音效" />
+	<music type = "18" filepath = "sound/ui_getcard.mp3" des = "抽卡获得精灵音效" />
+    <music type = "19" filepath = "sound/star.wav" des = "结算星星音效" />
+    <music type = "20" filepath = "music/bgm_my_room.mp3" des = "我的房间Bgm" />
+    <music type = "21" filepath = "music/bgm_shop.mp3" des = "商城Bgm" />
+    <music type = "22" filepath = "music/bgm_zhaohuan.mp3" des = "召唤Bgm" />
+    <music type = "23" filepath = "music/bgm_night_world.mp3" des = "夜世界Bgm" />
+    <music type = "24" filepath = "music/bgm_pre_battle.mp3" des = "选关Bgm" />
+    <music type = "25" filepath = "music/bgm_pvp.mp3" des = "PVP和排行榜Bgm" />
+    <music type = "26" filepath = "music/bgm_shilian.mp3" des = "试炼Bgm" />
+    <music type = "27" filepath = "music/bgm_wenquan.mp3" des = "温泉Bgm" />
+    <music type = "28" filepath = "music/bgm_shilian_2.mp3" des = "试炼内Bgm" />
+    <music type = "29" filepath = "music/bgm_jiesuan.mp3" des = "结算Bgm" />
+    <music type = "30" filepath = "sound/3star.wav" des = "抽卡3星以下音效" />
+    <music type = "31" filepath = "sound/4star.wav" des = "抽卡4星以上音效" />
+</background>

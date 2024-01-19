@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Atrributes>
+    <Attribute Type = "1" Icon = "ico_attr_01.png" Name = "攻击" Summary = "增加所有的伤害" />
+    <Attribute Type = "2" Icon = "ico_attr_02.png" Name = "生命" Summary = "生命小于等于0时，角色阵亡" />
+    <Attribute Type = "3" Icon = "ico_attr_03.png" Name = "破甲" Summary = "增加物理伤害" />
+    <Attribute Type = "4" Icon = "ico_attr_04.png" Name = "护甲" Summary = "减少物理伤害" />
+    <Attribute Type = "5" Icon = "ico_attr_05.png" Name = "法穿" Summary = "增加法术伤害" />
+    <Attribute Type = "6" Icon = "ico_attr_06.png" Name = "法抗" Summary = "减少法术伤害" />
+    <Attribute Type = "7" Icon = "ico_attr_07.png" Name = "暴击" Summary = "增加造成双倍伤害的几率" />
+    <Attribute Type = "8" Icon = "ico_attr_08.png" Name = "韧性" Summary = "减少被造成双倍伤害的几率" />
+    <Attribute Type = "9" Icon = "ico_attr_09.png" Name = "命中" Summary = "减少攻击被闪避的几率" />
+    <Attribute Type = "10" Icon = "ico_attr_10.png" Name = "闪避" Summary = "增加躲避掉对手攻击的几率" />
+    <Attribute Type = "11" Icon = "ico_attr_11.png" Name = "初始能量" Summary = "宠物进入战斗时的初始能量值" />
+    <Attribute Type = "12" Icon = "ico_attr_12.png" Name = "能量上限" Summary = "宠物的能量上限" />
+    <Attribute Type = "13" Icon = "ico_attr_13.png" Name = "吸血" Summary = "将对目标造成的伤害转化为对自身的治疗" />
+    <Attribute Type = "14" Icon = "ico_attr_14.png" Name = "反弹" Summary = "将受到的伤害以一定比例反弹给对手" />
+    <Attribute Type = "15" Icon = "ico_attr_15.png" Name = "击晕" Summary = "增加将对手击晕一回合的几率" />
+    <Attribute Type = "16" Icon = "ico_attr_16.png" Name = "抗晕" Summary = "减少被对手击晕的几率" />
+    <Attribute Type = "17" Icon = "ico_attr_16.png" Name = "攻击加成百分比" Summary = "攻击加成百分比" />
+    <Attribute Type = "18" Icon = "ico_attr_16.png" Name = "生命加成百分比" Summary = "生命加成百分比" />
+</Atrributes>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Atrributes>
+    <Attribute Type = "1" Name = "攻击" />
+    <Attribute Type = "2" Name = "生命" />
+    <Attribute Type = "3" Name = "破甲" />
+    <Attribute Type = "4" Name = "护甲" />
+    <Attribute Type = "5" Name = "法穿" />
+    <Attribute Type = "6" Name = "法抗" />
+    <Attribute Type = "7" Name = "暴击" />
+    <Attribute Type = "8" Name = "韧性" />
+    <Attribute Type = "9" Name = "命中" />
+    <Attribute Type = "10" Name = "闪避" />
+    <Attribute Type = "11" Name = "怒气" />
+    <Attribute Type = "12" Name = "固元" />
+    <Attribute Type = "13" Name = "吸血" />
+    <Attribute Type = "14" Name = "反弹" />
+    <Attribute Type = "15" Name = "击晕" />
+    <Attribute Type = "16" Name = "抗晕" />
+    <Attribute Type = "17" Name = "攻击加成" />
+    <Attribute Type = "18" Name = "生命加成" />
+</Atrributes>

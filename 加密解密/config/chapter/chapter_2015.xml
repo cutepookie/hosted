@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40141" Number="1" Name="结伴而行" activeneedpass="40140" costenergy="2" maxtimes="10" coin="7920" exprole="1584" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3013" dungeon_level="40"/>
+	<Dungeon ID="40142" Number="2" Name="梵音不断1" activeneedpass="40141" costenergy="2" maxtimes="10" coin="7920" exprole="1584" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3023" dungeon_level="40"/>
+	<Dungeon ID="40143" Number="3" Name="梵音不断2" activeneedpass="40142" costenergy="2" maxtimes="10" coin="8050" exprole="1610" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3093" dungeon_level="40"/>
+	<Dungeon ID="40144" Number="4" Name="拦路抢劫1" activeneedpass="40143" costenergy="2" maxtimes="10" coin="8050" exprole="1610" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3113" dungeon_level="41"/>
+	<Dungeon ID="40145" Number="5" Name="拦路抢劫2" activeneedpass="40144" costenergy="2" maxtimes="10" coin="8185" exprole="1637" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3013" dungeon_level="41"/>
+	<Dungeon ID="40146" Number="6" Name="拦路抢劫3" activeneedpass="40145" costenergy="2" maxtimes="10" coin="8185" exprole="1637" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3153" dungeon_level="41"/>
+	<Dungeon ID="40147" Number="7" Name="经书被盗1" activeneedpass="40146" costenergy="2" maxtimes="10" coin="8315" exprole="1663" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3143" dungeon_level="42"/>
+	<Dungeon ID="40148" Number="8" Name="经书被盗2" activeneedpass="40147" costenergy="2" maxtimes="10" coin="8315" exprole="1663" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3023" dungeon_level="42"/>
+	<Dungeon ID="40149" Number="9" Name="无妄之灾1" activeneedpass="40148" costenergy="2" maxtimes="10" coin="8450" exprole="1690" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3083" dungeon_level="42"/>
+	<Dungeon ID="40150" Number="10" Name="无妄之灾2" activeneedpass="40149" costenergy="2" maxtimes="5" coin="8450" exprole="1690" expgeneral="0" dropitem1="10407" dropitem2="0" boss_postion="101010" addMorale="0" dungeon_icon="4126" dungeon_level="42"/>
+</Dungeons>

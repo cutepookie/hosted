@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/yr_sdk_bg_white_r_shape"
+    android:orientation="vertical"
+    android:paddingTop="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/tv_dialog_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text=""
+            android:textStyle="bold"
+            android:textColor="@color/yr_sdk_title_text_color"
+            android:textSize="@dimen/yr_sdk_title_size"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/setting_TvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_dialog_title"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="15dp"
+            android:gravity="center"
+            android:text=""
+            android:textColor="@color/yr_sdk_text_grayy"
+            android:textSize="@dimen/yr_sdk_login_ed_size" />
+    </RelativeLayout>
+
+    <View style="@style/YYSDKline_gray_08"
+        android:layout_marginTop="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:id="@+id/setting_BtnCancel"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="0.8dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/yr_sdk_continue"
+            android:textColor="@drawable/yr_sdk_selector_indicator_out_login"
+            android:textSize="@dimen/yr_sdk_login_ed_size" />
+
+        <View
+            android:layout_width="0.8dp"
+            android:layout_height="40dp"
+            android:background="@color/yr_sdk_text_grayy" />
+
+        <TextView
+            android:id="@+id/setting_BtnConfirm"
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/yr_sdk_recoveredpw"
+            android:textColor="@color/yr_sdk_red"
+            android:textSize="@dimen/yr_sdk_login_ed_size" />
+
+
+    </LinearLayout>
+</LinearLayout>

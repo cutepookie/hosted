@@ -1,0 +1,248 @@
+<rolebuy>
+	<rolebuyenergy>
+		<energybuy times= "0" gold = "600"/>
+		<energybuy times= "1" gold = "600"/>
+		<energybuy times= "2" gold = "1200"/>
+		<energybuy times= "3" gold = "1200"/>
+		<energybuy times= "4" gold = "2400"/>
+		<energybuy times= "5" gold = "2400"/>
+		<energybuy times= "6" gold = "3600"/>
+		<energybuy times= "7" gold = "3600"/>
+		<energybuy times= "8" gold = "6000"/>
+		<energybuy times= "9" gold = "6000"/>
+		<energybuy times= "10" gold = "12000"/>
+		<energybuy times= "11" gold = "12000"/>
+		<energybuy times= "12" gold = "12000"/>
+		<energybuy times= "13" gold = "12000"/>
+		<energybuy times= "14" gold = "12000"/>
+		<energybuy times= "15" gold = "12000"/>
+		<energybuy times= "16" gold = "12000"/>
+		<energybuy times= "17" gold = "12000"/>
+		<energybuy times= "18" gold = "12000"/>
+		<energybuy times= "19" gold = "12000"/>
+		<energybuy times= "20" gold = "12000"/>
+		<energybuy times= "21" gold = "12000"/>
+		<energybuy times= "22" gold = "12000"/>
+		<energybuy times= "23" gold = "12000"/>
+		<energybuy times= "24" gold = "12000"/>
+		<energybuy times= "25" gold = "12000"/>
+		<energybuy times= "26" gold = "12000"/>
+		<energybuy times= "27" gold = "12000"/>
+		<energybuy times= "28" gold = "12000"/>
+		<energybuy times= "29" gold = "12000"/>
+		<energybuy times= "30" gold = "12000"/>
+		<energybuy times= "31" gold = "12000"/>
+		<energybuy times= "32" gold = "12000"/>
+		<energybuy times= "33" gold = "12000"/>
+		<energybuy times= "34" gold = "12000"/>
+		<energybuy times= "35" gold = "12000"/>
+		<energybuy times= "36" gold = "12000"/>
+		<energybuy times= "37" gold = "12000"/>
+		<energybuy times= "38" gold = "12000"/>
+		<energybuy times= "39" gold = "12000"/>
+		<energybuy times= "40" gold = "12000"/>
+		<energybuy times= "41" gold = "12000"/>
+		<energybuy times= "42" gold = "12000"/>
+		<energybuy times= "43" gold = "12000"/>
+		<energybuy times= "44" gold = "12000"/>
+		<energybuy times= "45" gold = "12000"/>
+
+	</rolebuyenergy>
+
+
+
+	<rolebuydiscover>
+		<discoverbug times= "0" gold = "600"/>
+		<discoverbug times= "1" gold = "600"/>
+		<discoverbug times= "2" gold = "1200"/>
+		<discoverbug times= "3" gold = "1200"/>
+		<discoverbug times= "4" gold = "1800"/>
+		<discoverbug times= "5" gold = "1800"/>
+		<discoverbug times= "6" gold = "1800"/>
+		<discoverbug times= "7" gold = "2400"/>
+		<discoverbug times= "8" gold = "3000"/>
+		<discoverbug times= "9" gold = "3000"/>
+		<discoverbug times= "10" gold = "6000"/>
+		<discoverbug times= "11" gold = "6000"/>
+		<discoverbug times= "12" gold = "12000"/>
+		<discoverbug times= "13" gold = "12000"/>
+		<discoverbug times= "14" gold = "12000"/>
+		<discoverbug times= "15" gold = "12000"/>
+		<discoverbug times= "16" gold = "12000"/>
+		<discoverbug times= "17" gold = "12000"/>
+		<discoverbug times= "18" gold = "12000"/>
+		<discoverbug times= "19" gold = "12000"/>
+		<discoverbug times= "20" gold = "12000"/>
+		<discoverbug times= "21" gold = "12000"/>
+		<discoverbug times= "22" gold = "12000"/>
+		<discoverbug times= "23" gold = "12000"/>
+		<discoverbug times= "24" gold = "12000"/>
+		<discoverbug times= "25" gold = "12000"/>
+		<discoverbug times= "26" gold = "12000"/>
+		<discoverbug times= "27" gold = "12000"/>
+		<discoverbug times= "28" gold = "12000"/>
+		<discoverbug times= "29" gold = "12000"/>
+		<discoverbug times= "30" gold = "12000"/>
+		<discoverbug times= "31" gold = "12000"/>
+		<discoverbug times= "32" gold = "12000"/>
+		<discoverbug times= "33" gold = "12000"/>
+		<discoverbug times= "34" gold = "12000"/>
+		<discoverbug times= "35" gold = "12000"/>
+		<discoverbug times= "36" gold = "12000"/>
+		<discoverbug times= "37" gold = "12000"/>
+		<discoverbug times= "38" gold = "12000"/>
+		<discoverbug times= "39" gold = "12000"/>
+		<discoverbug times= "40" gold = "12000"/>
+		<discoverbug times= "41" gold = "12000"/>
+		<discoverbug times= "42" gold = "12000"/>
+		<discoverbug times= "43" gold = "12000"/>
+		<discoverbug times= "44" gold = "12000"/>
+		<discoverbug times= "45" gold = "12000"/>
+
+	</rolebuydiscover>
+
+
+	<rolebuyPVPtime>
+		<PVP times= "0" gold = "300"/>
+		<PVP times= "1" gold = "300"/>
+		<PVP times= "2" gold = "600"/>
+		<PVP times= "3" gold = "600"/>
+		<PVP times= "4" gold = "900"/>
+		<PVP times= "5" gold = "900"/>
+		<PVP times= "6" gold = "1200"/>
+		<PVP times= "7" gold = "1200"/>
+		<PVP times= "8" gold = "1500"/>
+		<PVP times= "9" gold = "1500"/>
+		<PVP times= "10" gold = "3000"/>
+		<PVP times= "11" gold = "3000"/>
+		<PVP times= "12" gold = "6000"/>
+		<PVP times= "13" gold = "6000"/>
+		<PVP times= "14" gold = "6000"/>
+		<PVP times= "15" gold = "6000"/>
+		<PVP times= "16" gold = "6000"/>
+		<PVP times= "17" gold = "6000"/>
+		<PVP times= "18" gold = "6000"/>
+		<PVP times= "19" gold = "6000"/>
+		<PVP times= "20" gold = "6000"/>
+		<PVP times= "21" gold = "6000"/>
+		<PVP times= "22" gold = "6000"/>
+		<PVP times= "23" gold = "6000"/>
+		<PVP times= "24" gold = "6000"/>
+		<PVP times= "25" gold = "6000"/>
+		<PVP times= "26" gold = "6000"/>
+		<PVP times= "27" gold = "6000"/>
+		<PVP times= "28" gold = "6000"/>
+		<PVP times= "29" gold = "6000"/>
+		<PVP times= "30" gold = "6000"/>
+		<PVP times= "31" gold = "6000"/>
+		<PVP times= "32" gold = "6000"/>
+		<PVP times= "33" gold = "6000"/>
+		<PVP times= "34" gold = "6000"/>
+		<PVP times= "35" gold = "6000"/>
+		<PVP times= "36" gold = "6000"/>
+		<PVP times= "37" gold = "6000"/>
+		<PVP times= "38" gold = "6000"/>
+		<PVP times= "39" gold = "6000"/>
+		<PVP times= "40" gold = "6000"/>
+		<PVP times= "41" gold = "6000"/>
+		<PVP times= "42" gold = "6000"/>
+		<PVP times= "43" gold = "6000"/>
+		<PVP times= "44" gold = "6000"/>
+		<PVP times= "45" gold = "6000"/>
+
+	</rolebuyPVPtime>
+
+
+	<rulefight>
+		<buy times= "0" gold = "750"/>
+		<buy times= "1" gold = "750"/>
+		<buy times= "2" gold = "750"/>
+		<buy times= "3" gold = "750"/>
+		<buy times= "4" gold = "750"/>
+		<buy times= "5" gold = "750"/>
+		<buy times= "6" gold = "900"/>
+		<buy times= "7" gold = "900"/>
+		<buy times= "8" gold = "900"/>
+		<buy times= "9" gold = "900"/>
+		<buy times= "10" gold = "900"/>
+		<buy times= "11" gold = "1050"/>
+		<buy times= "12" gold = "1050"/>
+		<buy times= "13" gold = "1050"/>
+		<buy times= "14" gold = "1050"/>
+		<buy times= "15" gold = "1050"/>
+		<buy times= "16" gold = "1200"/>
+		<buy times= "17" gold = "1200"/>
+		<buy times= "18" gold = "1200"/>
+		<buy times= "19" gold = "1200"/>
+		<buy times= "20" gold = "1200"/>
+		<buy times= "21" gold = "1350"/>
+		<buy times= "22" gold = "1350"/>
+		<buy times= "23" gold = "1350"/>
+		<buy times= "24" gold = "1350"/>
+		<buy times= "25" gold = "1350"/>
+		<buy times= "26" gold = "1500"/>
+		<buy times= "27" gold = "1500"/>
+		<buy times= "28" gold = "1500"/>
+		<buy times= "29" gold = "1500"/>
+		<buy times= "30" gold = "1500"/>
+
+
+	</rolebuyplunder>
+
+
+	<rolebuycoin>
+			<coinbug times= "0" gold = "300"/>
+			<coinbug times= "1" gold = "300"/>
+			<coinbug times= "2" gold = "300"/>
+			<coinbug times= "3" gold = "300"/>
+			<coinbug times= "4" gold = "300"/>
+			<coinbug times= "5" gold = "300"/>
+			<coinbug times= "6" gold = "600"/>
+			<coinbug times= "7" gold = "600"/>
+			<coinbug times= "8" gold = "600"/>
+			<coinbug times= "9" gold = "600"/>
+			<coinbug times= "10" gold = "600"/>
+			<coinbug times= "11" gold = "900"/>
+			<coinbug times= "12" gold = "900"/>
+			<coinbug times= "13" gold = "900"/>
+			<coinbug times= "14" gold = "900"/>
+			<coinbug times= "15" gold = "900"/>
+			<coinbug times= "16" gold = "1500"/>
+			<coinbug times= "17" gold = "1500"/>
+			<coinbug times= "18" gold = "1500"/>
+			<coinbug times= "19" gold = "1500"/>
+			<coinbug times= "20" gold = "1500"/>
+			<coinbug times= "21" gold = "2100"/>
+			<coinbug times= "22" gold = "2100"/>
+			<coinbug times= "23" gold = "2100"/>
+			<coinbug times= "24" gold = "2100"/>
+			<coinbug times= "25" gold = "2100"/>
+			<coinbug times= "26" gold = "2700"/>
+			<coinbug times= "27" gold = "2700"/>
+			<coinbug times= "28" gold = "2700"/>
+			<coinbug times= "29" gold = "2700"/>
+			<coinbug times= "30" gold = "2700"/>
+			<coinbug times= "31" gold = "3600"/>
+			<coinbug times= "32" gold = "3600"/>
+			<coinbug times= "33" gold = "3600"/>
+			<coinbug times= "34" gold = "3600"/>
+			<coinbug times= "35" gold = "3600"/>
+			<coinbug times= "36" gold = "4500"/>
+			<coinbug times= "37" gold = "4500"/>
+			<coinbug times= "38" gold = "4500"/>
+			<coinbug times= "39" gold = "4500"/>
+			<coinbug times= "40" gold = "4500"/>
+			<coinbug times= "41" gold = "6000"/>
+			<coinbug times= "42" gold = "6000"/>
+			<coinbug times= "43" gold = "6000"/>
+			<coinbug times= "44" gold = "6000"/>
+			<coinbug times= "45" gold = "6000"/>
+			<coinbug times= "46" gold = "7500"/>
+			<coinbug times= "47" gold = "7500"/>
+			<coinbug times= "48" gold = "7500"/>
+			<coinbug times= "49" gold = "7500"/>
+			<coinbug times= "50" gold = "7500"/>
+			
+
+	</rolebuycoin>
+</rolebuy>

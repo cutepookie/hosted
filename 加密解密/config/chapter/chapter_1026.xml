@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30251" Number="1" Name="破天除雨1" activeneedpass="30250" costenergy="2" maxtimes="30" coin="10010" exprole="2002" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4132" dungeon_level="64"/>
+	<Dungeon ID="30252" Number="2" Name="破天除雨2" activeneedpass="30251" costenergy="2" maxtimes="30" coin="10010" exprole="2002" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5092" dungeon_level="64"/>
+	<Dungeon ID="30253" Number="3" Name="芭蕉扇1" activeneedpass="30252" costenergy="2" maxtimes="30" coin="10160" exprole="2032" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5102" dungeon_level="64"/>
+	<Dungeon ID="30254" Number="4" Name="芭蕉扇2" activeneedpass="30253" costenergy="2" maxtimes="30" coin="10160" exprole="2032" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5122" dungeon_level="64"/>
+	<Dungeon ID="30255" Number="5" Name="芭蕉扇3" activeneedpass="30254" costenergy="2" maxtimes="30" coin="10310" exprole="2062" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4152" dungeon_level="64"/>
+	<Dungeon ID="30256" Number="6" Name="往日恩怨1" activeneedpass="30255" costenergy="2" maxtimes="30" coin="10310" exprole="2062" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4092" dungeon_level="65"/>
+	<Dungeon ID="30257" Number="7" Name="往日恩怨2" activeneedpass="30256" costenergy="2" maxtimes="30" coin="10460" exprole="2092" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5013" dungeon_level="65"/>
+	<Dungeon ID="30258" Number="8" Name="往日恩怨3" activeneedpass="30257" costenergy="2" maxtimes="30" coin="10460" exprole="2092" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4102" dungeon_level="65"/>
+	<Dungeon ID="30259" Number="9" Name="往日恩怨4" activeneedpass="30258" costenergy="2" maxtimes="30" coin="10610" exprole="2122" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5022" dungeon_level="65"/>
+	<Dungeon ID="30260" Number="10" Name="兄弟情义" activeneedpass="30259" costenergy="2" maxtimes="10" coin="10610" exprole="2122" expgeneral="0" dropitem1="10418" dropitem2="0" boss_postion="10010" addMorale="0" dungeon_icon="6087" dungeon_level="65"/>
+</Dungeons>

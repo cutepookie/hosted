@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40001" Number="1" Name="计定东土" activeneedpass="0" costenergy="2" maxtimes="10" coin="1390" exprole="278" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2011" dungeon_level="1"/>
+	<Dungeon ID="40002" Number="2" Name="寻找师父1" activeneedpass="40001" costenergy="2" maxtimes="10" coin="1390" exprole="278" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2031" dungeon_level="1"/>
+	<Dungeon ID="40003" Number="3" Name="寻找师父2" activeneedpass="40002" costenergy="2" maxtimes="10" coin="1445" exprole="289" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2091" dungeon_level="1"/>
+	<Dungeon ID="40004" Number="4" Name="寻找师父3" activeneedpass="40003" costenergy="2" maxtimes="10" coin="1445" exprole="289" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2021" dungeon_level="1"/>
+	<Dungeon ID="40005" Number="5" Name="拜师求佛1" activeneedpass="40004" costenergy="2" maxtimes="10" coin="1500" exprole="300" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2041" dungeon_level="1"/>
+	<Dungeon ID="40006" Number="6" Name="拜师求佛2" activeneedpass="40005" costenergy="2" maxtimes="10" coin="1500" exprole="300" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2021" dungeon_level="1"/>
+	<Dungeon ID="40007" Number="7" Name="拜师求佛3" activeneedpass="40006" costenergy="2" maxtimes="10" coin="1560" exprole="312" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2071" dungeon_level="1"/>
+	<Dungeon ID="40008" Number="8" Name="取经小队1" activeneedpass="40007" costenergy="2" maxtimes="10" coin="1560" exprole="312" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2081" dungeon_level="1"/>
+	<Dungeon ID="40009" Number="9" Name="取经小队2" activeneedpass="40008" costenergy="2" maxtimes="10" coin="1620" exprole="324" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2011" dungeon_level="1"/>
+	<Dungeon ID="40010" Number="10" Name="取经小队3" activeneedpass="40009" costenergy="2" maxtimes="5" coin="1620" exprole="324" expgeneral="0" dropitem1="10208" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="2127" dungeon_level="1"/>
+</Dungeons>

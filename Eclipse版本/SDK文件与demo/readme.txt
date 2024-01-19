@@ -1,0 +1,3 @@
+备注：s4lib_FacebookSDK和YRSDK都是library工程，在launcher(如：SDKDemo)工程中直接引用即可
+
+如果已接入过我们SDK只需要替换library工程即可

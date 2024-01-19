@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <Item Id="10101" Type="1" Name="悠悠球" Desc="小孩子喜欢玩的玩具，没想到也能当作武器！" Icon="icon_item/item_10101.png" Card="icon_item/item_10101.png" Star="1" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "8"/>
+  </Item>
+  <Item Id="10102" Type="34" Name="棒球帽" Desc="很常见的帽子，简单方便！" Icon="icon_item/item_10102.png" Card="icon_item/item_10102.png" Star="1" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "3"/>
+      <Attribute Type = "2" Value = "34"/>
+  </Item>
+  <Item Id="10103" Type="2" Name="初心者皮衣" Desc="优质皮革制作而成的外套，保暖且美观！" Icon="icon_item/item_10103.png" Card="icon_item/item_10103.png" Star="1" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "69"/>
+  </Item>
+  <Item Id="10201" Type="1" Name="平底锅" Desc="红太狼和家庭主妇专用，打人做饭两不误！" Icon="icon_item/item_10201.png" Card="icon_item/item_10201.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "16"/>
+  </Item>
+  <Item Id="10202" Type="34" Name="头盔" Desc="机车必备装备之一，不带它上路，罚款分分钟来到！" Icon="icon_item/item_10202.png" Card="icon_item/item_10202.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "7"/>
+      <Attribute Type = "2" Value = "72"/>
+  </Item>
+  <Item Id="10203" Type="2" Name="夹克衫" Desc="机车必备装备之一，不穿夹克骑机车还有啥意思，冬天也要穿哦！" Icon="icon_item/item_10203.png" Card="icon_item/item_10203.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "145"/>
+  </Item>
+  <Item Id="10204" Type="33" Name="诡异娃娃" Desc="最诡异的娃娃装饰，谁带谁知道！" Icon="icon_item/item_10204.png" Card="icon_item/item_10204.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "9"/>
+      <Attribute Type = "2" Value = "36"/>
+  </Item>
+  <Item Id="10205" Type="35" Name="闪光项链" Desc="闪闪发光的项链，看着很闪，但是很便宜是真的！" Icon="icon_item/item_10205.png" Card="icon_item/item_10205.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "14"/>
+  </Item>
+  <Item Id="10206" Type="36" Name="闪光戒指" Desc="闪闪发光的戒指，看着很闪，但是很便宜是真的！" Icon="icon_item/item_10206.png" Card="icon_item/item_10206.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "108"/>
+  </Item>
+  <Item Id="10207" Type="1" Name="罗汉锤" Desc="佛家法器之一，无论是敲钟还是敲木鱼都超好用！" Icon="icon_item/item_10207.png" Card="icon_item/item_10207.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "15"/>
+      <Suit id = "10001"/>
+  </Item>
+  <Item Id="10208" Type="34" Name="罗汉帽" Desc="帅气的小帽，舒适耐用，最主要的是保暖！" Icon="icon_item/item_10208.png" Card="icon_item/item_10208.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "6"/>
+      <Attribute Type = "2" Value = "72"/>
+      <Suit id = "10001"/>
+  </Item>
+  <Item Id="10209" Type="2" Name="罗汉衫" Desc="帅气的夹克衫，骑摩托必备的装备！" Icon="icon_item/item_10209.png" Card="icon_item/item_10209.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "137"/>
+      <Suit id = "10001"/>
+  </Item>
+  <Item Id="10210" Type="33" Name="福星哨" Desc="吹响福星哨，幸福随身伴！" Icon="icon_item/item_10210.png" Card="icon_item/item_10210.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "9"/>
+      <Attribute Type = "2" Value = "36"/>
+      <Suit id = "10002"/>
+  </Item>
+  <Item Id="10211" Type="35" Name="禄星项链" Desc="带上这个项链，收入瞬间翻倍！" Icon="icon_item/item_10211.png" Card="icon_item/item_10211.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "12"/>
+      <Suit id = "10002"/>
+  </Item>
+  <Item Id="10212" Type="36" Name="寿星戒指" Desc="带上长寿戒，活到九十九！" Icon="icon_item/item_10212.png" Card="icon_item/item_10212.png" Star="2" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "91"/>
+      <Suit id = "10002"/>
+  </Item>
+  <Item Id="10301" Type="1" Name="巨门斧" Desc="大斧子一把，就是名字比较唬人！" Icon="icon_item/item_10301.png" Card="icon_item/item_10301.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "35"/>
+      <Attribute Type = "13" Value = "500"/>
+  </Item>
+  <Item Id="10302" Type="34" Name="贪狼头盔" Desc="贪狼星君佩戴过的帽子，就带过一次！" Icon="icon_item/item_10302.png" Card="icon_item/item_10302.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "15"/>
+      <Attribute Type = "2" Value = "151"/>
+      <Attribute Type = "16" Value = "7"/>
+  </Item>
+  <Item Id="10303" Type="2" Name="天相披风" Desc="天相星设计的披风！" Icon="icon_item/item_10303.png" Card="icon_item/item_10303.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "303"/>
+      <Attribute Type = "4" Value = "10"/>
+  </Item>
+  <Item Id="10304" Type="33" Name="天机硬币" Desc="天机星设计的饰品！" Icon="icon_item/item_10304.png" Card="icon_item/item_10304.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "20"/>
+      <Attribute Type = "2" Value = "75"/>
+      <Attribute Type = "10" Value = "5"/>
+  </Item>
+  <Item Id="10305" Type="35" Name="文曲项链" Desc="文曲星设计的项链！" Icon="icon_item/item_10305.png" Card="icon_item/item_10305.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "30"/>
+      <Attribute Type = "6" Value = "10"/>
+  </Item>
+  <Item Id="10306" Type="36" Name="七杀戒指" Desc="七杀星设计的戒指！" Icon="icon_item/item_10306.png" Card="icon_item/item_10306.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "227"/>
+      <Attribute Type = "7" Value = "5"/>
+  </Item>
+  <Item Id="10307" Type="1" Name="紫苑之杖" Desc="用紫苑花制作的仙仗，没什么攻击力，就是好看！" Icon="icon_item/item_10307.png" Card="icon_item/item_10307.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "29"/>
+      <Attribute Type = "5" Value = "7"/>
+      <Suit id = "10003"/>
+  </Item>
+  <Item Id="10308" Type="34" Name="茶花之冠" Desc="茶花制作的头冠，出除了好看一无是处！" Icon="icon_item/item_10308.png" Card="icon_item/item_10308.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "14"/>
+      <Attribute Type = "2" Value = "142"/>
+      <Attribute Type = "9" Value = "7"/>
+      <Suit id = "10003"/>
+  </Item>
+  <Item Id="10309" Type="2" Name="朱雀锦袍" Desc="被朱雀神兽祝福过的锦袍，保暖又合身！" Icon="icon_item/item_10309.png" Card="icon_item/item_10309.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "251"/>
+      <Attribute Type = "6" Value = "10"/>
+      <Suit id = "10004"/>
+  </Item>
+  <Item Id="10310" Type="33" Name="朱雀头饰" Desc="被朱雀神兽祝福过的头环，带上它回头率大大提高！" Icon="icon_item/item_10310.png" Card="icon_item/item_10310.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "18"/>
+      <Attribute Type = "2" Value = "69"/>
+      <Attribute Type = "4" Value = "10"/>
+      <Suit id = "10004"/>
+  </Item>
+  <Item Id="10311" Type="35" Name="朱雀项链" Desc="被朱雀神兽祝福过的项链，保证让你满面红光！" Icon="icon_item/item_10311.png" Card="icon_item/item_10311.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "25"/>
+      <Attribute Type = "7" Value = "5"/>
+      <Suit id = "10004"/>
+  </Item>
+  <Item Id="10312" Type="36" Name="朱雀戒指" Desc="被朱雀神兽祝福过的戒指，据说可以发动朱雀之力！" Icon="icon_item/item_10312.png" Card="icon_item/item_10312.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "185"/>
+      <Attribute Type = "16" Value = "7"/>
+      <Suit id = "10004"/>
+  </Item>
+  <Item Id="10313" Type="1" Name="阎王斧" Desc="阎王专用小斧子，放心不是砍人的哦，是砍柴的！" Icon="icon_item/item_10313.png" Card="icon_item/item_10313.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "27"/>
+      <Attribute Type = "13" Value = "500"/>
+      <Suit id = "10005"/>
+  </Item>
+  <Item Id="10314" Type="34" Name="阎王枷" Desc="阎王专用枷锁，那个小鬼不干活开小差就要带上！" Icon="icon_item/item_10314.png" Card="icon_item/item_10314.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "12"/>
+      <Attribute Type = "2" Value = "123"/>
+      <Attribute Type = "7" Value = "5"/>
+      <Suit id = "10005"/>
+  </Item>
+  <Item Id="10315" Type="2" Name="地狱服" Desc="阎王亲自设计的潮服，现在地狱卖的很火，原因你懂的！" Icon="icon_item/item_10315.png" Card="icon_item/item_10315.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "282"/>
+      <Attribute Type = "4" Value = "10"/>
+      <Suit id = "10005"/>
+  </Item>
+  <Item Id="10316" Type="33" Name="灭太岁" Desc="太岁牌专用杀虫剂，不知道谁注册得商标，真太岁头上动土！" Icon="icon_item/item_10316.png" Card="icon_item/item_10316.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "15"/>
+      <Attribute Type = "2" Value = "59"/>
+      <Attribute Type = "6" Value = "10"/>
+      <Suit id = "10006"/>
+  </Item>
+  <Item Id="10317" Type="35" Name="六丁项链" Desc="六丁全体成员共同设计完成，为此六人已经老死不相往来了！" Icon="icon_item/item_10317.png" Card="icon_item/item_10317.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "25"/>
+      <Attribute Type = "16" Value = "5"/>
+      <Suit id = "10006"/>
+  </Item>
+  <Item Id="10318" Type="36" Name="六甲戒指" Desc="六甲共同设计完成，现在六人正住院观察，据说没有生命危险！" Icon="icon_item/item_10318.png" Card="icon_item/item_10318.png" Star="3" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "206"/>
+      <Attribute Type = "10" Value = "5"/>
+      <Suit id = "10006"/>
+  </Item>
+  <Item Id="10401" Type="1" Name="亢金拳套" Desc="亢金龙设计制作的拳套！" Icon="icon_item/item_10401.png" Card="icon_item/item_10401.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "73"/>
+      <Attribute Type = "3" Value = "14"/>
+  </Item>
+  <Item Id="10402" Type="34" Name="氐土头环" Desc="氐土貉设计制作的围巾！" Icon="icon_item/item_10402.png" Card="icon_item/item_10402.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "31"/>
+      <Attribute Type = "2" Value = "316"/>
+      <Attribute Type = "4" Value = "20"/>
+  </Item>
+  <Item Id="10403" Type="2" Name="房日短裤" Desc="房日兔设计制作的短裤！" Icon="icon_item/item_10403.png" Card="icon_item/item_10403.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "633"/>
+      <Attribute Type = "6" Value = "20"/>
+  </Item>
+  <Item Id="10404" Type="33" Name="心月腰带" Desc="心月狐设计制作的腰带！" Icon="icon_item/item_10404.png" Card="icon_item/item_10404.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "42"/>
+      <Attribute Type = "2" Value = "158"/>
+      <Attribute Type = "5" Value = "14"/>
+  </Item>
+  <Item Id="10405" Type="35" Name="尾火项链" Desc="尾火虎设计制作的项链！" Icon="icon_item/item_10405.png" Card="icon_item/item_10405.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "63"/>
+      <Attribute Type = "9" Value = "14"/>
+  </Item>
+  <Item Id="10406" Type="36" Name="箕水戒指" Desc="箕水豹设计制作的戒指！" Icon="icon_item/item_10406.png" Card="icon_item/item_10406.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "475"/>
+      <Attribute Type = "8" Value = "14"/>
+  </Item>
+  <Item Id="10407" Type="1" Name="玉女鞭" Desc="玉女小姐姐的专用道具，干什么用的我不懂！" Icon="icon_item/item_10407.png" Card="icon_item/item_10407.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "62"/>
+      <Attribute Type = "7" Value = "10"/>
+      <Suit id = "10007"/>
+  </Item>
+  <Item Id="10408" Type="34" Name="玉女冠" Desc="玉女小姐姐的头饰，很好看的头饰，不知道什么时候会带！" Icon="icon_item/item_10408.png" Card="icon_item/item_10408.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "26"/>
+      <Attribute Type = "2" Value = "268"/>
+      <Attribute Type = "15" Value = "10"/>
+      <Suit id = "10007"/>
+  </Item>
+  <Item Id="10409" Type="2" Name="素心衣" Desc="天宫的仙子们特别喜欢的一种衣服，素雅清丽，也方便工作！" Icon="icon_item/item_10409.png" Card="icon_item/item_10409.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "496"/>
+      <Attribute Type = "3" Value = "14"/>
+      <Suit id = "10008"/>
+  </Item>
+  <Item Id="10410" Type="33" Name="素心蝶" Desc="仙子们特别喜欢的一种饰品，放在背后，飞在天上特别好看！" Icon="icon_item/item_10410.png" Card="icon_item/item_10410.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "38"/>
+      <Attribute Type = "2" Value = "142"/>
+      <Attribute Type = "5" Value = "14"/>
+      <Suit id = "10008"/>
+  </Item>
+  <Item Id="10411" Type="35" Name="素心项链" Desc="漂亮的蓝色项链，清新素雅，美丽大方，也是仙子最爱的饰品！" Icon="icon_item/item_10411.png" Card="icon_item/item_10411.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "58"/>
+      <Attribute Type = "8" Value = "14"/>
+      <Suit id = "10008"/>
+  </Item>
+  <Item Id="10412" Type="36" Name="素心戒指" Desc="常见的首饰之一，没有特别之处，如果不仔细看都很难发现它！" Icon="icon_item/item_10412.png" Card="icon_item/item_10412.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "429"/>
+      <Attribute Type = "10" Value = "10"/>
+      <Suit id = "10008"/>
+  </Item>
+  <Item Id="10413" Type="1" Name="妙音歌" Desc="传说是妙音天女唱歌时所用的麦克风，但其实是辩论会上用的！" Icon="icon_item/item_10413.png" Card="icon_item/item_10413.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "60"/>
+      <Attribute Type = "3" Value = "14"/>
+      <Suit id = "10009"/>
+  </Item>
+  <Item Id="10414" Type="34" Name="妙音发簪" Desc="妙音天女每次认真辩论时，都会用它把头发扎起来！" Icon="icon_item/item_10414.png" Card="icon_item/item_10414.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "24"/>
+      <Attribute Type = "2" Value = "249"/>
+      <Attribute Type = "6" Value = "20"/>
+      <Suit id = "10009"/>
+  </Item>
+  <Item Id="10415" Type="2" Name="妙音服" Desc="妙音天女学生时代的衣服，保留下来是因为学生时代参加过辩论会！" Icon="icon_item/item_10415.png" Card="icon_item/item_10415.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "506"/>
+      <Attribute Type = "4" Value = "20"/>
+      <Suit id = "10009"/>
+  </Item>
+  <Item Id="10416" Type="33" Name="逍遥琴" Desc="下界散修常用的琴，传说是太子长琴设计的，音色非常优美！" Icon="icon_item/item_10416.png" Card="icon_item/item_10416.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "33"/>
+      <Attribute Type = "2" Value = "123"/>
+      <Attribute Type = "16" Value = "14"/>
+      <Suit id = "10010"/>
+  </Item>
+  <Item Id="10417" Type="35" Name="逍遥项链" Desc="应龙听闻太子长琴的演奏后，设计制作的项链，并赠送给太子长琴！" Icon="icon_item/item_10417.png" Card="icon_item/item_10417.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "51"/>
+      <Attribute Type = "5" Value = "14"/>
+      <Suit id = "10010"/>
+  </Item>
+  <Item Id="10418" Type="36" Name="逍遥翼" Desc="无法飞行的散仙常用的飞行工具，好像是从西方传过来的！" Icon="icon_item/item_10418.png" Card="icon_item/item_10418.png" Star="4" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "428"/>
+      <Attribute Type = "13" Value = "1000"/>
+      <Suit id = "10010"/>
+  </Item>
+  <Item Id="10501" Type="1" Name="牛金糖" Desc="牛金牛设计制作的果冻！" Icon="icon_item/item_10501.png" Card="icon_item/item_10501.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "154"/>
+      <Attribute Type = "3" Value = "21"/>
+  </Item>
+  <Item Id="10502" Type="34" Name="女土帽" Desc="女土蝠设计制作的帽子！" Icon="icon_item/item_10502.png" Card="icon_item/item_10502.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "66"/>
+      <Attribute Type = "2" Value = "660"/>
+      <Attribute Type = "6" Value = "30"/>
+  </Item>
+  <Item Id="10503" Type="2" Name="虚日长衣" Desc="虚日鼠设计制作的长衣！" Icon="icon_item/item_10503.png" Card="icon_item/item_10503.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "1320"/>
+      <Attribute Type = "4" Value = "30"/>
+  </Item>
+  <Item Id="10504" Type="33" Name="危月胸针" Desc="危月燕设计制作的胸针！" Icon="icon_item/item_10504.png" Card="icon_item/item_10504.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "88"/>
+      <Attribute Type = "2" Value = "330"/>
+      <Attribute Type = "9" Value = "14"/>
+  </Item>
+  <Item Id="10505" Type="35" Name="避水项链" Desc="壁水貐设计制作的项链！" Icon="icon_item/item_10505.png" Card="icon_item/item_10505.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "132"/>
+      <Attribute Type = "7" Value = "15"/>
+  </Item>
+  <Item Id="10506" Type="36" Name="室火戒指" Desc="室火猪设计制作的戒指！" Icon="icon_item/item_10506.png" Card="icon_item/item_10506.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "990"/>
+      <Attribute Type = "15" Value = "15"/>
+  </Item>
+  <Item Id="10507" Type="1" Name="玄女刀" Desc="传说九天玄女成仙前使用过的武器，虽然锋利无比，但却透露着温柔！" Icon="icon_item/item_10507.png" Card="icon_item/item_10507.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "123"/>
+      <Attribute Type = "13" Value = "1500"/>
+      <Suit id = "10011"/>
+  </Item>
+  <Item Id="10508" Type="34" Name="玄女面罩" Desc="传说九天玄女成仙前使用过的面罩，虽然遮挡住了美丽的容颜，但是也增加了神秘感！" Icon="icon_item/item_10508.png" Card="icon_item/item_10508.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "52"/>
+      <Attribute Type = "2" Value = "527"/>
+      <Attribute Type = "8" Value = "21"/>
+      <Suit id = "10011"/>
+  </Item>
+  <Item Id="10509" Type="2" Name="紫虚锦袍" Desc="紫虚夫人生前常穿的衣服，深红的长裙，极尽奢华！" Icon="icon_item/item_10509.png" Card="icon_item/item_10509.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "1113"/>
+      <Attribute Type = "10" Value = "15"/>
+      <Suit id = "10012"/>
+  </Item>
+  <Item Id="10510" Type="33" Name="紫虚耳坠" Desc="紫虚夫人生前佩戴的耳坠，深红色宝石，衬托出夫人尊贵的气质！" Icon="icon_item/item_10510.png" Card="icon_item/item_10510.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "72"/>
+      <Attribute Type = "2" Value = "270"/>
+      <Attribute Type = "5" Value = "21"/>
+      <Suit id = "10012"/>
+  </Item>
+  <Item Id="10511" Type="35" Name="紫虚项链" Desc="紫虚夫人生前佩戴的项链，佩戴着这样的项链，感觉气质都不一样了！" Icon="icon_item/item_10511.png" Card="icon_item/item_10511.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "102"/>
+      <Attribute Type = "7" Value = "15"/>
+      <Suit id = "10012"/>
+  </Item>
+  <Item Id="10512" Type="36" Name="紫虚手镯" Desc="紫虚夫人生前佩戴的手镯，佩戴这样的手镯，没人舍得让你干活的！" Icon="icon_item/item_10512.png" Card="icon_item/item_10512.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "714"/>
+      <Attribute Type = "15" Value = "15"/>
+      <Suit id = "10012"/>
+  </Item>
+  <Item Id="10513" Type="1" Name="判官锯" Desc="判官专用伐木工具，和阎王斧是同样作用，地狱不好混啊！" Icon="icon_item/item_10513.png" Card="icon_item/item_10513.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "129"/>
+      <Attribute Type = "3" Value = "21"/>
+      <Suit id = "10013"/>
+  </Item>
+  <Item Id="10514" Type="34" Name="判官帽" Desc="判官用来惩罚用的小帽子，谁带上都丑的见不得人了！" Icon="icon_item/item_10514.png" Card="icon_item/item_10514.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "53"/>
+      <Attribute Type = "2" Value = "534"/>
+      <Attribute Type = "10" Value = "15"/>
+      <Suit id = "10013"/>
+  </Item>
+  <Item Id="10515" Type="2" Name="涂山衣" Desc="涂山上最新流行的服饰，既美丽大方还特别保暖，已经卖断货了！" Icon="icon_item/item_10515.png" Card="icon_item/item_10515.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "1127"/>
+      <Attribute Type = "4" Value = "30"/>
+      <Suit id = "10014"/>
+  </Item>
+  <Item Id="10516" Type="33" Name="涂山礼" Desc="涂山情侣间经常互赠的小礼品，好吃而且还能提供热量！" Icon="icon_item/item_10516.png" Card="icon_item/item_10516.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "76"/>
+      <Attribute Type = "2" Value = "285"/>
+      <Attribute Type = "9" Value = "21"/>
+      <Suit id = "10014"/>
+  </Item>
+  <Item Id="10517" Type="35" Name="涂山巾" Desc="涂山流行的小围巾，这涂山看来是够冷的！" Icon="icon_item/item_10517.png" Card="icon_item/item_10517.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "110"/>
+      <Attribute Type = "8" Value = "15"/>
+      <Suit id = "10014"/>
+  </Item>
+  <Item Id="10518" Type="36" Name="涂山手" Desc="涂山流行的小手套，美观，保暖，看来涂山是真的很冷！" Icon="icon_item/item_10518.png" Card="icon_item/item_10518.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "866"/>
+      <Attribute Type = "16" Value = "15"/>
+      <Suit id = "10014"/>
+  </Item>
+  <Item Id="10519" Type="1" Name="阿修罗剑" Desc="阿修罗族常用武器，族内成年人基本是人人都佩戴的！" Icon="icon_item/item_10519.png" Card="icon_item/item_10519.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "135"/>
+      <Attribute Type = "3" Value = "21"/>
+      <Suit id = "10015"/>
+  </Item>
+  <Item Id="10520" Type="34" Name="乾达婆眼罩" Desc="乾达婆常见眼罩，为了寻找最好的香料，需要带上眼罩来识别香料！" Icon="icon_item/item_10520.png" Card="icon_item/item_10520.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "57"/>
+      <Attribute Type = "2" Value = "576"/>
+      <Attribute Type = "10" Value = "15"/>
+      <Suit id = "10015"/>
+  </Item>
+  <Item Id="10521" Type="2" Name="迦楼罗长衣" Desc="迦楼罗掉落的羽毛做成的服装，轻便耐用，温暖舒适，受到一致好评！" Icon="icon_item/item_10521.png" Card="icon_item/item_10521.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "1111"/>
+      <Attribute Type = "14" Value = "2100"/>
+      <Suit id = "10015"/>
+  </Item>
+  <Item Id="10522" Type="33" Name="紧那罗钥匙" Desc="紧那罗族特制的钥匙，据说这个钥匙可以打开一个人的音乐天赋，五音不全者的福音！" Icon="icon_item/item_10522.png" Card="icon_item/item_10522.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "77"/>
+      <Attribute Type = "2" Value = "288"/>
+      <Attribute Type = "15" Value = "15"/>
+      <Suit id = "10015"/>
+  </Item>
+  <Item Id="10523" Type="35" Name="夜叉项链" Desc="夜叉一族成年后佩戴的项链，每战胜一个对手都会记录在这个项链上！" Icon="icon_item/item_10523.png" Card="icon_item/item_10523.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "113"/>
+      <Attribute Type = "8" Value = "21"/>
+      <Suit id = "10015"/>
+  </Item>
+  <Item Id="10524" Type="36" Name="天龙戒指" Desc="天龙两族通用的戒指，不知道他们为什么会通用戒指！" Icon="icon_item/item_10524.png" Card="icon_item/item_10524.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "725"/>
+      <Attribute Type = "7" Value = "15"/>
+      <Suit id = "10015"/>
+  </Item>
+  <Item Id="10525" Type="1" Name="吉祥灯笼 Desc" Desc="新年快乐！恭喜发财！祝您年年有今日，岁岁有今朝！ Icon！" Icon="icon_item/item_10525.png" Card="icon_item/item_10525.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "123"/>
+      <Attribute Type = "5" Value = "21"/>
+      <Suit id = "10028"/>
+  </Item>
+  <Item Id="10526" Type="34" Name="如意之冠 Desc" Desc="新年快乐！恭喜发财！祝您年年有今日，岁岁有今朝！ Icon！" Icon="icon_item/item_10526.png" Card="icon_item/item_10526.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "52"/>
+      <Attribute Type = "2" Value = "521"/>
+      <Attribute Type = "14" Value = "2100"/>
+      <Suit id = "10028"/>
+  </Item>
+  <Item Id="10527" Type="2" Name="祝福之衣 Desc" Desc="新年快乐！恭喜发财！祝您年年有今日，岁岁有今朝！ Icon！" Icon="icon_item/item_10527.png" Card="icon_item/item_10527.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "1153"/>
+      <Attribute Type = "15" Value = "15"/>
+      <Suit id = "10028"/>
+  </Item>
+  <Item Id="10528" Type="33" Name="幸运炮仗 Desc" Desc="新年快乐！恭喜发财！祝您年年有今日，岁岁有今朝！ Icon！" Icon="icon_item/item_10528.png" Card="icon_item/item_10528.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "71"/>
+      <Attribute Type = "2" Value = "267"/>
+      <Attribute Type = "6" Value = "30"/>
+      <Suit id = "10028"/>
+  </Item>
+  <Item Id="10529" Type="35" Name="平安结 Desc" Desc="新年快乐！恭喜发财！祝您年年有今日，岁岁有今朝！ Icon！" Icon="icon_item/item_10529.png" Card="icon_item/item_10529.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "112"/>
+      <Attribute Type = "7" Value = "15"/>
+      <Suit id = "10028"/>
+  </Item>
+  <Item Id="10530" Type="36" Name="鸿运戒指 Desc" Desc="新年快乐！恭喜发财！祝您年年有今日，岁岁有今朝！ Icon！" Icon="icon_item/item_10530.png" Card="icon_item/item_10530.png" Star="5" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "840"/>
+      <Attribute Type = "13" Value = "1500"/>
+      <Suit id = "10028"/>
+  </Item>
+  <Item Id="10601" Type="1" Name="鬼金琴" Desc="鬼金羊设计制作的古琴！" Icon="icon_item/item_10601.png" Card="icon_item/item_10601.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "320"/>
+      <Attribute Type = "15" Value = "20"/>
+  </Item>
+  <Item Id="10602" Type="34" Name="柳土帽" Desc="柳土獐设计制作的帽子！" Icon="icon_item/item_10602.png" Card="icon_item/item_10602.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "137"/>
+      <Attribute Type = "2" Value = "1372"/>
+      <Attribute Type = "8" Value = "28"/>
+  </Item>
+  <Item Id="10603" Type="2" Name="星日披肩" Desc="星日马设计制作的披肩！" Icon="icon_item/item_10603.png" Card="icon_item/item_10603.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "2745"/>
+      <Attribute Type = "4" Value = "40"/>
+  </Item>
+  <Item Id="10604" Type="33" Name="张月扇" Desc="张月鹿设计制作的扇子！" Icon="icon_item/item_10604.png" Card="icon_item/item_10604.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "183"/>
+      <Attribute Type = "2" Value = "686"/>
+      <Attribute Type = "10" Value = "20"/>
+  </Item>
+  <Item Id="10605" Type="35" Name="翼火项链" Desc="翼火蛇设计制作的项链！" Icon="icon_item/item_10605.png" Card="icon_item/item_10605.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "274"/>
+      <Attribute Type = "14" Value = "2800"/>
+  </Item>
+  <Item Id="10606" Type="36" Name="轸水戒指" Desc="轸水蚓设计制作的戒指！" Icon="icon_item/item_10606.png" Card="icon_item/item_10606.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "2059"/>
+      <Attribute Type = "6" Value = "40"/>
+  </Item>
+  <Item Id="10607" Type="1" Name="骊山弓" Desc="骊山老母使用的弓箭，后来传给了很多女弟子！" Icon="icon_item/item_10607.png" Card="icon_item/item_10607.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "249"/>
+      <Attribute Type = "7" Value = "20"/>
+      <Suit id = "10016"/>
+  </Item>
+  <Item Id="10608" Type="34" Name="骊山头环" Desc="爱美是女人的天性，骊山老母也不例外，多大年龄也想查朵花！" Icon="icon_item/item_10608.png" Card="icon_item/item_10608.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "107"/>
+      <Attribute Type = "2" Value = "1079"/>
+      <Attribute Type = "9" Value = "28"/>
+      <Suit id = "10016"/>
+  </Item>
+  <Item Id="10609" Type="2" Name="玄女袍" Desc="九天玄女，成仙后穿戴的衣服，纯洁中透露着热情！" Icon="icon_item/item_10609.png" Card="icon_item/item_10609.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "2218"/>
+      <Attribute Type = "6" Value = "40"/>
+      <Suit id = "10017"/>
+  </Item>
+  <Item Id="10610" Type="33" Name="玄女兔" Desc="这只兔子玩偶，还能体现出出少女的青涩和纯洁！" Icon="icon_item/item_10610.png" Card="icon_item/item_10610.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "133"/>
+      <Attribute Type = "2" Value = "501"/>
+      <Attribute Type = "10" Value = "20"/>
+      <Suit id = "10017"/>
+  </Item>
+  <Item Id="10611" Type="35" Name="玄女项链" Desc="九天玄女，成仙后佩戴的项链，尽现高贵和优雅！" Icon="icon_item/item_10611.png" Card="icon_item/item_10611.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "231"/>
+      <Attribute Type = "5" Value = "28"/>
+      <Suit id = "10017"/>
+  </Item>
+  <Item Id="10612" Type="36" Name="玄女戒指" Desc="九天玄女，成仙后佩戴的戒指，尽现高贵和优雅！" Icon="icon_item/item_10612.png" Card="icon_item/item_10612.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "1611"/>
+      <Attribute Type = "16" Value = "28"/>
+      <Suit id = "10017"/>
+  </Item>
+  <Item Id="10613" Type="1" Name="金刚杖" Desc="佛家法器之一，关键时刻可降妖除魔，平常呢，主要还是当拐杖用！" Icon="icon_item/item_10613.png" Card="icon_item/item_10613.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "241"/>
+      <Attribute Type = "9" Value = "28"/>
+      <Suit id = "10018"/>
+  </Item>
+  <Item Id="10614" Type="34" Name="金刚箍" Desc="和尚外出必备服饰，主要是防止头皮晒伤！" Icon="icon_item/item_10614.png" Card="icon_item/item_10614.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "107"/>
+      <Attribute Type = "2" Value = "1076"/>
+      <Attribute Type = "6" Value = "40"/>
+      <Suit id = "10018"/>
+  </Item>
+  <Item Id="10615" Type="2" Name="金刚裟" Desc="佛家法器之一，而且袈裟可是地位的象征，没钱就不要想了！" Icon="icon_item/item_10615.png" Card="icon_item/item_10615.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "2137"/>
+      <Attribute Type = "4" Value = "40"/>
+      <Suit id = "10018"/>
+  </Item>
+  <Item Id="10616" Type="33" Name="不动明王" Desc="只要举起这把武器，没有人再敢动了，谁动你就罚他！" Icon="icon_item/item_10616.png" Card="icon_item/item_10616.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "149"/>
+      <Attribute Type = "2" Value = "560"/>
+      <Attribute Type = "7" Value = "20"/>
+      <Suit id = "10019"/>
+  </Item>
+  <Item Id="10617" Type="35" Name="不动明链" Desc="带上这个项链，随时都可以使用不动明王哦！" Icon="icon_item/item_10617.png" Card="icon_item/item_10617.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "213"/>
+      <Attribute Type = "3" Value = "28"/>
+      <Suit id = "10019"/>
+  </Item>
+  <Item Id="10618" Type="36" Name="不动明戒" Desc="带上这个戒指随时都可以使用不动明王哦！" Icon="icon_item/item_10618.png" Card="icon_item/item_10618.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "1608"/>
+      <Attribute Type = "10" Value = "20"/>
+      <Suit id = "10019"/>
+  </Item>
+  <Item Id="10619" Type="1" Name="玄武拳套" Desc="玄武神兽留下的外壳为材料制作的拳套，威力惊人！" Icon="icon_item/item_10619.png" Card="icon_item/item_10619.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "261"/>
+      <Attribute Type = "5" Value = "28"/>
+      <Suit id = "10020"/>
+  </Item>
+  <Item Id="10620" Type="34" Name="玄武头盔" Desc="玄武神兽留下的外壳为材料制作的头盔，不但防御惊人，而且还有反伤效果！" Icon="icon_item/item_10620.png" Card="icon_item/item_10620.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "99"/>
+      <Attribute Type = "2" Value = "997"/>
+      <Attribute Type = "6" Value = "40"/>
+      <Suit id = "10020"/>
+  </Item>
+  <Item Id="10621" Type="2" Name="玄武甲" Desc="玄武神兽留下的外壳为材料制作的铠甲，不但防御惊人，而且还有反伤效果！" Icon="icon_item/item_10621.png" Card="icon_item/item_10621.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "2115"/>
+      <Attribute Type = "4" Value = "40"/>
+      <Suit id = "10020"/>
+  </Item>
+  <Item Id="10622" Type="33" Name="玄武盾" Desc="玄武神兽留下的外壳为材料制作的盾牌，不但防御惊人，而且还有反伤效果！" Icon="icon_item/item_10622.png" Card="icon_item/item_10622.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "128"/>
+      <Attribute Type = "2" Value = "481"/>
+      <Attribute Type = "16" Value = "28"/>
+      <Suit id = "10020"/>
+  </Item>
+  <Item Id="10623" Type="35" Name="玄武项链" Desc="玄武神兽留下的外壳为材料制作的项链，主要就是为了美观，也有一定的效果！" Icon="icon_item/item_10623.png" Card="icon_item/item_10623.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "231"/>
+      <Attribute Type = "8" Value = "28"/>
+      <Suit id = "10020"/>
+  </Item>
+  <Item Id="10624" Type="36" Name="玄武戒指" Desc="玄武神兽留下的外壳为材料制作的指环，主要就是为了美观，也有一定的效果！" Icon="icon_item/item_10624.png" Card="icon_item/item_10624.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "1477"/>
+      <Attribute Type = "14" Value = "2800"/>
+      <Suit id = "10020"/>
+  </Item>
+  <Item Id="10625" Type="1" Name="修罗之刃" Desc="修罗界常见武器，百步之外杀人于无形中！" Icon="icon_item/item_10625.png" Card="icon_item/item_10625.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "241"/>
+      <Attribute Type = "3" Value = "28"/>
+      <Suit id = "10021"/>
+  </Item>
+  <Item Id="10626" Type="34" Name="修罗之盔" Desc="暗杀者常用的装备，轻便灵巧是最大特点！" Icon="icon_item/item_10626.png" Card="icon_item/item_10626.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "105"/>
+      <Attribute Type = "2" Value = "1054"/>
+      <Attribute Type = "9" Value = "28"/>
+      <Suit id = "10021"/>
+  </Item>
+  <Item Id="10627" Type="2" Name="修罗之裤" Desc="能够帮助暗杀者隐藏自己身份的好装备，轻便灵活，无声无息！" Icon="icon_item/item_10627.png" Card="icon_item/item_10627.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "2131"/>
+      <Attribute Type = "10" Value = "20"/>
+      <Suit id = "10021"/>
+  </Item>
+  <Item Id="10628" Type="33" Name="修罗之羽" Desc="不知道暗杀者为什么要带这个，可能就是为了好看吧！" Icon="icon_item/item_10628.png" Card="icon_item/item_10628.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "141"/>
+      <Attribute Type = "2" Value = "531"/>
+      <Attribute Type = "7" Value = "20"/>
+      <Suit id = "10021"/>
+  </Item>
+  <Item Id="10629" Type="35" Name="修罗之环" Desc="暗杀者常用手环，关键时刻可以偷偷伤敌于无形！" Icon="icon_item/item_10629.png" Card="icon_item/item_10629.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "205"/>
+      <Attribute Type = "13" Value = "2000"/>
+      <Suit id = "10021"/>
+  </Item>
+  <Item Id="10630" Type="36" Name="修罗之戒" Desc="暗杀者常用戒指，关键时刻可以偷偷伤敌于无形！" Icon="icon_item/item_10630.png" Card="icon_item/item_10630.png" Star="6" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "1561"/>
+      <Attribute Type = "15" Value = "20"/>
+      <Suit id = "10021"/>
+  </Item>
+  <Item Id="10701" Type="1" Name="破军之刃" Desc="破军星设计制作的军刀！" Icon="icon_item/item_10701.png" Card="icon_item/item_10701.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "665"/>
+      <Attribute Type = "7" Value = "25"/>
+  </Item>
+  <Item Id="10702" Type="34" Name="贪狼之冠" Desc="贪狼星设计制作的头冠！" Icon="icon_item/item_10702.png" Card="icon_item/item_10702.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "285"/>
+      <Attribute Type = "2" Value = "2851"/>
+      <Attribute Type = "15" Value = "25"/>
+  </Item>
+  <Item Id="10703" Type="2" Name="巨门之甲" Desc="巨门星设计制作的战甲！" Icon="icon_item/item_10703.png" Card="icon_item/item_10703.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "5702"/>
+      <Attribute Type = "16" Value = "35"/>
+  </Item>
+  <Item Id="10704" Type="33" Name="武曲之石" Desc="武曲星设计制作的宝石！" Icon="icon_item/item_10704.png" Card="icon_item/item_10704.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "380"/>
+      <Attribute Type = "2" Value = "1425"/>
+      <Attribute Type = "5" Value = "35"/>
+  </Item>
+  <Item Id="10705" Type="35" Name="廉贞项链" Desc="廉贞星设计制作的项链！" Icon="icon_item/item_10705.png" Card="icon_item/item_10705.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "570"/>
+      <Attribute Type = "3" Value = "35"/>
+  </Item>
+  <Item Id="10706" Type="36" Name="禄存戒指" Desc="禄存星设计制作的戒指！" Icon="icon_item/item_10706.png" Card="icon_item/item_10706.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "4276"/>
+      <Attribute Type = "6" Value = "50"/>
+  </Item>
+  <Item Id="10707" Type="1" Name="天罡剑" Desc="正道诸仙经常使用的宝剑，价格公道易于保养！" Icon="icon_item/item_10707.png" Card="icon_item/item_10707.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "487"/>
+      <Attribute Type = "7" Value = "25"/>
+      <Suit id = "10022"/>
+  </Item>
+  <Item Id="10708" Type="34" Name="天罡盔" Desc="正道诸仙经常使用的盔甲，防御能力一般，主要功能是帅！" Icon="icon_item/item_10708.png" Card="icon_item/item_10708.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "215"/>
+      <Attribute Type = "2" Value = "2158"/>
+      <Attribute Type = "13" Value = "2500"/>
+      <Suit id = "10022"/>
+  </Item>
+  <Item Id="10709" Type="2" Name="金仙铠" Desc="大罗金仙的标配铠甲，连这个都买不起就别自称大罗金仙了！" Icon="icon_item/item_10709.png" Card="icon_item/item_10709.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "4270"/>
+      <Attribute Type = "4" Value = "50"/>
+      <Suit id = "10023"/>
+  </Item>
+  <Item Id="10710" Type="33" Name="金仙盾" Desc="虽然有那个大罗金仙会用它，但是为了帅，都会买！" Icon="icon_item/item_10710.png" Card="icon_item/item_10710.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "268"/>
+      <Attribute Type = "2" Value = "1008"/>
+      <Attribute Type = "6" Value = "50"/>
+      <Suit id = "10023"/>
+  </Item>
+  <Item Id="10711" Type="35" Name="金仙翼" Desc="明明铠甲上有翅膀了还是要再买一副，大罗金仙就是这么浮夸！" Icon="icon_item/item_10711.png" Card="icon_item/item_10711.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "383"/>
+      <Attribute Type = "9" Value = "35"/>
+      <Suit id = "10023"/>
+  </Item>
+  <Item Id="10712" Type="36" Name="金仙球" Desc="出了好看一点用没有的东西，所以它就叫个球了。 Icon！" Icon="icon_item/item_10712.png" Card="icon_item/item_10712.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "3025"/>
+      <Attribute Type = "15" Value = "25"/>
+      <Suit id = "10023"/>
+  </Item>
+  <Item Id="10713" Type="1" Name="真武之枪" Desc="真武大帝设计制作的武器，专门供给自己的军队！" Icon="icon_item/item_10713.png" Card="icon_item/item_10713.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "453"/>
+      <Attribute Type = "3" Value = "35"/>
+      <Suit id = "10024"/>
+  </Item>
+  <Item Id="10714" Type="34" Name="真武之镜" Desc="真武大帝设计的墨镜，没什么卵用就是为了耍帅！" Icon="icon_item/item_10714.png" Card="icon_item/item_10714.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "208"/>
+      <Attribute Type = "2" Value = "2080"/>
+      <Attribute Type = "6" Value = "50"/>
+      <Suit id = "10024"/>
+  </Item>
+  <Item Id="10715" Type="2" Name="真武之衣" Desc="真武大帝的审美也就这样了，没啥用但是人家喜欢！" Icon="icon_item/item_10715.png" Card="icon_item/item_10715.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "4489"/>
+      <Attribute Type = "4" Value = "50"/>
+      <Suit id = "10024"/>
+  </Item>
+  <Item Id="10716" Type="33" Name="死亡魔方" Desc="地狱常玩的游戏，规定时间完成的可以休息，不然就要帮阎王去伐木了！" Icon="icon_item/item_10716.png" Card="icon_item/item_10716.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "462"/>
+      <Attribute Type = "8" Value = "35"/>
+      <Suit id = "10025"/>
+  </Item>
+  <Item Id="10717" Type="35" Name="阎王手铐" Desc="阎王设计的道具，谁不听话就铐谁，判官是第一个体验者！" Icon="icon_item/item_10717.png" Card="icon_item/item_10717.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "3116"/>
+      <Attribute Type = "16" Value = "35"/>
+      <Suit id = "10025"/>
+  </Item>
+  <Item Id="10718" Type="36" Name="鬼门钥匙" Desc="鬼界的入口钥匙，现在都成了人手一把的东西了，也不知道谁卖的！" Icon="icon_item/item_10718.png" Card="icon_item/item_10718.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "300"/>
+      <Attribute Type = "2" Value = "1128"/>
+      <Attribute Type = "9" Value = "35"/>
+      <Suit id = "10025"/>
+  </Item>
+  <Item Id="10719" Type="1" Name="紫微军镖" Desc="紫微大帝部队使用的武器之一，攻击性一般，娱乐性十足！" Icon="icon_item/item_10719.png" Card="icon_item/item_10719.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "495"/>
+      <Attribute Type = "3" Value = "35"/>
+      <Attribute Type = "10" Value = "25"/>
+      <Suit id = "10026"/>
+  </Item>
+  <Item Id="10720" Type="34" Name="紫微军帽" Desc="紫微大帝部队穿戴的军帽，样子十分好看，就是颜色突出！" Icon="icon_item/item_10720.png" Card="icon_item/item_10720.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "230"/>
+      <Attribute Type = "2" Value = "2306"/>
+      <Attribute Type = "5" Value = "35"/>
+      <Attribute Type = "6" Value = "50"/>
+      <Suit id = "10026"/>
+  </Item>
+  <Item Id="10721" Type="2" Name="紫微军裤" Desc="紫微大帝常穿的军裤，十分的潮，就是穿着不好走路！" Icon="icon_item/item_10721.png" Card="icon_item/item_10721.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "4042"/>
+      <Attribute Type = "4" Value = "50"/>
+      <Attribute Type = "16" Value = "35"/>
+      <Suit id = "10026"/>
+  </Item>
+  <Item Id="10722" Type="33" Name="幸运草" Desc="紫微大帝最迷信的幸运物，为了部队人手一株，那真是所过之处，寸草不生！" Icon="icon_item/item_10722.png" Card="icon_item/item_10722.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "279"/>
+      <Attribute Type = "2" Value = "1047"/>
+      <Attribute Type = "8" Value = "35"/>
+      <Attribute Type = "9" Value = "35"/>
+      <Suit id = "10026"/>
+  </Item>
+  <Item Id="10723" Type="35" Name="紫微军环" Desc="迷之绿色的指环，紫微大帝经常佩戴！" Icon="icon_item/item_10723.png" Card="icon_item/item_10723.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "385"/>
+      <Attribute Type = "7" Value = "25"/>
+      <Attribute Type = "13" Value = "2500"/>
+      <Suit id = "10026"/>
+  </Item>
+  <Item Id="10724" Type="36" Name="紫微军戒" Desc="迷之绿色的戒指，紫微大帝经常佩戴！" Icon="icon_item/item_10724.png" Card="icon_item/item_10724.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "2990"/>
+      <Attribute Type = "14" Value = "3500"/>
+      <Attribute Type = "15" Value = "25"/>
+      <Suit id = "10026"/>
+  </Item>
+  <Item Id="10725" Type="1" Name="广寒剑舞" Desc="广寒宫仙子日常用来舞剑的道具，关键时刻也可以打色狼！" Icon="icon_item/item_10725.png" Card="icon_item/item_10725.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "492"/>
+      <Attribute Type = "3" Value = "35"/>
+      <Attribute Type = "5" Value = "35"/>
+      <Suit id = "10027"/>
+  </Item>
+  <Item Id="10726" Type="34" Name="广寒战盔" Desc="广寒宫仙子舞剑时穿的盔甲，美观是首位！" Icon="icon_item/item_10726.png" Card="icon_item/item_10726.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "227"/>
+      <Attribute Type = "2" Value = "2274"/>
+      <Attribute Type = "6" Value = "50"/>
+      <Attribute Type = "8" Value = "35"/>
+      <Suit id = "10027"/>
+  </Item>
+  <Item Id="10727" Type="2" Name="广寒战甲" Desc="广寒宫仙子舞剑时穿的盔甲，美观是首位！" Icon="icon_item/item_10727.png" Card="icon_item/item_10727.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "4412"/>
+      <Attribute Type = "4" Value = "50"/>
+      <Attribute Type = "10" Value = "25"/>
+      <Suit id = "10027"/>
+  </Item>
+  <Item Id="10728" Type="33" Name="广寒月石" Desc="广寒宫仙子特制徽章，也是更衣室的钥匙，猪八戒被贬后制作的！" Icon="icon_item/item_10728.png" Card="icon_item/item_10728.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "301"/>
+      <Attribute Type = "2" Value = "1129"/>
+      <Attribute Type = "7" Value = "25"/>
+      <Attribute Type = "16" Value = "35"/>
+      <Suit id = "10027"/>
+  </Item>
+  <Item Id="10729" Type="35" Name="广寒手环" Desc="广寒宫仙子的手环，没什么用就是好看！" Icon="icon_item/item_10729.png" Card="icon_item/item_10729.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "432"/>
+      <Attribute Type = "9" Value = "35"/>
+      <Attribute Type = "14" Value = "3500"/>
+      <Suit id = "10027"/>
+  </Item>
+  <Item Id="10730" Type="36" Name="广寒戒指" Desc="嫦娥设计制作的戒指，主要作用，防色狼，好像真的很有用！" Icon="icon_item/item_10730.png" Card="icon_item/item_10730.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "3468"/>
+      <Attribute Type = "13" Value = "2500"/>
+      <Attribute Type = "15" Value = "25"/>
+      <Suit id = "10027"/>
+  </Item>
+  <Item Id="10731" Type="1" Name="混元棍" Desc="混元大仙们的常用装备，没事就耍一耍，因此受伤的不在少数！" Icon="icon_item/item_10731.png" Card="icon_item/item_10731.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "493"/>
+      <Attribute Type = "3" Value = "35"/>
+      <Attribute Type = "5" Value = "40"/>
+      <Suit id = "10029"/>
+  </Item>
+  <Item Id="10732" Type="34" Name="混元镜" Desc="混经常看到各位混元大仙带着手舞足蹈，不知道在看什么！" Icon="icon_item/item_10732.png" Card="icon_item/item_10732.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "241"/>
+      <Attribute Type = "2" Value = "2604"/>
+      <Attribute Type = "4" Value = "60"/>
+      <Attribute Type = "16" Value = "40"/>
+      <Suit id = "10029"/>
+  </Item>
+  <Item Id="10733" Type="2" Name="混元袍" Desc="不知何时在混元境界流行的衣服，这没看出哪里好看！" Icon="icon_item/item_10733.png" Card="icon_item/item_10733.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "4612"/>
+      <Attribute Type = "4" Value = "60"/>
+      <Attribute Type = "8" Value = "40"/>
+      <Suit id = "10029"/>
+  </Item>
+  <Item Id="10734" Type="33" Name="混元珠" Desc="混元金仙才能炼化制作的宝珠，没什么实际作用，都是当做饰品！" Icon="icon_item/item_10734.png" Card="icon_item/item_10734.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "285"/>
+      <Attribute Type = "2" Value = "1135"/>
+      <Attribute Type = "7" Value = "30"/>
+      <Attribute Type = "9" Value = "40"/>
+      <Suit id = "10029"/>
+  </Item>
+  <Item Id="10735" Type="35" Name="混元坠" Desc="混元金仙炼化的另一个没用的道具，还把他挂脖子上炫耀！" Icon="icon_item/item_10735.png" Card="icon_item/item_10735.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "411"/>
+      <Attribute Type = "5" Value = "40"/>
+      <Attribute Type = "13" Value = "3000"/>
+      <Suit id = "10029"/>
+  </Item>
+  <Item Id="10736" Type="36" Name="混元戒" Desc="混元金仙炼化的另一个没用的道具，还把他戴在手上炫耀！" Icon="icon_item/item_10736.png" Card="icon_item/item_10736.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "3648"/>
+      <Attribute Type = "14" Value = "4000"/>
+      <Attribute Type = "15" Value = "25"/>
+      <Suit id = "10029"/>
+  </Item>
+  <Item Id="10737" Type="1" Name="道德经" Desc="老子所著经书，本册是西域精装版，弄得和魔法书似的！" Icon="icon_item/item_10737.png" Card="icon_item/item_10737.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "504"/>
+      <Attribute Type = "3" Value = "35"/>
+      <Attribute Type = "7" Value = "30"/>
+      <Suit id = "10030"/>
+  </Item>
+  <Item Id="10738" Type="34" Name="太清冠" Desc="太上老君最近常穿的服饰，好像最近老剧不炼丹了，天天看指环王！" Icon="icon_item/item_10738.png" Card="icon_item/item_10738.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "216"/>
+      <Attribute Type = "2" Value = "2806"/>
+      <Attribute Type = "7" Value = "30"/>
+      <Attribute Type = "9" Value = "40"/>
+      <Suit id = "10030"/>
+  </Item>
+  <Item Id="10739" Type="2" Name="太清袍" Desc="太上老君最近常穿的服饰，好像最近老剧不炼丹了，天天看指环王！" Icon="icon_item/item_10739.png" Card="icon_item/item_10739.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "4249"/>
+      <Attribute Type = "4" Value = "60"/>
+      <Attribute Type = "10" Value = "30"/>
+      <Suit id = "10030"/>
+  </Item>
+  <Item Id="10740" Type="33" Name="庄生蝶" Desc="庄生送给老子的小饰品，怎么送的我就不知道了！" Icon="icon_item/item_10740.png" Card="icon_item/item_10740.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "298"/>
+      <Attribute Type = "2" Value = "1366"/>
+      <Attribute Type = "5" Value = "40"/>
+      <Attribute Type = "16" Value = "40"/>
+      <Suit id = "10030"/>
+  </Item>
+  <Item Id="10741" Type="35" Name="太清环" Desc="老子最新练成的器物，不知道有啥用，他从来不给别人用！" Icon="icon_item/item_10741.png" Card="icon_item/item_10741.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "440"/>
+      <Attribute Type = "6" Value = "60"/>
+      <Attribute Type = "14" Value = "4000"/>
+      <Suit id = "10030"/>
+  </Item>
+  <Item Id="10742" Type="36" Name="太清戒" Desc="老子最新练成的器物，随身携带，寸步不离！" Icon="icon_item/item_10742.png" Card="icon_item/item_10742.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "3343"/>
+      <Attribute Type = "13" Value = "3000"/>
+      <Attribute Type = "15" Value = "25"/>
+      <Suit id = "10030"/>
+  </Item>
+  <Item Id="10743" Type="1" Name="太乙之枪" Desc="太乙金仙很喜欢的一种远程武器，当然不是为了战斗，是为玩真人射击游戏用的！" Icon="icon_item/item_10743.png" Card="icon_item/item_10743.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "550"/>
+      <Attribute Type = "3" Value = "40"/>
+      <Attribute Type = "7" Value = "35"/>
+      <Suit id = "10031"/>
+  </Item>
+  <Item Id="10744" Type="34" Name="太乙之盔" Desc="真人射击游戏的另一个装备，还分等级，三级最高！" Icon="icon_item/item_10744.png" Card="icon_item/item_10744.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "246"/>
+      <Attribute Type = "2" Value = "2785"/>
+      <Attribute Type = "5" Value = "45"/>
+      <Attribute Type = "6" Value = "65"/>
+      <Suit id = "10031"/>
+  </Item>
+  <Item Id="10745" Type="2" Name="太乙之甲" Desc="真人射击游戏的另一个装备，还分等级，三级最高！" Icon="icon_item/item_10745.png" Card="icon_item/item_10745.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "5232"/>
+      <Attribute Type = "4" Value = "70"/>
+      <Attribute Type = "9" Value = "45"/>
+      <Suit id = "10031"/>
+  </Item>
+  <Item Id="10746" Type="33" Name="太乙之翼" Desc="太乙金仙专用飞行器，但是控制不是很好，当神仙风险很大啊！" Icon="icon_item/item_10746.png" Card="icon_item/item_10746.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "328"/>
+      <Attribute Type = "2" Value = "1860"/>
+      <Attribute Type = "8" Value = "45"/>
+      <Attribute Type = "10" Value = "35"/>
+      <Suit id = "10031"/>
+  </Item>
+  <Item Id="10747" Type="35" Name="太乙之石" Desc="为了防止金仙飞的太快所设计的减速装置，但是效果一般！" Icon="icon_item/item_10747.png" Card="icon_item/item_10747.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "448"/>
+      <Attribute Type = "13" Value = "3300"/>
+      <Attribute Type = "16" Value = "45"/>
+      <Suit id = "10031"/>
+  </Item>
+  <Item Id="10748" Type="36" Name="太乙之符" Desc="为了防止金仙撞击损伤太大，特制的减震装备，效果嘛，看看医院就知道了！" Icon="icon_item/item_10748.png" Card="icon_item/item_10748.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "3993"/>
+      <Attribute Type = "14" Value = "4300"/>
+      <Attribute Type = "15" Value = "30"/>
+      <Suit id = "10031"/>
+  </Item>
+  <Item Id="10749" Type="1" Name="玉清剑" Desc="灵宝天尊亲自设计制作的宝剑，样子很好就是有点绿！" Icon="icon_item/item_10749.png" Card="icon_item/item_10749.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "589"/>
+      <Attribute Type = "3" Value = "40"/>
+      <Attribute Type = "9" Value = "45"/>
+      <Suit id = "10032"/>
+  </Item>
+  <Item Id="10750" Type="34" Name="玉清帽" Desc="这帽子，相信没人会带吧，这个也是灵宝天尊的设计！" Icon="icon_item/item_10750.png" Card="icon_item/item_10750.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "236"/>
+      <Attribute Type = "2" Value = "3364"/>
+      <Attribute Type = "7" Value = "35"/>
+      <Attribute Type = "16" Value = "45"/>
+      <Suit id = "10032"/>
+  </Item>
+  <Item Id="10751" Type="2" Name="玉清凯" Desc="依旧是绿色，灵宝天尊不知道为什么这么喜欢这种风格！" Icon="icon_item/item_10751.png" Card="icon_item/item_10751.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "5360"/>
+      <Attribute Type = "4" Value = "70"/>
+      <Attribute Type = "15" Value = "30"/>
+      <Suit id = "10032"/>
+  </Item>
+  <Item Id="10752" Type="33" Name="玉清翼" Desc="连翅膀都是绿色的，传说中的绿上天际的意思吗！" Icon="icon_item/item_10752.png" Card="icon_item/item_10752.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "302"/>
+      <Attribute Type = "2" Value = "1608"/>
+      <Attribute Type = "6" Value = "65"/>
+      <Attribute Type = "10" Value = "35"/>
+      <Suit id = "10032"/>
+  </Item>
+  <Item Id="10753" Type="35" Name="玉清戒" Desc="稍微正常点的戒指，怎么说翡翠戒指有点绿也正常！" Icon="icon_item/item_10753.png" Card="icon_item/item_10753.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "3642"/>
+      <Attribute Type = "8" Value = "45"/>
+      <Attribute Type = "14" Value = "4300"/>
+      <Suit id = "10032"/>
+  </Item>
+  <Item Id="10754" Type="36" Name="玉清珠" Desc="这个宝物也算是个正常的宝物了，可以接受的道具！" Icon="icon_item/item_10754.png" Card="icon_item/item_10754.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "446"/>
+      <Attribute Type = "5" Value = "45"/>
+      <Attribute Type = "13" Value = "3300"/>
+      <Suit id = "10032"/>
+  </Item>
+  <Item Id="10755" Type="1" Name="真仙权杖" Desc="真仙境界使用的权杖，说是激光武器也行！" Icon="icon_item/item_10755.png" Card="icon_item/item_10755.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "634"/>
+      <Attribute Type = "3" Value = "45"/>
+      <Attribute Type = "5" Value = "50"/>
+      <Suit id = "10033"/>
+  </Item>
+  <Item Id="10756" Type="34" Name="真仙之盔" Desc="真仙界使用的头盔，据说这个减震效果比较好，至少不会失忆！" Icon="icon_item/item_10756.png" Card="icon_item/item_10756.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "336"/>
+      <Attribute Type = "2" Value = "3864"/>
+      <Attribute Type = "6" Value = "70"/>
+      <Attribute Type = "7" Value = "40"/>
+      <Suit id = "10033"/>
+  </Item>
+  <Item Id="10757" Type="2" Name="真仙铠甲" Desc="这个铠甲是为了防御权杖开发出来的，效果一般，但是样子很好看！" Icon="icon_item/item_10757.png" Card="icon_item/item_10757.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "5966"/>
+      <Attribute Type = "4" Value = "75"/>
+      <Attribute Type = "8" Value = "50"/>
+      <Suit id = "10033"/>
+  </Item>
+  <Item Id="10758" Type="33" Name="真仙宝石" Desc="真仙用的宝物之一，具体作用不详！" Icon="icon_item/item_10758.png" Card="icon_item/item_10758.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "383"/>
+      <Attribute Type = "2" Value = "2188"/>
+      <Attribute Type = "9" Value = "50"/>
+      <Attribute Type = "10" Value = "40"/>
+      <Suit id = "10033"/>
+  </Item>
+  <Item Id="10759" Type="35" Name="真仙之翼" Desc="真仙用的宝物之一，具体作用不详！" Icon="icon_item/item_10759.png" Card="icon_item/item_10759.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "516"/>
+      <Attribute Type = "14" Value = "4500"/>
+      <Attribute Type = "16" Value = "50"/>
+      <Suit id = "10033"/>
+  </Item>
+  <Item Id="10760" Type="36" Name="真仙图腾" Desc="真仙用的宝物之一，具体作用不详！" Icon="icon_item/item_10760.png" Card="icon_item/item_10760.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "3382"/>
+      <Attribute Type = "13" Value = "3500"/>
+      <Attribute Type = "15" Value = "35"/>
+      <Suit id = "10033"/>
+  </Item>
+  <Item Id="10761" Type="1" Name="佛祖法剑" Desc="佛界新潮玩具，敲木鱼、敲钟、敲人都好用！" Icon="icon_item/item_10761.png" Card="icon_item/item_10761.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "622"/>
+      <Attribute Type = "3" Value = "45"/>
+      <Attribute Type = "7" Value = "40"/>
+      <Suit id = "10034"/>
+  </Item>
+  <Item Id="10762" Type="34" Name="佛祖法盔" Desc="为了不被别人敲，专门设计的头盔，垃圾箱里经常看到被敲碎的！" Icon="icon_item/item_10762.png" Card="icon_item/item_10762.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "318"/>
+      <Attribute Type = "2" Value = "3264"/>
+      <Attribute Type = "6" Value = "70"/>
+      <Attribute Type = "9" Value = "50"/>
+      <Suit id = "10034"/>
+  </Item>
+  <Item Id="10763" Type="2" Name="佛祖法铠" Desc="为了不被别人敲，专门设计的铠甲，垃圾箱里经常看到被敲碎的！" Icon="icon_item/item_10763.png" Card="icon_item/item_10763.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "6366"/>
+      <Attribute Type = "4" Value = "75"/>
+      <Attribute Type = "10" Value = "40"/>
+      <Suit id = "10034"/>
+  </Item>
+  <Item Id="10764" Type="33" Name="佛祖法翼" Desc="佛界的飞行玩具，虽然飞的慢，但至少不要人命！" Icon="icon_item/item_10764.png" Card="icon_item/item_10764.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "385"/>
+      <Attribute Type = "2" Value = "2608"/>
+      <Attribute Type = "5" Value = "50"/>
+      <Attribute Type = "8" Value = "50"/>
+      <Suit id = "10034"/>
+  </Item>
+  <Item Id="10765" Type="35" Name="佛祖法器" Desc="佛界潮玩之一，具体作用不详！" Icon="icon_item/item_10765.png" Card="icon_item/item_10765.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "1" Value = "509"/>
+      <Attribute Type = "14" Value = "4500"/>
+      <Attribute Type = "15" Value = "35"/>
+      <Suit id = "10034"/>
+  </Item>
+  <Item Id="10766" Type="36" Name="佛祖法心" Desc="据说成佛之人炼化出来的凡人之心！" Icon="icon_item/item_10766.png" Card="icon_item/item_10766.png" Star="7" RankMax="10" Cost="100" Stack="1" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "2" Value = "3442"/>
+      <Attribute Type = "13" Value = "3500"/>
+      <Attribute Type = "16" Value = "50"/>
+      <Suit id = "10034"/>
+  </Item>
+  <Item Id="11301" Type="11" Name="巨门斧碎片" Desc="5个巨门斧碎片可以合成一个巨门斧" Icon="icon_item/item_10301.png" Card="icon_item/item_10301.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10301" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11302" Type="12" Name="贪狼头盔碎片" Desc="5个贪狼头盔碎片可以合成一个贪狼头盔" Icon="icon_item/item_10302.png" Card="icon_item/item_10302.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10302" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11303" Type="13" Name="天相披风碎片" Desc="5个天相披风碎片可以合成一个天相披风" Icon="icon_item/item_10303.png" Card="icon_item/item_10303.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10303" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11304" Type="14" Name="天机硬币碎片" Desc="5个天机硬币碎片可以合成一个天机硬币" Icon="icon_item/item_10304.png" Card="icon_item/item_10304.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10304" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11305" Type="15" Name="文曲项链碎片" Desc="5个文曲项链碎片可以合成一个文曲项链" Icon="icon_item/item_10305.png" Card="icon_item/item_10305.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10305" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11306" Type="16" Name="七杀戒指碎片" Desc="5个七杀戒指碎片可以合成一个七杀戒指" Icon="icon_item/item_10306.png" Card="icon_item/item_10306.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10306" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11307" Type="11" Name="紫苑之杖碎片" Desc="5个紫苑之杖碎片可以合成一个紫苑之杖" Icon="icon_item/item_10307.png" Card="icon_item/item_10307.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10307" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11308" Type="12" Name="茶花之冠碎片" Desc="5个茶花之冠碎片可以合成一个茶花之冠" Icon="icon_item/item_10308.png" Card="icon_item/item_10308.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10308" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11309" Type="13" Name="朱雀锦袍碎片" Desc="5个朱雀锦袍碎片可以合成一个朱雀锦袍" Icon="icon_item/item_10309.png" Card="icon_item/item_10309.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10309" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11310" Type="14" Name="朱雀头饰碎片" Desc="5个朱雀头饰碎片可以合成一个朱雀头饰" Icon="icon_item/item_10310.png" Card="icon_item/item_10310.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10310" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11311" Type="15" Name="朱雀项链碎片" Desc="5个朱雀项链碎片可以合成一个朱雀项链" Icon="icon_item/item_10311.png" Card="icon_item/item_10311.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10311" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11312" Type="16" Name="朱雀戒指碎片" Desc="5个朱雀戒指碎片可以合成一个朱雀戒指" Icon="icon_item/item_10312.png" Card="icon_item/item_10312.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10312" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11313" Type="11" Name="阎王斧碎片" Desc="5个阎王斧碎片可以合成一个阎王斧" Icon="icon_item/item_10313.png" Card="icon_item/item_10313.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10313" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11314" Type="12" Name="阎王枷碎片" Desc="5个阎王枷碎片可以合成一个阎王枷" Icon="icon_item/item_10314.png" Card="icon_item/item_10314.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10314" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11315" Type="13" Name="地狱服碎片" Desc="5个地狱服碎片可以合成一个地狱服" Icon="icon_item/item_10315.png" Card="icon_item/item_10315.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10315" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11316" Type="14" Name="灭太岁碎片" Desc="5个灭太岁碎片可以合成一个灭太岁" Icon="icon_item/item_10316.png" Card="icon_item/item_10316.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10316" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11317" Type="15" Name="六丁项链碎片" Desc="5个六丁项链碎片可以合成一个六丁项链" Icon="icon_item/item_10317.png" Card="icon_item/item_10317.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10317" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11318" Type="16" Name="六甲戒指碎片" Desc="5个六甲戒指碎片可以合成一个六甲戒指" Icon="icon_item/item_10318.png" Card="icon_item/item_10318.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10318" ComposeNeedNum="5">
+  </Item>
+  <Item Id="11401" Type="11" Name="亢金拳套碎片" Desc="10个亢金拳套碎片可以合成一个亢金拳套" Icon="icon_item/item_10401.png" Card="icon_item/item_10401.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10401" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11402" Type="12" Name="氐土头环碎片" Desc="10个氐土头环碎片可以合成一个氐土头环" Icon="icon_item/item_10402.png" Card="icon_item/item_10402.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10402" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11403" Type="13" Name="房日短裤碎片" Desc="10个房日短裤碎片可以合成一个房日短裤" Icon="icon_item/item_10403.png" Card="icon_item/item_10403.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10403" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11404" Type="14" Name="心月腰带碎片" Desc="10个心月腰带碎片可以合成一个心月腰带" Icon="icon_item/item_10404.png" Card="icon_item/item_10404.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10404" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11405" Type="15" Name="尾火项链碎片" Desc="10个尾火项链碎片可以合成一个尾火项链" Icon="icon_item/item_10405.png" Card="icon_item/item_10405.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10405" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11406" Type="16" Name="箕水戒指碎片" Desc="10个箕水戒指碎片可以合成一个箕水戒指" Icon="icon_item/item_10406.png" Card="icon_item/item_10406.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10406" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11407" Type="11" Name="玉女鞭碎片" Desc="10个玉女鞭碎片可以合成一个玉女鞭" Icon="icon_item/item_10407.png" Card="icon_item/item_10407.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10407" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11408" Type="12" Name="玉女冠碎片" Desc="10个玉女冠碎片可以合成一个玉女冠" Icon="icon_item/item_10408.png" Card="icon_item/item_10408.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10408" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11409" Type="13" Name="素心衣碎片" Desc="10个素心衣碎片可以合成一个素心衣" Icon="icon_item/item_10409.png" Card="icon_item/item_10409.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10409" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11410" Type="14" Name="素心蝶碎片" Desc="10个素心蝶碎片可以合成一个素心蝶" Icon="icon_item/item_10410.png" Card="icon_item/item_10410.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10410" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11411" Type="15" Name="素心项链碎片" Desc="10个素心项链碎片可以合成一个素心项链" Icon="icon_item/item_10411.png" Card="icon_item/item_10411.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10411" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11412" Type="16" Name="素心戒指碎片" Desc="10个素心戒指碎片可以合成一个素心戒指" Icon="icon_item/item_10412.png" Card="icon_item/item_10412.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10412" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11413" Type="11" Name="妙音歌碎片" Desc="10个妙音歌碎片可以合成一个妙音歌" Icon="icon_item/item_10413.png" Card="icon_item/item_10413.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10413" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11414" Type="12" Name="妙音发簪碎片" Desc="10个妙音发簪碎片可以合成一个妙音发簪" Icon="icon_item/item_10414.png" Card="icon_item/item_10414.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10414" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11415" Type="13" Name="妙音服碎片" Desc="10个妙音服碎片可以合成一个妙音服" Icon="icon_item/item_10415.png" Card="icon_item/item_10415.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10415" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11416" Type="14" Name="逍遥琴碎片" Desc="10个逍遥琴碎片可以合成一个逍遥琴" Icon="icon_item/item_10416.png" Card="icon_item/item_10416.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10416" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11417" Type="15" Name="逍遥项链碎片" Desc="10个逍遥项链碎片可以合成一个逍遥项链" Icon="icon_item/item_10417.png" Card="icon_item/item_10417.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10417" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11418" Type="16" Name="逍遥翼碎片" Desc="10个逍遥翼碎片可以合成一个逍遥翼" Icon="icon_item/item_10418.png" Card="icon_item/item_10418.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10418" ComposeNeedNum="10">
+  </Item>
+  <Item Id="11501" Type="11" Name="牛金糖碎片" Desc="20个牛金糖碎片可以合成一个牛金糖" Icon="icon_item/item_10501.png" Card="icon_item/item_10501.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10501" ComposeNeedNum="20">
+  </Item>
+  <Item Id="11502" Type="12" Name="女土帽碎片" Desc="20个女土帽碎片可以合成一个女土帽" Icon="icon_item/item_10502.png" Card="icon_item/item_10502.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10502" ComposeNeedNum="20">
+  </Item>
+  <Item Id="11503" Type="13" Name="虚日长衣碎片" Desc="20个虚日长衣碎片可以合成一个虚日长衣" Icon="icon_item/item_10503.png" Card="icon_item/item_10503.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10503" ComposeNeedNum="20">
+  </Item>
+  <Item Id="11504" Type="14" Name="危月胸针碎片" Desc="20个危月胸针碎片可以合成一个危月胸针" Icon="icon_item/item_10504.png" Card="icon_item/item_10504.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10504" ComposeNeedNum="20">
+  </Item>
+  <Item Id="11505" Type="15" Name="避水项链碎片" Desc="20个避水项链碎片可以合成一个避水项链" Icon="icon_item/item_10505.png" Card="icon_item/item_10505.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10505" ComposeNeedNum="20">
+  </Item>
+  <Item Id="11506" Type="16" Name="室火戒指碎片" Desc="20个室火戒指碎片可以合成一个室火戒指" Icon="icon_item/item_10506.png" Card="icon_item/item_10506.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10506" ComposeNeedNum="20">
+  </Item>
+  <Item Id="11507" Type="11" Name="玄女刀碎片" Desc="25个玄女刀碎片可以合成一个玄女刀" Icon="icon_item/item_10507.png" Card="icon_item/item_10507.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10507" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11508" Type="12" Name="玄女面罩碎片" Desc="25个玄女面罩碎片可以合成一个玄女面罩" Icon="icon_item/item_10508.png" Card="icon_item/item_10508.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10508" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11509" Type="13" Name="紫虚锦袍碎片" Desc="25个紫虚锦袍碎片可以合成一个紫虚锦袍" Icon="icon_item/item_10509.png" Card="icon_item/item_10509.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10509" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11510" Type="14" Name="紫虚耳坠碎片" Desc="25个紫虚耳坠碎片可以合成一个紫虚耳坠" Icon="icon_item/item_10510.png" Card="icon_item/item_10510.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10510" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11511" Type="15" Name="紫虚项链碎片" Desc="25个紫虚项链碎片可以合成一个紫虚项链" Icon="icon_item/item_10511.png" Card="icon_item/item_10511.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10511" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11512" Type="16" Name="紫虚手镯碎片" Desc="25个紫虚手镯碎片可以合成一个紫虚手镯" Icon="icon_item/item_10512.png" Card="icon_item/item_10512.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10512" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11513" Type="11" Name="判官锯碎片" Desc="25个判官锯碎片可以合成一个判官锯" Icon="icon_item/item_10513.png" Card="icon_item/item_10513.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10513" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11514" Type="12" Name="判官帽碎片" Desc="25个判官帽碎片可以合成一个判官帽" Icon="icon_item/item_10514.png" Card="icon_item/item_10514.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10514" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11515" Type="13" Name="涂山衣碎片" Desc="25个涂山衣碎片可以合成一个涂山衣" Icon="icon_item/item_10515.png" Card="icon_item/item_10515.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10515" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11516" Type="14" Name="涂山礼碎片" Desc="25个涂山礼碎片可以合成一个涂山礼" Icon="icon_item/item_10516.png" Card="icon_item/item_10516.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10516" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11517" Type="15" Name="涂山巾碎片" Desc="25个涂山巾碎片可以合成一个涂山巾" Icon="icon_item/item_10517.png" Card="icon_item/item_10517.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10517" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11518" Type="16" Name="涂山手碎片" Desc="25个涂山手碎片可以合成一个涂山手" Icon="icon_item/item_10518.png" Card="icon_item/item_10518.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10518" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11519" Type="11" Name="娄金剑碎片" Desc="25个娄金剑碎片可以合成一个娄金剑" Icon="icon_item/item_10519.png" Card="icon_item/item_10519.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10519" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11520" Type="12" Name="胃土眼罩碎片" Desc="25个胃土眼罩碎片可以合成一个胃土眼罩" Icon="icon_item/item_10520.png" Card="icon_item/item_10520.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10520" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11521" Type="13" Name="昴日服碎片" Desc="25个昴日服碎片可以合成一个昴日服" Icon="icon_item/item_10521.png" Card="icon_item/item_10521.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10521" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11522" Type="14" Name="毕月钥匙碎片" Desc="25个毕月钥匙碎片可以合成一个毕月钥匙" Icon="icon_item/item_10522.png" Card="icon_item/item_10522.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10522" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11523" Type="15" Name="觜火项链碎片" Desc="25个觜火项链碎片可以合成一个觜火项链" Icon="icon_item/item_10523.png" Card="icon_item/item_10523.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10523" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11524" Type="16" Name="参水戒指碎片" Desc="25个参水戒指碎片可以合成一个参水戒指" Icon="icon_item/item_10524.png" Card="icon_item/item_10524.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10524" ComposeNeedNum="25">
+  </Item>
+  <Item Id="11601" Type="11" Name="鬼金琴碎片" Desc="45个鬼金琴碎片可以合成一个鬼金琴" Icon="icon_item/item_10601.png" Card="icon_item/item_10601.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10601" ComposeNeedNum="45">
+  </Item>
+  <Item Id="11602" Type="12" Name="柳土帽碎片" Desc="45个柳土帽碎片可以合成一个柳土帽" Icon="icon_item/item_10602.png" Card="icon_item/item_10602.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10602" ComposeNeedNum="45">
+  </Item>
+  <Item Id="11603" Type="13" Name="星日披肩碎片" Desc="45个星日披肩碎片可以合成一个星日披肩" Icon="icon_item/item_10603.png" Card="icon_item/item_10603.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10603" ComposeNeedNum="45">
+  </Item>
+  <Item Id="11604" Type="14" Name="张月扇碎片" Desc="45个张月扇碎片可以合成一个张月扇" Icon="icon_item/item_10604.png" Card="icon_item/item_10604.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10604" ComposeNeedNum="45">
+  </Item>
+  <Item Id="11605" Type="15" Name="翼火项链碎片" Desc="45个翼火项链碎片可以合成一个翼火项链" Icon="icon_item/item_10605.png" Card="icon_item/item_10605.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10605" ComposeNeedNum="45">
+  </Item>
+  <Item Id="11606" Type="16" Name="轸水戒指碎片" Desc="45个轸水戒指碎片可以合成一个轸水戒指" Icon="icon_item/item_10606.png" Card="icon_item/item_10606.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10606" ComposeNeedNum="45">
+  </Item>
+  <Item Id="11607" Type="11" Name="骊山弓碎片" Desc="50个骊山弓碎片可以合成一个骊山弓" Icon="icon_item/item_10607.png" Card="icon_item/item_10607.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10607" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11608" Type="12" Name="骊山头环碎片" Desc="50个骊山头环碎片可以合成一个骊山头环" Icon="icon_item/item_10608.png" Card="icon_item/item_10608.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10608" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11609" Type="13" Name="玄女袍碎片" Desc="50个玄女袍碎片可以合成一个玄女袍" Icon="icon_item/item_10609.png" Card="icon_item/item_10609.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10609" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11610" Type="14" Name="玄女兔碎片" Desc="50个玄女兔碎片可以合成一个玄女兔" Icon="icon_item/item_10610.png" Card="icon_item/item_10610.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10610" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11611" Type="15" Name="玄女项链碎片" Desc="50个玄女项链碎片可以合成一个玄女项链" Icon="icon_item/item_10611.png" Card="icon_item/item_10611.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10611" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11612" Type="16" Name="玄女戒指碎片" Desc="50个玄女戒指碎片可以合成一个玄女戒指" Icon="icon_item/item_10612.png" Card="icon_item/item_10612.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10612" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11613" Type="11" Name="金刚杖碎片" Desc="50个金刚杖碎片可以合成一个金刚杖" Icon="icon_item/item_10613.png" Card="icon_item/item_10613.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10613" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11614" Type="12" Name="金刚箍碎片" Desc="50个金刚箍碎片可以合成一个金刚箍" Icon="icon_item/item_10614.png" Card="icon_item/item_10614.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10614" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11615" Type="13" Name="金刚裟碎片" Desc="50个金刚裟碎片可以合成一个金刚裟" Icon="icon_item/item_10615.png" Card="icon_item/item_10615.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10615" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11616" Type="14" Name="不动明王碎片" Desc="50个不动明王碎片的葱个不动明王" Icon="icon_item/item_10616.png" Card="icon_item/item_10616.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10616" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11617" Type="15" Name="不动明链碎片" Desc="50个不动明链碎片可以合成一个不动明链" Icon="icon_item/item_10617.png" Card="icon_item/item_10617.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10617" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11618" Type="16" Name="不动明戒碎片" Desc="50个不动明戒碎片可以合成一个不动明戒" Icon="icon_item/item_10618.png" Card="icon_item/item_10618.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10618" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11619" Type="11" Name="玄武拳套碎片" Desc="50个玄武拳套碎片可以合成一个玄武拳套" Icon="icon_item/item_10619.png" Card="icon_item/item_10619.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10619" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11620" Type="12" Name="玄武头盔碎片" Desc="50个玄武头盔碎片可以合成一个玄武头盔" Icon="icon_item/item_10620.png" Card="icon_item/item_10620.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10620" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11621" Type="13" Name="玄武甲碎片" Desc="50个玄武甲碎片可以合成一个玄武甲" Icon="icon_item/item_10621.png" Card="icon_item/item_10621.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10621" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11622" Type="14" Name="玄武盾碎片" Desc="50个玄武盾碎片可以合成一个玄武盾" Icon="icon_item/item_10622.png" Card="icon_item/item_10622.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10622" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11623" Type="15" Name="玄武项链碎片" Desc="50个玄武项链碎片可以合成一个玄武项链" Icon="icon_item/item_10623.png" Card="icon_item/item_10623.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10623" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11624" Type="16" Name="玄武戒指碎片" Desc="50个玄武戒指碎片可以合成一个玄武戒指" Icon="icon_item/item_10624.png" Card="icon_item/item_10624.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10624" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11625" Type="11" Name="修罗之刃碎片" Desc="50个修罗之刃碎片可以合成一个修罗之刃" Icon="icon_item/item_10625.png" Card="icon_item/item_10625.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10625" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11626" Type="12" Name="修罗之盔碎片" Desc="50个修罗之盔碎片可以合成一个修罗之盔" Icon="icon_item/item_10626.png" Card="icon_item/item_10626.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10626" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11627" Type="13" Name="修罗之裤碎片" Desc="50个修罗之裤碎片可以合成一个修罗之裤" Icon="icon_item/item_10627.png" Card="icon_item/item_10627.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10627" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11628" Type="14" Name="修罗之羽碎片" Desc="50个修罗之羽碎片可以合成一个修罗之羽" Icon="icon_item/item_10628.png" Card="icon_item/item_10628.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10628" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11629" Type="15" Name="修罗之环碎片" Desc="50个修罗之环碎片可以合成一个修罗之环" Icon="icon_item/item_10629.png" Card="icon_item/item_10629.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10629" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11630" Type="16" Name="修罗之戒碎片" Desc="50个修罗之戒碎片可以合成一个修罗之戒" Icon="icon_item/item_10630.png" Card="icon_item/item_10630.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10630" ComposeNeedNum="50">
+  </Item>
+  <Item Id="11701" Type="11" Name="破军之刃碎片" Desc="100个破军之刃碎片可以合成一个破军之刃" Icon="icon_item/item_10701.png" Card="icon_item/item_10701.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10701" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11702" Type="12" Name="贪狼之冠碎片" Desc="100个贪狼之冠碎片可以合成一个贪狼之冠" Icon="icon_item/item_10702.png" Card="icon_item/item_10702.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10702" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11703" Type="13" Name="巨门之甲碎片" Desc="100个巨门之甲碎片可以合成一个巨门之甲" Icon="icon_item/item_10703.png" Card="icon_item/item_10703.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10703" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11704" Type="14" Name="武曲之石碎片" Desc="100个武曲之石碎片武曲之石" Icon="icon_item/item_10704.png" Card="icon_item/item_10704.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10704" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11705" Type="15" Name="廉贞项链碎片" Desc="100个廉贞项链碎片可以合成一个廉贞项链" Icon="icon_item/item_10705.png" Card="icon_item/item_10705.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10705" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11706" Type="16" Name="禄存戒指碎片" Desc="100个禄存戒指碎片可以合成一个禄存戒指" Icon="icon_item/item_10706.png" Card="icon_item/item_10706.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10706" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11707" Type="11" Name="天罡剑碎片" Desc="100个天罡剑碎片可以合成一个天罡剑" Icon="icon_item/item_10707.png" Card="icon_item/item_10707.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10707" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11708" Type="12" Name="天罡盔碎片" Desc="100个天罡盔碎片可以合成一个天罡盔" Icon="icon_item/item_10708.png" Card="icon_item/item_10708.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10708" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11709" Type="13" Name="金仙铠碎片" Desc="100个金仙铠碎片可以合成一个金仙铠" Icon="icon_item/item_10709.png" Card="icon_item/item_10709.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10709" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11710" Type="14" Name="金仙盾碎片" Desc="100个金仙盾碎片可以合成一个金仙盾" Icon="icon_item/item_10710.png" Card="icon_item/item_10710.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10710" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11711" Type="15" Name="金仙翼碎片" Desc="100个金仙翼碎片可以合成一个金仙翼" Icon="icon_item/item_10711.png" Card="icon_item/item_10711.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10711" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11712" Type="16" Name="金仙球碎片" Desc="100个金仙球碎片可以合成一个金仙球" Icon="icon_item/item_10712.png" Card="icon_item/item_10712.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10712" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11713" Type="11" Name="真武之枪碎片" Desc="100个真武之枪碎片可以合成一个真武之枪" Icon="icon_item/item_10713.png" Card="icon_item/item_10713.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10713" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11714" Type="12" Name="真武之镜碎片" Desc="100个真武之镜碎片可以合成一个真武之镜" Icon="icon_item/item_10714.png" Card="icon_item/item_10714.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10714" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11715" Type="13" Name="真武之衣碎片" Desc="100个真武之衣碎片可以合成一个真武之衣" Icon="icon_item/item_10715.png" Card="icon_item/item_10715.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10715" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11716" Type="14" Name="死亡魔方碎片" Desc="100个死亡魔方碎片可以合成一个死亡魔方" Icon="icon_item/item_10716.png" Card="icon_item/item_10716.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10716" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11717" Type="15" Name="阎王手铐碎片" Desc="100个阎王手铐碎片可以合成一个阎王手铐" Icon="icon_item/item_10717.png" Card="icon_item/item_10717.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10717" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11718" Type="16" Name="鬼门钥匙碎片" Desc="100个鬼门钥匙碎片可以合成一个鬼门钥匙" Icon="icon_item/item_10718.png" Card="icon_item/item_10718.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10718" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11719" Type="11" Name="紫微军镖碎片" Desc="100个紫微军镖碎片可以合成一个紫微军镖" Icon="icon_item/item_10719.png" Card="icon_item/item_10719.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10719" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11720" Type="12" Name="紫微军帽碎片" Desc="100个紫微军帽碎片可以合成一个紫微军帽" Icon="icon_item/item_10720.png" Card="icon_item/item_10720.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10720" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11721" Type="13" Name="紫微军裤碎片" Desc="100个紫微军裤碎片可以合成一个紫微军裤" Icon="icon_item/item_10721.png" Card="icon_item/item_10721.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10721" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11722" Type="14" Name="幸运草碎片" Desc="100个幸运草碎片可以合成一个幸运草" Icon="icon_item/item_10722.png" Card="icon_item/item_10722.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10722" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11723" Type="15" Name="紫微军环碎片" Desc="100个紫微军环碎片可以合成一个紫微军环" Icon="icon_item/item_10723.png" Card="icon_item/item_10723.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10723" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11724" Type="16" Name="紫微军戒碎片" Desc="100个紫微军戒碎片可以合成一个紫微军戒" Icon="icon_item/item_10724.png" Card="icon_item/item_10724.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10724" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11725" Type="11" Name="广寒剑舞碎片" Desc="100个广寒剑舞碎片可以合成一个广寒剑舞" Icon="icon_item/item_10725.png" Card="icon_item/item_10725.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10725" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11726" Type="12" Name="广寒战盔碎片" Desc="100个广寒战盔碎片可以合成一个广寒战盔" Icon="icon_item/item_10726.png" Card="icon_item/item_10726.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10726" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11727" Type="13" Name="广寒战甲碎片" Desc="100个广寒战甲碎片可以合成一个广寒战甲" Icon="icon_item/item_10727.png" Card="icon_item/item_10727.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10727" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11728" Type="14" Name="广寒月石碎片" Desc="100个广寒月石碎片可以合成一个广寒月石" Icon="icon_item/item_10728.png" Card="icon_item/item_10728.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10728" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11729" Type="15" Name="广寒手环碎片" Desc="100个广寒手环碎片可以合成一个广寒手环" Icon="icon_item/item_10729.png" Card="icon_item/item_10729.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10729" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11730" Type="16" Name="广寒戒指碎片" Desc="100个广寒戒指碎片可以合成一个广寒戒指" Icon="icon_item/item_10730.png" Card="icon_item/item_10730.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10730" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11731" Type="11" Name="混元棍碎片" Desc="100个混元棍碎片可以合成一个混元棍" Icon="icon_item/item_10731.png" Card="icon_item/item_10731.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10731" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11732" Type="12" Name="混元镜碎片" Desc="100个混元镜碎片可以合成一个混元镜" Icon="icon_item/item_10732.png" Card="icon_item/item_10732.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10732" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11733" Type="13" Name="混元袍碎片" Desc="100个混元袍碎片可以合成一个混元袍" Icon="icon_item/item_10733.png" Card="icon_item/item_10733.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10733" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11734" Type="14" Name="混元珠碎片" Desc="100个混元珠碎片可以合成一个混元珠" Icon="icon_item/item_10734.png" Card="icon_item/item_10734.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10734" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11735" Type="15" Name="混元镖碎片" Desc="100个混元镖碎片可以合成一个混元镖" Icon="icon_item/item_10735.png" Card="icon_item/item_10735.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10735" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11736" Type="16" Name="混元戒碎片" Desc="100个混元戒碎片可以合成一个混元戒" Icon="icon_item/item_10736.png" Card="icon_item/item_10736.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10736" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11737" Type="11" Name="道德经碎片" Desc="100个道德经碎片可以合成一个道德经" Icon="icon_item/item_10737.png" Card="icon_item/item_10737.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10737" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11738" Type="12" Name="太清冠碎片" Desc="100个太清冠碎片可以合成一个太清冠" Icon="icon_item/item_10738.png" Card="icon_item/item_10738.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10738" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11739" Type="13" Name="太清袍碎片" Desc="100个太清袍碎片可以合成一个太清袍" Icon="icon_item/item_10739.png" Card="icon_item/item_10739.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10739" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11740" Type="14" Name="庄生蝶碎片" Desc="100个庄生蝶碎片可以合成一个庄生蝶" Icon="icon_item/item_10740.png" Card="icon_item/item_10740.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10740" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11741" Type="15" Name="太清环碎片" Desc="100个太清环碎片可以合成一个太清环" Icon="icon_item/item_10741.png" Card="icon_item/item_10741.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10741" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11742" Type="16" Name="太清戒碎片" Desc="100个太清戒碎片可以合成一个太清戒" Icon="icon_item/item_10742.png" Card="icon_item/item_10742.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10742" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11743" Type="11" Name="太乙之枪碎片" Desc="100个太乙之枪碎片可以合成一个太乙之枪" Icon="icon_item/item_10743.png" Card="icon_item/item_10743.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10743" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11744" Type="12" Name="太乙之盔碎片" Desc="100个太乙之盔碎片可以合成一个太乙之盔" Icon="icon_item/item_10744.png" Card="icon_item/item_10744.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10744" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11745" Type="13" Name="太乙之甲碎片" Desc="100个太乙之甲碎片可以合成一个太乙之甲" Icon="icon_item/item_10745.png" Card="icon_item/item_10745.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10745" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11746" Type="14" Name="太乙之翼碎片" Desc="100个太乙之翼碎片可以合成一个太乙之翼" Icon="icon_item/item_10746.png" Card="icon_item/item_10746.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10746" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11747" Type="15" Name="太乙之石碎片" Desc="100个太乙之石碎片可以合成一个太乙之石" Icon="icon_item/item_10747.png" Card="icon_item/item_10747.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10747" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11748" Type="16" Name="太乙之符碎片" Desc="100个太乙之符碎片可以合成一个太乙之符" Icon="icon_item/item_10748.png" Card="icon_item/item_10748.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10748" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11749" Type="11" Name="玉清剑碎片" Desc="100个玉清剑碎片可以合成一个玉清剑" Icon="icon_item/item_10749.png" Card="icon_item/item_10749.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10749" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11750" Type="12" Name="玉清帽碎片" Desc="100个玉清帽碎片可以合成一个玉清帽" Icon="icon_item/item_10750.png" Card="icon_item/item_10750.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10750" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11751" Type="13" Name="玉清凯碎片" Desc="100个玉清凯碎片可以合成一个玉清凯" Icon="icon_item/item_10751.png" Card="icon_item/item_10751.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10751" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11752" Type="14" Name="玉清翼碎片" Desc="100个玉清翼碎片可以合成一个玉清翼" Icon="icon_item/item_10752.png" Card="icon_item/item_10752.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10752" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11753" Type="15" Name="玉清戒碎片" Desc="100个玉清戒碎片可以合成一个玉清戒" Icon="icon_item/item_10753.png" Card="icon_item/item_10753.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10753" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11754" Type="16" Name="玉清珠碎片" Desc="100个玉清珠碎片可以合成一个玉清珠" Icon="icon_item/item_10754.png" Card="icon_item/item_10754.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10754" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11755" Type="11" Name="真仙权杖碎片" Desc="100个真仙权杖碎片可以合成一个真仙权杖" Icon="icon_item/item_10755.png" Card="icon_item/item_10755.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10755" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11756" Type="12" Name="真仙之盔碎片" Desc="100个真仙之盔碎片可以合成一个真仙之盔" Icon="icon_item/item_10756.png" Card="icon_item/item_10756.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10756" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11757" Type="13" Name="真仙铠甲碎片" Desc="100个真仙铠甲碎片可以合成一个真仙铠甲" Icon="icon_item/item_10757.png" Card="icon_item/item_10757.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10757" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11758" Type="14" Name="真仙宝石碎片" Desc="100个真仙宝石碎片可以合成一个真仙宝石" Icon="icon_item/item_10758.png" Card="icon_item/item_10758.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10758" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11759" Type="15" Name="真仙之翼碎片" Desc="100个真仙之翼碎片可以合成一个真仙之翼" Icon="icon_item/item_10759.png" Card="icon_item/item_10759.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10759" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11760" Type="16" Name="真仙图腾碎片" Desc="100个真仙图腾碎片可以合成一个真仙图腾" Icon="icon_item/item_10760.png" Card="icon_item/item_10760.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10760" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11761" Type="11" Name="佛祖法剑碎片" Desc="100个佛祖法剑碎片可以合成一个佛祖法剑" Icon="icon_item/item_10761.png" Card="icon_item/item_10761.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10761" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11762" Type="12" Name="佛祖法盔碎片" Desc="100个佛祖法盔碎片可以合成一个佛祖法盔" Icon="icon_item/item_10762.png" Card="icon_item/item_10762.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10762" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11763" Type="13" Name="佛祖法铠碎片" Desc="100个佛祖法铠碎片可以合成一个佛祖法铠" Icon="icon_item/item_10763.png" Card="icon_item/item_10763.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10763" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11764" Type="14" Name="佛祖法翼碎片" Desc="100个佛祖法翼碎片可以合成一个佛祖法翼" Icon="icon_item/item_10764.png" Card="icon_item/item_10764.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10764" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11765" Type="15" Name="佛祖法器碎片" Desc="100个佛祖法器碎片可以合成一个佛祖法器" Icon="icon_item/item_10765.png" Card="icon_item/item_10765.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10765" ComposeNeedNum="100">
+  </Item>
+  <Item Id="11766" Type="16" Name="佛祖法心碎片" Desc="100个佛祖法心碎片可以合成一个佛祖法心" Icon="icon_item/item_10766.png" Card="icon_item/item_10766.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="10766" ComposeNeedNum="100">
+  </Item>
+  <Item Id="1" Type="24" Name="装备随机合成宝箱1" Desc="" Icon="" Card="" Star="2" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="2" Type="24" Name="装备随机合成宝箱2" Desc="" Icon="" Card="" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="3" Type="24" Name="装备随机合成宝箱3" Desc="" Icon="" Card="" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="4" Type="24" Name="装备随机合成宝箱4" Desc="" Icon="" Card="" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="5" Type="24" Name="装备随机合成宝箱5" Desc="" Icon="" Card="" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="6" Type="24" Name="装备随机合成宝箱6" Desc="" Icon="" Card="" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="11" Type="24" Name="1~10修行之路" Desc="" Icon="" Card="" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="12" Type="24" Name="11~20修行之路" Desc="" Icon="" Card="" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="101" Type="24" Name="卡牌随机合成宝箱1" Desc="" Icon="" Card="" Star="2" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="102" Type="24" Name="卡牌随机合成宝箱2" Desc="" Icon="" Card="" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="103" Type="24" Name="卡牌随机合成宝箱3" Desc="" Icon="" Card="" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="104" Type="24" Name="卡牌随机合成宝箱4" Desc="" Icon="" Card="" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="105" Type="24" Name="卡牌随机合成宝箱5" Desc="" Icon="" Card="" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="106" Type="24" Name="卡牌随机合成宝箱6" Desc="" Icon="" Card="" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24101" Type="24" Name="1星装备箱" Desc="可随机获得一件1星装备" Icon="icon_item/item_24101.png" Card="icon_item/item_24101.png" Star="1" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24102" Type="24" Name="2星装备箱" Desc="可随机获得一件2星装备" Icon="icon_item/item_24102.png" Card="icon_item/item_24102.png" Star="2" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24103" Type="24" Name="3星装备箱" Desc="可随机获得一件3星装备" Icon="icon_item/item_24103.png" Card="icon_item/item_24103.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24104" Type="24" Name="4星装备箱" Desc="可随机获得一件4星装备" Icon="icon_item/item_24104.png" Card="icon_item/item_24104.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24105" Type="24" Name="5星装备箱" Desc="可随机获得一件5星装备" Icon="icon_item/item_24105.png" Card="icon_item/item_24105.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24106" Type="24" Name="6星装备箱" Desc="可随机获得一件6星装备" Icon="icon_item/item_24106.png" Card="icon_item/item_24106.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24107" Type="24" Name="7星装备箱" Desc="可随机获得一件7星装备" Icon="icon_item/item_24107.png" Card="icon_item/item_24107.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24201" Type="24" Name="2星召唤石" Desc="可随机获得一张2星卡牌" Icon="icon_item/item_24201.png" Card="icon_item/item_24201.png" Star="2" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24202" Type="24" Name="3星召唤石" Desc="可随机获得一张3星卡牌" Icon="icon_item/item_24202.png" Card="icon_item/item_24202.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24203" Type="24" Name="4星召唤石" Desc="可随机获得一张4星卡牌" Icon="icon_item/item_24203.png" Card="icon_item/item_24203.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24204" Type="24" Name="5星召唤石" Desc="可随机获得一张5星卡牌" Icon="icon_item/item_24204.png" Card="icon_item/item_24204.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24205" Type="24" Name="6星召唤石" Desc="可随机获得一张6星卡牌" Icon="icon_item/item_24205.png" Card="icon_item/item_24205.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24206" Type="24" Name="7星召唤石" Desc="可随机获得一张7星卡牌" Icon="icon_item/item_24206.png" Card="icon_item/item_24206.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24207" Type="24" Name="7星新宠蛋" Desc="可随机获得一张7星新卡牌" Icon="icon_item/item_24206.png" Card="icon_item/item_24206.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24301" Type="24" Name="3星碎片宝箱" Desc="可随机获得一份3星装备的碎片" Icon="icon_item/item_24103.png" Card="icon_item/item_24103.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24302" Type="24" Name="4星碎片宝箱" Desc="可随机获得一份4星装备的碎片" Icon="icon_item/item_24104.png" Card="icon_item/item_24104.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24303" Type="24" Name="5星碎片宝箱" Desc="可随机获得一份5星装备的碎片" Icon="icon_item/item_24105.png" Card="icon_item/item_24105.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24304" Type="24" Name="6星碎片宝箱" Desc="可随机获得一份6星装备的碎片" Icon="icon_item/item_24106.png" Card="icon_item/item_24106.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24305" Type="24" Name="7星碎片宝箱" Desc="可随机获得一份7星装备的碎片" Icon="icon_item/item_24107.png" Card="icon_item/item_24107.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24501" Type="24" Name="秘籍宝箱（一）" Desc="随机获得第一部分的秘籍碎片" Icon="icon_item/item_24105.png" Card="icon_item/item_24105.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24502" Type="24" Name="秘籍宝箱（二）" Desc="随机获得第二部分的秘籍碎片" Icon="icon_item/item_24105.png" Card="icon_item/item_24105.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24503" Type="24" Name="秘籍宝箱（三）" Desc="随机获得第三部分的秘籍碎片" Icon="icon_item/item_24105.png" Card="icon_item/item_24105.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24504" Type="24" Name="秘籍宝箱（四）" Desc="随机获得第四部分的秘籍碎片" Icon="icon_item/item_24105.png" Card="icon_item/item_24105.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24505" Type="24" Name="秘籍宝箱（五）" Desc="随机获得第五部分的秘籍碎片" Icon="icon_item/item_24105.png" Card="icon_item/item_24105.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30001" Type="19" Name="经文卷轴" Desc="经文卷轴，可以在召唤大厅召唤一个伙伴" Icon="icon_item/item_30001.png" Card="icon_item/item_30001.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30002" Type="19" Name="八极石" Desc="不可多得的宝贝，打造神器的宝石！" Icon="icon_item/item_30002.png" Card="icon_item/item_30002.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30003" Type="19" Name="仙灵币" Desc="可以让补天石商店更换货品的票券" Icon="icon_item/item_30003.png" Card="icon_item/item_30003.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30004" Type="19" Name="购物凭证" Desc="可以让宝石商店更换货品的票券" Icon="icon_item/item_30004.png" Card="icon_item/item_30004.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30005" Type="19" Name="经验" Desc="丰富的经验，能够帮助修行者快速成长" Icon="icon_item/item_30005.png" Card="icon_item/item_30005.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30006" Type="19" Name="补天石" Desc="收集更多的补天石，成为最伟大的修行者！" Icon="icon_item/item_30006.png" Card="icon_item/item_30006.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30007" Type="19" Name="金币" Desc="还有什么东西能比金币更能吸引人呢？" Icon="icon_item/item_30007.png" Card="icon_item/item_30007.png" Star="2" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30008" Type="19" Name="宝石" Desc="宝石，最璀璨的财富！" Icon="icon_item/item_30008.png" Card="icon_item/item_30008.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30009" Type="38" Name="精力丹药(小)" Desc="初级炼丹师学徒制作的神奇丹药，回复3点精力" Icon="icon_item/item_30009.png" Card="icon_item/item_30009.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30010" Type="38" Name="精力丹药(" Desc="中级炼丹师学徒制作的神奇丹药，回复10点精力" Icon="icon_item/item_30010.png" Card="icon_item/item_30010.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30011" Type="38" Name="精力丹药((大)" Desc="炼丹大师制作的神奇丹药，回复30点精力" Icon="icon_item/item_30011.png" Card="icon_item/item_30011.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30012" Type="38" Name="体能丹药((小)" Desc="初级炼丹师的杰作，增加冒险次数5次" Icon="icon_item/item_30012.png" Card="icon_item/item_30012.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30013" Type="38" Name="体能丹药(" Desc="中级炼丹师的杰作，增加冒险次数20次" Icon="icon_item/item_30013.png" Card="icon_item/item_30013.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30014" Type="38" Name="体能炼丹药((大)" Desc="炼丹大师的杰作，增加冒险次数40次" Icon="icon_item/item_30014.png" Card="icon_item/item_30014.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30015" Type="38" Name="战斗丹药((小)" Desc="补充战斗能力的丹药(，增加竞技场战斗次数3次" Icon="icon_item/item_30015.png" Card="icon_item/item_30015.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30016" Type="38" Name="战斗丹药(" Desc="补充战斗能力的丹药(，增加竞技场战斗次数6次" Icon="icon_item/item_30016.png" Card="icon_item/item_30016.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30017" Type="38" Name="战斗丹药((大)" Desc="补充战斗能力的丹药(，增加竞技场战斗次数10次" Icon="icon_item/item_30017.png" Card="icon_item/item_30017.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30018" Type="19" Name="月神石" Desc="蕴含月之精华的宝石，可帮助精灵突破第一次转生！" Icon="icon_item/item_30018.png" Card="icon_item/item_30018.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30019" Type="19" Name="日神石" Desc="蕴含太阳炽热之力的奇石，可帮助精灵突破第一次转生！" Icon="icon_item/item_30019.png" Card="icon_item/item_30019.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30020" Type="19" Name="九耀星石" Desc="蕴含九天繁星之力的奇石，可帮助精灵突破第一次转生！" Icon="icon_item/item_30020.png" Card="icon_item/item_30020.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30021" Type="19" Name="银河封印" Desc="封印了银河九天的宝物，可帮助精灵突破第一次转生！" Icon="icon_item/item_30021.png" Card="icon_item/item_30021.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30022" Type="19" Name="太阳星石" Desc="太阳星之力量凝结而成的宝石，可帮助精灵突破第二次转生！" Icon="icon_item/item_30022.png" Card="icon_item/item_30022.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30023" Type="19" Name="太阴星石" Desc="太阴星之力量凝结而成的宝石，可帮助精灵突破第二次转生！" Icon="icon_item/item_30023.png" Card="icon_item/item_30023.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30024" Type="19" Name="玄武壳" Desc="玄武神兽退壳时留下来的宝物，可帮助精灵突破第二次转生！" Icon="icon_item/item_30024.png" Card="icon_item/item_30024.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30025" Type="19" Name="朱雀羽" Desc="朱雀神兽展翅飞翔时掉落的羽毛，可帮助精灵突破第二次转生！" Icon="icon_item/item_30025.png" Card="icon_item/item_30025.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="30026" Type="19" Name="训练器材" Desc="训练精灵用的器材，能够帮助玩家提高训练强度！" Icon="icon_item/item_30026.png" Card="icon_item/item_30026.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="" ComposeNeedNum="">
+  </Item>
+  <Item Id="24401" Type="24" Name="金宝箱" Desc="纯金打造的宝箱，里面蕴藏了伙伴第二次进化的秘密！" Icon="icon_item/item_24401.png" Card="icon_item/item_24401.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24402" Type="24" Name="银宝箱" Desc="银质的宝箱，里面收藏了伙伴第一次进化的秘密！" Icon="icon_item/item_24402.png" Card="icon_item/item_24402.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24403" Type="24" Name="铜宝箱" Desc="一种酷爱收集宝物的精灵遗留下来的宝藏，有几率开出精灵、装备碎片！" Icon="icon_item/item_24403.png" Card="icon_item/item_24403.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24404" Type="24" Name="神秘宝箱" Desc="充满了神秘气息的宝箱，在里面到底装了什么呢？" Icon="icon_item/item_24404.png" Card="icon_item/item_24404.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24405" Type="24" Name="金币宝箱" Desc="顾名思义，里面只有金币，真的只有金币哦！" Icon="icon_item/item_24405.png" Card="icon_item/item_24405.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24406" Type="24" Name="水晶宝箱" Desc="用水晶打造一个宝箱，应该是土豪干的事吧？" Icon="icon_item/item_24406.png" Card="icon_item/item_24406.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24407" Type="24" Name="幸运宝箱" Desc="当幸运降落在你头上时，没错，这个宝箱就出来了！" Icon="icon_item/item_24407.png" Card="icon_item/item_24407.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24408" Type="24" Name="传说宝箱" Desc="不要羡慕哥，哥就是那个传说！" Icon="icon_item/item_24408.png" Card="icon_item/item_24408.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24409" Type="24" Name="创世宝箱" Desc="看名字就知道里面肯定装有很厉害的东东！" Icon="icon_item/item_24409.png" Card="icon_item/item_24409.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24410" Type="24" Name="传说防具箱" Desc="盛放着流传于传说中的强力防具，可随机开出6-7星护甲，头盔。" Icon="icon_item/item_24410.png" Card="icon_item/item_24410.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24411" Type="24" Name="传说武器箱" Desc="盛放着流传于传说中的强力武器，可随机开出6-7星武器。" Icon="icon_item/item_24411.png" Card="icon_item/item_24411.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24412" Type="24" Name="传说饰品箱" Desc="盛放着流传于传说中的强力饰品，可随机开出6-7星项链，戒指，神石。" Icon="icon_item/item_24412.png" Card="icon_item/item_24412.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24413" Type="24" Name="新装备宝箱" Desc="可随机开出一件全新7星装备，每一件都巧夺天工。" Icon="icon_item/item_24413.png" Card="icon_item/item_24413.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24414" Type="24" Name="传说防具碎片宝箱" Desc="盛放着流传于传说中的强力防具的碎片，可随机开出6-7星3至20个护甲，头盔碎片。" Icon="icon_item/item_24414.png" Card="icon_item/item_24414.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24415" Type="24" Name="传说武器碎片宝箱" Desc="盛放着流传于传说中的强力武器的碎片，可随机开出6-7星3至20个武器碎片。" Icon="icon_item/item_24415.png" Card="icon_item/item_24415.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24416" Type="24" Name="传说饰品碎片宝箱" Desc="盛放着流传于传说中的强力饰品的碎片，可随机开出6-7星项链，戒指，神石碎片。" Icon="icon_item/item_24416.png" Card="icon_item/item_24416.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24417" Type="24" Name="远古传说宝箱" Desc="可随机开金苹果，宙斯，路西法装备碎片，原谅套装，宙斯套装以及其他7星装备。" Icon="icon_item/item_24417.png" Card="icon_item/item_24417.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24418" Type="24" Name="新装备碎片宝箱" Desc="可随机开出3至20个全新7星装备碎片，凑够100个即可召唤强力全新装备。" Icon="icon_item/item_24418.png" Card="icon_item/item_24418.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24419" Type="24" Name="原谅宝箱" Desc="我能怎么办？当然选择原谅她啊！随机开出一件全新7星原谅套装。" Icon="icon_item/item_24419.png" Card="icon_item/item_24419.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24420" Type="24" Name="宙斯宝箱" Desc="随机开出一件全新7星宙斯套装。" Icon="icon_item/item_24420.png" Card="icon_item/item_24420.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="24421" Type="24" Name="堕天使宝箱" Desc="随机开出一件全新7星路西法套装。" Icon="icon_item/item_24421.png" Card="icon_item/item_24421.png" Star="7" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="40001" Type="39" Name="普通果冻" Desc="普通的果冻，能增加伙伴的100点经验" Icon="icon_item/item_40001.png" Card="icon_item/item_40001.png" Star="2" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="40002" Type="39" Name="高级果冻" Desc="高级的果冻，能增加伙伴的1000点经验" Icon="icon_item/item_40002.png" Card="icon_item/item_40002.png" Star="3" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="40003" Type="39" Name="豪华果冻" Desc="豪华的果冻，能增加伙伴的10000点经验" Icon="icon_item/item_40003.png" Card="icon_item/item_40003.png" Star="4" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="40004" Type="39" Name="神奇果冻" Desc="神奇的果冻，能增加伙伴的10万点经验" Icon="icon_item/item_40004.png" Card="icon_item/item_40004.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="40005" Type="39" Name="超级果冻" Desc="超级的果冻，能增加伙伴的100万点经验" Icon="icon_item/item_40005.png" Card="icon_item/item_40005.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50001" Type="19" Name="vip" Desc="" Icon="icon_item/item_50001.png" Card="icon_item/item_50001.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50002" Type="19" Name="圣诞帽" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50002.png" Card="icon_item/item_50002.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50003" Type="19" Name="果冻" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50003.png" Card="icon_item/item_50003.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50004" Type="19" Name="黄金苹果" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50004.png" Card="icon_item/item_50004.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50005" Type="19" Name="玫瑰花" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50005.png" Card="icon_item/item_50005.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50006" Type="19" Name="玫瑰花束" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50006.png" Card="icon_item/item_50006.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50007" Type="19" Name="新年爆竹" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50007.png" Card="icon_item/item_50007.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50008" Type="19" Name="红包" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50008.png" Card="icon_item/item_50008.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50009" Type="19" Name="毛绒玩具" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50009.png" Card="icon_item/item_50009.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50010" Type="19" Name="火鸡" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50010.png" Card="icon_item/item_50010.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50011" Type="19" Name="南瓜灯" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50011.png" Card="icon_item/item_50011.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50012" Type="19" Name="礼券" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50012.png" Card="icon_item/item_50012.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50013" Type="19" Name="巧克力" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50013.png" Card="icon_item/item_50013.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50014" Type="19" Name="幸运之星" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50014.png" Card="icon_item/item_50014.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50015" Type="19" Name="彩蛋" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50015.png" Card="icon_item/item_50015.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50016" Type="19" Name="礼盒" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50016.png" Card="icon_item/item_50016.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50017" Type="19" Name="改名卡" Desc="一张神奇的卡片，给你一次重新更改名字的权利！" Icon="icon_item/item_50017.png" Card="icon_item/item_50017.png" Star="6" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50018" Type="19" Name="元宵" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50018.png" Card="icon_item/item_50018.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50019" Type="19" Name="月饼" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50019.png" Card="icon_item/item_50019.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50020" Type="19" Name="春卷" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50020.png" Card="icon_item/item_50020.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50021" Type="19" Name="筷子" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50021.png" Card="icon_item/item_50021.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50022" Type="19" Name="小丑" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50022.png" Card="icon_item/item_50022.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50023" Type="19" Name="中国国旗" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50023.png" Card="icon_item/item_50023.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50024" Type="19" Name="新年贺卡" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50024.png" Card="icon_item/item_50024.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="50025" Type="19" Name="爱心" Desc="节日道具，可在活动中心兑换奖励" Icon="icon_item/item_50025.png" Card="icon_item/item_50025.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="60001" Type="41" Name="锋锐" Desc="无坚不摧的属性，能够极大程度的破坏敌人的物理防御" Icon="icon_item/item_60001.png" Card="icon_item/item_60001.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "3" Value = "7"/>
+  </Item>
+  <Item Id="60002" Type="42" Name="格挡" Desc="坚硬的外表，能够大幅度提升使用者的物理防御能力" Icon="icon_item/item_60002.png" Card="icon_item/item_60002.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "4" Value = "10"/>
+  </Item>
+  <Item Id="60003" Type="43" Name="噬心" Desc="强大的穿透能力，能够使使用者更轻易的击跨对手的魔法防御" Icon="icon_item/item_60003.png" Card="icon_item/item_60003.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "5" Value = "7"/>
+  </Item>
+  <Item Id="60004" Type="44" Name="抵抗" Desc="撑起一面强大的魔法护盾，用以抵挡对手的魔法攻击" Icon="icon_item/item_60004.png" Card="icon_item/item_60004.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "6" Value = "10"/>
+  </Item>
+  <Item Id="60005" Type="45" Name="狙击" Desc="致命一击，在敌人最脆弱的时候给对方最致命的伤害" Icon="icon_item/item_60005.png" Card="icon_item/item_60005.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "7" Value = "5"/>
+  </Item>
+  <Item Id="60006" Type="46" Name="忍耐" Desc="顽强的生命能力，在面对致命威胁的时候依然能够抵挡" Icon="icon_item/item_60006.png" Card="icon_item/item_60006.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "8" Value = "7"/>
+  </Item>
+  <Item Id="60007" Type="47" Name="精确" Desc="精准，是战斗的关键，能够最大程度避免未命中的情况" Icon="icon_item/item_60007.png" Card="icon_item/item_60007.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "9" Value = "7"/>
+  </Item>
+  <Item Id="60008" Type="48" Name="幸运" Desc="运气也是实力的一部分，有时候，一次闪避足以逆转局势" Icon="icon_item/item_60008.png" Card="icon_item/item_60008.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "10" Value = "5"/>
+  </Item>
+  <Item Id="60009" Type="49" Name="充能" Desc="初始的能量，已经决定了先手的优势是否够强" Icon="icon_item/item_60009.png" Card="icon_item/item_60009.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "11" Value = "10"/>
+  </Item>
+  <Item Id="60010" Type="50" Name="容量" Desc="能量的上限，决定了战斗力爆发的持续性" Icon="icon_item/item_60010.png" Card="icon_item/item_60010.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "12" Value = "10"/>
+  </Item>
+  <Item Id="60011" Type="51" Name="吸血" Desc="战斗中偷取敌人的生命，能够最大的保证自己的生存" Icon="icon_item/item_60011.png" Card="icon_item/item_60011.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "13" Value = "300"/>
+  </Item>
+  <Item Id="60012" Type="52" Name="反弹" Desc="想要伤害我，就必须付出相应的代价" Icon="icon_item/item_60012.png" Card="icon_item/item_60012.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "14" Value = "500"/>
+  </Item>
+  <Item Id="60013" Type="53" Name="迷惑" Desc="迷乱对方的信念，迎头重击，让对手短暂的进入眩晕状态" Icon="icon_item/item_60013.png" Card="icon_item/item_60013.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "15" Value = "3"/>
+  </Item>
+  <Item Id="60014" Type="54" Name="坚定" Desc="坚定的信念，即便在遭受到重创后也能保持清醒" Icon="icon_item/item_60014.png" Card="icon_item/item_60014.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+      <Attribute Type = "16" Value = "5"/>
+  </Item>
+  <Item Id="61001" Type="55" Name="锋锐（一）" Desc="秘籍“ 锋锐”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60001.png" Card="icon_item/item_60001.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61002" Type="55" Name="锋锐（二）" Desc="秘籍“ 锋锐”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60001.png" Card="icon_item/item_60001.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61003" Type="55" Name="锋锐（三）" Desc="秘籍“ 锋锐”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60001.png" Card="icon_item/item_60001.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61004" Type="55" Name="锋锐（四）" Desc="秘籍“ 锋锐”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60001.png" Card="icon_item/item_60001.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61005" Type="55" Name="锋锐（五）" Desc="秘籍“ 锋锐”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60001.png" Card="icon_item/item_60001.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61006" Type="55" Name="格挡（一）" Desc="秘籍“ 格挡”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60002.png" Card="icon_item/item_60002.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61007" Type="55" Name="格挡（二）" Desc="秘籍“ 格挡”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60002.png" Card="icon_item/item_60002.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61008" Type="55" Name="格挡（三）" Desc="秘籍“ 格挡”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60002.png" Card="icon_item/item_60002.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61009" Type="55" Name="格挡（四）" Desc="秘籍“ 格挡”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60002.png" Card="icon_item/item_60002.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61010" Type="55" Name="格挡（五）" Desc="秘籍“ 格挡”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60002.png" Card="icon_item/item_60002.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61011" Type="55" Name="噬心（一）" Desc="秘籍“ 噬心”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60003.png" Card="icon_item/item_60003.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61012" Type="55" Name="噬心（二）" Desc="秘籍“ 噬心”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60003.png" Card="icon_item/item_60003.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61013" Type="55" Name="噬心（三）" Desc="秘籍“ 噬心”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60003.png" Card="icon_item/item_60003.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61014" Type="55" Name="噬心（四）" Desc="秘籍“ 噬心”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60003.png" Card="icon_item/item_60003.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61015" Type="55" Name="噬心（五）" Desc="秘籍“ 噬心”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60003.png" Card="icon_item/item_60003.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61016" Type="55" Name="抵抗（一）" Desc="秘籍“ 抵抗”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60004.png" Card="icon_item/item_60004.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61017" Type="55" Name="抵抗（二）" Desc="秘籍“ 抵抗”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60004.png" Card="icon_item/item_60004.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61018" Type="55" Name="抵抗（三）" Desc="秘籍“ 抵抗”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60004.png" Card="icon_item/item_60004.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61019" Type="55" Name="抵抗（四）" Desc="秘籍“ 抵抗”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60004.png" Card="icon_item/item_60004.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61020" Type="55" Name="抵抗（五）" Desc="秘籍“ 抵抗”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60004.png" Card="icon_item/item_60004.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61021" Type="55" Name="狙击（一）" Desc="秘籍“ 狙击”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60005.png" Card="icon_item/item_60005.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61022" Type="55" Name="狙击（二）" Desc="秘籍“ 狙击”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60005.png" Card="icon_item/item_60005.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61023" Type="55" Name="狙击（三）" Desc="秘籍“ 狙击”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60005.png" Card="icon_item/item_60005.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61024" Type="55" Name="狙击（四）" Desc="秘籍“ 狙击”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60005.png" Card="icon_item/item_60005.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61025" Type="55" Name="狙击（五）" Desc="秘籍“ 狙击”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60005.png" Card="icon_item/item_60005.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61026" Type="55" Name="忍耐（一）" Desc="秘籍“ 忍耐”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60006.png" Card="icon_item/item_60006.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61027" Type="55" Name="忍耐（二）" Desc="秘籍“ 忍耐”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60006.png" Card="icon_item/item_60006.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61028" Type="55" Name="忍耐（三）" Desc="秘籍“ 忍耐”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60006.png" Card="icon_item/item_60006.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61029" Type="55" Name="忍耐（四）" Desc="秘籍“ 忍耐”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60006.png" Card="icon_item/item_60006.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61030" Type="55" Name="忍耐（五）" Desc="秘籍“ 忍耐”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60006.png" Card="icon_item/item_60006.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61031" Type="55" Name="精确（一）" Desc="秘籍“ 精确”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60007.png" Card="icon_item/item_60007.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61032" Type="55" Name="精确（二）" Desc="秘籍“ 精确”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60007.png" Card="icon_item/item_60007.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61033" Type="55" Name="精确（三）" Desc="秘籍“ 精确”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60007.png" Card="icon_item/item_60007.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61034" Type="55" Name="精确（四）" Desc="秘籍“ 精确”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60007.png" Card="icon_item/item_60007.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61035" Type="55" Name="精确（五）" Desc="秘籍“ 精确”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60007.png" Card="icon_item/item_60007.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61036" Type="55" Name="幸运（一）" Desc="秘籍“ 幸运”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60008.png" Card="icon_item/item_60008.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61037" Type="55" Name="幸运（二）" Desc="秘籍“ 幸运”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60008.png" Card="icon_item/item_60008.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61038" Type="55" Name="幸运（三）" Desc="秘籍“ 幸运”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60008.png" Card="icon_item/item_60008.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61039" Type="55" Name="幸运（四）" Desc="秘籍“ 幸运”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60008.png" Card="icon_item/item_60008.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61040" Type="55" Name="幸运（五）" Desc="秘籍“ 幸运”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60008.png" Card="icon_item/item_60008.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61041" Type="55" Name="充能（一）" Desc="秘籍“ 充能”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60009.png" Card="icon_item/item_60009.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61042" Type="55" Name="充能（二）" Desc="秘籍“ 充能”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60009.png" Card="icon_item/item_60009.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61043" Type="55" Name="充能（三）" Desc="秘籍“ 充能”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60009.png" Card="icon_item/item_60009.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61044" Type="55" Name="充能（四）" Desc="秘籍“ 充能”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60009.png" Card="icon_item/item_60009.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61045" Type="55" Name="充能（五）" Desc="秘籍“ 充能”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60009.png" Card="icon_item/item_60009.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61046" Type="55" Name="容量（一）" Desc="秘籍“ 容量”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60010.png" Card="icon_item/item_60010.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61047" Type="55" Name="容量（二）" Desc="秘籍“ 容量”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60010.png" Card="icon_item/item_60010.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61048" Type="55" Name="容量（三）" Desc="秘籍“ 容量”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60010.png" Card="icon_item/item_60010.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61049" Type="55" Name="容量（四）" Desc="秘籍“ 容量”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60010.png" Card="icon_item/item_60010.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61050" Type="55" Name="容量（五）" Desc="秘籍“ 容量”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60010.png" Card="icon_item/item_60010.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61051" Type="55" Name="吸血（一）" Desc="秘籍“ 吸血”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60011.png" Card="icon_item/item_60011.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61052" Type="55" Name="吸血（二）" Desc="秘籍“ 吸血”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60011.png" Card="icon_item/item_60011.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61053" Type="55" Name="吸血（三）" Desc="秘籍“ 吸血”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60011.png" Card="icon_item/item_60011.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61054" Type="55" Name="吸血（四）" Desc="秘籍“ 吸血”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60011.png" Card="icon_item/item_60011.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61055" Type="55" Name="吸血（五）" Desc="秘籍“ 吸血”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60011.png" Card="icon_item/item_60011.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61056" Type="55" Name="反弹（一）" Desc="秘籍“ 反弹”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60012.png" Card="icon_item/item_60012.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61057" Type="55" Name="反弹（二）" Desc="秘籍“ 反弹”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60012.png" Card="icon_item/item_60012.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61058" Type="55" Name="反弹（三）" Desc="秘籍“ 反弹”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60012.png" Card="icon_item/item_60012.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61059" Type="55" Name="反弹（四）" Desc="秘籍“ 反弹”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60012.png" Card="icon_item/item_60012.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61060" Type="55" Name="反弹（五）" Desc="秘籍“ 反弹”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60012.png" Card="icon_item/item_60012.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61061" Type="55" Name="迷惑（一）" Desc="秘籍“ 迷惑”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60013.png" Card="icon_item/item_60013.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61062" Type="55" Name="迷惑（二）" Desc="秘籍“ 迷惑”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60013.png" Card="icon_item/item_60013.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61063" Type="55" Name="迷惑（三）" Desc="秘籍“ 迷惑”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60013.png" Card="icon_item/item_60013.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61064" Type="55" Name="迷惑（四）" Desc="秘籍“ 迷惑”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60013.png" Card="icon_item/item_60013.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61065" Type="55" Name="迷惑（五）" Desc="秘籍“ 迷惑”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60013.png" Card="icon_item/item_60013.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61066" Type="55" Name="坚定（一）" Desc="秘籍“ 坚定”的第一部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60014.png" Card="icon_item/item_60014.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61067" Type="55" Name="坚定（二）" Desc="秘籍“ 坚定”的第二部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60014.png" Card="icon_item/item_60014.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61068" Type="55" Name="坚定（三）" Desc="秘籍“ 坚定”的第三部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60014.png" Card="icon_item/item_60014.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61069" Type="55" Name="坚定（四）" Desc="秘籍“ 坚定”的第四部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60014.png" Card="icon_item/item_60014.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+  <Item Id="61070" Type="55" Name="坚定（五）" Desc="秘籍“ 坚定”的第五部分，需要凑齐所有的部分才能组合成为完整的秘籍" Icon="icon_item/item_60014.png" Card="icon_item/item_60014.png" Star="5" RankMax="0" Cost="100" Stack="30000" ComposeItemID="0" ComposeNeedNum="0">
+  </Item>
+</Items>

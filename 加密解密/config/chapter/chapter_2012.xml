@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40111" Number="1" Name="民不聊生1" activeneedpass="40110" costenergy="2" maxtimes="10" coin="6070" exprole="1214" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3102" dungeon_level="31"/>
+	<Dungeon ID="40112" Number="2" Name="民不聊生2" activeneedpass="40111" costenergy="2" maxtimes="10" coin="6070" exprole="1214" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3092" dungeon_level="31"/>
+	<Dungeon ID="40113" Number="3" Name="自然灾害1" activeneedpass="40112" costenergy="2" maxtimes="10" coin="6185" exprole="1237" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3082" dungeon_level="31"/>
+	<Dungeon ID="40114" Number="4" Name="自然灾害2" activeneedpass="40113" costenergy="2" maxtimes="10" coin="6185" exprole="1237" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3072" dungeon_level="32"/>
+	<Dungeon ID="40115" Number="5" Name="自然灾害3" activeneedpass="40114" costenergy="2" maxtimes="10" coin="6300" exprole="1260" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3112" dungeon_level="32"/>
+	<Dungeon ID="40116" Number="6" Name="酒店夜谈1" activeneedpass="40115" costenergy="2" maxtimes="10" coin="6300" exprole="1260" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3152" dungeon_level="32"/>
+	<Dungeon ID="40117" Number="7" Name="酒店夜谈2" activeneedpass="40116" costenergy="2" maxtimes="10" coin="6420" exprole="1284" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3142" dungeon_level="33"/>
+	<Dungeon ID="40118" Number="8" Name="酒店夜谈3" activeneedpass="40117" costenergy="2" maxtimes="10" coin="6420" exprole="1284" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3102" dungeon_level="33"/>
+	<Dungeon ID="40119" Number="9" Name="孔雀明王" activeneedpass="40118" costenergy="2" maxtimes="10" coin="6540" exprole="1308" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3072" dungeon_level="33"/>
+	<Dungeon ID="40120" Number="10" Name="无商不奸" activeneedpass="40119" costenergy="2" maxtimes="5" coin="6540" exprole="1308" expgeneral="0" dropitem1="10311" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="4087" dungeon_level="33"/>
+</Dungeons>

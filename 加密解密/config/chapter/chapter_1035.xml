@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30341" Number="1" Name="矿山妖魔1" activeneedpass="30340" costenergy="2" maxtimes="30" coin="17770" exprole="3554" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6063" dungeon_level="82"/>
+	<Dungeon ID="30342" Number="2" Name="矿山妖魔2" activeneedpass="30341" costenergy="2" maxtimes="30" coin="17770" exprole="3554" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6103" dungeon_level="82"/>
+	<Dungeon ID="30343" Number="3" Name="弱小的妖怪1" activeneedpass="30342" costenergy="2" maxtimes="30" coin="17965" exprole="3593" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6043" dungeon_level="82"/>
+	<Dungeon ID="30344" Number="4" Name="弱小的妖怪2" activeneedpass="30343" costenergy="2" maxtimes="30" coin="17965" exprole="3593" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6063" dungeon_level="82"/>
+	<Dungeon ID="30345" Number="5" Name="弱小的妖怪3" activeneedpass="30344" costenergy="2" maxtimes="30" coin="18165" exprole="3633" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6073" dungeon_level="82"/>
+	<Dungeon ID="30346" Number="6" Name="矿山塌陷1" activeneedpass="30345" costenergy="2" maxtimes="30" coin="18165" exprole="3633" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6083" dungeon_level="83"/>
+	<Dungeon ID="30347" Number="7" Name="矿山塌陷2" activeneedpass="30346" costenergy="2" maxtimes="30" coin="18365" exprole="3673" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6053" dungeon_level="83"/>
+	<Dungeon ID="30348" Number="8" Name="矿山塌陷3" activeneedpass="30347" costenergy="2" maxtimes="30" coin="18365" exprole="3673" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6013" dungeon_level="83"/>
+	<Dungeon ID="30349" Number="9" Name="繁华不在" activeneedpass="30348" costenergy="2" maxtimes="30" coin="18565" exprole="3713" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6023" dungeon_level="83"/>
+	<Dungeon ID="30350" Number="10" Name="咎由自取" activeneedpass="30349" costenergy="2" maxtimes="10" coin="18565" exprole="3713" expgeneral="0" dropitem1="10521" dropitem2="0" boss_postion="10010" addMorale="0" dungeon_icon="7037" dungeon_level="83"/>
+</Dungeons>

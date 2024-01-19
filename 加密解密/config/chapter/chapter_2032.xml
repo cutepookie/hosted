@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40311" Number="1" Name="一路劝慰1" activeneedpass="40310" costenergy="2" maxtimes="10" coin="23030" exprole="4606" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6052" dungeon_level="76"/>
+	<Dungeon ID="40312" Number="2" Name="一路劝慰2" activeneedpass="40311" costenergy="2" maxtimes="10" coin="23030" exprole="4606" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6032" dungeon_level="76"/>
+	<Dungeon ID="40313" Number="3" Name="庄园借宿1" activeneedpass="40312" costenergy="2" maxtimes="10" coin="23255" exprole="4651" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6012" dungeon_level="76"/>
+	<Dungeon ID="40314" Number="4" Name="庄园借宿2" activeneedpass="40313" costenergy="2" maxtimes="10" coin="23255" exprole="4651" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6062" dungeon_level="76"/>
+	<Dungeon ID="40315" Number="5" Name="庄园借宿3" activeneedpass="40314" costenergy="2" maxtimes="10" coin="23485" exprole="4697" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6042" dungeon_level="76"/>
+	<Dungeon ID="40316" Number="6" Name="硬闯上门1" activeneedpass="40315" costenergy="2" maxtimes="10" coin="23485" exprole="4697" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6072" dungeon_level="77"/>
+	<Dungeon ID="40317" Number="7" Name="硬闯上门2" activeneedpass="40316" costenergy="2" maxtimes="10" coin="23710" exprole="4742" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6062" dungeon_level="77"/>
+	<Dungeon ID="40318" Number="8" Name="硬闯上门3" activeneedpass="40317" costenergy="2" maxtimes="10" coin="23710" exprole="4742" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6072" dungeon_level="77"/>
+	<Dungeon ID="40319" Number="9" Name="镇元大仙1" activeneedpass="40318" costenergy="2" maxtimes="10" coin="23940" exprole="4788" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6082" dungeon_level="77"/>
+	<Dungeon ID="40320" Number="10" Name="镇元大仙2" activeneedpass="40319" costenergy="2" maxtimes="5" coin="23940" exprole="4788" expgeneral="0" dropitem1="10515" dropitem2="0" boss_postion="101" addMorale="0" dungeon_icon="7024" dungeon_level="77"/>
+</Dungeons>

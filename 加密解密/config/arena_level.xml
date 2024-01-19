@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<titles>
+       <title titleId="0" titleName="一阶金仙" mface="pic_mal_1.png" mcard="pic_mal_1.png"  fface="pic_fem_1.png" fcard="pic_fem_1.png" level_need = "1" rank_need = "30000"/>
+       <title titleId="1" titleName="二阶金仙" mface="pic_mal_1.png" mcard="pic_mal_1.png"  fface="pic_fem_1.png" fcard="pic_fem_1.png" level_need = "1" rank_need = "1200"/>
+       <title titleId="2" titleName="三阶金仙" mface="pic_mal_1.png" mcard="pic_mal_1.png"  fface="pic_fem_1.png" fcard="pic_fem_1.png" level_need = "1" rank_need = "640"/>
+       <title titleId="3" titleName="四阶金仙" mface="pic_mal_1.png" mcard="pic_mal_1.png"  fface="pic_fem_1.png" fcard="pic_fem_1.png" level_need = "1" rank_need = "320"/>
+       <title titleId="4" titleName="五阶金仙" mface="pic_mal_1.png" mcard="pic_mal_1.png"  fface="pic_fem_1.png" fcard="pic_fem_1.png" level_need = "1" rank_need = "160"/>
+       <title titleId="5" titleName="六阶金仙" mface="pic_mal_1.png" mcard="pic_mal_1.png"  fface="pic_fem_1.png" fcard="pic_fem_1.png" level_need = "1" rank_need = "80"/>
+       <title titleId="6" titleName="七阶金仙" mface="pic_mal_1.png" mcard="pic_mal_1.png"  fface="pic_fem_1.png" fcard="pic_fem_1.png" level_need = "1" rank_need = "40"/>
+       <title titleId="7" titleName="八阶金仙" mface="pic_mal_1.png" mcard="pic_mal_1.png"  fface="pic_fem_1.png" fcard="pic_fem_1.png" level_need = "1" rank_need = "20"/>
+       <title titleId="8" titleName="九阶金仙" mface="pic_mal_1.png" mcard="pic_mal_1.png"  fface="pic_fem_1.png" fcard="pic_fem_1.png" level_need = "1" rank_need = "10"/>
+       <title titleId="9" titleName="十阶金仙" mface="pic_mal_1.png" mcard="pic_mal_1.png"  fface="pic_fem_1.png" fcard="pic_fem_1.png" level_need = "1" rank_need = "5"/>
+</titles>

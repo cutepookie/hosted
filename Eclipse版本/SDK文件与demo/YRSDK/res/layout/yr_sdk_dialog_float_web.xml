@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sdk_dialog_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/yr_sdk_login_border_bg_white_r_shape"
+    android:paddingBottom="5dp"
+    android:orientation="vertical">
+
+    <include layout="@layout/yr_sdk_include_include_title_bar" />
+
+    <WebView
+        android:id="@+id/sdk_float_webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

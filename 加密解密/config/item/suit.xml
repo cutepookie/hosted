@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suits>
+    <set id="10001" name="罗汉套装" group="10207,10208,10209">
+        <activate needAmount ="2">
+            <attr type="11" value = "100" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="1" value = "180" />
+        </activate>
+    </set>
+    <set id="10002" name="三星的祝福" group="10210,10211,10212">
+        <activate needAmount ="2">
+            <attr type="4" value = "10" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="2" value = "1300" />
+        </activate>
+    </set>
+    <set id="10003" name="花神的礼物" group="10307,10308">
+        <activate needAmount ="2">
+            <attr type="15" value = "5" />
+            <attr type="3" value = "7" />
+        </activate>
+    </set>
+    <set id="10004" name="朱雀之吻" group="10309,10310,10311,10312">
+        <activate needAmount ="2">
+            <attr type="7" value = "5" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="1" value = "350" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="15" value = "5" />
+        </activate>
+    </set>
+    <set id="10005" name="阎王的权威" group="10313,10314,10315">
+        <activate needAmount ="2">
+            <attr type="9" value = "7" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="1" value = "350" />
+        </activate>
+    </set>
+    <set id="10006" name="六丁六甲" group="10316,10317,10318">
+        <activate needAmount ="2">
+            <attr type="13" value = "500" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="2" value = "2600" />
+        </activate>
+    </set>
+    <set id="10007" name="玉女之情" group="10407,10408">
+        <activate needAmount ="2">
+            <attr type="11" value = "100" />
+        </activate>
+    </set>
+    <set id="10008" name="玉女素心" group="10409,10410,10411,10412">
+        <activate needAmount ="2">
+            <attr type="9" value = "10" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="1" value = "700" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="7" value = "10" />
+        </activate>
+    </set>
+    <set id="10009" name="妙音的歌声" group="10413,10414,10415">
+        <activate needAmount ="2">
+            <attr type="7" value = "10" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="1" value = "700" />
+        </activate>
+    </set>
+    <set id="10010" name="逍遥游" group="10416,10417,10418">
+        <activate needAmount ="2">
+            <attr type="11" value = "100" />
+            <attr type="14" value = "1400" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="2" value = "5300" />
+        </activate>
+    </set>
+    <set id="10011" name="玄女战歌" group="10507,10508">
+        <activate needAmount ="2">
+            <attr type="4" value = "30" />
+            <attr type="21" value = "1000" />
+        </activate>
+    </set>
+    <set id="10012" name="紫虚套装" group="10509,10510,10511,10512">
+        <activate needAmount ="2">
+            <attr type="9" value = "14" />
+            <attr type="22" value = "1000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="6" value = "30" />
+            <attr type="21" value = "1000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="3" value = "21" />
+            <attr type="22" value = "1000" />
+        </activate>
+    </set>
+    <set id="10013" name="判官之怒" group="10513,10514">
+        <activate needAmount ="2">
+            <attr type="5" value = "21" />
+            <attr type="22" value = "1000" />
+        </activate>
+    </set>
+    <set id="10014" name="涂山的礼品" group="10515,10516,10517,10518">
+        <activate needAmount ="2">
+            <attr type="6" value = "30" />
+            <attr type="21" value = "1000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="7" value = "15" />
+            <attr type="22" value = "1000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="14" value = "2100" />
+            <attr type="22" value = "1000" />
+        </activate>
+    </set>
+    <set id="10015" name="八部天龙" group="10519,10520,10521,10522,10523,10524">
+        <activate needAmount ="2">
+            <attr type="4" value = "30" />
+            <attr type="21" value = "2000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="6" value = "30" />
+            <attr type="22" value = "2000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="16" value = "21" />
+            <attr type="21" value = "2000" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="12" value = "100" />
+            <attr type="5" value = "21" />
+            <attr type="22" value = "2000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="11" value = "100" />
+            <attr type="9" value = "21" />
+            <attr type="21" value = "1000" />
+            <attr type="22" value = "1000" />
+        </activate>
+    </set>
+    <set id="10016" name="骊山的微笑" group="10607,10608">
+        <activate needAmount ="2">
+            <attr type="15" value = "20" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+    </set>
+    <set id="10017" name="九天玄女怒" group="10609,10610,10611,10612">
+        <activate needAmount ="2">
+            <attr type="3" value = "28" />
+            <attr type="21" value = "2000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="4" value = "40" />
+            <attr type="22" value = "2000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="9" value = "28" />
+            <attr type="13" value = "2000" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+    </set>
+    <set id="10018" name="金刚伏魔录" group="10613,10614,10615">
+        <activate needAmount ="2">
+            <attr type="14" value = "2800" />
+            <attr type="21" value = "1500" />
+            <attr type="22" value = "1500" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="11" value = "100" />
+            <attr type="6" value = "40" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+    </set>
+    <set id="10019" name="不动明王经" group="10616,10617,10618">
+        <activate needAmount ="2">
+            <attr type="4" value = "40" />
+            <attr type="21" value = "2500" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="16" value = "28" />
+            <attr type="5" value = "28" />
+            <attr type="22" value = "2500" />
+        </activate>
+    </set>
+    <set id="10020" name="玄武套装" group="10619,10620,10621,10622,10623,10624">
+        <activate needAmount ="2">
+            <attr type="3" value = "28" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="9" value = "28" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="10" value = "20" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="11" value = "100" />
+            <attr type="7" value = "20" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="12" value = "100" />
+            <attr type="15" value = "20" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+    </set>
+    <set id="10021" name="修罗界诅咒" group="10625,10626,10627,10628,10629,10630">
+        <activate needAmount ="2">
+            <attr type="4" value = "40" />
+            <attr type="21" value = "4000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="6" value = "40" />
+            <attr type="21" value = "4000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="8" value = "28" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="12" value = "100" />
+            <attr type="5" value = "28" />
+            <attr type="22" value = "4000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="11" value = "100" />
+            <attr type="16" value = "28" />
+            <attr type="22" value = "4000" />
+        </activate>
+    </set>
+    <set id="10022" name="天罡正气" group="10707,10708">
+        <activate needAmount ="2">
+            <attr type="3" value = "35" />
+            <attr type="21" value = "4000" />
+            <attr type="22" value = "4000" />
+        </activate>
+    </set>
+    <set id="10023" name="金仙套装" group="10709,10710,10711,10712">
+        <activate needAmount ="2">
+            <attr type="5" value = "35" />
+            <attr type="21" value = "4500" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="10" value = "25" />
+            <attr type="22" value = "4500" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="12" value = "100" />
+            <attr type="3" value = "35" />
+            <attr type="21" value = "5500" />
+            <attr type="22" value = "5500" />
+        </activate>
+    </set>
+    <set id="10024" name="真武军装" group="10713,10714,10715">
+        <activate needAmount ="2">
+            <attr type="7" value = "25" />
+            <attr type="14" value = "3500" />
+            <attr type="21" value = "3500" />
+            <attr type="22" value = "4500" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="12" value = "100" />
+            <attr type="6" value = "50" />
+            <attr type="21" value = "4500" />
+            <attr type="22" value = "3500" />
+        </activate>
+    </set>
+    <set id="10025" name="鬼界传说" group="10716,10717,10718">
+        <activate needAmount ="2">
+            <attr type="4" value = "50" />
+            <attr type="22" value = "6000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="11" value = "100" />
+            <attr type="5" value = "35" />
+            <attr type="21" value = "6000" />
+        </activate>
+    </set>
+    <set id="10026" name="紫微军之殇" group="10719,10720,10721,10722,10723,10724">
+        <activate needAmount ="2">
+            <attr type="9" value = "35" />
+            <attr type="3" value = "35" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="15" value = "25" />
+            <attr type="5" value = "35" />
+            <attr type="21" value = "3000" />
+            <attr type="22" value = "3000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="7" value = "25" />
+            <attr type="8" value = "35" />
+            <attr type="21" value = "4000" />
+            <attr type="22" value = "4000" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="12" value = "100" />
+            <attr type="16" value = "35" />
+            <attr type="21" value = "5000" />
+            <attr type="22" value = "5000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="11" value = "100" />
+            <attr type="10" value = "25" />
+            <attr type="21" value = "6000" />
+            <attr type="22" value = "6000" />
+        </activate>
+    </set>
+    <set id="10027" name="广寒宫的威严" group="10725,10726,10727,10728,10729,10730">
+        <activate needAmount ="2">
+            <attr type="7" value = "25" />
+            <attr type="8" value = "35" />
+            <attr type="22" value = "8500" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="15" value = "25" />
+            <attr type="6" value = "50" />
+            <attr type="22" value = "8500" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="9" value = "35" />
+            <attr type="4" value = "50" />
+            <attr type="21" value = "3000" />
+            <attr type="22" value = "3000" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="12" value = "100" />
+            <attr type="10" value = "25" />
+            <attr type="21" value = "8500" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="11" value = "100" />
+            <attr type="8" value = "35" />
+            <attr type="16" value = "35" />
+            <attr type="21" value = "8500" />
+        </activate>
+    </set>
+    <set id="10028" name="恭喜发财" group="10525,10526,10527,10528,10529,10530">
+        <activate needAmount ="2">
+            <attr type="3" value = "21" />
+            <attr type="4" value = "30" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="9" value = "21" />
+            <attr type="10" value = "15" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="11" value = "100" />
+            <attr type="21" value = "1000" />
+            <attr type="22" value = "1000" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="12" value = "100" />
+            <attr type="21" value = "2000" />
+            <attr type="22" value = "2000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="16" value = "21" />
+            <attr type="21" value = "4000" />
+            <attr type="22" value = "4000" />
+        </activate>
+    </set>
+    <set id="10029" name="混元神装" group="10731,10732,10733,10734,10735,10736">
+        <activate needAmount ="2">
+            <attr type="10" value = "30" />
+            <attr type="16" value = "60" />
+            <attr type="22" value = "7000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="8" value = "30" />
+            <attr type="4" value = "50" />
+            <attr type="21" value = "5000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="12" value = "100" />
+            <attr type="9" value = "30" />
+            <attr type="15" value = "25" />
+            <attr type="5" value = "40" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="7" value = "40" />
+            <attr type="16" value = "40" />
+            <attr type="4" value = "60" />
+            <attr type="21" value = "17000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="11" value = "100" />
+            <attr type="10" value = "30" />
+            <attr type="6" value = "60" />
+            <attr type="22" value = "15000" />
+        </activate>
+    </set>
+    <set id="10030" name="太清仙装" group="10737,10738,10739,10740,10741,10742">
+        <activate needAmount ="2">
+            <attr type="7" value = "30" />
+            <attr type="9" value = "35" />
+            <attr type="21" value = "4000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="15" value = "25" />
+            <attr type="4" value = "60" />
+            <attr type="22" value = "4000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="12" value = "100" />
+            <attr type="8" value = "30" />
+            <attr type="16" value = "40" />
+            <attr type="5" value = "40" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="10" value = "30" />
+            <attr type="3" value = "35" />
+            <attr type="6" value = "50" />
+            <attr type="21" value = "18000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="11" value = "100" />
+            <attr type="7" value = "40" />
+            <attr type="8" value = "40" />
+            <attr type="22" value = "18000" />
+        </activate>
+    </set>
+    <set id="10031" name="太乙仙装" group="10743,10744,10745,10746,10747,10748">
+        <activate needAmount ="2">
+            <attr type="10" value = "35" />
+            <attr type="16" value = "60" />
+            <attr type="22" value = "10000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="8" value = "40" />
+            <attr type="4" value = "55" />
+            <attr type="21" value = "10000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="12" value = "100" />
+            <attr type="9" value = "35" />
+            <attr type="15" value = "25" />
+            <attr type="5" value = "45" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="7" value = "45" />
+            <attr type="16" value = "45" />
+            <attr type="4" value = "60" />
+            <attr type="21" value = "13000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="11" value = "100" />
+            <attr type="10" value = "35" />
+            <attr type="6" value = "65" />
+            <attr type="22" value = "13000" />
+        </activate>
+    </set>
+    <set id="10032" name="玉清神装" group="10749,10750,10751,10752,10753,10754">
+        <activate needAmount ="2">
+            <attr type="4" value = "60" />
+            <attr type="6" value = "60" />
+            <attr type="21" value = "5000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="3" value = "40" />
+            <attr type="5" value = "45" />
+            <attr type="22" value = "5000" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="7" value = "35" />
+            <attr type="8" value = "40" />
+            <attr type="15" value = "30" />
+            <attr type="22" value = "8000" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="12" value = "100" />
+            <attr type="9" value = "40" />
+            <attr type="16" value = "45" />
+            <attr type="21" value = "8000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="11" value = "100" />
+            <attr type="10" value = "35" />
+            <attr type="21" value = "12000" />
+            <attr type="22" value = "12000" />
+        </activate>
+    </set>
+    <set id="10033" name="真仙套装" group="10755,10756,10757,10758,10759,10760">
+        <activate needAmount ="2">
+            <attr type="10" value = "40" />
+            <attr type="13" value = "1500" />
+            <attr type="4" value = "75" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="9" value = "50" />
+            <attr type="14" value = "2000" />
+            <attr type="5" value = "50" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="9" value = "50" />
+            <attr type="16" value = "50" />
+            <attr type="6" value = "70" />
+            <attr type="22" value = "10000" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="11" value = "100" />
+            <attr type="3" value = "45" />
+            <attr type="5" value = "50" />
+            <attr type="22" value = "15000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="12" value = "100" />
+            <attr type="7" value = "40" />
+            <attr type="15" value = "35" />
+            <attr type="21" value = "25000" />
+        </activate>
+    </set>
+    <set id="10034" name="西天神佛" group="10761,10762,10763,10764,10765,10766">
+        <activate needAmount ="2">
+            <attr type="7" value = "40" />
+            <attr type="15" value = "35" />
+            <attr type="22" value = "10000" />
+        </activate>
+        <activate needAmount ="3">
+            <attr type="8" value = "50" />
+            <attr type="14" value = "2000" />
+            <attr type="16" value = "50" />
+        </activate>
+        <activate needAmount ="4">
+            <attr type="9" value = "50" />
+            <attr type="13" value = "1500" />
+            <attr type="6" value = "70" />
+            <attr type="21" value = "10000" />
+        </activate>
+        <activate needAmount ="5">
+            <attr type="12" value = "100" />
+            <attr type="3" value = "45" />
+            <attr type="5" value = "50" />
+            <attr type="22" value = "15000" />
+        </activate>
+        <activate needAmount ="6">
+            <attr type="11" value = "100" />
+            <attr type="10" value = "40" />
+            <attr type="4" value = "75" />
+            <attr type="21" value = "15000" />
+        </activate>
+    </set>
+</suits>

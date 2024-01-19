@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Goods>
+	<GoodsItem GoodsID="11001" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="38200" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11002" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16900" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11003" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16050" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11004" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="40000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11005" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16050" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11006" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16050" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11007" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="15000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11008" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="14600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11009" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="15650" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11010" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="13150" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11011" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="34600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2110" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11012" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="15000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11013" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="34000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11014" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="14600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11015" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11016" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17500" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11017" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="39400" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11018" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="34000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11019" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="18200" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11020" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="18050" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11021" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="38800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11022" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11023" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="15150" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3110" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11024" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16450" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11025" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17550" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3130" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11026" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17150" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3140" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11027" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="14750" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3150" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11028" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="34600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11029" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16350" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11030" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16850" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11031" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="38800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11032" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17500" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11033" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17250" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11034" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16350" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11035" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17100" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11036" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="37600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11037" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17400" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11038" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16300" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4110" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11039" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16450" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11040" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="35800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4130" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11041" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4140" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11042" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="15650" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4150" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11043" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="34600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4160" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11044" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4170" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11045" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="18050" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="4180" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11046" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="38200" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11047" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="15900" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11048" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16850" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11049" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11050" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="37600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11051" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="14850" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11052" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="15950" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11053" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16500" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11054" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="13400" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11055" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="36400" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11056" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="14850" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5110" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11057" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11058" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="34600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5130" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11059" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="17400" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5140" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11060" GoodsName="卡牌招募" Star="4" BuyNum="1" MoneyType="3" Price="16750" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="5150" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11061" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="3000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="6010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11062" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2100" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="6020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11063" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="6030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11064" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="3000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="6040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11065" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2930" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="6050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11066" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2730" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="6060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11067" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2660" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="6070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11068" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="6080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11069" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2630" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="6090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11070" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2630" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="6100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11071" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2660" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="7010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11072" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2760" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="7020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11073" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2560" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="7030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11074" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2730" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="7040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11075" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="3000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="7050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11076" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="7060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11077" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2930" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="7070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11078" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="3000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="7080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11079" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2730" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="7090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11080" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="7100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11081" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11082" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2860" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11083" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2900" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11084" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2000" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11085" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2860" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11086" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11087" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2730" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11088" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2930" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11089" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2660" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11090" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2600" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11091" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2700" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2110" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11092" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2660" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="2120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11093" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11094" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2830" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11095" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2830" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11096" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2860" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11097" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2800" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11098" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2860" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11099" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2500" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11100" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2660" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11101" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2830" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11102" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2930" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11103" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2400" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3110" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="11104" GoodsName="卡牌招募" Star="3" BuyNum="1" MoneyType="3" Price="2730" needVipLevel="-1">
+		<Reward RewardType="0" RewardValue="3120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12001" GoodsName="金刚杖" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10613.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10613" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12002" GoodsName="玄女戒指" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10612.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10612" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12003" GoodsName="玄女项链" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10611.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10611" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12004" GoodsName="玄女兔" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10610.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10610" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12005" GoodsName="玄女袍" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10609.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10609" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12006" GoodsName="骊山头环" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10608.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10608" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12007" GoodsName="骊山弓" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10607.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10607" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12008" GoodsName="轸水戒指" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10606.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10606" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12009" GoodsName="翼火项链" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10605.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10605" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12010" GoodsName="张月扇" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10604.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10604" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12011" GoodsName="星日披肩" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10603.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10603" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12012" GoodsName="柳土帽" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10602.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10602" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12013" GoodsName="鬼金琴" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10601.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10601" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12014" GoodsName="参水戒指" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10524.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10524" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12015" GoodsName="觜火项链" Star="4" BuyNum="1" MoneyType="2" Price="500" needVipLevel="-1" GoodsIcon="ico_itm/item_10523.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10523" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12016" GoodsName="毕月钥匙" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10522.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10522" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12017" GoodsName="昴日服" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10521.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10521" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12018" GoodsName="胃土眼罩" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10520.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10520" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12019" GoodsName="娄金剑" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10519.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10519" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12020" GoodsName="涂山手" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10518.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10518" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12021" GoodsName="涂山巾" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10517.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10517" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12022" GoodsName="涂山礼" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10516.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10516" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12023" GoodsName="涂山衣" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10515.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10515" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12024" GoodsName="判官帽" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10514.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10514" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12025" GoodsName="判官锯" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10513.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10513" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12026" GoodsName="紫虚手镯" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10512.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10512" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12027" GoodsName="紫虚项链" Star="4" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10511.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10511" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12028" GoodsName="紫虚耳坠" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10510.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10510" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12029" GoodsName="紫虚锦袍" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10509.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10509" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12030" GoodsName="玄女面罩" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10508.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10508" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12031" GoodsName="玄女刀" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10507.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10507" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12032" GoodsName="室火戒指" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10506.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10506" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12033" GoodsName="避水项链" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10505.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10505" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12034" GoodsName="危月胸针" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10504.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10504" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12035" GoodsName="虚日长衣" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10503.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10503" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12036" GoodsName="女土帽" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10502.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10502" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12037" GoodsName="牛金糖" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10501.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10501" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12038" GoodsName="逍遥翼" Star="3" BuyNum="1" MoneyType="2" Price="5000" needVipLevel="-1" GoodsIcon="ico_itm/item_10418.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10418" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12039" GoodsName="逍遥项链" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10417.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10417" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12040" GoodsName="逍遥琴" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10416.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10416" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12041" GoodsName="妙音服" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10415.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10415" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12042" GoodsName="妙音发簪" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10414.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10414" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12043" GoodsName="妙音歌" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10413.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10413" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12044" GoodsName="素心戒指" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10412.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10412" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12045" GoodsName="素心项链" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10411.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10411" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12046" GoodsName="素心蝶" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10410.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10410" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12047" GoodsName="素心衣" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10409.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10409" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12048" GoodsName="玉女冠" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10408.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10408" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12049" GoodsName="玉女鞭" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10407.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10407" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12050" GoodsName="箕水戒指" Star="3" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10406.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10406" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12051" GoodsName="尾火项链" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10405.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10405" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12052" GoodsName="心月腰带" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10404.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10404" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12053" GoodsName="房日短裤" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10403.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10403" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12054" GoodsName="氐土头环" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10402.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10402" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12055" GoodsName="亢金拳套" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10401.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10401" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12056" GoodsName="六甲戒指" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10318.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10318" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12057" GoodsName="六丁项链" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10317.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10317" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12058" GoodsName="灭太岁" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10316.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10316" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12059" GoodsName="地狱服" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10315.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10315" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12060" GoodsName="阎王枷" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10314.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10314" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12061" GoodsName="阎王斧" Star="2" BuyNum="1" MoneyType="2" Price="150000" needVipLevel="-1" GoodsIcon="ico_itm/item_10313.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10313" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12062" GoodsName="朱雀戒指" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10312.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10312" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12063" GoodsName="朱雀项链" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10311.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10311" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12064" GoodsName="朱雀头饰" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10310.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10310" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12065" GoodsName="朱雀锦袍" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10309.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10309" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12066" GoodsName="茶花之冠" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10308.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10308" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12067" GoodsName="紫苑之杖" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10307.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10307" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12068" GoodsName="七杀戒指" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10306.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10306" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12069" GoodsName="文曲项链" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10305.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10305" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12070" GoodsName="天机硬币" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10304.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10304" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12071" GoodsName="天相披风" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10303.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10303" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12072" GoodsName="贪狼头盔" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10302.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10302" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12073" GoodsName="巨门斧" Star="2" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10301.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10301" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12074" GoodsName="寿星戒指" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10212.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10212" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12075" GoodsName="禄星项链" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10211.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10211" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12076" GoodsName="福星哨" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10210.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10210" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12077" GoodsName="罗汉衫" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10209.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10209" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12078" GoodsName="罗汉帽" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10208.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10208" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12079" GoodsName="罗汉锤" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10207.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10207" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12080" GoodsName="闪光戒指" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10206.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10206" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12081" GoodsName="闪光项链" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10205.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10205" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12082" GoodsName="诡异娃娃" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10204.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10204" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12083" GoodsName="夹克衫" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10203.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10203" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12084" GoodsName="头盔" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10202.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10202" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12085" GoodsName="平底锅" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10201.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10201" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12086" GoodsName="潮衬衫" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10103.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10103" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12087" GoodsName="棒球帽" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10102.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10102" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="12088" GoodsName="悠悠球" Star="1" BuyNum="1" MoneyType="2" Price="600000" needVipLevel="-1" GoodsIcon="ico_itm/item_10101.pvr.ccz">
+		<Reward RewardType="1" RewardValue="10101" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21001" GoodsName="顺风耳" Star="2" BuyNum="1" MoneyType="3" Price="69" needVipLevel="-1" GoodsIcon="car_ger/card_2071.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21002" GoodsName="寿星" Star="2" BuyNum="1" MoneyType="3" Price="67" needVipLevel="-1" GoodsIcon="car_ger/card_2101.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21003" GoodsName="禄星" Star="2" BuyNum="1" MoneyType="3" Price="66" needVipLevel="-1" GoodsIcon="car_ger/card_2061.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21004" GoodsName="永住金刚" Star="2" BuyNum="1" MoneyType="3" Price="65" needVipLevel="-1" GoodsIcon="car_ger/card_2111.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2110" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21005" GoodsName="门神" Star="2" BuyNum="1" MoneyType="3" Price="63" needVipLevel="-1" GoodsIcon="car_ger/card_2091.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21006" GoodsName="大力金刚" Star="2" BuyNum="1" MoneyType="3" Price="62" needVipLevel="-1" GoodsIcon="car_ger/card_2081.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21007" GoodsName="红袍妖" Star="2" BuyNum="1" MoneyType="3" Price="61" needVipLevel="-1" GoodsIcon="car_ger/card_2031.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21008" GoodsName="降龙伏虎罗汉" Star="2" BuyNum="1" MoneyType="3" Price="59" needVipLevel="-1" GoodsIcon="car_ger/card_2121.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21009" GoodsName="千里眼" Star="2" BuyNum="1" MoneyType="3" Price="58" needVipLevel="-1" GoodsIcon="car_ger/card_2051.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21010" GoodsName="鬼斩" Star="2" BuyNum="1" MoneyType="3" Price="57" needVipLevel="-1" GoodsIcon="car_ger/card_2041.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21011" GoodsName="瘟神" Star="2" BuyNum="1" MoneyType="3" Price="55" needVipLevel="-1" GoodsIcon="car_ger/card_2021.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21012" GoodsName="福星" Star="2" BuyNum="1" MoneyType="3" Price="54" needVipLevel="-1" GoodsIcon="car_ger/card_2011.pvr.ccz">
+		<Reward RewardType="0" RewardValue="2010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21013" GoodsName="红耳兔精" Star="3" BuyNum="1" MoneyType="3" Price="402" needVipLevel="-1" GoodsIcon="car_ger/card_3061.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21014" GoodsName="无常" Star="3" BuyNum="1" MoneyType="3" Price="394" needVipLevel="-1" GoodsIcon="car_ger/card_3131.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3130" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21015" GoodsName="匠魂" Star="3" BuyNum="1" MoneyType="3" Price="387" needVipLevel="-1" GoodsIcon="car_ger/card_3081.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21016" GoodsName="灶王神" Star="3" BuyNum="1" MoneyType="3" Price="379" needVipLevel="-1" GoodsIcon="car_ger/card_3031.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21017" GoodsName="风伯" Star="3" BuyNum="1" MoneyType="3" Price="371" needVipLevel="-1" GoodsIcon="car_ger/card_3021.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21018" GoodsName="胜至金刚" Star="3" BuyNum="1" MoneyType="3" Price="364" needVipLevel="-1" GoodsIcon="car_ger/card_3091.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21019" GoodsName="花妖" Star="3" BuyNum="1" MoneyType="3" Price="356" needVipLevel="-1" GoodsIcon="car_ger/card_3011.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21020" GoodsName="财神" Star="3" BuyNum="1" MoneyType="3" Price="348" needVipLevel="-1" GoodsIcon="car_ger/card_3071.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21021" GoodsName="辰星水星" Star="3" BuyNum="1" MoneyType="3" Price="340" needVipLevel="-1" GoodsIcon="car_ger/card_3121.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21022" GoodsName="虚空藏菩萨" Star="3" BuyNum="1" MoneyType="3" Price="333" needVipLevel="-1" GoodsIcon="car_ger/card_3111.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3110" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21023" GoodsName="土地神" Star="3" BuyNum="1" MoneyType="3" Price="325" needVipLevel="-1" GoodsIcon="car_ger/card_3101.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21024" GoodsName="镇星（土星）" Star="3" BuyNum="1" MoneyType="3" Price="317" needVipLevel="-1" GoodsIcon="car_ger/card_3151.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3150" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21025" GoodsName="钟馗" Star="3" BuyNum="1" MoneyType="3" Price="310" needVipLevel="-1" GoodsIcon="car_ger/card_3141.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3140" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21026" GoodsName="泼法金刚" Star="3" BuyNum="1" MoneyType="3" Price="302" needVipLevel="-1" GoodsIcon="car_ger/card_3051.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21027" GoodsName="雨师" Star="3" BuyNum="1" MoneyType="3" Price="294" needVipLevel="-1" GoodsIcon="car_ger/card_3041.pvr.ccz">
+		<Reward RewardType="0" RewardValue="3040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21028" GoodsName="孔雀明王" Star="4" BuyNum="1" MoneyType="3" Price="2070" needVipLevel="-1" GoodsIcon="car_ger/card_4131.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4130" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21029" GoodsName="电母" Star="4" BuyNum="1" MoneyType="3" Price="2030" needVipLevel="-1" GoodsIcon="car_ger/card_4151.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4150" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21030" GoodsName="太白（金星）" Star="4" BuyNum="1" MoneyType="3" Price="1990" needVipLevel="-1" GoodsIcon="car_ger/card_4141.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4140" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21031" GoodsName="岁星（木星）" Star="4" BuyNum="1" MoneyType="3" Price="1951" needVipLevel="-1" GoodsIcon="car_ger/card_4121.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21032" GoodsName="荧惑星（火星）" Star="4" BuyNum="1" MoneyType="3" Price="1911" needVipLevel="-1" GoodsIcon="car_ger/card_4031.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21033" GoodsName="广目天王" Star="4" BuyNum="1" MoneyType="3" Price="1872" needVipLevel="-1" GoodsIcon="car_ger/card_4111.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4110" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21034" GoodsName="多闻天王" Star="4" BuyNum="1" MoneyType="3" Price="1832" needVipLevel="-1" GoodsIcon="car_ger/card_4091.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21035" GoodsName="赤灵神" Star="4" BuyNum="1" MoneyType="3" Price="1792" needVipLevel="-1" GoodsIcon="car_ger/card_4021.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21036" GoodsName="黑灵神" Star="4" BuyNum="1" MoneyType="3" Price="1753" needVipLevel="-1" GoodsIcon="car_ger/card_4011.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21037" GoodsName="鼠精" Star="4" BuyNum="1" MoneyType="3" Price="1713" needVipLevel="-1" GoodsIcon="car_ger/card_4101.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21038" GoodsName="十八罗汉" Star="4" BuyNum="1" MoneyType="3" Price="1674" needVipLevel="-1" GoodsIcon="car_ger/card_4061.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21039" GoodsName="增长天王" Star="4" BuyNum="1" MoneyType="3" Price="1634" needVipLevel="-1" GoodsIcon="car_ger/card_4051.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21040" GoodsName="吸血魔" Star="4" BuyNum="1" MoneyType="3" Price="1594" needVipLevel="-1" GoodsIcon="car_ger/card_4181.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4180" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21041" GoodsName="猫妖" Star="4" BuyNum="1" MoneyType="3" Price="1555" needVipLevel="-1" GoodsIcon="car_ger/card_4041.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21042" GoodsName="鹿怪" Star="4" BuyNum="1" MoneyType="3" Price="1515" needVipLevel="-1" GoodsIcon="car_ger/card_4071.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21043" GoodsName="持国天王" Star="4" BuyNum="1" MoneyType="3" Price="1515" needVipLevel="-1" GoodsIcon="car_ger/card_4171.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4170" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21044" GoodsName="真武大帝" Star="4" BuyNum="1" MoneyType="3" Price="1515" needVipLevel="-1" GoodsIcon="car_ger/card_4161.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4160" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21045" GoodsName="金刚手菩萨" Star="4" BuyNum="1" MoneyType="3" Price="1515" needVipLevel="-1" GoodsIcon="car_ger/card_4081.pvr.ccz">
+		<Reward RewardType="0" RewardValue="4080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21046" GoodsName="阎罗王" Star="5" BuyNum="1" MoneyType="3" Price="11500" needVipLevel="-1" GoodsIcon="car_ger/card_5131.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5130" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21047" GoodsName="韦驮菩萨" Star="5" BuyNum="1" MoneyType="3" Price="11280" needVipLevel="-1" GoodsIcon="car_ger/card_5011.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21048" GoodsName="青龙孟章神君" Star="5" BuyNum="1" MoneyType="3" Price="11060" needVipLevel="-1" GoodsIcon="car_ger/card_5121.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21049" GoodsName="灵吉菩萨" Star="5" BuyNum="1" MoneyType="3" Price="10840" needVipLevel="-1" GoodsIcon="car_ger/card_5091.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21050" GoodsName="白虎监兵神君" Star="5" BuyNum="1" MoneyType="3" Price="10620" needVipLevel="-1" GoodsIcon="car_ger/card_5081.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5080" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21051" GoodsName="谛听" Star="5" BuyNum="1" MoneyType="3" Price="10400" needVipLevel="-1" GoodsIcon="car_ger/card_5021.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21052" GoodsName="东华帝君" Star="5" BuyNum="1" MoneyType="3" Price="10180" needVipLevel="-1" GoodsIcon="car_ger/card_5041.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21053" GoodsName="巨灵神" Star="5" BuyNum="1" MoneyType="3" Price="9960" needVipLevel="-1" GoodsIcon="car_ger/card_5151.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5150" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21054" GoodsName="准提菩萨" Star="5" BuyNum="1" MoneyType="3" Price="9740" needVipLevel="-1" GoodsIcon="car_ger/card_5111.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5110" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21055" GoodsName="蜘蛛精" Star="5" BuyNum="1" MoneyType="3" Price="9520" needVipLevel="-1" GoodsIcon="car_ger/card_5031.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21056" GoodsName="朱雀陵光神君" Star="5" BuyNum="1" MoneyType="3" Price="9300" needVipLevel="-1" GoodsIcon="car_ger/card_5071.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21057" GoodsName="玄武执明神君" Star="5" BuyNum="1" MoneyType="3" Price="9080" needVipLevel="-1" GoodsIcon="car_ger/card_5061.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21058" GoodsName="雷公" Star="5" BuyNum="1" MoneyType="3" Price="8860" needVipLevel="-1" GoodsIcon="car_ger/card_5141.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5140" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21059" GoodsName="判官" Star="5" BuyNum="1" MoneyType="3" Price="8640" needVipLevel="-1" GoodsIcon="car_ger/card_5101.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21060" GoodsName="狐狸精" Star="5" BuyNum="1" MoneyType="3" Price="8420" needVipLevel="-1" GoodsIcon="car_ger/card_5051.pvr.ccz">
+		<Reward RewardType="0" RewardValue="5050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21061" GoodsName="平底锅" Star="2" BuyNum="1" MoneyType="3" Price="85" needVipLevel="-1" GoodsIcon="ico_itm/item_10201.pvr.ccz" GoodsDescription="平底锅">
+		<Reward RewardType="1" RewardValue="10201" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21062" GoodsName="头盔" Star="2" BuyNum="1" MoneyType="3" Price="78" needVipLevel="-1" GoodsIcon="ico_itm/item_10202.pvr.ccz" GoodsDescription="头盔">
+		<Reward RewardType="1" RewardValue="10202" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21063" GoodsName="夹克衫" Star="2" BuyNum="1" MoneyType="3" Price="84" needVipLevel="-1" GoodsIcon="ico_itm/item_10203.pvr.ccz" GoodsDescription="夹克衫">
+		<Reward RewardType="1" RewardValue="10203" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21064" GoodsName="诡异娃娃" Star="2" BuyNum="1" MoneyType="3" Price="85" needVipLevel="-1" GoodsIcon="ico_itm/item_10204.pvr.ccz" GoodsDescription="诡异娃娃">
+		<Reward RewardType="1" RewardValue="10204" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21065" GoodsName="闪光项链" Star="2" BuyNum="1" MoneyType="3" Price="81" needVipLevel="-1" GoodsIcon="ico_itm/item_10205.pvr.ccz" GoodsDescription="闪光项链">
+		<Reward RewardType="1" RewardValue="10205" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21066" GoodsName="闪光戒指" Star="2" BuyNum="1" MoneyType="3" Price="79" needVipLevel="-1" GoodsIcon="ico_itm/item_10206.pvr.ccz" GoodsDescription="闪光戒指">
+		<Reward RewardType="1" RewardValue="10206" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21067" GoodsName="罗汉锤" Star="2" BuyNum="1" MoneyType="3" Price="100" needVipLevel="-1" GoodsIcon="ico_itm/item_10207.pvr.ccz" GoodsDescription="罗汉锤">
+		<Reward RewardType="1" RewardValue="10207" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21068" GoodsName="罗汉帽" Star="2" BuyNum="1" MoneyType="3" Price="104" needVipLevel="-1" GoodsIcon="ico_itm/item_10208.pvr.ccz" GoodsDescription="罗汉帽">
+		<Reward RewardType="1" RewardValue="10208" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21069" GoodsName="罗汉衫" Star="2" BuyNum="1" MoneyType="3" Price="97" needVipLevel="-1" GoodsIcon="ico_itm/item_10209.pvr.ccz" GoodsDescription="罗汉衫">
+		<Reward RewardType="1" RewardValue="10209" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21070" GoodsName="福星哨" Star="2" BuyNum="1" MoneyType="3" Price="97" needVipLevel="-1" GoodsIcon="ico_itm/item_10210.pvr.ccz" GoodsDescription="福星哨">
+		<Reward RewardType="1" RewardValue="10210" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21071" GoodsName="禄星项链" Star="2" BuyNum="1" MoneyType="3" Price="98" needVipLevel="-1" GoodsIcon="ico_itm/item_10211.pvr.ccz" GoodsDescription="禄星项链">
+		<Reward RewardType="1" RewardValue="10211" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21072" GoodsName="寿星戒指" Star="2" BuyNum="1" MoneyType="3" Price="103" needVipLevel="-1" GoodsIcon="ico_itm/item_10212.pvr.ccz" GoodsDescription="寿星戒指">
+		<Reward RewardType="1" RewardValue="10212" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21073" GoodsName="巨门斧" Star="3" BuyNum="1" MoneyType="3" Price="406" needVipLevel="-1" GoodsIcon="ico_itm/item_10301.pvr.ccz" GoodsDescription="巨门斧">
+		<Reward RewardType="1" RewardValue="10301" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21074" GoodsName="贪狼头盔" Star="3" BuyNum="1" MoneyType="3" Price="426" needVipLevel="-1" GoodsIcon="ico_itm/item_10302.pvr.ccz" GoodsDescription="贪狼头盔">
+		<Reward RewardType="1" RewardValue="10302" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21075" GoodsName="天相披风" Star="3" BuyNum="1" MoneyType="3" Price="402" needVipLevel="-1" GoodsIcon="ico_itm/item_10303.pvr.ccz" GoodsDescription="天相披风">
+		<Reward RewardType="1" RewardValue="10303" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21076" GoodsName="天机硬币" Star="3" BuyNum="1" MoneyType="3" Price="429" needVipLevel="-1" GoodsIcon="ico_itm/item_10304.pvr.ccz" GoodsDescription="天机硬币">
+		<Reward RewardType="1" RewardValue="10304" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21077" GoodsName="文曲项链" Star="3" BuyNum="1" MoneyType="3" Price="426" needVipLevel="-1" GoodsIcon="ico_itm/item_10305.pvr.ccz" GoodsDescription="文曲项链">
+		<Reward RewardType="1" RewardValue="10305" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21078" GoodsName="七杀戒指" Star="3" BuyNum="1" MoneyType="3" Price="425" needVipLevel="-1" GoodsIcon="ico_itm/item_10306.pvr.ccz" GoodsDescription="七杀戒指">
+		<Reward RewardType="1" RewardValue="10306" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21079" GoodsName="紫苑之杖" Star="3" BuyNum="1" MoneyType="3" Price="491" needVipLevel="-1" GoodsIcon="ico_itm/item_10307.pvr.ccz" GoodsDescription="紫苑之杖">
+		<Reward RewardType="1" RewardValue="10307" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21080" GoodsName="茶花之冠" Star="3" BuyNum="1" MoneyType="3" Price="479" needVipLevel="-1" GoodsIcon="ico_itm/item_10308.pvr.ccz" GoodsDescription="茶花之冠">
+		<Reward RewardType="1" RewardValue="10308" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21081" GoodsName="朱雀锦袍" Star="3" BuyNum="1" MoneyType="3" Price="495" needVipLevel="-1" GoodsIcon="ico_itm/item_10309.pvr.ccz" GoodsDescription="朱雀锦袍">
+		<Reward RewardType="1" RewardValue="10309" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21082" GoodsName="朱雀头饰" Star="3" BuyNum="1" MoneyType="3" Price="502" needVipLevel="-1" GoodsIcon="ico_itm/item_10310.pvr.ccz" GoodsDescription="朱雀头饰">
+		<Reward RewardType="1" RewardValue="10310" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21083" GoodsName="朱雀项链" Star="3" BuyNum="1" MoneyType="3" Price="492" needVipLevel="-1" GoodsIcon="ico_itm/item_10311.pvr.ccz" GoodsDescription="朱雀项链">
+		<Reward RewardType="1" RewardValue="10311" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21084" GoodsName="朱雀戒指" Star="3" BuyNum="1" MoneyType="3" Price="512" needVipLevel="-1" GoodsIcon="ico_itm/item_10312.pvr.ccz" GoodsDescription="朱雀戒指">
+		<Reward RewardType="1" RewardValue="10312" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21085" GoodsName="阎王斧" Star="3" BuyNum="1" MoneyType="3" Price="522" needVipLevel="-1" GoodsIcon="ico_itm/item_10313.pvr.ccz" GoodsDescription="阎王斧">
+		<Reward RewardType="1" RewardValue="10313" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21086" GoodsName="阎王枷" Star="3" BuyNum="1" MoneyType="3" Price="521" needVipLevel="-1" GoodsIcon="ico_itm/item_10314.pvr.ccz" GoodsDescription="阎王枷">
+		<Reward RewardType="1" RewardValue="10314" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21087" GoodsName="地狱服" Star="3" BuyNum="1" MoneyType="3" Price="494" needVipLevel="-1" GoodsIcon="ico_itm/item_10315.pvr.ccz" GoodsDescription="地狱服">
+		<Reward RewardType="1" RewardValue="10315" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21088" GoodsName="灭太岁" Star="3" BuyNum="1" MoneyType="3" Price="494" needVipLevel="-1" GoodsIcon="ico_itm/item_10316.pvr.ccz" GoodsDescription="灭太岁">
+		<Reward RewardType="1" RewardValue="10316" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21089" GoodsName="六丁项链" Star="3" BuyNum="1" MoneyType="3" Price="501" needVipLevel="-1" GoodsIcon="ico_itm/item_10317.pvr.ccz" GoodsDescription="六丁项链">
+		<Reward RewardType="1" RewardValue="10317" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21090" GoodsName="六甲戒指" Star="3" BuyNum="1" MoneyType="3" Price="497" needVipLevel="-1" GoodsIcon="ico_itm/item_10318.pvr.ccz" GoodsDescription="六甲戒指">
+		<Reward RewardType="1" RewardValue="10318" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21091" GoodsName="亢金拳套" Star="4" BuyNum="1" MoneyType="3" Price="2086" needVipLevel="-1" GoodsIcon="ico_itm/item_10401.pvr.ccz" GoodsDescription="亢金拳套">
+		<Reward RewardType="1" RewardValue="10401" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21092" GoodsName="氐土头环" Star="4" BuyNum="1" MoneyType="3" Price="2048" needVipLevel="-1" GoodsIcon="ico_itm/item_10402.pvr.ccz" GoodsDescription="氐土头环">
+		<Reward RewardType="1" RewardValue="10402" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21093" GoodsName="房日短裤" Star="4" BuyNum="1" MoneyType="3" Price="2012" needVipLevel="-1" GoodsIcon="ico_itm/item_10403.pvr.ccz" GoodsDescription="房日短裤">
+		<Reward RewardType="1" RewardValue="10403" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21094" GoodsName="心月腰带" Star="4" BuyNum="1" MoneyType="3" Price="2170" needVipLevel="-1" GoodsIcon="ico_itm/item_10404.pvr.ccz" GoodsDescription="心月腰带">
+		<Reward RewardType="1" RewardValue="10404" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21095" GoodsName="尾火项链" Star="4" BuyNum="1" MoneyType="3" Price="2010" needVipLevel="-1" GoodsIcon="ico_itm/item_10405.pvr.ccz" GoodsDescription="尾火项链">
+		<Reward RewardType="1" RewardValue="10405" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21096" GoodsName="箕水戒指" Star="4" BuyNum="1" MoneyType="3" Price="1995" needVipLevel="-1" GoodsIcon="ico_itm/item_10406.pvr.ccz" GoodsDescription="箕水戒指">
+		<Reward RewardType="1" RewardValue="10406" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21097" GoodsName="玉女鞭" Star="4" BuyNum="1" MoneyType="3" Price="2394" needVipLevel="-1" GoodsIcon="ico_itm/item_10407.pvr.ccz" GoodsDescription="玉女鞭">
+		<Reward RewardType="1" RewardValue="10407" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21098" GoodsName="玉女冠" Star="4" BuyNum="1" MoneyType="3" Price="2459" needVipLevel="-1" GoodsIcon="ico_itm/item_10408.pvr.ccz" GoodsDescription="玉女冠">
+		<Reward RewardType="1" RewardValue="10408" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21099" GoodsName="素心衣" Star="4" BuyNum="1" MoneyType="3" Price="2456" needVipLevel="-1" GoodsIcon="ico_itm/item_10409.pvr.ccz" GoodsDescription="素心衣">
+		<Reward RewardType="1" RewardValue="10409" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21100" GoodsName="素心蝶" Star="4" BuyNum="1" MoneyType="3" Price="2409" needVipLevel="-1" GoodsIcon="ico_itm/item_10410.pvr.ccz" GoodsDescription="素心蝶">
+		<Reward RewardType="1" RewardValue="10410" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21101" GoodsName="素心项链" Star="4" BuyNum="1" MoneyType="3" Price="2506" needVipLevel="-1" GoodsIcon="ico_itm/item_10411.pvr.ccz" GoodsDescription="素心项链">
+		<Reward RewardType="1" RewardValue="10411" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21102" GoodsName="素心戒指" Star="4" BuyNum="1" MoneyType="3" Price="2477" needVipLevel="-1" GoodsIcon="ico_itm/item_10412.pvr.ccz" GoodsDescription="素心戒指">
+		<Reward RewardType="1" RewardValue="10412" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21103" GoodsName="妙音歌" Star="4" BuyNum="1" MoneyType="3" Price="2409" needVipLevel="-1" GoodsIcon="ico_itm/item_10413.pvr.ccz" GoodsDescription="妙音歌">
+		<Reward RewardType="1" RewardValue="10413" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21104" GoodsName="妙音发簪" Star="4" BuyNum="1" MoneyType="3" Price="2469" needVipLevel="-1" GoodsIcon="ico_itm/item_10414.pvr.ccz" GoodsDescription="妙音发簪">
+		<Reward RewardType="1" RewardValue="10414" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21105" GoodsName="妙音服" Star="4" BuyNum="1" MoneyType="3" Price="2493" needVipLevel="-1" GoodsIcon="ico_itm/item_10415.pvr.ccz" GoodsDescription="妙音服">
+		<Reward RewardType="1" RewardValue="10415" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21106" GoodsName="逍遥琴" Star="4" BuyNum="1" MoneyType="3" Price="2464" needVipLevel="-1" GoodsIcon="ico_itm/item_10416.pvr.ccz" GoodsDescription="逍遥琴">
+		<Reward RewardType="1" RewardValue="10416" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21107" GoodsName="逍遥项链" Star="4" BuyNum="1" MoneyType="3" Price="2540" needVipLevel="-1" GoodsIcon="ico_itm/item_10417.pvr.ccz" GoodsDescription="逍遥项链">
+		<Reward RewardType="1" RewardValue="10417" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21108" GoodsName="逍遥翼" Star="4" BuyNum="1" MoneyType="3" Price="2392" needVipLevel="-1" GoodsIcon="ico_itm/item_10418.pvr.ccz" GoodsDescription="逍遥翼">
+		<Reward RewardType="1" RewardValue="10418" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21109" GoodsName="牛金糖" Star="5" BuyNum="1" MoneyType="3" Price="10464" needVipLevel="-1" GoodsIcon="ico_itm/item_10501.pvr.ccz" GoodsDescription="牛金糖">
+		<Reward RewardType="1" RewardValue="10501" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21110" GoodsName="女土帽" Star="5" BuyNum="1" MoneyType="3" Price="10910" needVipLevel="-1" GoodsIcon="ico_itm/item_10502.pvr.ccz" GoodsDescription="女土帽">
+		<Reward RewardType="1" RewardValue="10502" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21111" GoodsName="虚日长衣" Star="5" BuyNum="1" MoneyType="3" Price="10231" needVipLevel="-1" GoodsIcon="ico_itm/item_10503.pvr.ccz" GoodsDescription="虚日长衣">
+		<Reward RewardType="1" RewardValue="10503" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21112" GoodsName="危月胸针" Star="5" BuyNum="1" MoneyType="3" Price="10122" needVipLevel="-1" GoodsIcon="ico_itm/item_10504.pvr.ccz" GoodsDescription="危月胸针">
+		<Reward RewardType="1" RewardValue="10504" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21113" GoodsName="避水项链" Star="5" BuyNum="1" MoneyType="3" Price="10091" needVipLevel="-1" GoodsIcon="ico_itm/item_10505.pvr.ccz" GoodsDescription="避水项链">
+		<Reward RewardType="1" RewardValue="10505" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21114" GoodsName="室火戒指" Star="5" BuyNum="1" MoneyType="3" Price="10113" needVipLevel="-1" GoodsIcon="ico_itm/item_10506.pvr.ccz" GoodsDescription="室火戒指">
+		<Reward RewardType="1" RewardValue="10506" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21115" GoodsName="玄女刀" Star="5" BuyNum="1" MoneyType="3" Price="12918" needVipLevel="-1" GoodsIcon="ico_itm/item_10507.pvr.ccz" GoodsDescription="玄女刀">
+		<Reward RewardType="1" RewardValue="10507" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21116" GoodsName="玄女面罩" Star="5" BuyNum="1" MoneyType="3" Price="12095" needVipLevel="-1" GoodsIcon="ico_itm/item_10508.pvr.ccz" GoodsDescription="玄女面罩">
+		<Reward RewardType="1" RewardValue="10508" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21117" GoodsName="紫虚锦袍" Star="5" BuyNum="1" MoneyType="3" Price="12877" needVipLevel="-1" GoodsIcon="ico_itm/item_10509.pvr.ccz" GoodsDescription="紫虚锦袍">
+		<Reward RewardType="1" RewardValue="10509" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21118" GoodsName="紫虚耳坠" Star="5" BuyNum="1" MoneyType="3" Price="12370" needVipLevel="-1" GoodsIcon="ico_itm/item_10510.pvr.ccz" GoodsDescription="紫虚耳坠">
+		<Reward RewardType="1" RewardValue="10510" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21119" GoodsName="紫虚项链" Star="5" BuyNum="1" MoneyType="3" Price="13063" needVipLevel="-1" GoodsIcon="ico_itm/item_10511.pvr.ccz" GoodsDescription="紫虚项链">
+		<Reward RewardType="1" RewardValue="10511" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21120" GoodsName="紫虚手镯" Star="5" BuyNum="1" MoneyType="3" Price="12857" needVipLevel="-1" GoodsIcon="ico_itm/item_10512.pvr.ccz" GoodsDescription="紫虚手镯">
+		<Reward RewardType="1" RewardValue="10512" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21121" GoodsName="判官锯" Star="5" BuyNum="1" MoneyType="3" Price="12825" needVipLevel="-1" GoodsIcon="ico_itm/item_10513.pvr.ccz" GoodsDescription="判官锯">
+		<Reward RewardType="1" RewardValue="10513" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21122" GoodsName="判官帽" Star="5" BuyNum="1" MoneyType="3" Price="12809" needVipLevel="-1" GoodsIcon="ico_itm/item_10514.pvr.ccz" GoodsDescription="判官帽">
+		<Reward RewardType="1" RewardValue="10514" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21123" GoodsName="涂山衣" Star="5" BuyNum="1" MoneyType="3" Price="12292" needVipLevel="-1" GoodsIcon="ico_itm/item_10515.pvr.ccz" GoodsDescription="涂山衣">
+		<Reward RewardType="1" RewardValue="10515" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21124" GoodsName="涂山礼" Star="5" BuyNum="1" MoneyType="3" Price="12329" needVipLevel="-1" GoodsIcon="ico_itm/item_10516.pvr.ccz" GoodsDescription="涂山礼">
+		<Reward RewardType="1" RewardValue="10516" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21125" GoodsName="涂山巾" Star="5" BuyNum="1" MoneyType="3" Price="12213" needVipLevel="-1" GoodsIcon="ico_itm/item_10517.pvr.ccz" GoodsDescription="涂山巾">
+		<Reward RewardType="1" RewardValue="10517" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21126" GoodsName="涂山手" Star="5" BuyNum="1" MoneyType="3" Price="12629" needVipLevel="-1" GoodsIcon="ico_itm/item_10518.pvr.ccz" GoodsDescription="涂山手">
+		<Reward RewardType="1" RewardValue="10518" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21127" GoodsName="娄金剑" Star="5" BuyNum="1" MoneyType="3" Price="14064" needVipLevel="-1" GoodsIcon="ico_itm/item_10519.pvr.ccz" GoodsDescription="娄金剑">
+		<Reward RewardType="1" RewardValue="10519" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21128" GoodsName="胃土眼罩" Star="5" BuyNum="1" MoneyType="3" Price="14116" needVipLevel="-1" GoodsIcon="ico_itm/item_10520.pvr.ccz" GoodsDescription="胃土眼罩">
+		<Reward RewardType="1" RewardValue="10520" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21129" GoodsName="昴日服" Star="5" BuyNum="1" MoneyType="3" Price="14739" needVipLevel="-1" GoodsIcon="ico_itm/item_10521.pvr.ccz" GoodsDescription="昴日服">
+		<Reward RewardType="1" RewardValue="10521" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21130" GoodsName="毕月钥匙" Star="5" BuyNum="1" MoneyType="3" Price="14399" needVipLevel="-1" GoodsIcon="ico_itm/item_10522.pvr.ccz" GoodsDescription="毕月钥匙">
+		<Reward RewardType="1" RewardValue="10522" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21131" GoodsName="觜火项链" Star="5" BuyNum="1" MoneyType="3" Price="14464" needVipLevel="-1" GoodsIcon="ico_itm/item_10523.pvr.ccz" GoodsDescription="觜火项链">
+		<Reward RewardType="1" RewardValue="10523" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21132" GoodsName="参水戒指" Star="5" BuyNum="1" MoneyType="3" Price="15015" needVipLevel="-1" GoodsIcon="ico_itm/item_10524.pvr.ccz" GoodsDescription="参水戒指">
+		<Reward RewardType="1" RewardValue="10524" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21133" GoodsName="月亮精华" Star="3" BuyNum="1" MoneyType="1" Price="8" needVipLevel="-1" GoodsIcon="ico_itm/item_30018.pvr.ccz" GoodsDescription="月亮精华">
+		<Reward RewardType="1" RewardValue="30018" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21134" GoodsName="命之华" Star="3" BuyNum="1" MoneyType="1" Price="20" needVipLevel="-1" GoodsIcon="ico_itm/item_30019.pvr.ccz" GoodsDescription="命之华">
+		<Reward RewardType="1" RewardValue="30019" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21135" GoodsName="灵魂印记" Star="5" BuyNum="1" MoneyType="1" Price="50" needVipLevel="-1" GoodsIcon="ico_itm/item_30020.pvr.ccz" GoodsDescription="灵魂印记">
+		<Reward RewardType="1" RewardValue="30020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21136" GoodsName="龙之灵" Star="4" BuyNum="1" MoneyType="1" Price="100" needVipLevel="-1" GoodsIcon="ico_itm/item_30021.pvr.ccz" GoodsDescription="龙之灵">
+		<Reward RewardType="1" RewardValue="30021" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21137" GoodsName="太阳精华" Star="3" BuyNum="1" MoneyType="1" Price="20" needVipLevel="-1" GoodsIcon="ico_itm/item_30022.pvr.ccz" GoodsDescription="太阳精华">
+		<Reward RewardType="1" RewardValue="30022" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21138" GoodsName="命之源" Star="4" BuyNum="1" MoneyType="1" Price="50" needVipLevel="-1" GoodsIcon="ico_itm/item_30023.pvr.ccz" GoodsDescription="命之源">
+		<Reward RewardType="1" RewardValue="30023" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21139" GoodsName="灵魂之源" Star="5" BuyNum="1" MoneyType="1" Price="125" needVipLevel="-1" GoodsIcon="ico_itm/item_30024.pvr.ccz" GoodsDescription="灵魂之源">
+		<Reward RewardType="1" RewardValue="30024" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="21140" GoodsName="圣之灵" Star="5" BuyNum="1" MoneyType="1" Price="250" needVipLevel="-1" GoodsIcon="ico_itm/item_30025.pvr.ccz" GoodsDescription="圣之灵">
+		<Reward RewardType="1" RewardValue="30025" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20006" GoodsName="普通果冻" Star="2" BuyNum="-1" MoneyType="2" Price="2750" needVipLevel="-1" GoodsIcon="ico_itm/item__40001.pvr.ccz" GoodsDescription="普通的果冻，能增加神奇宝贝的100点经验">
+		<Reward RewardType="0" RewardValue="2" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20007" GoodsName="普通果冻" Star="2" BuyNum="-1" MoneyType="2" Price="27500" needVipLevel="-1" GoodsIcon="ico_itm/item__40001.pvr.ccz" GoodsDescription="普通的果冻，能增加神奇宝贝的100点经验">
+		<Reward RewardType="0" RewardValue="3" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20008" GoodsName="普通果冻" Star="2" BuyNum="-1" MoneyType="2" Price="275000" needVipLevel="-1" GoodsIcon="ico_itm/item__40001.pvr.ccz" GoodsDescription="普通的果冻，能增加神奇宝贝的100点经验">
+		<Reward RewardType="0" RewardValue="4" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20009" GoodsName="普通果冻" Star="1" BuyNum="-1" MoneyType="2" Price="100" needVipLevel="-1" GoodsIcon="ico_itm/item__40001.pvr.ccz" GoodsDescription="普通的果冻，能增加神奇宝贝的100点经验">
+		<Reward RewardType="1" RewardValue="40001" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20010" GoodsName="高级果冻" Star="2" BuyNum="-1" MoneyType="2" Price="1000" needVipLevel="-1" GoodsIcon="ico_itm/item__40002.pvr.ccz" GoodsDescription="高级的果冻，能增加神奇宝贝的1000点经验">
+		<Reward RewardType="1" RewardValue="40002" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20011" GoodsName="豪华果冻" Star="3" BuyNum="-1" MoneyType="2" Price="10000" needVipLevel="-1" GoodsIcon="ico_itm/item__40003.pvr.ccz" GoodsDescription="豪华的果冻，能增加神奇宝贝的10000点经验">
+		<Reward RewardType="1" RewardValue="40003" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20012" GoodsName="金宝箱" Star="5" BuyNum="-1" MoneyType="1" Price="125" needVipLevel="-1" GoodsIcon="ico_itm/item_24401.pvr.ccz" GoodsDescription="纯金打造的宝箱，有几率开出精灵第2次转生的材料！">
+		<Reward RewardType="1" RewardValue="24401" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20013" GoodsName="银宝箱" Star="4" BuyNum="-1" MoneyType="1" Price="50" needVipLevel="-1" GoodsIcon="ico_itm/item_24402.pvr.ccz" GoodsDescription="纯银打造的宝箱，有几率开出精灵第1次转生的材料！">
+		<Reward RewardType="1" RewardValue="24402" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20014" GoodsName="铜宝箱" Star="3" BuyNum="-1" MoneyType="1" Price="30" needVipLevel="-1" GoodsIcon="ico_itm/item_24403.pvr.ccz" GoodsDescription="青铜打造的宝箱，有几率开出精灵、装备碎片和浆果！">
+		<Reward RewardType="1" RewardValue="24403" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20015" GoodsName="月神石" Star="3" BuyNum="-1" MoneyType="1" Price="8" needVipLevel="-1" GoodsIcon="ico_itm/item_30008.pvr.ccz" GoodsDescription="宠物第一次转生需要的道具">
+		<Reward RewardType="1" RewardValue="30018" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20016" GoodsName="日神石" Star="3" BuyNum="-1" MoneyType="1" Price="20" needVipLevel="-1" GoodsIcon="ico_itm/item_30008.pvr.ccz" GoodsDescription="宠物第一次转生需要的道具">
+		<Reward RewardType="1" RewardValue="30019" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20017" GoodsName="九耀星石" Star="5" BuyNum="-1" MoneyType="1" Price="50" needVipLevel="-1" GoodsIcon="ico_itm/item_30008.pvr.ccz" GoodsDescription="宠物第一次转生需要的道具">
+		<Reward RewardType="1" RewardValue="30020" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20018" GoodsName="银河封印" Star="4" BuyNum="-1" MoneyType="1" Price="100" needVipLevel="-1" GoodsIcon="ico_itm/item_30008.pvr.ccz" GoodsDescription="宠物第一次转生需要的道具">
+		<Reward RewardType="1" RewardValue="30021" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20019" GoodsName="太阳星石" Star="3" BuyNum="-1" MoneyType="1" Price="20" needVipLevel="-1" GoodsIcon="ico_itm/item_30008.pvr.ccz" GoodsDescription="宠物第二次转生需要的道具">
+		<Reward RewardType="1" RewardValue="30022" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20020" GoodsName="太阴星石" Star="4" BuyNum="-1" MoneyType="1" Price="50" needVipLevel="-1" GoodsIcon="ico_itm/item_30008.pvr.ccz" GoodsDescription="宠物第二次转生需要的道具">
+		<Reward RewardType="1" RewardValue="30023" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20021" GoodsName="玄武壳" Star="5" BuyNum="-1" MoneyType="1" Price="125" needVipLevel="-1" GoodsIcon="ico_itm/item_30008.pvr.ccz" GoodsDescription="宠物第二次转生需要的道具">
+		<Reward RewardType="1" RewardValue="30024" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20022" GoodsName="朱雀羽" Star="5" BuyNum="-1" MoneyType="1" Price="250" needVipLevel="-1" GoodsIcon="ico_itm/item_30008.pvr.ccz" GoodsDescription="宠物第二次转生需要的道具">
+		<Reward RewardType="1" RewardValue="30025" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20023" GoodsName="神奇果冻" Star="4" BuyNum="-1" MoneyType="2" Price="100000" needVipLevel="-1" GoodsIcon="ico_itm/item__40004.pvr.ccz" GoodsDescription="神奇的果冻，能增加神奇宝贝的10万点经验">
+		<Reward RewardType="1" RewardValue="40004" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="20024" GoodsName="超级果冻" Star="5" BuyNum="-1" MoneyType="2" Price="1000000" needVipLevel="-1" GoodsIcon="ico_itm/item__40005.pvr.ccz" GoodsDescription="超级的果冻，能增加神奇宝贝的100万点经验">
+		<Reward RewardType="1" RewardValue="40005" BuyNumOnce="-1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30001" GoodsName="神奇果冻" Star="4" BuyNum="1" MoneyType="1" Price="1" needVipLevel="1" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*200000">
+		<Reward RewardType="1" RewardValue="40004" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30002" GoodsName="VIP1浆果大礼" Star="4" BuyNum="1" MoneyType="1" Price="40" needVipLevel="1" GoodsIcon="ico_itm/item_30006.pvr.ccz" GoodsDescription="购买获得浆果*1000">
+		<Reward RewardType="1" RewardValue="30006" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30003" GoodsName="2星装备随机包" Star="4" BuyNum="1" MoneyType="1" Price="1" needVipLevel="2" GoodsIcon="ico_itm/item_10509.pvr.ccz" GoodsDescription="购买获得五星战甲_古代战甲*1">
+		<Reward RewardType="1" RewardValue="24102" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30004" GoodsName="VIP2五星卡牌" Star="4" BuyNum="1" MoneyType="1" Price="148" needVipLevel="2" GoodsIcon="car_ger/card_5131.pvr.ccz" GoodsDescription="购买获得五星卡牌_皮卡丘*1">
+		<Reward RewardType="0" RewardValue="5130" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30005" GoodsName="VIP2金币大礼" Star="4" BuyNum="1" MoneyType="1" Price="148" needVipLevel="2" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*400000">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30006" GoodsName="3星装备随机包" Star="5" BuyNum="1" MoneyType="1" Price="1" needVipLevel="3" GoodsIcon="ico_itm/item_10510.pvr.ccz" GoodsDescription="购买获得五星套装幸运物_古代铜币*1">
+		<Reward RewardType="1" RewardValue="24103" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30007" GoodsName="VIP3五星卡牌" Star="5" BuyNum="1" MoneyType="1" Price="298" needVipLevel="3" GoodsIcon="car_ger/card_5121.pvr.ccz" GoodsDescription="购买获得五星卡牌_小火龙*1">
+		<Reward RewardType="0" RewardValue="5120" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30008" GoodsName="VIP3金币大礼" Star="5" BuyNum="1" MoneyType="1" Price="298" needVipLevel="3" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*600000">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30009" GoodsName="精力丹药（大）" Star="5" BuyNum="1" MoneyType="1" Price="1" needVipLevel="4" GoodsIcon="ico_itm/item_10511.pvr.ccz" GoodsDescription="购买获得五星套装项链_古代项链*1">
+		<Reward RewardType="1" RewardValue="30011" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30010" GoodsName="VIP4五星卡牌" Star="5" BuyNum="1" MoneyType="1" Price="488" needVipLevel="4" GoodsIcon="car_ger/card_5021.pvr.ccz" GoodsDescription="购买获得五星卡牌_妙蛙种子*1">
+		<Reward RewardType="0" RewardValue="5020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30011" GoodsName="VIP4金币大礼" Star="5" BuyNum="1" MoneyType="1" Price="488" needVipLevel="4" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*800000">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30012" GoodsName="3星装备随机包" Star="5" BuyNum="1" MoneyType="1" Price="1" needVipLevel="5" GoodsIcon="ico_itm/item_10512.pvr.ccz" GoodsDescription="购买获得五星套装指环_古代指环*1">
+		<Reward RewardType="1" RewardValue="24103" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30013" GoodsName="VIP5五星卡牌" Star="5" BuyNum="1" MoneyType="1" Price="488" needVipLevel="5" GoodsIcon="car_ger/card_5101.pvr.ccz" GoodsDescription="购买获得五星卡牌_杰尼龟*1">
+		<Reward RewardType="0" RewardValue="5100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30014" GoodsName="vip5金币大礼" Star="5" BuyNum="1" MoneyType="1" Price="488" needVipLevel="5" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*100万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30015" GoodsName="3星英雄随机包" Star="5" BuyNum="1" MoneyType="1" Price="1" needVipLevel="6" GoodsIcon="ico_itm/item_10619.pvr.ccz" GoodsDescription="购买获得六星套装武器_大师之刃*1">
+		<Reward RewardType="1" RewardValue="24202" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30016" GoodsName="VIP6六星卡牌" Star="5" BuyNum="1" MoneyType="1" Price="958" needVipLevel="6" GoodsIcon="car_ger/card_6011.pvr.ccz" GoodsDescription="购买获得六星卡牌_雷吉斯奇鲁*1">
+		<Reward RewardType="0" RewardValue="6010" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30017" GoodsName="vip6金币大礼" Star="5" BuyNum="1" MoneyType="1" Price="958" needVipLevel="6" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*200万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30018" GoodsName="体能炼丹药（大）" Star="5" BuyNum="1" MoneyType="1" Price="1" needVipLevel="7" GoodsIcon="ico_itm/item_10620.pvr.ccz" GoodsDescription="购买获得六星套装头饰_大师头冠*1">
+		<Reward RewardType="1" RewardValue="30014" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30019" GoodsName="VIP7六星卡牌" Star="5" BuyNum="1" MoneyType="1" Price="958" needVipLevel="7" GoodsIcon="car_ger/card_6021.pvr.ccz" GoodsDescription="购买获得六星卡牌_雪拉比*1">
+		<Reward RewardType="0" RewardValue="6020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30020" GoodsName="vip7金币大礼" Star="5" BuyNum="1" MoneyType="1" Price="958" needVipLevel="7" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*360万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30021" GoodsName="4星装备随机包" Star="6" BuyNum="1" MoneyType="1" Price="1" needVipLevel="8" GoodsIcon="ico_itm/item_10621.pvr.ccz" GoodsDescription="购买获得六星套装战甲_大师铠甲*1">
+		<Reward RewardType="1" RewardValue="24104" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30022" GoodsName="VIP8六星卡牌" Star="6" BuyNum="1" MoneyType="1" Price="958" needVipLevel="8" GoodsIcon="car_ger/card_6031.pvr.ccz" GoodsDescription="购买获得六星卡牌_雷吉艾斯*1">
+		<Reward RewardType="0" RewardValue="6030" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30023" GoodsName="vip8金币大礼" Star="6" BuyNum="1" MoneyType="1" Price="958" needVipLevel="8" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*500万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30024" GoodsName="超级果冻" Star="6" BuyNum="1" MoneyType="1" Price="1" needVipLevel="9" GoodsIcon="ico_itm/item_10622.pvr.ccz" GoodsDescription="购买获得六星套装幸运物_大师护符*1">
+		<Reward RewardType="1" RewardValue="40005" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30025" GoodsName="VIP9六星卡牌" Star="6" BuyNum="1" MoneyType="1" Price="1458" needVipLevel="9" GoodsIcon="car_ger/card_6041.pvr.ccz" GoodsDescription="购买获得六星卡牌_雷吉洛克*1">
+		<Reward RewardType="0" RewardValue="6040" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30026" GoodsName="vip9金币大礼" Star="6" BuyNum="1" MoneyType="1" Price="1458" needVipLevel="9" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*720万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30027" GoodsName="4星英雄随机包" Star="6" BuyNum="1" MoneyType="1" Price="1" needVipLevel="10" GoodsIcon="ico_itm/item_10623.pvr.ccz" GoodsDescription="购买获得六星套装项链_大师项链*1">
+		<Reward RewardType="1" RewardValue="24203" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30028" GoodsName="VIP10六星卡牌" Star="6" BuyNum="1" MoneyType="1" Price="1980" needVipLevel="10" GoodsIcon="car_ger/card_6051.pvr.ccz" GoodsDescription="购买获得六星卡牌_洛奇亚*1">
+		<Reward RewardType="0" RewardValue="6050" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30029" GoodsName="vip10金币大礼" Star="6" BuyNum="1" MoneyType="1" Price="1980" needVipLevel="10" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*1080万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30030" GoodsName="5星装备随机包" Star="6" BuyNum="1" MoneyType="1" Price="1" needVipLevel="11" GoodsIcon="ico_itm/item_10624.pvr.ccz" GoodsDescription="购买获得六星套装戒指_大师之戒*1">
+		<Reward RewardType="1" RewardValue="24105" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30031" GoodsName="VIP11六星卡牌" Star="6" BuyNum="1" MoneyType="1" Price="2580" needVipLevel="11" GoodsIcon="car_ger/card_6061.pvr.ccz" GoodsDescription="购买获得六星卡牌_盖欧卡*1">
+		<Reward RewardType="0" RewardValue="6060" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30032" GoodsName="vip11金币大礼" Star="6" BuyNum="1" MoneyType="1" Price="2580" needVipLevel="11" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*1680万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30033" GoodsName="超级果冻" Star="6" BuyNum="1" MoneyType="1" Price="1" needVipLevel="12" GoodsIcon="ico_itm/item_10709.pvr.ccz" GoodsDescription="购买获得七星套装铠甲_固拉多铠*1">
+		<Reward RewardType="1" RewardValue="40005" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30034" GoodsName="VIP12七星卡牌" Star="6" BuyNum="1" MoneyType="1" Price="3580" needVipLevel="12" GoodsIcon="car_ger/card_7021.pvr.ccz" GoodsDescription="购买获得七星卡牌_帝牙卢卡*1">
+		<Reward RewardType="0" RewardValue="7020" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30035" GoodsName="vip12金币大礼" Star="6" BuyNum="1" MoneyType="1" Price="3980" needVipLevel="12" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*2000万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30036" GoodsName="5星装备随机包" Star="6" BuyNum="1" MoneyType="1" Price="1" needVipLevel="13" GoodsIcon="ico_itm/item_10710.pvr.ccz" GoodsDescription="购买获得七星套装幸运物_固拉多球*1">
+		<Reward RewardType="1" RewardValue="24105" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30037" GoodsName="VIP13七星卡牌" Star="6" BuyNum="1" MoneyType="1" Price="4458" needVipLevel="13" GoodsIcon="car_ger/card_7071.pvr.ccz" GoodsDescription="购买获得七星卡牌_骑拉帝纳*1">
+		<Reward RewardType="0" RewardValue="7070" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30038" GoodsName="vip13金币大礼" Star="6" BuyNum="1" MoneyType="1" Price="4458" needVipLevel="13" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*2400万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30039" GoodsName="5星英雄随机包" Star="7" BuyNum="1" MoneyType="1" Price="1" needVipLevel="14" GoodsIcon="ico_itm/item_10711.pvr.ccz" GoodsDescription="购买获得七星套装项链_固拉多坠*1">
+		<Reward RewardType="1" RewardValue="24204" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30040" GoodsName="VIP14七星卡牌" Star="7" BuyNum="1" MoneyType="1" Price="4980" needVipLevel="14" GoodsIcon="car_ger/card_7091.pvr.ccz" GoodsDescription="购买获得七星卡牌_超梦*1">
+		<Reward RewardType="0" RewardValue="7090" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30041" GoodsName="vip14金币大礼" Star="7" BuyNum="1" MoneyType="1" Price="4980" needVipLevel="14" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*3000万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30042" GoodsName="6星装备随机包" Star="7" BuyNum="1" MoneyType="1" Price="1" needVipLevel="15" GoodsIcon="ico_itm/item_10712.pvr.ccz" GoodsDescription="购买获得七星套装戒指_固拉多戒*1">
+		<Reward RewardType="1" RewardValue="24106" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30043" GoodsName="VIP15七星卡牌" Star="7" BuyNum="1" MoneyType="1" Price="6480" needVipLevel="15" GoodsIcon="car_ger/card_7101.pvr.ccz" GoodsDescription="购买获得七星卡牌_阿尔宙斯*1">
+		<Reward RewardType="0" RewardValue="7100" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+	<GoodsItem GoodsID="30044" GoodsName="vip15金币大礼" Star="7" BuyNum="1" MoneyType="1" Price="6480" needVipLevel="15" GoodsIcon="ico_itm/item_30007.pvr.ccz" GoodsDescription="购买获得金币*3500万">
+		<Reward RewardType="1" RewardValue="30007" BuyNumOnce="1" level="1" Ranking="0"/>
+	</GoodsItem>
+</Goods>

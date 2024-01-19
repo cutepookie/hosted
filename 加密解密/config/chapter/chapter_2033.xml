@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40321" Number="1" Name="陈年旧事1" activeneedpass="40320" costenergy="2" maxtimes="10" coin="24165" exprole="4833" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6082" dungeon_level="78"/>
+	<Dungeon ID="40322" Number="2" Name="陈年旧事2" activeneedpass="40321" costenergy="2" maxtimes="10" coin="24165" exprole="4833" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6102" dungeon_level="78"/>
+	<Dungeon ID="40323" Number="3" Name="促膝夜谈1" activeneedpass="40322" costenergy="2" maxtimes="10" coin="24395" exprole="4879" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6042" dungeon_level="78"/>
+	<Dungeon ID="40324" Number="4" Name="促膝夜谈2" activeneedpass="40323" costenergy="2" maxtimes="10" coin="24395" exprole="4879" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6032" dungeon_level="78"/>
+	<Dungeon ID="40325" Number="5" Name="促膝夜谈3" activeneedpass="40324" costenergy="2" maxtimes="10" coin="24630" exprole="4926" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6072" dungeon_level="78"/>
+	<Dungeon ID="40326" Number="6" Name="潜移默化1" activeneedpass="40325" costenergy="2" maxtimes="10" coin="24630" exprole="4926" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6102" dungeon_level="79"/>
+	<Dungeon ID="40327" Number="7" Name="潜移默化2" activeneedpass="40326" costenergy="2" maxtimes="10" coin="24860" exprole="4972" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6082" dungeon_level="79"/>
+	<Dungeon ID="40328" Number="8" Name="潜移默化3" activeneedpass="40327" costenergy="2" maxtimes="10" coin="24860" exprole="4972" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6062" dungeon_level="79"/>
+	<Dungeon ID="40329" Number="9" Name="潜移默化4" activeneedpass="40328" costenergy="2" maxtimes="10" coin="25095" exprole="5019" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6102" dungeon_level="79"/>
+	<Dungeon ID="40330" Number="10" Name="暗中交易" activeneedpass="40329" costenergy="2" maxtimes="5" coin="25095" exprole="5019" expgeneral="0" dropitem1="10520" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="7057" dungeon_level="79"/>
+</Dungeons>

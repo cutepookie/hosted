@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<functions resource="hometown.plist,functions.plist">
+	<page name="悬浮">
+		<function type="101" name="每日签到" level="1" vip="1"  openlable="" closelable=""  enable="btn_small_01.png" disable="btn_small_01.png" activateccbi="" />
+		<function type="102" name="限时活动" level="1" vip="1"  openlable="" closelable=""  enable="btn_small_02.png" disable="btn_small_02.png" activateccbi="" />
+		<function type="103" name="MENU" level="1" vip="1"  openlable="" closelable=""  enable="btn_menu.png" disable="btn_menu.png" activateccbi="" />
+		<function type="104" name="商城" level="1" vip="1"  openlable="" closelable=""  enable="btn_small_04.png" disable="btn_small_04.png" activateccbi="" />
+		<function type="105" name="邮箱" level="1" vip="1"  openlable="" closelable=""  enable="btn_small_05.png" disable="btn_small_05.png" activateccbi="" />
+		
+        <function type="107" name="盛宴" level="1" vip="1"  openlable="" closelable=""  enable="btn_small_07.png" disable="btn_small_07.png" activateccbi="" />
+		<function type="108" name="招财" level="1" vip="1"  openlable="" closelable=""  enable="" disable="" activateccbi="" />
+        <function type="109" name="夜的世界" level="1" vip="1"  openlable="" closelable=""  enable="btn_round.png" disable="btn_round.png" activateccbi="" />
+        <function type="112" name="公告" level="1" vip="1"  openlable="" closelable=""  enable="btn_event.png" disable="btn_event.png" activateccbi="" />
+		<function type="113" name="鉴赏" level="1" vip="1"  openlable="" closelable=""  enable="btn_view_mode.png" disable="btn_view_mode.png" activateccbi="" />
+        
+    </page>
+	<page name="建筑">
+		
+
+        <function type="206" name="成就" level="1" vip="1" openlable="" closelable=""  enable="btn_small_10.png" disable="" activateccbi=""  />
+        
+        <function type="208" name="任务" level="1" vip="1" openlable="" closelable=""  enable="btn_small_09.png" disable="" activateccbi=""  />
+        <function type="209" name="友好商店" level="1" vip="1" openlable="" closelable=""  enable="" disable="" activateccbi=""  />
+		<function type="210" name="排行榜" level="1" vip="1"  openlable="" closelable=""  enable="btn_home_05.png" disable="btn_home_05.png" activateccbi="" />
+		<function type="305" name="夜世界" level="15" vip="1" openlable="" closelable=""  enable="btn_home_04.png" disable="btn_home_04.png" activateccbi=""  />
+		<function type="106" name="图鉴" level="1" vip="1"  openlable="" closelable=""  enable="btn_home_01.png" disable="btn_home_01.png" activateccbi="" />
+		<function type="201" name="合成大厅" level="1" vip="1"  openlable="" closelable=""  enable="btn_home_03.png" disable="btn_home_03.png" activateccbi="" />	
+		<function type="203" name="召唤" level="1" vip="1"  openlable="" closelable=""  enable="btn_main_05.png" disable="btn_main_05.png" activateccbi="" />
+		<function type="2032" name="召唤大厅" level="1" vip="1"  openlable="" closelable=""  enable="btn_small_chouka.png" disable="btn_small_chouka.png" activateccbi="" />
+		<function type="204" name="AD" level="1" vip="1"  openlable="" closelable=""  enable="banner_ad_1.png" disable="banner_ad_1.png" activateccbi="" />
+		<function type="202" name="友好商店" level="1" vip="1"  openlable="" closelable=""  enable="btn_home_06.png" disable="btn_home_06.png" activateccbi="" />
+
+		<function type="207" name="宝石商店" level="1" vip="1" openlable="" closelable=""  enable="" disable="" activateccbi=""  />
+    </page>
+	<page name="副本">
+		<function type="401" name="八岐大蛇" level="25" vip="1" openlable="" closelable=""  enable="bg_func_huojiandui.png" disable="bg_func_huojiandui.png" activateccbi="" des="" />
+		<function type="402" name="九十九层天" level="20" vip="1" openlable="" closelable=""  enable="bg_func_daoguan.png" disable="bg_func_daoguan.png" activateccbi="res/tutorial_layer_towerguidance.ccbi" des="" />
+		<function type="403" name="竞技场" level="15" vip="1" openlable="" closelable=""  enable="bg_func_jingjichang.png" disable="bg_func_jingjichang.png" activateccbi="res/tutorial_layer_arenaguidance.ccbi"  des="" />
+		<function type="404" name="霸主之战" level="30" vip="1" openlable="" closelable=""  enable="bg_func_bisai.png" disable="bg_func_bisai.png" activateccbi="" des="" />
+        <function type="405" name="天梯排位赛" level="40" vip="1" openlable="" closelable=""  enable="bg_func_tianti.png" disable="bg_func_tianti.png" activateccbi="" des="" />
+        <function type="406" name="修行之路" level="10" vip="1" openlable="" closelable=""  enable="bg_func_road.png" disable="bg_func_road.png" activateccbi="" />
+        <function type="407" name="三界之主" level="25" vip="1" openlable="" closelable=""  enable="btn_home_world.png" disable="btn_home_world.png" activateccbi="" />
+		<function type="408" name="修行者宝藏" level="25" vip="1" openlable="" closelable=""  enable="bg_func_golden.png" disable="bg_func_golden.png" activateccbi="" />
+		<function type="409" name="宿命对决" level="35" vip="1" openlable="" closelable=""  enable="bg_func_fate.png" disable="bg_func_fate.png" activateccbi="" />
+	</page>
+	<page name="下放功能按钮">
+		<function type="301" name="小镇" level="1" vip="1" openlable="" closelable=""  enable="btn_main_01.png" disable="btn_main_01.png" activateccbi="" />
+		<function type="302" name="队形" level="1" vip="1" openlable="" closelable=""  enable="btn_main_02.png" disable="btn_main_02.png" activateccbi="" />
+		<function type="303" name="剧情挑战" level="1" vip="1" openlable="" closelable=""  enable="btn_home_world.png" disable="btn_home_world.png" activateccbi="" />
+		<function type="304" name="房间" level="1" vip="1" openlable="" closelable=""  enable="btn_main_04.png" disable="btn_main_04.png" activateccbi="res/tutorial_layer_fishingguidance.ccbi" />
+		<function type="205" name="道具" level="1" vip="1" openlable="" closelable=""  enable="btn_main_03.png" disable="btn_main_03.png" activateccbi="" />
+		<function type="306" name="好友" level="1" vip="1" openlable="" closelable=""  enable="btn_main_06.png" disable="btn_main_06.png" activateccbi="" />
+		<function type="307" name="冒险" level="1" vip="1" openlable="" closelable=""  enable="" disable="" activateccbi="" />
+	</page>
+    <page name="功能活动">
+		<function type="601" name="豪华大礼" level="1" vip="1" openlable="" closelable=""  enable="btn_event_festival.png" disable="btn_event_festival.png" activateccbi="" />
+		<function type="602" name="豪华大礼" level="1" vip="1" openlable="" closelable=""  enable="btn_event_valentine.png" disable="btn_event_valentine.png" activateccbi="" />
+	</page>
+    <!--部分需要等级限制的地方放在这里配置-->
+    <restricts>
+        <restrict type="503" name="世界聊天等级" level="30" vip="1"/>
+    </restricts>
+</functions>

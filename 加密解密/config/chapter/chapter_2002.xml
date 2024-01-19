@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40011" Number="1" Name="探妖寻经1" activeneedpass="40010" costenergy="2" maxtimes="10" coin="1680" exprole="336" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2031" dungeon_level="1"/>
+	<Dungeon ID="40012" Number="2" Name="探妖寻经2" activeneedpass="40011" costenergy="2" maxtimes="10" coin="1680" exprole="336" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2121" dungeon_level="1"/>
+	<Dungeon ID="40013" Number="3" Name="探妖寻经3" activeneedpass="40012" costenergy="2" maxtimes="10" coin="1740" exprole="348" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2081" dungeon_level="1"/>
+	<Dungeon ID="40014" Number="4" Name="找到经书1" activeneedpass="40013" costenergy="2" maxtimes="10" coin="1740" exprole="348" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2041" dungeon_level="2"/>
+	<Dungeon ID="40015" Number="5" Name="找到经书2" activeneedpass="40014" costenergy="2" maxtimes="10" coin="1800" exprole="360" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2061" dungeon_level="2"/>
+	<Dungeon ID="40016" Number="6" Name="找到经书3" activeneedpass="40015" costenergy="2" maxtimes="10" coin="1800" exprole="360" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2111" dungeon_level="2"/>
+	<Dungeon ID="40017" Number="7" Name="帅气的妖怪1" activeneedpass="40016" costenergy="2" maxtimes="10" coin="1865" exprole="373" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2091" dungeon_level="3"/>
+	<Dungeon ID="40018" Number="8" Name="帅气的妖怪2" activeneedpass="40017" costenergy="2" maxtimes="10" coin="1865" exprole="373" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2071" dungeon_level="3"/>
+	<Dungeon ID="40019" Number="9" Name="帅气的妖怪3" activeneedpass="40018" costenergy="2" maxtimes="10" coin="1930" exprole="386" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2011" dungeon_level="3"/>
+	<Dungeon ID="40020" Number="10" Name="帅气的妖怪4" activeneedpass="40019" costenergy="2" maxtimes="5" coin="1930" exprole="386" expgeneral="0" dropitem1="10212" dropitem2="0" boss_postion="101000" addMorale="0" dungeon_icon="2125" dungeon_level="3"/>
+</Dungeons>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40091" Number="1" Name="度假村1" activeneedpass="40090" costenergy="2" maxtimes="10" coin="4970" exprole="994" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3101" dungeon_level="25"/>
+	<Dungeon ID="40092" Number="2" Name="度假村2" activeneedpass="40091" costenergy="2" maxtimes="10" coin="4970" exprole="994" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3091" dungeon_level="25"/>
+	<Dungeon ID="40093" Number="3" Name="度假村3" activeneedpass="40092" costenergy="2" maxtimes="10" coin="5075" exprole="1015" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3081" dungeon_level="25"/>
+	<Dungeon ID="40094" Number="4" Name="度假村4" activeneedpass="40093" costenergy="2" maxtimes="10" coin="5075" exprole="1015" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3071" dungeon_level="26"/>
+	<Dungeon ID="40095" Number="5" Name="妖怪老板1" activeneedpass="40094" costenergy="2" maxtimes="10" coin="5185" exprole="1037" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3011" dungeon_level="26"/>
+	<Dungeon ID="40096" Number="6" Name="妖怪老板2" activeneedpass="40095" costenergy="2" maxtimes="10" coin="5185" exprole="1037" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3021" dungeon_level="26"/>
+	<Dungeon ID="40097" Number="7" Name="妖怪老板3" activeneedpass="40096" costenergy="2" maxtimes="10" coin="5290" exprole="1058" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3031" dungeon_level="27"/>
+	<Dungeon ID="40098" Number="8" Name="妖怪老板4" activeneedpass="40097" costenergy="2" maxtimes="10" coin="5290" exprole="1058" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3041" dungeon_level="27"/>
+	<Dungeon ID="40099" Number="9" Name="妖怪老板5" activeneedpass="40098" costenergy="2" maxtimes="10" coin="5400" exprole="1080" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3111" dungeon_level="27"/>
+	<Dungeon ID="40100" Number="10" Name="上门调查" activeneedpass="40099" costenergy="2" maxtimes="5" coin="5400" exprole="1080" expgeneral="0" dropitem1="10312" dropitem2="0" boss_postion="101000" addMorale="0" dungeon_icon="3077" dungeon_level="27"/>
+</Dungeons>

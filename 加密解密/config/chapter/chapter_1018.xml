@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30171" Number="1" Name="恩将仇报1" activeneedpass="30170" costenergy="2" maxtimes="30" coin="4970" exprole="994" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4121" dungeon_level="48"/>
+	<Dungeon ID="30172" Number="2" Name="恩将仇报2" activeneedpass="30171" costenergy="2" maxtimes="30" coin="4970" exprole="994" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5021" dungeon_level="48"/>
+	<Dungeon ID="30173" Number="3" Name="千年之怨1" activeneedpass="30172" costenergy="2" maxtimes="30" coin="5075" exprole="1015" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4131" dungeon_level="48"/>
+	<Dungeon ID="30174" Number="4" Name="千年之怨2" activeneedpass="30173" costenergy="2" maxtimes="30" coin="5075" exprole="1015" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5011" dungeon_level="48"/>
+	<Dungeon ID="30175" Number="5" Name="千年之怨3" activeneedpass="30174" costenergy="2" maxtimes="30" coin="5185" exprole="1037" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4072" dungeon_level="48"/>
+	<Dungeon ID="30176" Number="6" Name="漆黑匕首1" activeneedpass="30175" costenergy="2" maxtimes="30" coin="5185" exprole="1037" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4091" dungeon_level="49"/>
+	<Dungeon ID="30177" Number="7" Name="漆黑匕首2" activeneedpass="30176" costenergy="2" maxtimes="30" coin="5290" exprole="1058" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4061" dungeon_level="49"/>
+	<Dungeon ID="30178" Number="8" Name="漆黑匕首3" activeneedpass="30177" costenergy="2" maxtimes="30" coin="5290" exprole="1058" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4161" dungeon_level="49"/>
+	<Dungeon ID="30179" Number="9" Name="九虫气息" activeneedpass="30178" costenergy="2" maxtimes="30" coin="5400" exprole="1080" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4101" dungeon_level="49"/>
+	<Dungeon ID="30180" Number="10" Name="妖族的野望" activeneedpass="30179" costenergy="2" maxtimes="10" coin="5400" exprole="1080" expgeneral="0" dropitem1="10413" dropitem2="0" boss_postion="100010" addMorale="0" dungeon_icon="5017" dungeon_level="49"/>
+</Dungeons>

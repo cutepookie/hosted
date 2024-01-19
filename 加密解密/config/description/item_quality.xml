@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item quality = "1" r = "140" g = "139"  b = "139" />
+    <item quality = "2" r = "255" g = "245"  b = "200" />
+    <item quality = "3" r = "72" g = "206"  b = "72" />
+    <item quality = "4" r = "89" g = "174"  b = "248" />
+    <item quality = "5" r = "141" g = "102"  b = "242" />
+	<item quality = "6" r = "246" g = "220"  b = "4" />
+    <item quality = "7" r = "224" g = "40"  b = "48" />
+
+</items>
+	

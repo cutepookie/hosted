@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40121" Number="1" Name="金玉其外1" activeneedpass="40120" costenergy="2" maxtimes="10" coin="6660" exprole="1332" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3112" dungeon_level="34"/>
+	<Dungeon ID="40122" Number="2" Name="金玉其外2" activeneedpass="40121" costenergy="2" maxtimes="10" coin="6660" exprole="1332" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3052" dungeon_level="34"/>
+	<Dungeon ID="40123" Number="3" Name="败絮其中1" activeneedpass="40122" costenergy="2" maxtimes="10" coin="6780" exprole="1356" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3152" dungeon_level="34"/>
+	<Dungeon ID="40124" Number="4" Name="败絮其中2" activeneedpass="40123" costenergy="2" maxtimes="10" coin="6780" exprole="1356" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3032" dungeon_level="35"/>
+	<Dungeon ID="40125" Number="5" Name="败絮其中3" activeneedpass="40124" costenergy="2" maxtimes="10" coin="6900" exprole="1380" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3012" dungeon_level="35"/>
+	<Dungeon ID="40126" Number="6" Name="强词夺理1" activeneedpass="40125" costenergy="2" maxtimes="10" coin="6900" exprole="1380" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3053" dungeon_level="35"/>
+	<Dungeon ID="40127" Number="7" Name="强词夺理2" activeneedpass="40126" costenergy="2" maxtimes="10" coin="7025" exprole="1405" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3123" dungeon_level="36"/>
+	<Dungeon ID="40128" Number="8" Name="强词夺理3" activeneedpass="40127" costenergy="2" maxtimes="10" coin="7025" exprole="1405" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3093" dungeon_level="36"/>
+	<Dungeon ID="40129" Number="9" Name="得饶人处" activeneedpass="40128" costenergy="2" maxtimes="10" coin="7150" exprole="1430" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3023" dungeon_level="36"/>
+	<Dungeon ID="40130" Number="10" Name="且饶人" activeneedpass="40129" costenergy="2" maxtimes="5" coin="7150" exprole="1430" expgeneral="0" dropitem1="10318" dropitem2="0" boss_postion="10010" addMorale="0" dungeon_icon="4031" dungeon_level="36"/>
+</Dungeons>

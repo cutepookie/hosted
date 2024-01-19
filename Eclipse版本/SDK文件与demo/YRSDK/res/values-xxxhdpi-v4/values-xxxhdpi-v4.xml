@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="yr_sdk_account_binding_size">18sp</dimen>
+    <dimen name="yr_sdk_login_ed_size">21sp</dimen>
+    <dimen name="yr_sdk_switch_account_size">16sp</dimen>
+    <dimen name="yr_sdk_title_size">29sp</dimen>
+    <dimen name="yr_sdk_tourist_login_size">23sp</dimen>
+    <dimen name="yr_sdk_user_terms_size">17sp</dimen>
+    <dimen name="yr_system_login_size">21sp</dimen>
+</resources>

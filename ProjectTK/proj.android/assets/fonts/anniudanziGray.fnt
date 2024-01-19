@@ -1,0 +1,37 @@
+info face="Arial" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=32 base=26 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=3 redChnl=3 greenChnl=3 blueChnl=3
+page id=0 file="anniudanziGray.png"
+chars count=33
+char id=19968 x=97    y=25    width=23    height=24    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=19979 x=121   y=25    width=22    height=24    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=20013 x=144   y=25    width=22    height=24    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=20139 x=167   y=25    width=22    height=24    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=20540 x=100   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=20805 x=125   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=21047 x=25    y=25    width=23    height=24    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=21069 x=190   y=25    width=22    height=24    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=21457 x=200   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=21462 x=225   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=22987 x=250   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=23450 x=275   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=24050 x=213   y=25    width=22    height=24    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=24320 x=236   y=25    width=22    height=24    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=24448 x=350   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=26032 x=375   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=26356 x=0     y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=26399 x=73    y=25    width=23    height=24    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=26410 x=425   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=26412 x=450   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=28040 x=475   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=29992 x=259   y=25    width=22    height=24    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=30830 x=49    y=25    width=23    height=24    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=31456 x=0     y=25    width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=32487 x=25    y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=32493 x=50    y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=33410 x=282   y=25    width=22    height=24    xoffset=0     yoffset=0     xadvance=22    page=0  chnl=15
+char id=35299 x=75    y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=35748 x=150   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=36807 x=175   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=36865 x=300   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=38145 x=325   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15
+char id=39046 x=400   y=0     width=24    height=24    xoffset=0     yoffset=0     xadvance=24    page=0  chnl=15

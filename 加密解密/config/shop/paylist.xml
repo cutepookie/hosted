@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pays>
+    <pay  id = "11008" iapid = "8" icon ="icon_item/ico_itm_11001.png" gold ="0" extreward = "0" bonus = "0" price = "25"/>
+    <pay  id = "11007" iapid = "7" icon ="icon_item/ico_itm_11001.png" gold ="200000" extreward = "0" bonus = "0" price = "1000"/>
+	<pay  id = "11006" iapid = "6" icon ="icon_item/ico_itm_11001.png" gold ="100000" extreward = "0" bonus = "0" price = "500"/>
+    <pay  id = "11005" iapid = "5" icon ="icon_item/ico_itm_11001.png" gold ="39600" extreward = "0" bonus = "0" price = "198"/>
+	<pay  id = "11004" iapid = "4" icon ="icon_item/ico_itm_11001.png" gold ="19600" extreward = "0" bonus = "0" price = "98"/>
+    <pay  id = "11003" iapid = "3" icon ="icon_item/ico_itm_11001.png" gold ="10000" extreward = "0" bonus = "0" price = "50"/>
+	<pay  id = "11002" iapid = "2" icon ="icon_item/ico_itm_11001.png" gold ="6000" extreward = "0" bonus = "0" price = "30"/>
+    <pay  id = "11001" iapid = "1" icon ="icon_item/ico_itm_11001.png" gold ="1200" extreward = "0" bonus = "0" price = "6"/>
+    <firstPay desc = "恭喜训练师，获得了: 5星召唤石*3，七星装备宝箱*1，金币*50万，如来佛祖卡牌*1。"/>
+</pays>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40231" Number="1" Name="烟雨绵绵1" activeneedpass="40230" costenergy="2" maxtimes="10" coin="14940" exprole="2988" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4151" dungeon_level="60"/>
+	<Dungeon ID="40232" Number="2" Name="烟雨绵绵2" activeneedpass="40231" costenergy="2" maxtimes="10" coin="14940" exprole="2988" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5071" dungeon_level="60"/>
+	<Dungeon ID="40233" Number="3" Name="上天无情1" activeneedpass="40232" costenergy="2" maxtimes="10" coin="15120" exprole="3024" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5111" dungeon_level="60"/>
+	<Dungeon ID="40234" Number="4" Name="上天无情2" activeneedpass="40233" costenergy="2" maxtimes="10" coin="15120" exprole="3024" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4111" dungeon_level="60"/>
+	<Dungeon ID="40235" Number="5" Name="上天无情3" activeneedpass="40234" costenergy="2" maxtimes="10" coin="15300" exprole="3060" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4181" dungeon_level="60"/>
+	<Dungeon ID="40236" Number="6" Name="上天无情4" activeneedpass="40235" costenergy="2" maxtimes="10" coin="15300" exprole="3060" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5011" dungeon_level="61"/>
+	<Dungeon ID="40237" Number="7" Name="上天无情5" activeneedpass="40236" costenergy="2" maxtimes="10" coin="15485" exprole="3097" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5011" dungeon_level="61"/>
+	<Dungeon ID="40238" Number="8" Name="上天无情6" activeneedpass="40237" costenergy="2" maxtimes="10" coin="15485" exprole="3097" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5031" dungeon_level="61"/>
+	<Dungeon ID="40239" Number="9" Name="上天无情7" activeneedpass="40238" costenergy="2" maxtimes="10" coin="15670" exprole="3134" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5041" dungeon_level="61"/>
+	<Dungeon ID="40240" Number="10" Name="上天无情8" activeneedpass="40239" costenergy="2" maxtimes="5" coin="15670" exprole="3134" expgeneral="0" dropitem1="10409" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="6077" dungeon_level="61"/>
+</Dungeons>

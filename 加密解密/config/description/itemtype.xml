@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ItemTypes>
+    <ItemType Type = "1" Icon = "ico_itemtype_10.png" Name = "武器" DisplayItemNum = "false" Summary = "主要增加攻击力" Enhance = "true" EnhanceCostRatio = "17"/>
+    <ItemType Type = "2" Icon = "ico_itemtype_12.png" Name = "护甲" DisplayItemNum = "false" Summary = "主要增加生命值" Enhance = "true" EnhanceCostRatio = "17"/>
+    <ItemType Type = "11" Icon = "ico_itemtype_4.png" Name = "武器碎片" DisplayItemNum = "false" Summary = "提升闪避" Enhance = "false"/>
+    <ItemType Type = "12" Icon = "ico_itemtype_4.png" Name = "头盔碎片" DisplayItemNum = "false" Summary = "提升初始怒气" Enhance = "false"/>
+    <ItemType Type = "13" Icon = "ico_itemtype_4.png" Name = "护甲碎片" DisplayItemNum = "false" Summary = "提升剩余怒气" Enhance = "false"/>
+    <ItemType Type = "14" Icon = "ico_itemtype_4.png" Name = "幸运物碎片" DisplayItemNum = "false" Summary = "提升吸血" Enhance = "false"/>
+    <ItemType Type = "15" Icon = "ico_itemtype_4.png" Name = "饰品碎片" DisplayItemNum = "false" Summary = "提升反弹" Enhance = "false"/>
+    <ItemType Type = "16" Icon = "ico_itemtype_4.png" Name = "戒指碎片" DisplayItemNum = "false" Summary = "提升击晕" Enhance = "false"/>
+    <ItemType Type = "19" Icon = "ico_itemtype_0.png" Name = "其他" DisplayItemNum = "true" Summary = "" Enhance = "false"/>
+    <ItemType Type = "24" Icon = "ico_itemtype_0.png" Name = "宝箱" DisplayItemNum = "true" Summary = "" Enhance = "false"/>
+    <ItemType Type = "33" Icon = "ico_itemtype_13.png" Name = "幸运物" DisplayItemNum = "false" Summary = "" Enhance = "false" EnhanceCostRatio = "17"/>
+    <ItemType Type = "34" Icon = "ico_itemtype_11.png" Name = "头饰" DisplayItemNum = "false" Summary = "" Enhance = "false" EnhanceCostRatio = "17"/>
+    <ItemType Type = "35" Icon = "ico_itemtype_15.png" Name = "饰品" DisplayItemNum = "false" Summary = "" Enhance = "false" EnhanceCostRatio = "17"/>
+    <ItemType Type = "36" Icon = "ico_itemtype_14.png" Name = "戒指" DisplayItemNum = "false" Summary = "" Enhance = "false" EnhanceCostRatio = "17"/>
+    <ItemType Type = "38" Icon = "ico_itemtype_0.png" Name = "药剂" DisplayItemNum = "false" Summary = "" Enhance = "false"/>
+
+</ItemTypes>

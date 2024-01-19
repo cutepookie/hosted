@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dungeons>
+<Dungeon
+    ID = "3"
+    Number = "0"
+    Name = "道馆3"
+    activeneedpass = "0"
+    costenergy = "0"
+    maxtimes = "0"
+    coin = "2875"
+    exprole = "0"
+    expgeneral = "0"
+    dropitem1 = "24301"
+    dropitem2 = "24302"
+    boss_postion = "000001"
+    addMorale = "0"
+    dungeon_icon = "2124"
+    dungeon_level = "0"
+/>
+</Dungeons>

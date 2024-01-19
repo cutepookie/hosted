@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40151" Number="1" Name="找上门来1" activeneedpass="40150" costenergy="2" maxtimes="10" coin="8590" exprole="1718" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4041" dungeon_level="43"/>
+	<Dungeon ID="40152" Number="2" Name="找上门来2" activeneedpass="40151" costenergy="2" maxtimes="10" coin="8590" exprole="1718" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4071" dungeon_level="43"/>
+	<Dungeon ID="40153" Number="3" Name="家境贫寒1" activeneedpass="40152" costenergy="2" maxtimes="10" coin="8725" exprole="1745" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4031" dungeon_level="43"/>
+	<Dungeon ID="40154" Number="4" Name="家境贫寒2" activeneedpass="40153" costenergy="2" maxtimes="10" coin="8725" exprole="1745" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4021" dungeon_level="44"/>
+	<Dungeon ID="40155" Number="5" Name="家境贫寒3" activeneedpass="40154" costenergy="2" maxtimes="10" coin="8865" exprole="1773" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4011" dungeon_level="44"/>
+	<Dungeon ID="40156" Number="6" Name="梦中显灵1" activeneedpass="40155" costenergy="2" maxtimes="10" coin="8865" exprole="1773" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4021" dungeon_level="44"/>
+	<Dungeon ID="40157" Number="7" Name="梦中显灵2" activeneedpass="40156" costenergy="2" maxtimes="10" coin="9005" exprole="1801" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4091" dungeon_level="45"/>
+	<Dungeon ID="40158" Number="8" Name="梦中显灵3" activeneedpass="40157" costenergy="2" maxtimes="10" coin="9005" exprole="1801" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4051" dungeon_level="45"/>
+	<Dungeon ID="40159" Number="9" Name="假僧烧经1" activeneedpass="40158" costenergy="2" maxtimes="10" coin="9145" exprole="1829" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4021" dungeon_level="45"/>
+	<Dungeon ID="40160" Number="10" Name="雷音寺毁" activeneedpass="40159" costenergy="2" maxtimes="5" coin="9145" exprole="1829" expgeneral="0" dropitem1="10416" dropitem2="0" boss_postion="101000" addMorale="0" dungeon_icon="4037" dungeon_level="45"/>
+</Dungeons>

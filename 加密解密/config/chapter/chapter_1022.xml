@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30211" Number="1" Name="举行婚宴1" activeneedpass="30210" costenergy="2" maxtimes="30" coin="7275" exprole="1455" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4053" dungeon_level="56"/>
+	<Dungeon ID="30212" Number="2" Name="举行婚宴2" activeneedpass="30211" costenergy="2" maxtimes="30" coin="7275" exprole="1455" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5041" dungeon_level="56"/>
+	<Dungeon ID="30213" Number="3" Name="举行婚宴3" activeneedpass="30212" costenergy="2" maxtimes="30" coin="7400" exprole="1480" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4113" dungeon_level="56"/>
+	<Dungeon ID="30214" Number="4" Name="酒烈人醉1" activeneedpass="30213" costenergy="2" maxtimes="30" coin="7400" exprole="1480" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4013" dungeon_level="56"/>
+	<Dungeon ID="30215" Number="5" Name="酒烈人醉2" activeneedpass="30214" costenergy="2" maxtimes="30" coin="7530" exprole="1506" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4123" dungeon_level="56"/>
+	<Dungeon ID="30216" Number="6" Name="恶意诬陷1" activeneedpass="30215" costenergy="2" maxtimes="30" coin="7530" exprole="1506" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4033" dungeon_level="57"/>
+	<Dungeon ID="30217" Number="7" Name="恶意诬陷2" activeneedpass="30216" costenergy="2" maxtimes="30" coin="7655" exprole="1531" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4103" dungeon_level="57"/>
+	<Dungeon ID="30218" Number="8" Name="恶意诬陷3" activeneedpass="30217" costenergy="2" maxtimes="30" coin="7655" exprole="1531" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5103" dungeon_level="57"/>
+	<Dungeon ID="30219" Number="9" Name="恶意诬陷4" activeneedpass="30218" costenergy="2" maxtimes="30" coin="7785" exprole="1557" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4163" dungeon_level="57"/>
+	<Dungeon ID="30220" Number="10" Name="遇人不淑" activeneedpass="30219" costenergy="2" maxtimes="10" coin="7785" exprole="1557" expgeneral="0" dropitem1="10412" dropitem2="0" boss_postion="111000" addMorale="0" dungeon_icon="5068" dungeon_level="57"/>
+</Dungeons>

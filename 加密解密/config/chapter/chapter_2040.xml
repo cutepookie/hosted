@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40391" Number="1" Name="南天门" activeneedpass="40390" costenergy="2" maxtimes="10" coin="32870" exprole="6574" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7021" dungeon_level="92"/>
+	<Dungeon ID="40392" Number="2" Name="轻而易举" activeneedpass="40391" costenergy="2" maxtimes="10" coin="32870" exprole="6574" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7061" dungeon_level="92"/>
+	<Dungeon ID="40393" Number="3" Name="二郎神君" activeneedpass="40392" costenergy="2" maxtimes="10" coin="33140" exprole="6628" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7021" dungeon_level="92"/>
+	<Dungeon ID="40394" Number="4" Name="盛宴开始" activeneedpass="40393" costenergy="2" maxtimes="10" coin="33140" exprole="6628" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7031" dungeon_level="92"/>
+	<Dungeon ID="40395" Number="5" Name="故人相见" activeneedpass="40394" costenergy="2" maxtimes="10" coin="33410" exprole="6682" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7042" dungeon_level="92"/>
+	<Dungeon ID="40396" Number="6" Name="如来出手" activeneedpass="40395" costenergy="2" maxtimes="10" coin="33410" exprole="6682" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7032" dungeon_level="93"/>
+	<Dungeon ID="40397" Number="7" Name="妖王之怒" activeneedpass="40396" costenergy="2" maxtimes="10" coin="33680" exprole="6736" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7062" dungeon_level="93"/>
+	<Dungeon ID="40398" Number="8" Name="燃烧法力" activeneedpass="40397" costenergy="2" maxtimes="10" coin="33680" exprole="6736" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7083" dungeon_level="93"/>
+	<Dungeon ID="40399" Number="9" Name="不死不灭" activeneedpass="40398" costenergy="2" maxtimes="10" coin="33950" exprole="6790" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="7073" dungeon_level="93"/>
+	<Dungeon ID="40400" Number="10" Name="花果山上" activeneedpass="40399" costenergy="2" maxtimes="5" coin="33950" exprole="6790" expgeneral="0" dropitem1="10524" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="7019" dungeon_level="93"/>
+</Dungeons>

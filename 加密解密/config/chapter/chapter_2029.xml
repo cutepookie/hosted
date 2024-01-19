@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40281" Number="1" Name="三根毫毛1" activeneedpass="40280" costenergy="2" maxtimes="10" coin="19790" exprole="3958" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5113" dungeon_level="70"/>
+	<Dungeon ID="40282" Number="2" Name="三根毫毛2" activeneedpass="40281" costenergy="2" maxtimes="10" coin="19790" exprole="3958" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5053" dungeon_level="70"/>
+	<Dungeon ID="40283" Number="3" Name="画影通缉1" activeneedpass="40282" costenergy="2" maxtimes="10" coin="20000" exprole="4000" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5103" dungeon_level="70"/>
+	<Dungeon ID="40284" Number="4" Name="画影通缉2" activeneedpass="40283" costenergy="2" maxtimes="10" coin="20000" exprole="4000" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5123" dungeon_level="70"/>
+	<Dungeon ID="40285" Number="5" Name="画影通缉3" activeneedpass="40284" costenergy="2" maxtimes="10" coin="20210" exprole="4042" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4023" dungeon_level="70"/>
+	<Dungeon ID="40286" Number="6" Name="四面围堵1" activeneedpass="40285" costenergy="2" maxtimes="10" coin="20210" exprole="4042" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5063" dungeon_level="71"/>
+	<Dungeon ID="40287" Number="7" Name="四面围堵2" activeneedpass="40286" costenergy="2" maxtimes="10" coin="20420" exprole="4084" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4073" dungeon_level="71"/>
+	<Dungeon ID="40288" Number="8" Name="四面围堵3" activeneedpass="40287" costenergy="2" maxtimes="10" coin="20420" exprole="4084" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4133" dungeon_level="71"/>
+	<Dungeon ID="40289" Number="9" Name="忍无可忍" activeneedpass="40288" costenergy="2" maxtimes="10" coin="20630" exprole="4126" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5083" dungeon_level="71"/>
+	<Dungeon ID="40290" Number="10" Name="无需再忍" activeneedpass="40289" costenergy="2" maxtimes="5" coin="20630" exprole="4126" expgeneral="0" dropitem1="10411" dropitem2="0" boss_postion="110010" addMorale="0" dungeon_icon="6088" dungeon_level="71"/>
+</Dungeons>

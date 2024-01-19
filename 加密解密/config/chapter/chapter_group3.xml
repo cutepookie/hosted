@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChapterPages>
+<Page id="1" name="城市出发" description="" bg="10.jpg" battlebg="pic_map/map_bat_1.png" Resource ="map_1.plist">
+     <chapter id="1001"  number="1"  name="第一章   幽静田园"  activateIcon="15.png"  disableIcon="15.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="0"  location="33.5,26.5">
+          <rewards>
+               <reward id="30008" type="2" value="100"/>
+               <reward id="30001" type="2" value="1"/>
+               <reward id="30007" type="2" value="100000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1002"  number="2"  name="第二章   求学之路"  activateIcon="14.png"  disableIcon="14.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1001"  location="70.5,24.5">
+          <rewards>
+               <reward id="30008" type="2" value="100"/>
+               <reward id="30001" type="2" value="1"/>
+               <reward id="30006" type="2" value="1000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1003"  number="3"  name="第三章   初到校园"  activateIcon="11.png"  disableIcon="11.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1002"  location="77,44">
+          <rewards>
+               <reward id="30008" type="2" value="100"/>
+               <reward id="30001" type="2" value="1"/>
+               <reward id="30007" type="2" value="100000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1004"  number="4"  name="第四章   初见道馆"  activateIcon="13.png"  disableIcon="13.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1003"  location="40.5,48.5">
+          <rewards>
+               <reward id="30008" type="2" value="100"/>
+               <reward id="30001" type="2" value="1"/>
+               <reward id="30006" type="2" value="1000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1005"  number="5"  name="第五章   书馆切磋"  activateIcon="12.png"  disableIcon="12.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1004"  location="69.5,67.5">
+          <rewards>
+               <reward id="30008" type="2" value="100"/>
+               <reward id="30001" type="2" value="1"/>
+               <reward id="30007" type="2" value="100000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="2" name="小有名气" description="" bg="50.jpg" battlebg="pic_map/map_bat_5.png" Resource ="map_5.plist">
+     <chapter id="1006"  number="6"  name="第六章   商店采购"  activateIcon="52.png"  disableIcon="52.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1005"  location="71.5,27.5">
+          <rewards>
+               <reward id="30008" type="2" value="200"/>
+               <reward id="30001" type="2" value="2"/>
+               <reward id="30006" type="2" value="1000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1007"  number="7"  name="第七章   道馆挑战"  activateIcon="54.png"  disableIcon="54.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1006"  location="22.5,37">
+          <rewards>
+               <reward id="30008" type="2" value="200"/>
+               <reward id="30001" type="2" value="2"/>
+               <reward id="30007" type="2" value="100000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1008"  number="8"  name="第八章   欢庆胜利"  activateIcon="53.png"  disableIcon="53.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1007"  location="83,48.5">
+          <rewards>
+               <reward id="30008" type="2" value="200"/>
+               <reward id="30001" type="2" value="2"/>
+               <reward id="30006" type="2" value="1000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1009"  number="9"  name="第九章   梦想出发"  activateIcon="51.png"  disableIcon="51.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1008"  location="29,62.5">
+          <rewards>
+               <reward id="30008" type="2" value="200"/>
+               <reward id="30001" type="2" value="2"/>
+               <reward id="30007" type="2" value="200000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1010"  number="10"  name="第十章   初露锋芒"  activateIcon="55.png"  disableIcon="55.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1009"  location="62.5,72">
+          <rewards>
+               <reward id="30008" type="2" value="200"/>
+               <reward id="30001" type="2" value="2"/>
+               <reward id="30006" type="2" value="2000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="3" name="扬名立万" description="" bg="40.jpg" battlebg="pic_map/map_bat_4.png" Resource ="map_4.plist">
+     <chapter id="1011"  number="11"  name="第十一章   日常训练"  activateIcon="41.png"  disableIcon="41.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1010"  location="31.5,27.5">
+          <rewards>
+               <reward id="30008" type="2" value="300"/>
+               <reward id="30001" type="2" value="3"/>
+               <reward id="30007" type="2" value="200000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1012"  number="12"  name="第十二章   称霸之路"  activateIcon="42.png"  disableIcon="42.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1011"  location="75,31.5">
+          <rewards>
+               <reward id="30008" type="2" value="300"/>
+               <reward id="30001" type="2" value="3"/>
+               <reward id="30006" type="2" value="2000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1013"  number="13"  name="第十三章   劈风斩浪"  activateIcon="43.png"  disableIcon="43.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1012"  location="25,52">
+          <rewards>
+               <reward id="30008" type="2" value="300"/>
+               <reward id="30001" type="2" value="3"/>
+               <reward id="30007" type="2" value="200000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1014"  number="14"  name="第十四章   游园乱斗"  activateIcon="45.png"  disableIcon="45.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1013"  location="77.5,62">
+          <rewards>
+               <reward id="30008" type="2" value="300"/>
+               <reward id="30001" type="2" value="3"/>
+               <reward id="30006" type="2" value="2000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1015"  number="15"  name="第十五章   游园狂欢"  activateIcon="44.png"  disableIcon="44.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1014"  location="50,72">
+          <rewards>
+               <reward id="30008" type="2" value="300"/>
+               <reward id="30001" type="2" value="3"/>
+               <reward id="30007" type="2" value="200000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="4" name="称霸一方" description="" bg="30.jpg" battlebg="pic_map/map_bat_3.png" Resource ="map_3.plist">
+     <chapter id="1016"  number="16"  name="第十六章   比赛第二"  activateIcon="32.png"  disableIcon="32.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1015"  location="30,25.5">
+          <rewards>
+               <reward id="30008" type="2" value="400"/>
+               <reward id="30001" type="2" value="4"/>
+               <reward id="30006" type="2" value="2000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1017"  number="17"  name="第十七章   友谊第一"  activateIcon="33.png"  disableIcon="33.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1016"  location="74.5,41.5">
+          <rewards>
+               <reward id="30008" type="2" value="400"/>
+               <reward id="30001" type="2" value="4"/>
+               <reward id="30007" type="2" value="300000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1018"  number="18"  name="第十八章   海底世界"  activateIcon="34.png"  disableIcon="34.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1017"  location="16.5,46">
+          <rewards>
+               <reward id="30008" type="2" value="400"/>
+               <reward id="30001" type="2" value="4"/>
+               <reward id="30006" type="2" value="3000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1019"  number="19"  name="第十九章   樱花大战"  activateIcon="31.png"  disableIcon="31.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1018"  location="35,65">
+          <rewards>
+               <reward id="30008" type="2" value="400"/>
+               <reward id="30001" type="2" value="4"/>
+               <reward id="30007" type="2" value="300000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1020"  number="20"  name="第二十章   朝圣之路"  activateIcon="35.png"  disableIcon="35.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1019"  location="76.5,70.5">
+          <rewards>
+               <reward id="30008" type="2" value="400"/>
+               <reward id="30001" type="2" value="4"/>
+               <reward id="30006" type="2" value="3000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="5" name="最强王者" description="" bg="20.jpg" battlebg="pic_map/map_bat_2.png" Resource ="map_2.plist">
+     <chapter id="1021"  number="21"  name="第二十一章   火之试炼"  activateIcon="25.png"  disableIcon="25.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1020"  location="31.5,25">
+          <rewards>
+               <reward id="30008" type="2" value="500"/>
+               <reward id="30001" type="2" value="5"/>
+               <reward id="30007" type="2" value="300000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1022"  number="22"  name="第二十二章   冰之试炼"  activateIcon="23.png"  disableIcon="23.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1021"  location="71,36">
+          <rewards>
+               <reward id="30008" type="2" value="500"/>
+               <reward id="30001" type="2" value="5"/>
+               <reward id="30006" type="2" value="3000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1023"  number="23"  name="第二十三章   决战前夜"  activateIcon="22.png"  disableIcon="22.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1022"  location="24.5,44.5">
+          <rewards>
+               <reward id="30008" type="2" value="500"/>
+               <reward id="30001" type="2" value="5"/>
+               <reward id="30007" type="2" value="300000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1024"  number="24"  name="第二十四章   天空之城"  activateIcon="21.png"  disableIcon="21.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1023"  location="78,59.5">
+          <rewards>
+               <reward id="30008" type="2" value="500"/>
+               <reward id="30001" type="2" value="5"/>
+               <reward id="30006" type="2" value="3000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1025"  number="25"  name="第二十五章   最强王者"  activateIcon="24.png"  disableIcon="24.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1024"  location="31.3,70.2">
+          <rewards>
+               <reward id="30008" type="2" value="500"/>
+               <reward id="30001" type="2" value="5"/>
+               <reward id="30007" type="2" value="400000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="6" name="最强王者" description="" bg="10.jpg" battlebg="pic_map/map_bat_1.png" Resource ="map_1.plist">
+     <chapter id="1026"  number="26"  name="第二十六章   幻兽怒火"  activateIcon="15.png"  disableIcon="15.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1025"  location="33.5,26.5">
+          <rewards>
+               <reward id="30008" type="2" value="600"/>
+               <reward id="30001" type="2" value="6"/>
+               <reward id="30006" type="2" value="4000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1027"  number="27"  name="第二十七章   九尾幻兽"  activateIcon="14.png"  disableIcon="14.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1026"  location="70.5,24.5">
+          <rewards>
+               <reward id="30008" type="2" value="600"/>
+               <reward id="30001" type="2" value="6"/>
+               <reward id="30007" type="2" value="400000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1028"  number="28"  name="第二十八章   炽热火山"  activateIcon="11.png"  disableIcon="11.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1027"  location="77,44">
+          <rewards>
+               <reward id="30008" type="2" value="600"/>
+               <reward id="30001" type="2" value="6"/>
+               <reward id="30006" type="2" value="4000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1029"  number="29"  name="第二十九章   成长旅程"  activateIcon="13.png"  disableIcon="13.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1028"  location="40.5,48.5">
+          <rewards>
+               <reward id="30008" type="2" value="600"/>
+               <reward id="30001" type="2" value="6"/>
+               <reward id="30007" type="2" value="400000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1030"  number="30"  name="第三十章   幻兽守护"  activateIcon="12.png"  disableIcon="12.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1029"  location="69.5,67.5">
+          <rewards>
+               <reward id="30008" type="2" value="600"/>
+               <reward id="30001" type="2" value="6"/>
+               <reward id="30006" type="2" value="4000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="7" name="最强王者" description="" bg="50.jpg" battlebg="pic_map/map_bat_5.png" Resource ="map_5.plist">
+     <chapter id="1031"  number="31"  name="第三十一章   炽热传说"  activateIcon="52.png"  disableIcon="52.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1030"  location="71.5,27.5">
+          <rewards>
+               <reward id="30008" type="2" value="700"/>
+               <reward id="30001" type="2" value="7"/>
+               <reward id="30007" type="2" value="400000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1032"  number="32"  name="第三十二章   白银大会"  activateIcon="54.png"  disableIcon="54.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1031"  location="22.5,37">
+          <rewards>
+               <reward id="30008" type="2" value="700"/>
+               <reward id="30001" type="2" value="7"/>
+               <reward id="30006" type="2" value="4000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1033"  number="33"  name="第三十三章   新的起点"  activateIcon="53.png"  disableIcon="53.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1032"  location="83,48.5">
+          <rewards>
+               <reward id="30008" type="2" value="700"/>
+               <reward id="30001" type="2" value="7"/>
+               <reward id="30007" type="2" value="500000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1034"  number="34"  name="第三十四章   进化序曲"  activateIcon="51.png"  disableIcon="51.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1033"  location="29,62.5">
+          <rewards>
+               <reward id="30008" type="2" value="700"/>
+               <reward id="30001" type="2" value="7"/>
+               <reward id="30006" type="2" value="5000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1035"  number="35"  name="第三十五章   华丽大赛"  activateIcon="55.png"  disableIcon="55.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1034"  location="62.5,72">
+          <rewards>
+               <reward id="30008" type="2" value="700"/>
+               <reward id="30001" type="2" value="7"/>
+               <reward id="30007" type="2" value="500000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="8" name="最强王者" description="" bg="40.jpg" battlebg="pic_map/map_bat_4.png" Resource ="map_4.plist">
+     <chapter id="1036"  number="36"  name="第三十六章   武斗训练场"  activateIcon="41.png"  disableIcon="41.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1035"  location="31.5,27.5">
+          <rewards>
+               <reward id="30008" type="2" value="800"/>
+               <reward id="30001" type="2" value="8"/>
+               <reward id="30006" type="2" value="5000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1037"  number="37"  name="第三十七章   修行之路"  activateIcon="42.png"  disableIcon="42.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1036"  location="75,31.5">
+          <rewards>
+               <reward id="30008" type="2" value="800"/>
+               <reward id="30001" type="2" value="8"/>
+               <reward id="30007" type="2" value="500000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1038"  number="38"  name="第三十八章   戏法比拼"  activateIcon="43.png"  disableIcon="43.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1037"  location="25,52">
+          <rewards>
+               <reward id="30008" type="2" value="800"/>
+               <reward id="30001" type="2" value="8"/>
+               <reward id="30006" type="2" value="5000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1039"  number="39"  name="第三十九章   人造幻兽"  activateIcon="45.png"  disableIcon="45.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1038"  location="77.5,62">
+          <rewards>
+               <reward id="30008" type="2" value="800"/>
+               <reward id="30001" type="2" value="8"/>
+               <reward id="30007" type="2" value="500000"/>
+          </rewards>
+     </chapter>
+     <chapter id="1040"  number="40"  name="第四十章   创世神兽"  activateIcon="44.png"  disableIcon="44.png"  description=""  icon="ico_chaptertype_1.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1039"  location="50,72">
+          <rewards>
+               <reward id="30008" type="2" value="800"/>
+               <reward id="30001" type="2" value="8"/>
+               <reward id="30006" type="2" value="5000"/>
+          </rewards>
+     </chapter>
+</Page>
+</ChapterPages>

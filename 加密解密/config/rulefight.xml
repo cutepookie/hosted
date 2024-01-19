@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rulefight>
+
+    <item minscore="0" maxscore="8001"  title="一阶真仙" />
+    <item minscore="8001" maxscore="16001"  title="二阶真仙" />
+	<item minscore="16001" maxscore="24001"  title="三阶真仙" />
+	<item minscore="24001" maxscore="32001"  title="四阶真仙" />
+	<item minscore="32001" maxscore="40001"  title="五阶真仙" />
+	<item minscore="40001" maxscore="48001"  title="六阶真仙" />
+	<item minscore="48001" maxscore="56001"  title="七阶真仙" />
+	<item minscore="56001" maxscore="64001"  title="八阶真仙" />
+	<item minscore="64001" maxscore="72001"  title="九阶真仙" />
+	<item minscore="72001" maxscore="80001"  title="十阶真仙" />
+
+</rulefight>

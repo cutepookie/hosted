@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30101" Number="1" Name="认错赔礼1" activeneedpass="30100" costenergy="2" maxtimes="30" coin="1995" exprole="399" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3052" dungeon_level="28"/>
+	<Dungeon ID="30102" Number="2" Name="认错赔礼2" activeneedpass="30101" costenergy="2" maxtimes="30" coin="1995" exprole="399" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3132" dungeon_level="28"/>
+	<Dungeon ID="30103" Number="3" Name="认错赔礼3" activeneedpass="30102" costenergy="2" maxtimes="30" coin="2060" exprole="412" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3152" dungeon_level="28"/>
+	<Dungeon ID="30104" Number="4" Name="认错赔礼4" activeneedpass="30103" costenergy="2" maxtimes="30" coin="2060" exprole="412" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3112" dungeon_level="29"/>
+	<Dungeon ID="30105" Number="5" Name="认错赔礼5" activeneedpass="30104" costenergy="2" maxtimes="30" coin="2130" exprole="426" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3082" dungeon_level="29"/>
+	<Dungeon ID="30106" Number="6" Name="奇怪的信1" activeneedpass="30105" costenergy="2" maxtimes="30" coin="2130" exprole="426" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3102" dungeon_level="29"/>
+	<Dungeon ID="30107" Number="7" Name="奇怪的信2" activeneedpass="30106" costenergy="2" maxtimes="30" coin="2195" exprole="439" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3092" dungeon_level="30"/>
+	<Dungeon ID="30108" Number="8" Name="奇怪的信3" activeneedpass="30107" costenergy="2" maxtimes="30" coin="2195" exprole="439" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3082" dungeon_level="30"/>
+	<Dungeon ID="30109" Number="9" Name="天降正义" activeneedpass="30108" costenergy="2" maxtimes="30" coin="2265" exprole="453" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3072" dungeon_level="30"/>
+	<Dungeon ID="30110" Number="10" Name="正义制裁" activeneedpass="30109" costenergy="2" maxtimes="10" coin="2265" exprole="453" expgeneral="0" dropitem1="10317" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="4017" dungeon_level="30"/>
+</Dungeons>

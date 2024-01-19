@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChapterPages>
+<Page id="1" name="比丘国" description="" bg="10_hard.jpg" battlebg="pic_map/map_bat_1.png" Resource ="map_1.plist">
+     <chapter id="2001"  number="1"  name="第一章"  activateIcon="11.png"  disableIcon="11.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="0"  location="24.4,39.5">
+          <rewards>
+               <reward id="30008" type="2" value="1000"/>
+               <reward id="24402" type="2" value="5"/>
+               <reward id="30007" type="2" value="300000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2002"  number="2"  name="第二章"  activateIcon="12.png"  disableIcon="12.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1001"  location="64.2,63.3">
+          <rewards>
+               <reward id="30008" type="2" value="1000"/>
+               <reward id="24402" type="2" value="5"/>
+               <reward id="30006" type="2" value="1000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2003"  number="3"  name="第三章"  activateIcon="13.png"  disableIcon="13.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1002"  location="97.0,71.4">
+          <rewards>
+               <reward id="30008" type="2" value="1000"/>
+               <reward id="24402" type="2" value="5"/>
+               <reward id="30007" type="2" value="300000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2004"  number="4"  name="第四章"  activateIcon="14.png"  disableIcon="14.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1003"  location="72.3,84.1">
+          <rewards>
+               <reward id="30008" type="2" value="1000"/>
+               <reward id="24402" type="2" value="5"/>
+               <reward id="30006" type="2" value="1000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2005"  number="5"  name="第五章"  activateIcon="15.png"  disableIcon="15.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1004"  location="27.7,84.4">
+          <rewards>
+               <reward id="30008" type="2" value="1000"/>
+               <reward id="24402" type="2" value="5"/>
+               <reward id="30007" type="2" value="300000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="2" name="狮驼国" description="" bg="20_hard.jpg" battlebg="pic_map/map_bat_2.png" Resource ="map_2.plist">
+     <chapter id="2006"  number="6"  name="第六章"  activateIcon="21.png"  disableIcon="21.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1005"  location="70.0,44.1">
+          <rewards>
+               <reward id="30008" type="2" value="1500"/>
+               <reward id="24401" type="2" value="3"/>
+               <reward id="30006" type="2" value="1000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2007"  number="7"  name="第七章"  activateIcon="22.png"  disableIcon="22.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1006"  location="36.1,46.7">
+          <rewards>
+               <reward id="30008" type="2" value="1500"/>
+               <reward id="24401" type="2" value="3"/>
+               <reward id="30007" type="2" value="300000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2008"  number="8"  name="第八章"  activateIcon="23.png"  disableIcon="23.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1007"  location="75.9,64.0">
+          <rewards>
+               <reward id="30008" type="2" value="1500"/>
+               <reward id="24401" type="2" value="3"/>
+               <reward id="30006" type="2" value="1000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2009"  number="9"  name="第九章"  activateIcon="24.png"  disableIcon="24.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1008"  location="87.8,77.8">
+          <rewards>
+               <reward id="30008" type="2" value="1500"/>
+               <reward id="24401" type="2" value="3"/>
+               <reward id="30007" type="2" value="600000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2010"  number="10"  name="第十章"  activateIcon="25.png"  disableIcon="25.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1009"  location="40.5,78.1">
+          <rewards>
+               <reward id="30008" type="2" value="1500"/>
+               <reward id="24401" type="2" value="3"/>
+               <reward id="30006" type="2" value="2000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="3" name="朱紫国" description="" bg="30_hard.jpg" battlebg="pic_map/map_bat_3.png" Resource ="map_3.plist">
+     <chapter id="2011"  number="11"  name="第十一章"  activateIcon="31.png"  disableIcon="31.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1010"  location="34.0,66.7">
+          <rewards>
+               <reward id="30008" type="2" value="2000"/>
+               <reward id="24402" type="2" value="5"/>
+               <reward id="30007" type="2" value="600000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2012"  number="12"  name="第十二章"  activateIcon="32.png"  disableIcon="32.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1011"  location="61.3,61.4">
+          <rewards>
+               <reward id="30008" type="2" value="2000"/>
+               <reward id="24402" type="2" value="5"/>
+               <reward id="30006" type="2" value="2000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2013"  number="13"  name="第十三章"  activateIcon="33.png"  disableIcon="33.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1012"  location="38.1,87.0">
+          <rewards>
+               <reward id="30008" type="2" value="2000"/>
+               <reward id="24402" type="2" value="5"/>
+               <reward id="30007" type="2" value="600000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2014"  number="14"  name="第十四章"  activateIcon="34.png"  disableIcon="34.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1013"  location="88.7,77.8">
+          <rewards>
+               <reward id="30008" type="2" value="2000"/>
+               <reward id="24402" type="2" value="5"/>
+               <reward id="30006" type="2" value="2000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2015"  number="15"  name="第十五章"  activateIcon="35.png"  disableIcon="35.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1014"  location="80.7,53.8">
+          <rewards>
+               <reward id="30008" type="2" value="2000"/>
+               <reward id="24402" type="2" value="5"/>
+               <reward id="30007" type="2" value="600000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="4" name="祭赛国" description="" bg="40_hard.jpg" battlebg="pic_map/map_bat_4.png" Resource ="map_4.plist">
+     <chapter id="2016"  number="16"  name="第十六章"  activateIcon="41.png"  disableIcon="41.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1015"  location="86.3,53.1">
+          <rewards>
+               <reward id="30008" type="2" value="2500"/>
+               <reward id="24401" type="2" value="3"/>
+               <reward id="30006" type="2" value="2000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2017"  number="17"  name="第十七章"  activateIcon="42.png"  disableIcon="42.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1016"  location="50.2,49.7">
+          <rewards>
+               <reward id="30008" type="2" value="2500"/>
+               <reward id="24401" type="2" value="3"/>
+               <reward id="30007" type="2" value="900000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2018"  number="18"  name="第十八章"  activateIcon="43.png"  disableIcon="43.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1017"  location="70.0,67.3">
+          <rewards>
+               <reward id="30008" type="2" value="2500"/>
+               <reward id="24401" type="2" value="3"/>
+               <reward id="30006" type="2" value="3000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2019"  number="19"  name="第十九章"  activateIcon="44.png"  disableIcon="44.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1018"  location="86.3,81.8">
+          <rewards>
+               <reward id="30008" type="2" value="2500"/>
+               <reward id="24401" type="2" value="3"/>
+               <reward id="30007" type="2" value="900000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2020"  number="20"  name="第二十章"  activateIcon="45.png"  disableIcon="45.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1019"  location="35.7,82.9">
+          <rewards>
+               <reward id="30008" type="2" value="2500"/>
+               <reward id="24401" type="2" value="3"/>
+               <reward id="30006" type="2" value="3000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="5" name="女儿国" description="" bg="50_hard.jpg" battlebg="pic_map/map_bat_5.png" Resource ="map_5.plist">
+     <chapter id="2021"  number="21"  name="第二十一章"  activateIcon="51.png"  disableIcon="51.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1020"  location="50.7,45.0">
+          <rewards>
+               <reward id="30008" type="2" value="3000"/>
+               <reward id="24402" type="2" value="10"/>
+               <reward id="30007" type="2" value="900000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2022"  number="22"  name="第二十二章"  activateIcon="52.png"  disableIcon="52.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1021"  location="29.5,63.0">
+          <rewards>
+               <reward id="30008" type="2" value="3000"/>
+               <reward id="24402" type="2" value="10"/>
+               <reward id="30006" type="2" value="3000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2023"  number="23"  name="第二十三章"  activateIcon="53.png"  disableIcon="53.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1022"  location="72.7,67.9">
+          <rewards>
+               <reward id="30008" type="2" value="3000"/>
+               <reward id="24402" type="2" value="10"/>
+               <reward id="30007" type="2" value="900000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2024"  number="24"  name="第二十四章"  activateIcon="54.png"  disableIcon="54.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1023"  location="52.1,72.2">
+          <rewards>
+               <reward id="30008" type="2" value="3000"/>
+               <reward id="24402" type="2" value="10"/>
+               <reward id="30006" type="2" value="3000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2025"  number="25"  name="第二十五章"  activateIcon="55.png"  disableIcon="55.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1024"  location="79.7,85.1">
+          <rewards>
+               <reward id="30008" type="2" value="3000"/>
+               <reward id="24402" type="2" value="10"/>
+               <reward id="30007" type="2" value="1200000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="6" name="车迟国" description="" bg="60_hard.jpg" battlebg="pic_map/map_bat_6.png" Resource ="map_6.plist">
+     <chapter id="2026"  number="26"  name="第二十六章"  activateIcon="61.png"  disableIcon="61.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1025"  location="59.0,50.0">
+          <rewards>
+               <reward id="30008" type="2" value="3500"/>
+               <reward id="24401" type="2" value="5"/>
+               <reward id="30006" type="2" value="4000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2027"  number="27"  name="第二十七章"  activateIcon="62.png"  disableIcon="62.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1026"  location="20.5,58.4">
+          <rewards>
+               <reward id="30008" type="2" value="3500"/>
+               <reward id="24401" type="2" value="5"/>
+               <reward id="30007" type="2" value="1200000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2028"  number="28"  name="第二十八章"  activateIcon="63.png"  disableIcon="63.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1027"  location="94.1,65.4">
+          <rewards>
+               <reward id="30008" type="2" value="3500"/>
+               <reward id="24401" type="2" value="5"/>
+               <reward id="30006" type="2" value="4000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2029"  number="29"  name="第二十九章"  activateIcon="64.png"  disableIcon="64.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1028"  location="84.7,80.5">
+          <rewards>
+               <reward id="30008" type="2" value="3500"/>
+               <reward id="24401" type="2" value="5"/>
+               <reward id="30007" type="2" value="1200000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2030"  number="30"  name="第三十章"  activateIcon="65.png"  disableIcon="65.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1029"  location="46.0,73.7">
+          <rewards>
+               <reward id="30008" type="2" value="3500"/>
+               <reward id="24401" type="2" value="5"/>
+               <reward id="30006" type="2" value="4000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="7" name="乌鸡国" description="" bg="70_hard.jpg" battlebg="pic_map/map_bat_7.png" Resource ="map_7.plist">
+     <chapter id="2031"  number="31"  name="第三十一章"  activateIcon="71.png"  disableIcon="71.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1030"  location="83.8,43.3">
+          <rewards>
+               <reward id="30008" type="2" value="4000"/>
+               <reward id="24402" type="2" value="10"/>
+               <reward id="30007" type="2" value="1200000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2032"  number="32"  name="第三十二章"  activateIcon="72.png"  disableIcon="72.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1031"  location="48.6,42.6">
+          <rewards>
+               <reward id="30008" type="2" value="4000"/>
+               <reward id="24402" type="2" value="10"/>
+               <reward id="30006" type="2" value="4000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2033"  number="33"  name="第三十三章"  activateIcon="73.png"  disableIcon="73.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1032"  location="84.6,65.9">
+          <rewards>
+               <reward id="30008" type="2" value="4000"/>
+               <reward id="24402" type="2" value="10"/>
+               <reward id="30007" type="2" value="1500000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2034"  number="34"  name="第三十四章"  activateIcon="74.png"  disableIcon="74.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1033"  location="33.9,61.2">
+          <rewards>
+               <reward id="30008" type="2" value="4000"/>
+               <reward id="24402" type="2" value="10"/>
+               <reward id="30006" type="2" value="5000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2035"  number="35"  name="第三十五章"  activateIcon="75.png"  disableIcon="75.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1034"  location="50.3,78.9">
+          <rewards>
+               <reward id="30008" type="2" value="4000"/>
+               <reward id="24402" type="2" value="10"/>
+               <reward id="30007" type="2" value="1500000"/>
+          </rewards>
+     </chapter>
+</Page>
+<Page id="8" name="大唐" description="" bg="80_hard.jpg" battlebg="pic_map/map_bat_8.png" Resource ="map_8.plist">
+     <chapter id="2036"  number="36"  name="第三十六章"  activateIcon="81.png"  disableIcon="81.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1035"  location="21.7,50.7">
+          <rewards>
+               <reward id="30008" type="2" value="4500"/>
+               <reward id="24401" type="2" value="5"/>
+               <reward id="30006" type="2" value="5000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2037"  number="37"  name="第三十七章"  activateIcon="82.png"  disableIcon="82.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1036"  location="54.3,58.6">
+          <rewards>
+               <reward id="30008" type="2" value="4500"/>
+               <reward id="24401" type="2" value="5"/>
+               <reward id="30007" type="2" value="1500000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2038"  number="38"  name="第三十八章"  activateIcon="83.png"  disableIcon="83.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1037"  location="77.3,73.7">
+          <rewards>
+               <reward id="30008" type="2" value="4500"/>
+               <reward id="24401" type="2" value="5"/>
+               <reward id="30006" type="2" value="5000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2039"  number="39"  name="第三十九章"  activateIcon="84.png"  disableIcon="84.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1038"  location="98.2,78.5">
+          <rewards>
+               <reward id="30008" type="2" value="4500"/>
+               <reward id="24401" type="2" value="5"/>
+               <reward id="30007" type="2" value="1500000"/>
+          </rewards>
+     </chapter>
+     <chapter id="2040"  number="40"  name="第四十章"  activateIcon="85.png"  disableIcon="85.png"  description=""  icon="ico_chaptertype.png"  dialog="0"  type="0"  closetime="-1"  activeneedlevel="1"  activeneedpass="1039"  location="55.7,89.4">
+          <rewards>
+               <reward id="30008" type="2" value="4500"/>
+               <reward id="24401" type="2" value="5"/>
+               <reward id="30006" type="2" value="5000"/>
+          </rewards>
+     </chapter>
+</Page>
+</ChapterPages>

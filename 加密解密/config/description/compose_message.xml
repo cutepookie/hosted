@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+    <animation state = "0" timeline = "Default Timeline"   tile = "材料不足" />
+    <animation state = "1" timeline = "ready"   tile = "未融合" />
+    <animation state = "2" timeline = "composing"   tile = "融合中" />
+    <animation state = "3" timeline = "complete"   tile = "融合完成可以领取"  />
+    <animation state = "4" timeline = "break"   tile = "融合中断"/>
+</animations>

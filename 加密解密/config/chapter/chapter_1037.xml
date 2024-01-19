@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30361" Number="1" Name="大唐境内1" activeneedpass="30360" costenergy="2" maxtimes="30" coin="19790" exprole="3958" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6012" dungeon_level="86"/>
+	<Dungeon ID="30362" Number="2" Name="大唐境内2" activeneedpass="30361" costenergy="2" maxtimes="30" coin="19790" exprole="3958" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6022" dungeon_level="86"/>
+	<Dungeon ID="30363" Number="3" Name="最后的经书1" activeneedpass="30362" costenergy="2" maxtimes="30" coin="20000" exprole="4000" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6102" dungeon_level="86"/>
+	<Dungeon ID="30364" Number="4" Name="最后的经书2" activeneedpass="30363" costenergy="2" maxtimes="30" coin="20000" exprole="4000" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6032" dungeon_level="86"/>
+	<Dungeon ID="30365" Number="5" Name="最后的经书3" activeneedpass="30364" costenergy="2" maxtimes="30" coin="20210" exprole="4042" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6042" dungeon_level="86"/>
+	<Dungeon ID="30366" Number="6" Name="最后的妖怪1" activeneedpass="30365" costenergy="2" maxtimes="30" coin="20210" exprole="4042" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6063" dungeon_level="87"/>
+	<Dungeon ID="30367" Number="7" Name="最后的妖怪2" activeneedpass="30366" costenergy="2" maxtimes="30" coin="20420" exprole="4084" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6073" dungeon_level="87"/>
+	<Dungeon ID="30368" Number="8" Name="最后的妖怪3" activeneedpass="30367" costenergy="2" maxtimes="30" coin="20420" exprole="4084" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6083" dungeon_level="87"/>
+	<Dungeon ID="30369" Number="9" Name="集齐经书" activeneedpass="30368" costenergy="2" maxtimes="30" coin="20630" exprole="4126" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6053" dungeon_level="87"/>
+	<Dungeon ID="30370" Number="10" Name="准备净化" activeneedpass="30369" costenergy="2" maxtimes="10" coin="20630" exprole="4126" expgeneral="0" dropitem1="10522" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="7067" dungeon_level="87"/>
+</Dungeons>

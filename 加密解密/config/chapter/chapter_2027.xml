@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40261" Number="1" Name="雨过天晴1" activeneedpass="40260" costenergy="2" maxtimes="10" coin="17770" exprole="3554" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5071" dungeon_level="66"/>
+	<Dungeon ID="40262" Number="2" Name="雨过天晴2" activeneedpass="40261" costenergy="2" maxtimes="10" coin="17770" exprole="3554" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5012" dungeon_level="66"/>
+	<Dungeon ID="40263" Number="3" Name="雨过天晴3" activeneedpass="40262" costenergy="2" maxtimes="10" coin="17965" exprole="3593" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4092" dungeon_level="66"/>
+	<Dungeon ID="40264" Number="4" Name="妖怪拦路1" activeneedpass="40263" costenergy="2" maxtimes="10" coin="17965" exprole="3593" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4172" dungeon_level="66"/>
+	<Dungeon ID="40265" Number="5" Name="妖怪拦路2" activeneedpass="40264" costenergy="2" maxtimes="10" coin="18165" exprole="3633" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5082" dungeon_level="66"/>
+	<Dungeon ID="40266" Number="6" Name="妖怪拦路3" activeneedpass="40265" costenergy="2" maxtimes="10" coin="18165" exprole="3633" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5043" dungeon_level="67"/>
+	<Dungeon ID="40267" Number="7" Name="大妖现身" activeneedpass="40266" costenergy="2" maxtimes="10" coin="18365" exprole="3673" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5073" dungeon_level="67"/>
+	<Dungeon ID="40268" Number="8" Name="无法力敌" activeneedpass="40267" costenergy="2" maxtimes="10" coin="18365" exprole="3673" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5053" dungeon_level="67"/>
+	<Dungeon ID="40269" Number="9" Name="强取经书" activeneedpass="40268" costenergy="2" maxtimes="10" coin="18565" exprole="3713" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4053" dungeon_level="67"/>
+	<Dungeon ID="40270" Number="10" Name="高人相助" activeneedpass="40269" costenergy="2" maxtimes="5" coin="18565" exprole="3713" expgeneral="0" dropitem1="10410" dropitem2="0" boss_postion="1010" addMorale="0" dungeon_icon="6058" dungeon_level="67"/>
+</Dungeons>

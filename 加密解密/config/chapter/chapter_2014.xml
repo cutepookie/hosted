@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40131" Number="1" Name="降妖除魔1" activeneedpass="40130" costenergy="2" maxtimes="10" coin="7275" exprole="1455" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3082" dungeon_level="37"/>
+	<Dungeon ID="40132" Number="2" Name="降妖除魔2" activeneedpass="40131" costenergy="2" maxtimes="10" coin="7275" exprole="1455" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3012" dungeon_level="37"/>
+	<Dungeon ID="40133" Number="3" Name="踪迹全无1" activeneedpass="40132" costenergy="2" maxtimes="10" coin="7400" exprole="1480" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3042" dungeon_level="37"/>
+	<Dungeon ID="40134" Number="4" Name="踪迹全无2" activeneedpass="40133" costenergy="2" maxtimes="10" coin="7400" exprole="1480" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3092" dungeon_level="38"/>
+	<Dungeon ID="40135" Number="5" Name="踪迹全无3" activeneedpass="40134" costenergy="2" maxtimes="10" coin="7530" exprole="1506" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3032" dungeon_level="38"/>
+	<Dungeon ID="40136" Number="6" Name="明王助妖1" activeneedpass="40135" costenergy="2" maxtimes="10" coin="7530" exprole="1506" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3113" dungeon_level="38"/>
+	<Dungeon ID="40137" Number="7" Name="明王助妖2" activeneedpass="40136" costenergy="2" maxtimes="10" coin="7655" exprole="1531" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3063" dungeon_level="39"/>
+	<Dungeon ID="40138" Number="8" Name="明王助妖3" activeneedpass="40137" costenergy="2" maxtimes="10" coin="7655" exprole="1531" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3043" dungeon_level="39"/>
+	<Dungeon ID="40139" Number="9" Name="明王助妖4" activeneedpass="40138" costenergy="2" maxtimes="10" coin="7785" exprole="1557" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3073" dungeon_level="39"/>
+	<Dungeon ID="40140" Number="10" Name="心中迷惑" activeneedpass="40139" costenergy="2" maxtimes="5" coin="7785" exprole="1557" expgeneral="0" dropitem1="10310" dropitem2="0" boss_postion="10" addMorale="0" dungeon_icon="4097" dungeon_level="39"/>
+</Dungeons>

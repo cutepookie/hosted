@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shops>
+  <ShopItem ShopId = "10000" ShopName = "元宝商店" >
+      <GoodsID>20010</GoodsID>
+      <GoodsID>20011</GoodsID>
+      <GoodsID>20012</GoodsID>
+      <GoodsID>20013</GoodsID>
+      <GoodsID>20014</GoodsID>
+      <GoodsID>20023</GoodsID>
+      <GoodsID>20024</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "10001" ShopName = "VIP礼包商店" >
+      <GoodsID>30001</GoodsID>
+
+      <GoodsID>30003</GoodsID>
+     
+      <GoodsID>30006</GoodsID>
+      
+      <GoodsID>30009</GoodsID>
+     
+      <GoodsID>30012</GoodsID>
+      
+      <GoodsID>30015</GoodsID>
+      
+      <GoodsID>30018</GoodsID>
+      
+      <GoodsID>30021</GoodsID>
+      
+      <GoodsID>30024</GoodsID>
+   
+      <GoodsID>30027</GoodsID>
+  
+      <GoodsID>30030</GoodsID>
+    
+      <GoodsID>30033</GoodsID>
+  
+      <GoodsID>30036</GoodsID>
+     
+      <GoodsID>30039</GoodsID>
+    
+      <GoodsID>30042</GoodsID>
+
+  </ShopItem>
+  <ShopItem ShopId = "21001" ShopName = "浆果商店" >
+      <GoodsID>11001</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21002" ShopName = "浆果商店" >
+      <GoodsID>11004</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21003" ShopName = "浆果商店" >
+      <GoodsID>11011</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21004" ShopName = "浆果商店" >
+      <GoodsID>11013</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21005" ShopName = "浆果商店" >
+      <GoodsID>11028</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21006" ShopName = "浆果商店" >
+      <GoodsID>11021</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21007" ShopName = "浆果商店" >
+      <GoodsID>11017</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21008" ShopName = "浆果商店" >
+      <GoodsID>11018</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21009" ShopName = "浆果商店" >
+      <GoodsID>11031</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21010" ShopName = "浆果商店" >
+      <GoodsID>11036</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21011" ShopName = "浆果商店" >
+      <GoodsID>11040</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21012" ShopName = "浆果商店" >
+      <GoodsID>11043</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21013" ShopName = "浆果商店" >
+      <GoodsID>11046</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21014" ShopName = "浆果商店" >
+      <GoodsID>11050</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21015" ShopName = "浆果商店" >
+      <GoodsID>11055</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21016" ShopName = "浆果商店" >
+      <GoodsID>11058</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21017" ShopName = "浆果商店" >
+      <GoodsID>11002</GoodsID>
+      <GoodsID>11003</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21018" ShopName = "浆果商店" >
+      <GoodsID>11005</GoodsID>
+      <GoodsID>11006</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21019" ShopName = "浆果商店" >
+      <GoodsID>11007</GoodsID>
+      <GoodsID>11008</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21020" ShopName = "浆果商店" >
+      <GoodsID>11009</GoodsID>
+      <GoodsID>11010</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21021" ShopName = "浆果商店" >
+      <GoodsID>11012</GoodsID>
+      <GoodsID>11014</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21022" ShopName = "浆果商店" >
+      <GoodsID>11015</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21023" ShopName = "浆果商店" >
+      <GoodsID>11016</GoodsID>
+      <GoodsID>11019</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21024" ShopName = "浆果商店" >
+      <GoodsID>11020</GoodsID>
+      <GoodsID>11022</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21025" ShopName = "浆果商店" >
+      <GoodsID>11023</GoodsID>
+      <GoodsID>11024</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21026" ShopName = "浆果商店" >
+      <GoodsID>11025</GoodsID>
+      <GoodsID>11026</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21027" ShopName = "浆果商店" >
+      <GoodsID>11027</GoodsID>
+      <GoodsID>11029</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21028" ShopName = "浆果商店" >
+      <GoodsID>11030</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21029" ShopName = "浆果商店" >
+      <GoodsID>11032</GoodsID>
+      <GoodsID>11033</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21030" ShopName = "浆果商店" >
+      <GoodsID>11034</GoodsID>
+      <GoodsID>11035</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21031" ShopName = "浆果商店" >
+      <GoodsID>11037</GoodsID>
+      <GoodsID>11038</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21032" ShopName = "浆果商店" >
+      <GoodsID>11039</GoodsID>
+      <GoodsID>11041</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21033" ShopName = "浆果商店" >
+      <GoodsID>11042</GoodsID>
+      <GoodsID>11044</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21034" ShopName = "浆果商店" >
+      <GoodsID>11045</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21035" ShopName = "浆果商店" >
+      <GoodsID>11047</GoodsID>
+      <GoodsID>11048</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21036" ShopName = "浆果商店" >
+      <GoodsID>11049</GoodsID>
+      <GoodsID>11051</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21037" ShopName = "浆果商店" >
+      <GoodsID>11052</GoodsID>
+      <GoodsID>11053</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21038" ShopName = "浆果商店" >
+      <GoodsID>11054</GoodsID>
+      <GoodsID>11056</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21039" ShopName = "浆果商店" >
+      <GoodsID>11057</GoodsID>
+      <GoodsID>11059</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21040" ShopName = "浆果商店" >
+      <GoodsID>11060</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21041" ShopName = "浆果商店" >
+      <GoodsID>11061</GoodsID>
+      <GoodsID>11062</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21042" ShopName = "浆果商店" >
+      <GoodsID>11063</GoodsID>
+      <GoodsID>11064</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21043" ShopName = "浆果商店" >
+      <GoodsID>11065</GoodsID>
+      <GoodsID>11066</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21044" ShopName = "浆果商店" >
+      <GoodsID>11067</GoodsID>
+      <GoodsID>11068</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21045" ShopName = "浆果商店" >
+      <GoodsID>11069</GoodsID>
+      <GoodsID>11070</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21046" ShopName = "浆果商店" >
+      <GoodsID>11071</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21047" ShopName = "浆果商店" >
+      <GoodsID>11072</GoodsID>
+      <GoodsID>11073</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21048" ShopName = "浆果商店" >
+      <GoodsID>11074</GoodsID>
+      <GoodsID>11075</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21049" ShopName = "浆果商店" >
+      <GoodsID>11076</GoodsID>
+      <GoodsID>11077</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21050" ShopName = "浆果商店" >
+      <GoodsID>11078</GoodsID>
+      <GoodsID>11079</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21051" ShopName = "浆果商店" >
+      <GoodsID>11080</GoodsID>
+      <GoodsID>11081</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21052" ShopName = "浆果商店" >
+      <GoodsID>11082</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21053" ShopName = "浆果商店" >
+      <GoodsID>11083</GoodsID>
+      <GoodsID>11084</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21054" ShopName = "浆果商店" >
+      <GoodsID>11085</GoodsID>
+      <GoodsID>11086</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21055" ShopName = "浆果商店" >
+      <GoodsID>11087</GoodsID>
+      <GoodsID>11088</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21056" ShopName = "浆果商店" >
+      <GoodsID>11089</GoodsID>
+      <GoodsID>11090</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21057" ShopName = "浆果商店" >
+      <GoodsID>11091</GoodsID>
+      <GoodsID>11092</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21058" ShopName = "浆果商店" >
+      <GoodsID>11093</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21059" ShopName = "浆果商店" >
+      <GoodsID>11094</GoodsID>
+      <GoodsID>11095</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21060" ShopName = "浆果商店" >
+      <GoodsID>11096</GoodsID>
+      <GoodsID>11097</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21061" ShopName = "浆果商店" >
+      <GoodsID>11098</GoodsID>
+      <GoodsID>11099</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21062" ShopName = "浆果商店" >
+      <GoodsID>11100</GoodsID>
+      <GoodsID>11101</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21063" ShopName = "浆果商店" >
+      <GoodsID>11102</GoodsID>
+      <GoodsID>11103</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "21064" ShopName = "浆果商店" >
+      <GoodsID>11104</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22001" ShopName = "浆果商店" >
+      <GoodsID>12001</GoodsID>
+      <GoodsID>12002</GoodsID>
+      <GoodsID>12003</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22002" ShopName = "浆果商店" >
+      <GoodsID>12004</GoodsID>
+      <GoodsID>12005</GoodsID>
+      <GoodsID>12006</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22003" ShopName = "浆果商店" >
+      <GoodsID>12007</GoodsID>
+      <GoodsID>12008</GoodsID>
+      <GoodsID>12009</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22004" ShopName = "浆果商店" >
+      <GoodsID>12010</GoodsID>
+      <GoodsID>12011</GoodsID>
+      <GoodsID>12012</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22005" ShopName = "浆果商店" >
+      <GoodsID>12013</GoodsID>
+      <GoodsID>12014</GoodsID>
+      <GoodsID>12015</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22006" ShopName = "浆果商店" >
+      <GoodsID>12016</GoodsID>
+      <GoodsID>12017</GoodsID>
+      <GoodsID>12018</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22007" ShopName = "浆果商店" >
+      <GoodsID>12019</GoodsID>
+      <GoodsID>12020</GoodsID>
+      <GoodsID>12021</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22008" ShopName = "浆果商店" >
+      <GoodsID>12022</GoodsID>
+      <GoodsID>12023</GoodsID>
+      <GoodsID>12024</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22009" ShopName = "浆果商店" >
+      <GoodsID>12025</GoodsID>
+      <GoodsID>12026</GoodsID>
+      <GoodsID>12027</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22010" ShopName = "浆果商店" >
+      <GoodsID>12028</GoodsID>
+      <GoodsID>12029</GoodsID>
+      <GoodsID>12030</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22011" ShopName = "浆果商店" >
+      <GoodsID>12031</GoodsID>
+      <GoodsID>12032</GoodsID>
+      <GoodsID>12033</GoodsID>
+      <GoodsID>12034</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22012" ShopName = "浆果商店" >
+      <GoodsID>12035</GoodsID>
+      <GoodsID>12036</GoodsID>
+      <GoodsID>12037</GoodsID>
+      <GoodsID>12038</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22013" ShopName = "浆果商店" >
+      <GoodsID>12039</GoodsID>
+      <GoodsID>12040</GoodsID>
+      <GoodsID>12041</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22014" ShopName = "浆果商店" >
+      <GoodsID>12042</GoodsID>
+      <GoodsID>12043</GoodsID>
+      <GoodsID>12044</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22015" ShopName = "浆果商店" >
+      <GoodsID>12045</GoodsID>
+      <GoodsID>12046</GoodsID>
+      <GoodsID>12047</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22016" ShopName = "浆果商店" >
+      <GoodsID>12048</GoodsID>
+      <GoodsID>12049</GoodsID>
+      <GoodsID>12050</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22017" ShopName = "浆果商店" >
+      <GoodsID>12051</GoodsID>
+      <GoodsID>12052</GoodsID>
+      <GoodsID>12053</GoodsID>
+      <GoodsID>12054</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22018" ShopName = "浆果商店" >
+      <GoodsID>12055</GoodsID>
+      <GoodsID>12056</GoodsID>
+      <GoodsID>12057</GoodsID>
+      <GoodsID>12058</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22019" ShopName = "浆果商店" >
+      <GoodsID>12059</GoodsID>
+      <GoodsID>12060</GoodsID>
+      <GoodsID>12061</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22020" ShopName = "浆果商店" >
+      <GoodsID>12062</GoodsID>
+      <GoodsID>12063</GoodsID>
+      <GoodsID>12064</GoodsID>
+      <GoodsID>12065</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22021" ShopName = "浆果商店" >
+      <GoodsID>12066</GoodsID>
+      <GoodsID>12067</GoodsID>
+      <GoodsID>12068</GoodsID>
+      <GoodsID>12069</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22022" ShopName = "浆果商店" >
+      <GoodsID>12070</GoodsID>
+      <GoodsID>12071</GoodsID>
+      <GoodsID>12072</GoodsID>
+      <GoodsID>12073</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22023" ShopName = "浆果商店" >
+      <GoodsID>12074</GoodsID>
+      <GoodsID>12075</GoodsID>
+      <GoodsID>12076</GoodsID>
+      <GoodsID>12077</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22024" ShopName = "浆果商店" >
+      <GoodsID>12078</GoodsID>
+      <GoodsID>12079</GoodsID>
+      <GoodsID>12080</GoodsID>
+      <GoodsID>12081</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22025" ShopName = "浆果商店" >
+      <GoodsID>12082</GoodsID>
+      <GoodsID>12083</GoodsID>
+      <GoodsID>12084</GoodsID>
+  </ShopItem>
+  <ShopItem ShopId = "22026" ShopName = "浆果商店" >
+      <GoodsID>12085</GoodsID>
+      <GoodsID>12086</GoodsID>
+      <GoodsID>12087</GoodsID>
+      <GoodsID>12088</GoodsID>
+  </ShopItem>
+</shops>

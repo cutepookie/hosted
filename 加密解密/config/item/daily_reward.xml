@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dailys>
+  <reward id = "1">      <values type = "1" value = "30008" number = "20" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "11301" number = "4"/>
+  </reward>
+  <reward id = "2">      <values type = "1" value = "30008" number = "50" />
+      <values type = "2" value = "5130" number = "1"/>
+
+      <values type = "1" value = "30010" number = "1"/>
+  </reward>
+  <reward id = "3">      <values type = "1" value = "30008" number = "100" />
+
+      <values type = "1" value = "30013" number = "1"/>
+      <values type = "1" value = "10501" number = "1"/>
+  </reward>
+  <reward id = "4">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "200000" />
+
+      <values type = "1" value = "24403" number = "2"/>
+  </reward>
+  <reward id = "5">      <values type = "1" value = "30008" number = "200" />
+
+      <values type = "1" value = "24205" number = "1"/>
+      <values type = "1" value = "24401" number = "3"/>
+  </reward>
+  <reward id = "6">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "24403" number = "3"/>
+  </reward>
+  <reward id = "7">      <values type = "1" value = "30008" number = "100" />
+      <values type = "2" value = "7040" number = "1"/>
+
+      <values type = "1" value = "24402" number = "5"/>
+  </reward>
+  <reward id = "8">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "200000" />
+
+      <values type = "1" value = "24403" number = "3"/>
+  </reward>
+  <reward id = "9">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30001" number = "2"/>
+  </reward>
+  <reward id = "10">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30003" number = "1"/>
+  </reward>
+  <reward id = "11">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "12">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "13">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "14">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "15">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "16">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "17">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "18">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "19">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "20">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "21">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "22">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "23">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "24">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "25">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "26">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "27">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "28">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "29">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "30">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "31">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "32">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "33">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "34">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "35">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "36">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "37">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "38">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "39">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "40">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "41">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "42">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "43">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "44">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "45">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "46">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "47">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "48">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "49">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "50">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "51">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "52">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "53">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "54">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "55">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "56">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "57">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "58">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "59">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "60">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "61">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "62">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "63">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "64">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "65">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "66">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "67">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "68">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "69">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "70">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "71">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "72">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "73">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "74">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "75">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "76">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "77">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "78">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "79">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "80">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "81">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "82">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "83">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "84">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "85">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+  <reward id = "86">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24103" number = "3"/>
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "87">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "24104" number = "1"/>
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "88">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30007" number = "300000" />
+
+      <values type = "1" value = "30004" number = "2"/>
+  </reward>
+  <reward id = "89">      <values type = "1" value = "30008" number = "50" />
+      <values type = "1" value = "30006" number = "2000" />
+
+      <values type = "1" value = "30003" number = "2"/>
+  </reward>
+  <reward id = "90">      <values type = "1" value = "30008" number = "50" />
+
+      <values type = "1" value = "30001" number = "2"/>
+      <values type = "1" value = "24203" number = "1"/>
+  </reward>
+</dailys>

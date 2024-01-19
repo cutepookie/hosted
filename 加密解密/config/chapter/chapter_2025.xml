@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40241" Number="1" Name="去请龙王1" activeneedpass="40240" costenergy="2" maxtimes="10" coin="15855" exprole="3171" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4183" dungeon_level="62"/>
+	<Dungeon ID="40242" Number="2" Name="去请龙王2" activeneedpass="40241" costenergy="2" maxtimes="10" coin="15855" exprole="3171" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4042" dungeon_level="62"/>
+	<Dungeon ID="40243" Number="3" Name="破败龙宫1" activeneedpass="40242" costenergy="2" maxtimes="10" coin="16040" exprole="3208" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4113" dungeon_level="62"/>
+	<Dungeon ID="40244" Number="4" Name="破败龙宫2" activeneedpass="40243" costenergy="2" maxtimes="10" coin="16040" exprole="3208" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5082" dungeon_level="62"/>
+	<Dungeon ID="40245" Number="5" Name="破败龙宫3" activeneedpass="40244" costenergy="2" maxtimes="10" coin="16230" exprole="3246" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5112" dungeon_level="62"/>
+	<Dungeon ID="40246" Number="6" Name="无能为力1" activeneedpass="40245" costenergy="2" maxtimes="10" coin="16230" exprole="3246" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4152" dungeon_level="63"/>
+	<Dungeon ID="40247" Number="7" Name="无能为力2" activeneedpass="40246" costenergy="2" maxtimes="10" coin="16415" exprole="3283" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5062" dungeon_level="63"/>
+	<Dungeon ID="40248" Number="8" Name="无能为力3" activeneedpass="40247" costenergy="2" maxtimes="10" coin="16415" exprole="3283" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5122" dungeon_level="63"/>
+	<Dungeon ID="40249" Number="9" Name="了解原因" activeneedpass="40248" costenergy="2" maxtimes="10" coin="16605" exprole="3321" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4111" dungeon_level="63"/>
+	<Dungeon ID="40250" Number="10" Name="自食其果" activeneedpass="40249" costenergy="2" maxtimes="5" coin="16605" exprole="3321" expgeneral="0" dropitem1="10508" dropitem2="0" boss_postion="101" addMorale="0" dungeon_icon="6074" dungeon_level="63"/>
+</Dungeons>

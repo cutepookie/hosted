@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+    <file path = "currency.xml"/>
+    <file path = "item_property.xml"/>
+    <file path = "itemtype.xml"/>
+    <file path = "popup_message.xml"/>
+    <file path = "item_quality.xml"/>
+    <file path = "shop_buy_message.xml"/>
+    <file path = "useitem_message.xml"/>
+    <file path = "compose_message.xml"/>
+    <file path = "item_strengthen_message.xml"/>
+    <file path = "strengthen_cost.xml"/>
+    <file path = "item_strengthen_rate.xml"/>
+    <file path = "shop_ID.xml"/>
+    <file path = "ranking_overtime.xml"/>
+    <file path = "BGM.xml"/>
+    <file path = "email_description.xml"/>
+    <file path = "mail_quest_result.xml"/>
+    <file path = "mail_more_result.xml"/>
+</files>

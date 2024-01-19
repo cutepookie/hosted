@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40071" Number="1" Name="光天化日1" activeneedpass="40070" costenergy="2" maxtimes="10" coin="3985" exprole="797" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2023" dungeon_level="19"/>
+	<Dungeon ID="40072" Number="2" Name="光天化日2" activeneedpass="40071" costenergy="2" maxtimes="10" coin="3985" exprole="797" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2033" dungeon_level="19"/>
+	<Dungeon ID="40073" Number="3" Name="光天化日3" activeneedpass="40072" costenergy="2" maxtimes="10" coin="4080" exprole="816" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2013" dungeon_level="19"/>
+	<Dungeon ID="40074" Number="4" Name="妖怪吃人1" activeneedpass="40073" costenergy="2" maxtimes="10" coin="4080" exprole="816" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2063" dungeon_level="20"/>
+	<Dungeon ID="40075" Number="5" Name="妖怪吃人2" activeneedpass="40074" costenergy="2" maxtimes="10" coin="4175" exprole="835" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2103" dungeon_level="20"/>
+	<Dungeon ID="40076" Number="6" Name="妖怪吃人3" activeneedpass="40075" costenergy="2" maxtimes="10" coin="4175" exprole="835" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2093" dungeon_level="20"/>
+	<Dungeon ID="40077" Number="7" Name="非我族类1" activeneedpass="40076" costenergy="2" maxtimes="10" coin="4270" exprole="854" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2033" dungeon_level="21"/>
+	<Dungeon ID="40078" Number="8" Name="非我族类2" activeneedpass="40077" costenergy="2" maxtimes="10" coin="4270" exprole="854" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2073" dungeon_level="21"/>
+	<Dungeon ID="40079" Number="9" Name="非我族类3" activeneedpass="40078" costenergy="2" maxtimes="10" coin="4365" exprole="873" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2113" dungeon_level="21"/>
+	<Dungeon ID="40080" Number="10" Name="背后主使" activeneedpass="40079" costenergy="2" maxtimes="5" coin="4365" exprole="873" expgeneral="0" dropitem1="10308" dropitem2="0" boss_postion="10010" addMorale="0" dungeon_icon="3062" dungeon_level="21"/>
+</Dungeons>

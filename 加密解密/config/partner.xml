@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<partner>
+     <lock>
+         <lock num = "0" gold = "100" />
+         <lock num = "1" gold = "200" />
+         <lock num = "2" gold = "300" />
+         <lock num = "3" gold = "400" />
+         <lock num = "4" gold = "500" />
+         <lock num = "5" gold = "600" />
+     </lock>
+
+     <gerAttack>
+         <gerAttack min = "1" max = "22" star = "1" />
+         <gerAttack min = "30" max = "44" star = "2" />
+         <gerAttack min = "60" max = "88" star = "3" />
+         <gerAttack min = "120" max = "176" star = "4" />
+         <gerAttack min = "200" max = "352" star = "5" />
+         <gerAttack min = "400" max = "704" star = "6" />
+         <gerAttack min = "900" max = "1408" star = "7" />
+     </gerAttack>
+     <gerHpMax>
+         <gerHpMax min = "1" max = "165" star = "1" />
+         <gerHpMax min = "200" max = "330" star = "2" />
+         <gerHpMax min = "450" max = "660" star = "3" />
+         <gerHpMax min = "900" max = "1320" star = "4" />
+         <gerHpMax min = "1800" max = "2640" star = "5" />
+         <gerHpMax min = "3600" max = "5280" star = "6" />
+         <gerHpMax min = "7200" max = "10560" star = "7" />
+     </gerHpMax>
+     <gerCritic>
+         <gerCritic min = "1" max = "1" star = "1" />
+         <gerCritic min = "2" max = "5" star = "2" />
+         <gerCritic min = "6" max = "9" star = "3" />
+         <gerCritic min = "10" max = "13" star = "4" />
+         <gerCritic min = "14" max = "17" star = "5" />
+         <gerCritic min = "18" max = "21" star = "6" />
+         <gerCritic min = "22" max = "25" star = "7" />
+     </gerCritic>
+     <gerCriticReduce>
+         <gerCriticReduce min = "1" max = "5" star = "1" />
+         <gerCriticReduce min = "6" max = "10" star = "2" />
+         <gerCriticReduce min = "11" max = "15" star = "3" />
+         <gerCriticReduce min = "16" max = "20" star = "4" />
+         <gerCriticReduce min = "21" max = "25" star = "5" />
+         <gerCriticReduce min = "26" max = "30" star = "6" />
+         <gerCriticReduce min = "31" max = "35" star = "7" />
+     </gerCriticReduce>
+     <gerDoom>
+         <gerDoom min = "1" max = "5" star = "1" />
+         <gerDoom min = "6" max = "10" star = "2" />
+         <gerDoom min = "11" max = "15" star = "3" />
+         <gerDoom min = "16" max = "20" star = "4" />
+         <gerDoom min = "21" max = "25" star = "5" />
+         <gerDoom min = "26" max = "30" star = "6" />
+         <gerDoom min = "31" max = "35" star = "7" />
+     </gerDoom>
+     <gerMiss>
+         <gerMiss min = "1" max = "1" star = "1" />
+         <gerMiss min = "2" max = "5" star = "2" />
+         <gerMiss min = "6" max = "9" star = "3" />
+         <gerMiss min = "10" max = "13" star = "4" />
+         <gerMiss min = "14" max = "17" star = "5" />
+         <gerMiss min = "18" max = "21" star = "6" />
+         <gerMiss min = "22" max = "25" star = "7" />
+     </gerMiss>
+     <gerAbsorb>
+         <gerAbsorb min = "20" max = "20" star = "1" />
+         <gerAbsorb min = "50" max = "50" star = "2" />
+         <gerAbsorb min = "100" max = "100" star = "3" />
+         <gerAbsorb min = "150" max = "150" star = "4" />
+         <gerAbsorb min = "200" max = "200" star = "5" />
+         <gerAbsorb min = "500" max = "500" star = "6" />
+         <gerAbsorb min = "1000" max = "1000" star = "7" />
+     </gerAbsorb>
+     <gerDamageBack>
+         <gerDamageBack min = "20" max = "20" star = "1" />
+         <gerDamageBack min = "50" max = "50" star = "2" />
+         <gerDamageBack min = "100" max = "100" star = "3" />
+         <gerDamageBack min = "150" max = "150" star = "4" />
+         <gerDamageBack min = "100" max = "200" star = "5" />
+         <gerDamageBack min = "500" max = "500" star = "6" />
+         <gerDamageBack min = "1000" max = "1000" star = "7" />
+     </gerDamageBack>
+     <gerReel>
+         <gerReel min = "1" max = "1" star = "1" />
+         <gerReel min = "2" max = "5" star = "2" />
+         <gerReel min = "6" max = "9" star = "3" />
+         <gerReel min = "10" max = "13" star = "4" />
+         <gerReel min = "14" max = "17" star = "5" />
+         <gerReel min = "18" max = "21" star = "6" />
+         <gerReel min = "22" max = "25" star = "7" />
+     </gerReel>
+     <gerReelReduce>
+         <gerReelReduce min = "1" max = "5" star = "1" />
+         <gerReelReduce min = "6" max = "10" star = "2" />
+         <gerReelReduce min = "11" max = "15" star = "3" />
+         <gerReelReduce min = "16" max = "20" star = "4" />
+         <gerReelReduce min = "21" max = "25" star = "5" />
+         <gerReelReduce min = "26" max = "30" star = "6" />
+         <gerReelReduce min = "31" max = "35" star = "7" />
+     </gerReelReduce>
+     <gerPhyDefBite>
+         <gerPhyDefBite min = "1" max = "5" star = "1" />
+         <gerPhyDefBite min = "6" max = "10" star = "2" />
+         <gerPhyDefBite min = "11" max = "15" star = "3" />
+         <gerPhyDefBite min = "16" max = "20" star = "4" />
+         <gerPhyDefBite min = "21" max = "25" star = "5" />
+         <gerPhyDefBite min = "26" max = "30" star = "6" />
+         <gerPhyDefBite min = "31" max = "35" star = "7" />
+     </gerPhyDefBite>
+     <gerPhyDef>
+         <gerPhyDef min = "1" max = "8" star = "1" />
+         <gerPhyDef min = "9" max = "15" star = "2" />
+         <gerPhyDef min = "16" max = "22" star = "3" />
+         <gerPhyDef min = "23" max = "29" star = "4" />
+         <gerPhyDef min = "30" max = "36" star = "5" />
+         <gerPhyDef min = "37" max = "43" star = "6" />
+         <gerPhyDef min = "44" max = "50" star = "7" />
+     </gerPhyDef>
+     <gerMagDefBite>
+         <gerMagDefBite min = "1" max = "5" star = "1" />
+         <gerMagDefBite min = "6" max = "10" star = "2" />
+         <gerMagDefBite min = "11" max = "15" star = "3" />
+         <gerMagDefBite min = "16" max = "20" star = "4" />
+         <gerMagDefBite min = "21" max = "25" star = "5" />
+         <gerMagDefBite min = "26" max = "30" star = "6" />
+         <gerMagDefBite min = "31" max = "35" star = "7" />
+     </gerMagDefBite>
+     <gerMagDef>
+         <gerMagDef min = "1" max = "8" star = "1" />
+         <gerMagDef min = "9" max = "15" star = "2" />
+         <gerMagDef min = "16" max = "22" star = "3" />
+         <gerMagDef min = "23" max = "29" star = "4" />
+         <gerMagDef min = "30" max = "36" star = "5" />
+         <gerMagDef min = "37" max = "43" star = "6" />
+         <gerMagDef min = "44" max = "50" star = "7" />
+     </gerMagDef>
+     <gerAttackAddtion>
+         <gerAttackAddtion min = "1" max = "500" star = "1" />
+         <gerAttackAddtion min = "600" max = "1000" star = "2" />
+         <gerAttackAddtion min = "1100" max = "1500" star = "3" />
+         <gerAttackAddtion min = "1600" max = "2000" star = "4" />
+         <gerAttackAddtion min = "2100" max = "2500" star = "5" />
+         <gerAttackAddtion min = "2600" max = "3000" star = "6" />
+         <gerAttackAddtion min = "3100" max = "3500" star = "7" />
+     </gerAttackAddtion>
+     <gerHpMaxAddtion>
+         <gerHpMaxAddtion min = "1" max = "500" star = "1" />
+         <gerHpMaxAddtion min = "600" max = "1000" star = "2" />
+         <gerHpMaxAddtion min = "1100" max = "1500" star = "3" />
+         <gerHpMaxAddtion min = "1600" max = "2000" star = "4" />
+         <gerHpMaxAddtion min = "2100" max = "2500" star = "5" />
+         <gerHpMaxAddtion min = "2600" max = "3000" star = "6" />
+         <gerHpMaxAddtion min = "3100" max = "3500" star = "7" />
+     </gerHpMaxAddtion>
+</partner>

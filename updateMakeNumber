@@ -1,0 +1,17 @@
+#!/bin/bash
+
+
+NUMBER_FILE=$MAKE_NUMBER_FILE
+
+echo NUMBER_FILE:$NUMBER_FILE
+
+NUMNER=`cat $NUMBER_FILE | tr -d [\n\r]`
+echo Current make number: $NUMNER
+
+let NUMNER+=1
+
+echo $NUMNER > $NUMBER_FILE
+
+NUMNER=`cat $NUMBER_FILE | tr -d [\n\r]`
+
+echo Current make number: $NUMNER [after update]

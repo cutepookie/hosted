@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<email>
+
+    <content tid = "1001" title = "[color=ffffff]好友添加申请[/color]" content = "[color=ffcc00]@(0)@[color=ffcc00-24--1}请求添加您为好友。[/color]"/>
+    <content tid = "1002" title = "[color=ffffff]好友断交通知[/color]" content = "[color=ffcc00]@(0)@[color=ffcc00]已同您断交，从此形同陌路。[/color]"/>
+
+    <content tid = "1003" title = "[color=ffffff]系统-微博绑定成功[/color]" content = "[color=ffcc00]恭喜修行者成功绑定了微博。分享更有大量金币获赠。[/color]"/>
+	
+    <content tid = "1004" title = "[color=ffffff]系统-邀请好友充值奖励[/color]" content = "[color=ffcc00]@(0)@[/color][color=ffcc00]恭喜修行者邀请的好友[/color][color=ffcc00]@(0)@[/color][color=ffcc00-24--1}成功充值，您将获得其充值额度的[/color][color=ffffff]@(1)@%%[/color][color=ffcc00]的宝石奖励，[/color]"/>
+	
+
+
+
+	<content tid = "1016" title = "[color=ffffff]系统通知[/color]" content = "[color=ffcc00]@(0)@[/color]"/>
+
+	<content tid = "1018" title = "[color=ffffff]挑战三界之主-参与奖励[/color]" content = "[color=ffcc00]恭喜修行者在挑战三界之主的战斗中表现出色！[/color]"/>
+
+
+    <content tid = "1020" title = "[color=ffffff]对抗八岐大蛇-击杀奖励[/color]" content = "[color=ffcc00]恭喜修行者在对抗八岐大蛇副本中击败全部妖怪！[/color]"/>
+    <content tid = "1021" title = "[color=ffffff]对抗八岐大蛇-幸运奖励[/color]" content = "[color=ffcc00]恭喜修行者在对抗八岐大蛇副本中被抽中幸运奖！[/color]"/>
+    <content tid = "1022" title = "[color=ffffff]对抗八岐大蛇-贡献第@(0)@奖励[/color]" content = "[color=ffcc00]恭喜修行者在对抗八岐大蛇副本中累计伤害排名第@(0)@！[/color]"/>
+	<content tid = "1023" title = "[color=ffffff]对抗八岐大蛇-参与奖励[/color]" content = "[color=ffcc00]恭喜修行者在对抗八岐大蛇副本战斗中表现出色！[/color]"/>
+	<content tid = "1024" title = "[color=ffffff]对抗八岐大蛇-贡献第三奖励[/color]" content = "[color=ffcc00]恭喜修行者在对抗八岐大蛇副本中累计伤害排名第三！[/color]"/>
+    <content tid = "1025" title = "[color=ffffff]对抗八岐大蛇-援军助阵奖励[/color]" content = "[color=ffcc00]恭喜修行者援军助阵对抗八岐大蛇副本中获得参与奖励！[/color]"/>
+
+    <content tid = "1028" title = "[color=ffffff]皇帝争夺战竞猜结果[/color]" content = "[color=ffcc00]你竞猜的修行者@(0)@取得胜利，返回你的本金@(1)@，竞猜获得金币@(2)@，总共获得金币@(3)@！[/color]"/>
+    <content tid = "1029" title = "[color=ffffff]皇帝争夺战竞猜结果[/color]" content = "[color=ffcc00]你竞猜的修行者@(0)@失败了，你的本金为@(1)@金币，返还你一半的本金，总共获得金币@(2)@！[/color]"/>
+	
+    <content tid = "1049" title = "[color=ffffff]新年红包到喽[/color]" content = "[color=ffcc00]恭喜修行者，在新年红包活动中,未领取奖励有！[/color]"/>
+		
+    <content tid = "1051" title = "[color=ffffff] 霸主之战参与奖励[/color]" content = "[color=ffcc00]恭喜你，积极参与霸主之战，获得参与奖励！[/color]"/>
+    <content tid = "1052" title = "[color=ffffff] 霸主之战小组前四奖励[/color]" content = "[color=ffcc00]恭喜你，在小组赛中表现突出，获得奖励！[/color]"/>
+    <content tid = "1053" title = "[color=ffffff] 霸主之战八强奖励[/color]" content = "[color=ffcc00]恭喜你，在霸主之战中成为八强，获得奖励！[/color]"/>
+    <content tid = "1054" title = "[color=ffffff] 霸主之战四强奖励[/color]" content = "[color=ffcc00]恭喜你，在霸主之战中成为四强，获得奖励！[/color]"/>
+    <content tid = "1055" title = "[color=ffffff] 霸主之战亚军奖励[/color]" content = "[color=ffcc00]恭喜你，在霸主之战中荣获亚军，获得奖励！[/color]"/>
+    <content tid = "1056" title = "[color=ffffff] 霸主之战冠军奖励[/color]" content = "[color=ffcc00]恭喜你，在霸主之战中脱颖而出，成为冠军！[/color]"/>
+
+
+    <content tid = "1057" title = "[color=ffffff]霸主之战竞猜正确[/color]" content = "[color=ffcc00]你竞猜的修行者@(0)@获得了冠军，返回你的本金@(1)@金币，竞猜获得金币@(2)@，总共获得金币@(3)@！[/color]"/>
+    <content tid = "1058" title = "[color=ffffff]霸主之战竞猜错误[/color]" content = "[color=ffcc00]你竞猜的修行者@(0)@没有获得冠军，你的本金为@(1)@金币，返还你一半的本金，总共获得金币@(2)@！[/color]"/>
+    <content tid = "1059" title = "[color=ffffff]神妖之战排名奖励[/color]" content = "[color=ffcc00]恭喜你，在神妖之战的最终战场排名中为@(0)@名，获得奖励！[/color]"/>
+    <content tid = "1060" title = "[color=ffffff]神妖之战胜利场次排名[/color]" content = "[color=ffcc00]恭喜你，在神妖之战的最终胜利场次排名为@(0)@名，获得奖励！[/color]"/>
+    <content tid = "1061" title = "[color=ffffff]神妖之战连胜排名奖励[/color]" content = "[color=ffcc00]恭喜你，在神妖之战的最终连胜排名中为@(0)@名，获得奖励！[/color]"/>
+    <content tid = "1062" title = "[color=ffffff]神妖之战竞猜正确[/color]" content = "[color=ffcc00]恭喜你，在神妖之战的连胜竞猜中竞猜正确，获得奖励！[/color]"/>
+    <content tid = "1063" title = "[color=ffffff]神妖之战竞猜错误[/color]" content = "[color=ffcc00]你在神妖之战的连胜竞猜中竞猜错误！[/color]"/>
+
+    <content tid = "1071" title = "[color=ffffff]3V3积分赛排名奖励[/color]" content = "[color=ffcc00]您在上一届3V3积分赛中表现突出！[br]在总排行榜中排名：@(0)@ [br]总计获得积分：@(1)@ [br]特发来以下奖励，请再接再厉哟～[/color]"/>
+    
+    <content tid = "1000" title = "[color=ffffff]系统信息[/color]" content = "[color=ffcc00]@(1)@ [/color][color=ffcc00]@(4)@ @(0)@[/color][color=ffcc00]@(2)@ @(3)@[/color][color=ffcc00]杀了你！[/color]" />
+    <content tid = "1072" title = "[color=ffffff]竞技场奖励[/color]" content = "[color=ffcc00]恭喜您在竞技场中的排名为@(0)@，并获得相应的奖励[/color]" />   
+	<content tid = "1075" title = "[color=ffffff]天梯排位赛奖励[/color]" content = "[color=ffcc00]恭喜您在天梯排位赛中获得积分@(0)@，排名为@(1)@，并获得相应的奖励[/color]" />  
+	<content tid = "1076" title = "[color=ffffff]@(0)@奖励[/color]" content = "[color=ffcc00]恭喜您在活动中获得排名为@(1)@，并获得相应的奖励[/color]" />  
+	<content tid = "1077" title = "[color=ffffff]宿命对决胜利排名奖励[/color]" content = "[color=ffcc00]恭喜您在宿命对决所在的阵营获胜，您的排名为@(0)@，积分为@(1)@，获得奖励[/color]" />  
+	<content tid = "1078" title = "[color=ffffff]宿命对决失败排名奖励[/color]" content = "[color=ffcc00]您在宿命对决所在的阵营战败，您的排名为@(0)@，积分为@(1)@，获得奖励[/color]" /> 
+	<content tid = "1079" title = "[color=ffffff]宿命对决连杀奖励[/color]" content = "[color=ffcc00]恭喜您在宿命对决中连杀数达到@(0)@，并获得相应的奖励[/color]" />  
+</email>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rolelimit>
+		<!--战役 -->
+    <rolenormal level = "1"/>
+    	<!--奇遇 -->
+    <roleadventure level = "5"/>
+        <!--争霸 -->
+    <rolepvp  level = "15"/>
+    	<!--副本 -->
+    <rolecarbon level = "255"/>
+        <!--虎牢关 -->
+    <rolehulao level = "20"/>
+        <!--夺宝 -->
+    <roleplunder level = "255"/>
+        <!--华容道 -->
+    <rolehuarong level = "25"/>
+    	<!--皇权 -->
+    <roleking level = "30"/>
+        <!--南蛮 -->
+    <rolenanm level = "30"/>
+        <!--长坂坡 -->
+    <rolechangban level = "255"/>
+        <!--神将录 -->
+    <roleger level = "255"/>
+        <!--副将 -->
+    <roleaid level = "255"/>
+        <!--问鼎 -->
+    <roleones level = "255"/>
+        <!--问鼎报名 -->
+    <roleonessign level = "255"/>
+        <!--无双 -->
+    <rolewushuang level = "255"/>
+        <!--炼狱难度开启 -->
+    <rolepurgatory level = "255"/>
+        <!--世界聊天功能开启 -->
+    <rolechat level = "30"/>
+         <!--扫荡限制 -->
+    <rolesweep level = "1" vip="3" />
+      <!--帝王限制 -->
+    <roleemperor level = "255"/>
+  </rolelimit>

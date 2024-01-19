@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Property resource="global.plist">
+	<item star="1" cardFrame="notexture.png" MonsterHeadFrame="bg_square_01.png" ItemHeadFrame = "bg_square_01.png" headFrameColor="255,255,255" rankFrame1="notexture.png" rankFrame2="notexture.png" rankFrame3="notexture.png" petCircleIcon="header_round_01.png" itemCircleIcon="header_round_01.png" />
+	<item star="2" cardFrame="notexture.png" MonsterHeadFrame="bg_square_02.png" ItemHeadFrame = "bg_square_02.png" headFrameColor="255,255,255" rankFrame1="notexture.png" rankFrame2="notexture.png" rankFrame3="notexture.png" petCircleIcon="header_round_02.png" itemCircleIcon="header_round_02.png" />
+	<item star="3" cardFrame="notexture.png" MonsterHeadFrame="bg_square_03.png" ItemHeadFrame = "bg_square_03.png" headFrameColor="255,255,255" rankFrame1="notexture.png" rankFrame2="notexture.png" rankFrame3="notexture.png" petCircleIcon="header_round_03.png" itemCircleIcon="header_round_03.png" />
+	<item star="4" cardFrame="notexture.png" MonsterHeadFrame="bg_square_04.png" ItemHeadFrame = "bg_square_04.png" headFrameColor="255,255,255" rankFrame1="notexture.png" rankFrame2="notexture.png" rankFrame3="notexture.png" petCircleIcon="header_round_04.png" itemCircleIcon="header_round_04.png" />
+	<item star="5" cardFrame="notexture.png" MonsterHeadFrame="bg_square_05.png" ItemHeadFrame = "bg_square_05.png" headFrameColor="155,200,45" rankFrame1="notexture.png" rankFrame2="notexture.png" rankFrame3="notexture.png" petCircleIcon="header_round_05.png" itemCircleIcon="header_round_05.png" />
+	<item star="6" cardFrame="notexture.png" MonsterHeadFrame="bg_square_06.png" ItemHeadFrame = "bg_square_06.png" headFrameColor="65,185,230" rankFrame1="notexture.png" rankFrame2="notexture.png" rankFrame3="notexture.png" petCircleIcon="header_round_06.png" itemCircleIcon="header_round_06.png" />
+	<item star="7" cardFrame="notexture.png" MonsterHeadFrame="bg_square_07.png" ItemHeadFrame = "bg_square_07.png" headFrameColor="200,86,255" rankFrame1="notexture.png" rankFrame2="notexture.png" rankFrame3="notexture.png" petCircleIcon="header_round_07.png" itemCircleIcon="header_round_07.png" />
+
+</Property>

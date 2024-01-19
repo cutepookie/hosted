@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30371" Number="1" Name="化去法力1" activeneedpass="30370" costenergy="2" maxtimes="30" coin="20845" exprole="4169" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6033" dungeon_level="88"/>
+	<Dungeon ID="30372" Number="2" Name="化去法力2" activeneedpass="30371" costenergy="2" maxtimes="30" coin="20845" exprole="4169" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6103" dungeon_level="88"/>
+	<Dungeon ID="30373" Number="3" Name="转世轮回1" activeneedpass="30372" costenergy="2" maxtimes="30" coin="21060" exprole="4212" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6063" dungeon_level="88"/>
+	<Dungeon ID="30374" Number="4" Name="转世轮回2" activeneedpass="30373" costenergy="2" maxtimes="30" coin="21060" exprole="4212" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6083" dungeon_level="88"/>
+	<Dungeon ID="30375" Number="5" Name="转世轮回3" activeneedpass="30374" costenergy="2" maxtimes="30" coin="21275" exprole="4255" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6013" dungeon_level="88"/>
+	<Dungeon ID="30376" Number="6" Name="妖血佛性1" activeneedpass="30375" costenergy="2" maxtimes="30" coin="21275" exprole="4255" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6073" dungeon_level="89"/>
+	<Dungeon ID="30377" Number="7" Name="妖血佛性2" activeneedpass="30376" costenergy="2" maxtimes="30" coin="21490" exprole="4298" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6043" dungeon_level="89"/>
+	<Dungeon ID="30378" Number="8" Name="妖血佛性3" activeneedpass="30377" costenergy="2" maxtimes="30" coin="21490" exprole="4298" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6053" dungeon_level="89"/>
+	<Dungeon ID="30379" Number="9" Name="于心不忍" activeneedpass="30378" costenergy="2" maxtimes="30" coin="21705" exprole="4341" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6033" dungeon_level="89"/>
+	<Dungeon ID="30380" Number="10" Name="终背其害" activeneedpass="30379" costenergy="2" maxtimes="10" coin="21705" exprole="4341" expgeneral="0" dropitem1="10518" dropitem2="0" boss_postion="101010" addMorale="0" dungeon_icon="7037" dungeon_level="89"/>
+</Dungeons>

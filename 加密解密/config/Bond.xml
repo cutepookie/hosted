@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<destinys>
+<destiny destinyID="17101" destinyName="遗忘之人" destinyType="1" destinyNeed1="7070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17102" destinyName="魔高一丈" destinyType="1" destinyNeed1="7020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="17103" destinyName="两方之主" destinyType="1" destinyNeed1="7060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17104" destinyName="欲望天空" destinyType="1" destinyNeed1="7090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17091" destinyName="大行大愿" destinyType="1" destinyNeed1="7030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17092" destinyName="因智而愿" destinyType="1" destinyNeed1="7050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17093" destinyName="地下世界" destinyType="1" destinyNeed1="7100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17094" destinyName="天空梦想" destinyType="1" destinyNeed1="6080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17081" destinyName="太上二清" destinyType="1" destinyNeed1="7020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17082" destinyName="太玉二清" destinyType="1" destinyNeed1="7060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6500"/>
+</destiny>
+<destiny destinyID="17083" destinyName="道尊天龙" destinyType="1" destinyNeed1="6080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17084" destinyName="香火情缘" destinyType="1" destinyNeed1="6050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3500"/>
+</destiny>
+<destiny destinyID="17071" destinyName="遗忘之人" destinyType="1" destinyNeed1="7100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="17072" destinyName="地下世界" destinyType="1" destinyNeed1="7030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17073" destinyName="两不相干" destinyType="1" destinyNeed1="7020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17074" destinyName="天上地下" destinyType="1" destinyNeed1="7060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="17061" destinyName="两方之主" destinyType="1" destinyNeed1="7100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17062" destinyName="天上地下" destinyType="1" destinyNeed1="7070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17063" destinyName="上玉清君" destinyType="1" destinyNeed1="7020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17064" destinyName="弃道从佛" destinyType="1" destinyNeed1="7050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="17051" destinyName="大智而行" destinyType="1" destinyNeed1="7030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6500"/>
+</destiny>
+<destiny destinyID="17052" destinyName="弃道从佛" destinyType="1" destinyNeed1="7060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6500"/>
+</destiny>
+<destiny destinyID="17053" destinyName="智者长生" destinyType="1" destinyNeed1="6010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17054" destinyName="智者降妖" destinyType="1" destinyNeed1="6040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17041" destinyName="天神之愿" destinyType="1" destinyNeed1="7090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17042" destinyName="天地之间" destinyType="1" destinyNeed1="7020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="17043" destinyName="同源化身" destinyType="1" destinyNeed1="7080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17044" destinyName="神亲佛戚" destinyType="1" destinyNeed1="7010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="17031" destinyName="欲望天空" destinyType="1" destinyNeed1="7070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17032" destinyName="大行大愿" destinyType="1" destinyNeed1="7090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17033" destinyName="大智而行" destinyType="1" destinyNeed1="7050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17034" destinyName="天神之愿" destinyType="1" destinyNeed1="7010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17021" destinyName="魔高一丈" destinyType="1" destinyNeed1="7100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17022" destinyName="两不相干" destinyType="1" destinyNeed1="7070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17023" destinyName="上玉清君" destinyType="1" destinyNeed1="7060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17024" destinyName="神佛无情" destinyType="1" destinyNeed1="7040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17011" destinyName="地狱吞噬" destinyType="1" destinyNeed1="7030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17012" destinyName="神佛无情" destinyType="1" destinyNeed1="7040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17013" destinyName="妖王道尊" destinyType="1" destinyNeed1="7080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17014" destinyName="天地之间" destinyType="1" destinyNeed1="6090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17111" destinyName="北主象骑" destinyType="1" destinyNeed1="7120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17112" destinyName="北主西隐" destinyType="1" destinyNeed1="7130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17113" destinyName="北主西天" destinyType="1" destinyNeed1="7140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17114" destinyName="四御之二" destinyType="1" destinyNeed1="6110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17121" destinyName="北主象骑" destinyType="1" destinyNeed1="7110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17122" destinyName="妖王隐士" destinyType="1" destinyNeed1="7130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17123" destinyName="自家坐骑" destinyType="1" destinyNeed1="7140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="17124" destinyName="欲想成仙" destinyType="1" destinyNeed1="6140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17131" destinyName="北主西隐" destinyType="1" destinyNeed1="7110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17132" destinyName="妖王隐士" destinyType="1" destinyNeed1="7120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17133" destinyName="师出同门" destinyType="1" destinyNeed1="7140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="17134" destinyName="一日为师" destinyType="1" destinyNeed1="6130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="17141" destinyName="各主一方" destinyType="1" destinyNeed1="7110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17142" destinyName="自家坐骑" destinyType="1" destinyNeed1="7120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17143" destinyName="师出同门" destinyType="1" destinyNeed1="7130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17144" destinyName="囚夫之仇" destinyType="1" destinyNeed1="6120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17151" destinyName="未来盟友" destinyType="1" destinyNeed1="7170" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17152" destinyName="天皇地祖" destinyType="1" destinyNeed1="7210" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17153" destinyName="广寒观舞" destinyType="1" destinyNeed1="7220" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17154" destinyName="昔日好友" destinyType="1" destinyNeed1="7200" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17161" destinyName="一方妖主" destinyType="1" destinyNeed1="7190" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17162" destinyName="昔日之主" destinyType="1" destinyNeed1="7200" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17163" destinyName="毫无关系" destinyType="1" destinyNeed1="7180" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17164" destinyName="嫦娥戏狮" destinyType="1" destinyNeed1="7220" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17171" destinyName="未佛仙祖" destinyType="1" destinyNeed1="7210" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17172" destinyName="寒宫未佛" destinyType="1" destinyNeed1="7220" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17173" destinyName="未来盟友" destinyType="1" destinyNeed1="7150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17174" destinyName="同在西贺" destinyType="1" destinyNeed1="7190" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17181" destinyName="冷面相对" destinyType="1" destinyNeed1="7190" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17182" destinyName="面若冰霜" destinyType="1" destinyNeed1="7200" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="17183" destinyName="毫无关系" destinyType="1" destinyNeed1="7160" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17184" destinyName="地仙天母" destinyType="1" destinyNeed1="7210" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17191" destinyName="西贺暗流" destinyType="1" destinyNeed1="7200" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17192" destinyName="一方妖主" destinyType="1" destinyNeed1="7160" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17193" destinyName="面若冰霜" destinyType="1" destinyNeed1="7180" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17194" destinyName="同在西贺" destinyType="1" destinyNeed1="7170" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17201" destinyName="西贺暗流" destinyType="1" destinyNeed1="7190" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17202" destinyName="昔日之主" destinyType="1" destinyNeed1="7160" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="17203" destinyName="冷面相对" destinyType="1" destinyNeed1="7180" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17204" destinyName="昔日好友" destinyType="1" destinyNeed1="7150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="17211" destinyName="未佛仙祖" destinyType="1" destinyNeed1="7170" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17212" destinyName="仙祖观舞" destinyType="1" destinyNeed1="7220" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="17213" destinyName="天皇地祖" destinyType="1" destinyNeed1="7150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="17214" destinyName="地仙天母" destinyType="1" destinyNeed1="7180" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17221" destinyName="寒宫未佛" destinyType="1" destinyNeed1="7170" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17222" destinyName="仙祖观舞" destinyType="1" destinyNeed1="7210" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="17223" destinyName="广寒观舞" destinyType="1" destinyNeed1="7150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="17224" destinyName="嫦娥戏狮" destinyType="1" destinyNeed1="7160" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="16101" destinyName="香火情缘" destinyType="1" destinyNeed1="6060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16102" destinyName="佛使天将" destinyType="1" destinyNeed1="6040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16103" destinyName="佛使天将" destinyType="1" destinyNeed1="6030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="16104" destinyName="佛使道隐" destinyType="1" destinyNeed1="6050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3500"/>
+</destiny>
+<destiny destinyID="16091" destinyName="神亲佛戚" destinyType="1" destinyNeed1="7010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="16092" destinyName="同为天臣" destinyType="1" destinyNeed1="6070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16093" destinyName="佛使神将" destinyType="1" destinyNeed1="6060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16094" destinyName="文治武功" destinyType="1" destinyNeed1="6010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3500"/>
+</destiny>
+<destiny destinyID="16081" destinyName="天空梦想" destinyType="1" destinyNeed1="7090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16082" destinyName="道尊天龙" destinyType="1" destinyNeed1="7080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16083" destinyName="天御天龙" destinyType="1" destinyNeed1="6010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16084" destinyName="道隐天龙" destinyType="1" destinyNeed1="6050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="16071" destinyName="佛使道隐" destinyType="1" destinyNeed1="6090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "8000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16072" destinyName="天武地文" destinyType="1" destinyNeed1="5140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16073" destinyName="灵吉净坛" destinyType="1" destinyNeed1="5040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16074" destinyName="火炼成钢" destinyType="1" destinyNeed1="5110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16061" destinyName="西方三圣" destinyType="1" destinyNeed1="6100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16062" destinyName="佛道二尊" destinyType="1" destinyNeed1="6030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6500"/>
+</destiny>
+<destiny destinyID="16063" destinyName="天将护法" destinyType="1" destinyNeed1="6040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16064" destinyName="佛使神将" destinyType="1" destinyNeed1="6090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16051" destinyName="西方三圣" destinyType="1" destinyNeed1="7080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="16052" destinyName="披毛带角" destinyType="1" destinyNeed1="6080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="16053" destinyName="云栈南海" destinyType="1" destinyNeed1="6100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16054" destinyName="佛使天将" destinyType="1" destinyNeed1="6020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16041" destinyName="智者降妖" destinyType="1" destinyNeed1="7050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "9000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16042" destinyName="父子之情" destinyType="1" destinyNeed1="6030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16043" destinyName="披毛带角" destinyType="1" destinyNeed1="6100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16044" destinyName="天将护法" destinyType="1" destinyNeed1="6060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="16031" destinyName="天将南主" destinyType="1" destinyNeed1="6010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16032" destinyName="父子之情" destinyType="1" destinyNeed1="6040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16033" destinyName="佛道二尊" destinyType="1" destinyNeed1="6060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16034" destinyName="云栈南海" destinyType="1" destinyNeed1="6100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="16021" destinyName="同为天臣" destinyType="1" destinyNeed1="6050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "8000"/>
+</destiny>
+<destiny destinyID="16022" destinyName="心辨真伪" destinyType="1" destinyNeed1="5060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16023" destinyName="天星天将" destinyType="1" destinyNeed1="5050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16024" destinyName="好色成性" destinyType="1" destinyNeed1="5150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16011" destinyName="智者长生" destinyType="1" destinyNeed1="7050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16012" destinyName="天御天龙" destinyType="1" destinyNeed1="6080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16013" destinyName="天将南主" destinyType="1" destinyNeed1="6030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16014" destinyName="文治武功" destinyType="1" destinyNeed1="6090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="16111" destinyName="女子本弱" destinyType="1" destinyNeed1="6120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16112" destinyName="地母石猴" destinyType="1" destinyNeed1="6130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16113" destinyName="地母金蝉" destinyType="1" destinyNeed1="6140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="16114" destinyName="地母北帝" destinyType="1" destinyNeed1="7110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16121" destinyName="女子本弱" destinyType="1" destinyNeed1="6110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16122" destinyName="叔嫂之隙" destinyType="1" destinyNeed1="6130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="16123" destinyName="失子之痛" destinyType="1" destinyNeed1="6140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16124" destinyName="囚夫之仇" destinyType="1" destinyNeed1="7140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="16131" destinyName="地母石猴" destinyType="1" destinyNeed1="6110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16132" destinyName="叔嫂之隙" destinyType="1" destinyNeed1="6120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="16133" destinyName="师徒之嫌" destinyType="1" destinyNeed1="6140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16134" destinyName="一日为师" destinyType="1" destinyNeed1="7130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="16141" destinyName="地母金蝉" destinyType="1" destinyNeed1="6110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16142" destinyName="失子之痛" destinyType="1" destinyNeed1="6120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="16143" destinyName="师徒之嫌" destinyType="1" destinyNeed1="6130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="16144" destinyName="惊险万分" destinyType="1" destinyNeed1="7120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="15151" destinyName="好色成性" destinyType="1" destinyNeed1="6020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="15152" destinyName="火炼成钢" destinyType="1" destinyNeed1="5110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="15153" destinyName="菩萨点化" destinyType="1" destinyNeed1="5090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15154" destinyName="神兽灵妖" destinyType="1" destinyNeed1="5030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15141" destinyName="天武地文" destinyType="1" destinyNeed1="6070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "8000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15142" destinyName="地府重臣" destinyType="1" destinyNeed1="5060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15143" destinyName="笔下妖魂" destinyType="1" destinyNeed1="5100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15144" destinyName="一念两地" destinyType="1" destinyNeed1="5040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15131" destinyName="天雷地怒" destinyType="1" destinyNeed1="5060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "8000"/>
+</destiny>
+<destiny destinyID="15132" destinyName="雷斩地妖" destinyType="1" destinyNeed1="5100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15133" destinyName="共为护法" destinyType="1" destinyNeed1="5020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15134" destinyName="雷鸣水泽" destinyType="1" destinyNeed1="5120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15121" destinyName="雷鸣水泽" destinyType="1" destinyNeed1="5130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15122" destinyName="水中织网" destinyType="1" destinyNeed1="5100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15123" destinyName="圣兽护法" destinyType="1" destinyNeed1="5020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15124" destinyName="净化万物" destinyType="1" destinyNeed1="5040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15111" destinyName="神兽圣僧" destinyType="1" destinyNeed1="6070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6500"/>
+</destiny>
+<destiny destinyID="15112" destinyName="神兽灵妖" destinyType="1" destinyNeed1="5150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15113" destinyName="地狱火焰" destinyType="1" destinyNeed1="5010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15114" destinyName="神兽天王" destinyType="1" destinyNeed1="4160" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3500"/>
+</destiny>
+<destiny destinyID="15101" destinyName="无情电网" destinyType="1" destinyNeed1="5130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "8000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15102" destinyName="死亡织网" destinyType="1" destinyNeed1="5140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15103" destinyName="水火不容" destinyType="1" destinyNeed1="5120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15104" destinyName="神兽护法" destinyType="1" destinyNeed1="5020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15091" destinyName="菩萨点化" destinyType="1" destinyNeed1="5150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "9000"/>
+</destiny>
+<destiny destinyID="15092" destinyName="佛道同源" destinyType="1" destinyNeed1="5070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15093" destinyName="菩萨点化" destinyType="1" destinyNeed1="4010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15094" destinyName="菩萨神灵" destinyType="1" destinyNeed1="4090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15081" destinyName="神兽天将" destinyType="1" destinyNeed1="5030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="15082" destinyName="天武地文" destinyType="1" destinyNeed1="5010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "8000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15083" destinyName="天庭为官" destinyType="1" destinyNeed1="5070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="15084" destinyName="天庭为官" destinyType="1" destinyNeed1="4030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15071" destinyName="帝君神兽" destinyType="1" destinyNeed1="5030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="15072" destinyName="掌管天地" destinyType="1" destinyNeed1="5010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6500"/>
+</destiny>
+<destiny destinyID="15073" destinyName="天庭为官" destinyType="1" destinyNeed1="5080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15074" destinyName="佛道同源" destinyType="1" destinyNeed1="5090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15061" destinyName="天官地兽" destinyType="1" destinyNeed1="6020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15062" destinyName="天武地兽" destinyType="1" destinyNeed1="5130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15063" destinyName="地界为尊" destinyType="1" destinyNeed1="5140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15064" destinyName="天雷地火" destinyType="1" destinyNeed1="5050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15051" destinyName="天官神兽" destinyType="1" destinyNeed1="6020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15052" destinyName="护法神兽" destinyType="1" destinyNeed1="5020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15053" destinyName="同为神兽" destinyType="1" destinyNeed1="5060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15054" destinyName="菩萨神兽" destinyType="1" destinyNeed1="5040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="15041" destinyName="罗汉菩萨" destinyType="1" destinyNeed1="6070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "8000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15042" destinyName="佛使地官" destinyType="1" destinyNeed1="5140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15043" destinyName="佛使神兽" destinyType="1" destinyNeed1="5120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15044" destinyName="佛使神兽" destinyType="1" destinyNeed1="5050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15031" destinyName="神兽灵妖" destinyType="1" destinyNeed1="5150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15032" destinyName="神兽地尊" destinyType="1" destinyNeed1="5010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="15033" destinyName="神兽天官" destinyType="1" destinyNeed1="5070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="15034" destinyName="神兽天武" destinyType="1" destinyNeed1="5080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="15021" destinyName="护法天雷" destinyType="1" destinyNeed1="5130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "8000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15022" destinyName="护法降妖" destinyType="1" destinyNeed1="5100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15023" destinyName="护法神兽" destinyType="1" destinyNeed1="5120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15024" destinyName="护法神兽" destinyType="1" destinyNeed1="5050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15011" destinyName="地尊神兽" destinyType="1" destinyNeed1="5030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15012" destinyName="地尊天官" destinyType="1" destinyNeed1="5070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="15013" destinyName="地尊天将" destinyType="1" destinyNeed1="5080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="15014" destinyName="地尊神兽" destinyType="1" destinyNeed1="5110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14181" destinyName="佛使天王" destinyType="1" destinyNeed1="4070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14182" destinyName="佛使地仙" destinyType="1" destinyNeed1="4080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14183" destinyName="佛使星耀" destinyType="1" destinyNeed1="4050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14184" destinyName="佛使星耀" destinyType="1" destinyNeed1="4040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="14171" destinyName="真武星耀" destinyType="1" destinyNeed1="4050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14172" destinyName="真武降妖" destinyType="1" destinyNeed1="4150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14173" destinyName="真武星耀" destinyType="1" destinyNeed1="4040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14174" destinyName="拳如雨落" destinyType="1" destinyNeed1="3150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14161" destinyName="天王神兽" destinyType="1" destinyNeed1="5110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14162" destinyName="天王恶佛" destinyType="1" destinyNeed1="4010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14163" destinyName="天王降妖" destinyType="1" destinyNeed1="4150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14164" destinyName="天王降妖" destinyType="1" destinyNeed1="4100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14151" destinyName="妖祸天宫" destinyType="1" destinyNeed1="4160" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14152" destinyName="妖祸真武" destinyType="1" destinyNeed1="4170" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14153" destinyName="灵妖地仙" destinyType="1" destinyNeed1="4080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="14154" destinyName="并肩战斗" destinyType="1" destinyNeed1="4130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14141" destinyName="猫戏太白" destinyType="1" destinyNeed1="4030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14142" destinyName="罗汉降妖" destinyType="1" destinyNeed1="4110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14143" destinyName="灵妖地仙" destinyType="1" destinyNeed1="4090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14144" destinyName="灵妖天雷" destinyType="1" destinyNeed1="4020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="14131" destinyName="并肩战斗" destinyType="1" destinyNeed1="4150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14132" destinyName="灵妖星耀" destinyType="1" destinyNeed1="4040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14133" destinyName="同为灵妖" destinyType="1" destinyNeed1="3030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14134" destinyName="同为灵妖" destinyType="1" destinyNeed1="4100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14121" destinyName="天王恶佛" destinyType="1" destinyNeed1="4010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14122" destinyName="天王之二" destinyType="1" destinyNeed1="4060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14123" destinyName="天王人仙" destinyType="1" destinyNeed1="3040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14124" destinyName="天王天仙" destinyType="1" destinyNeed1="3050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3500"/>
+</destiny>
+<destiny destinyID="14111" destinyName="罗汉地仙" destinyType="1" destinyNeed1="4090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14112" destinyName="罗汉天仙" destinyType="1" destinyNeed1="4030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14113" destinyName="罗汉降妖" destinyType="1" destinyNeed1="4140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="14114" destinyName="罗汉降妖" destinyType="1" destinyNeed1="3010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="14101" destinyName="天王灭妖" destinyType="1" destinyNeed1="4160" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14102" destinyName="天王灭妖" destinyType="1" destinyNeed1="4070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="14103" destinyName="并肩作战" destinyType="1" destinyNeed1="4130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14104" destinyName="天雷降妖" destinyType="1" destinyNeed1="4020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14091" destinyName="地仙佛使" destinyType="1" destinyNeed1="5090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "8000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14092" destinyName="地仙恶佛" destinyType="1" destinyNeed1="4010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="14093" destinyName="地仙罗汉" destinyType="1" destinyNeed1="4110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14094" destinyName="地仙灵妖" destinyType="1" destinyNeed1="4140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14081" destinyName="地仙灵妖" destinyType="1" destinyNeed1="4150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="14082" destinyName="黑灵星耀" destinyType="1" destinyNeed1="4050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14083" destinyName="地仙佛使" destinyType="1" destinyNeed1="4180" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14084" destinyName="地仙天王" destinyType="1" destinyNeed1="4070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="14071" destinyName="天王地仙" destinyType="1" destinyNeed1="4080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "8000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14072" destinyName="天王星耀" destinyType="1" destinyNeed1="4050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14073" destinyName="天王佛使" destinyType="1" destinyNeed1="4180" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14074" destinyName="天王降妖" destinyType="1" destinyNeed1="4100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14061" destinyName="天王之二" destinyType="1" destinyNeed1="4120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "9000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14062" destinyName="天王斩妖" destinyType="1" destinyNeed1="3070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14063" destinyName="天王鬼使" destinyType="1" destinyNeed1="3020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14064" destinyName="天王天仙" destinyType="1" destinyNeed1="2090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="14051" destinyName="火耀地仙" destinyType="1" destinyNeed1="4080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14052" destinyName="火耀天王" destinyType="1" destinyNeed1="4070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="14053" destinyName="火耀佛使" destinyType="1" destinyNeed1="4180" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14054" destinyName="火耀真武" destinyType="1" destinyNeed1="4170" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="14041" destinyName="木耀灵妖" destinyType="1" destinyNeed1="4130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14042" destinyName="木耀鬼使" destinyType="1" destinyNeed1="3130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14043" destinyName="木耀佛使" destinyType="1" destinyNeed1="4180" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14044" destinyName="木耀真武" destinyType="1" destinyNeed1="4170" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14031" destinyName="文治武功" destinyType="1" destinyNeed1="5080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14032" destinyName="天生猫奴" destinyType="1" destinyNeed1="4140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14033" destinyName="金光罗汉" destinyType="1" destinyNeed1="4110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14034" destinyName="文治武功" destinyType="1" destinyNeed1="4020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="14021" destinyName="电光猫女" destinyType="1" destinyNeed1="4140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14022" destinyName="金雷闪耀" destinyType="1" destinyNeed1="4030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14023" destinyName="电光飞鼠" destinyType="1" destinyNeed1="4100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="14024" destinyName="风雷交加" destinyType="1" destinyNeed1="3050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="14011" destinyName="善恶佛使" destinyType="1" destinyNeed1="5090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14012" destinyName="恶佛天王" destinyType="1" destinyNeed1="4160" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="14013" destinyName="恶佛地仙" destinyType="1" destinyNeed1="4090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="14014" destinyName="恶佛天王" destinyType="1" destinyNeed1="4120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3500"/>
+</destiny>
+<destiny destinyID="13151" destinyName="拳如雨落" destinyType="1" destinyNeed1="4170" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13152" destinyName="风雨交加" destinyType="1" destinyNeed1="3050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="13153" destinyName="水戏鬼使" destinyType="1" destinyNeed1="3020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="13154" destinyName="雨露均沾" destinyType="1" destinyNeed1="3100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="13141" destinyName="水耀金刚" destinyType="1" destinyNeed1="3090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13142" destinyName="金刚判官" destinyType="1" destinyNeed1="3130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="13143" destinyName="金刚人仙" destinyType="1" destinyNeed1="2030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="13144" destinyName="四大金刚" destinyType="1" destinyNeed1="2060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="13131" destinyName="星耀地府" destinyType="1" destinyNeed1="4040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13132" destinyName="妖异之光" destinyType="1" destinyNeed1="3030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13133" destinyName="迷离风沙" destinyType="1" destinyNeed1="3120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13134" destinyName="地府金刚" destinyType="1" destinyNeed1="3140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="13121" destinyName="地底宝藏" destinyType="1" destinyNeed1="3080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13122" destinyName="铁金刚" destinyType="1" destinyNeed1="3060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="13123" destinyName="迷离风沙" destinyType="1" destinyNeed1="3130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13124" destinyName="银河星尘" destinyType="1" destinyNeed1="3090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="13111" destinyName="恶之花" destinyType="1" destinyNeed1="3070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13112" destinyName="小仙小妖" destinyType="1" destinyNeed1="3010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13113" destinyName="天地为官" destinyType="1" destinyNeed1="3050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13114" destinyName="地界为官" destinyType="1" destinyNeed1="3100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7500"/>
+</destiny>
+<destiny destinyID="13101" destinyName="游魂派对" destinyType="1" destinyNeed1="3040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13102" destinyName="地界为官" destinyType="1" destinyNeed1="3110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="13103" destinyName="雨落地府" destinyType="1" destinyNeed1="3150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="13104" destinyName="寿终正寝" destinyType="1" destinyNeed1="2020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13091" destinyName="金刚降幅" destinyType="1" destinyNeed1="3140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13092" destinyName="银河星尘" destinyType="1" destinyNeed1="3120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="13093" destinyName="雨露均沾" destinyType="1" destinyNeed1="2120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13094" destinyName="金刚降幅" destinyType="1" destinyNeed1="2060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="13081" destinyName="冰镜倒影" destinyType="1" destinyNeed1="3030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="13082" destinyName="金刚降财" destinyType="1" destinyNeed1="3060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="13083" destinyName="地底宝藏" destinyType="1" destinyNeed1="3120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13084" destinyName="听风辨财" destinyType="1" destinyNeed1="2010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13071" destinyName="天王采花" destinyType="1" destinyNeed1="4060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13072" destinyName="并肩作战" destinyType="1" destinyNeed1="3010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="13073" destinyName="小仙小妖" destinyType="1" destinyNeed1="3110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13074" destinyName="小仙小妖" destinyType="1" destinyNeed1="3040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="13061" destinyName="金刚降妖" destinyType="1" destinyNeed1="3030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13062" destinyName="铁金刚" destinyType="1" destinyNeed1="3120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="13063" destinyName="金刚降财" destinyType="1" destinyNeed1="3080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13064" destinyName="互不相关" destinyType="1" destinyNeed1="2010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="13051" destinyName="同为天官" destinyType="1" destinyNeed1="4120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13052" destinyName="风雷交加" destinyType="1" destinyNeed1="4020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13053" destinyName="风雨交加" destinyType="1" destinyNeed1="3150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="13054" destinyName="风沙漫天" destinyType="1" destinyNeed1="3110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="13041" destinyName="人仙天王" destinyType="1" destinyNeed1="4120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13042" destinyName="生老病死" destinyType="1" destinyNeed1="3020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="13043" destinyName="食之花" destinyType="1" destinyNeed1="3070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13044" destinyName="生老病死" destinyType="1" destinyNeed1="3100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13031" destinyName="并肩作战" destinyType="1" destinyNeed1="4130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="13032" destinyName="判官捉鬼" destinyType="1" destinyNeed1="3130" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13033" destinyName="金刚降妖" destinyType="1" destinyNeed1="3060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13034" destinyName="大发财源" destinyType="1" destinyNeed1="3080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13021" destinyName="鬼使天王" destinyType="1" destinyNeed1="4060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13022" destinyName="雨落地府" destinyType="1" destinyNeed1="3150" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="13023" destinyName="鬼使兔妖" destinyType="1" destinyNeed1="3010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13024" destinyName="人间小仙" destinyType="1" destinyNeed1="3040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4500"/>
+</destiny>
+<destiny destinyID="13011" destinyName="罗汉降妖" destinyType="1" destinyNeed1="4110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="13012" destinyName="小妖小仙" destinyType="1" destinyNeed1="3110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13013" destinyName="并肩作战" destinyType="1" destinyNeed1="3070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="13014" destinyName="鬼使降妖" destinyType="1" destinyNeed1="3020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="12121" destinyName="水耀福至" destinyType="1" destinyNeed1="3090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3500"/>
+</destiny>
+<destiny destinyID="12122" destinyName="金刚赐福" destinyType="1" destinyNeed1="2060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="12123" destinyName="福神妖仙" destinyType="1" destinyNeed1="2100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12124" destinyName="宿命之敌" destinyType="1" destinyNeed1="2110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5500"/>
+</destiny>
+<destiny destinyID="12111" destinyName="相互克制" destinyType="1" destinyNeed1="2020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12112" destinyName="宿命之敌" destinyType="1" destinyNeed1="2120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="12113" destinyName="百毒不侵" destinyType="1" destinyNeed1="2080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12114" destinyName="拒之门外" destinyType="1" destinyNeed1="2050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="12101" destinyName="福神妖仙" destinyType="1" destinyNeed1="2120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12102" destinyName="金刚降妖" destinyType="1" destinyNeed1="2060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="12103" destinyName="福神妖仙" destinyType="1" destinyNeed1="2030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12104" destinyName="金刚降妖" destinyType="1" destinyNeed1="2080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="12091" destinyName="同为天官" destinyType="1" destinyNeed1="4060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "10000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12092" destinyName="参悟生死" destinyType="1" destinyNeed1="2020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="12093" destinyName="拒之千里" destinyType="1" destinyNeed1="2050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="12094" destinyName="金刚护目" destinyType="1" destinyNeed1="2040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="12081" destinyName="金刚降妖" destinyType="1" destinyNeed1="2070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12082" destinyName="金刚护门" destinyType="1" destinyNeed1="2050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3500"/>
+</destiny>
+<destiny destinyID="12083" destinyName="百毒不侵" destinyType="1" destinyNeed1="2110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12084" destinyName="金刚降妖" destinyType="1" destinyNeed1="2100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="12071" destinyName="金刚降妖" destinyType="1" destinyNeed1="2080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12072" destinyName="千年老妖" destinyType="1" destinyNeed1="2020" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12073" destinyName="拒之门外" destinyType="1" destinyNeed1="2050" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12074" destinyName="金刚降妖" destinyType="1" destinyNeed1="2040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="12061" destinyName="水中金刚" destinyType="1" destinyNeed1="3090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12062" destinyName="四大金刚" destinyType="1" destinyNeed1="3140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12063" destinyName="金刚降妖" destinyType="1" destinyNeed1="2100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12064" destinyName="金刚赐福" destinyType="1" destinyNeed1="2120" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "7500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12051" destinyName="殊途同归" destinyType="1" destinyNeed1="2090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12052" destinyName="百毒不侵" destinyType="1" destinyNeed1="2110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "4500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12053" destinyName="金刚罗汉" destinyType="1" destinyNeed1="2080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6500"/>
+</destiny>
+<destiny destinyID="12054" destinyName="金刚降妖" destinyType="1" destinyNeed1="2070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="12041" destinyName="殊途同归" destinyType="1" destinyNeed1="2090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "5000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12042" destinyName="金刚降妖" destinyType="1" destinyNeed1="2070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12043" destinyName="殊途同归" destinyType="1" destinyNeed1="2010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3500"/>
+</destiny>
+<destiny destinyID="12044" destinyName="金刚赐福" destinyType="1" destinyNeed1="2030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "5000"/>
+</destiny>
+<destiny destinyID="12031" destinyName="金刚赐福" destinyType="1" destinyNeed1="3140" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12032" destinyName="天庭为官" destinyType="1" destinyNeed1="2010" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "3000"/>
+</destiny>
+<destiny destinyID="12033" destinyName="天官灵妖" destinyType="1" destinyNeed1="2100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="12034" destinyName="投桃报李" destinyType="1" destinyNeed1="2040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "3500"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12021" destinyName="安魂之歌" destinyType="1" destinyNeed1="3100" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "9000"/>
+</destiny>
+<destiny destinyID="12022" destinyName="四季之歌" destinyType="1" destinyNeed1="2070" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "8000"/>
+</destiny>
+<destiny destinyID="12023" destinyName="天堂之歌" destinyType="1" destinyNeed1="2110" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "7000"/>
+</destiny>
+<destiny destinyID="12024" destinyName="蜕变之歌" destinyType="1" destinyNeed1="2090" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "6000"/>
+</destiny>
+<destiny destinyID="12011" destinyName="佛使天官" destinyType="1" destinyNeed1="3060" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12012" destinyName="摇曳之影" destinyType="1" destinyNeed1="3080" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+<destiny destinyID="12013" destinyName="同为天官" destinyType="1" destinyNeed1="2030" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "6000"/>
+<Attribute Type = "18" Value = "0"/>
+</destiny>
+<destiny destinyID="12014" destinyName="佛使天官" destinyType="1" destinyNeed1="2040" destinyNeed2="" destinyNeed3="" destinyNeed4="">
+<Attribute Type = "17" Value = "0"/>
+<Attribute Type = "18" Value = "4000"/>
+</destiny>
+</destinys>

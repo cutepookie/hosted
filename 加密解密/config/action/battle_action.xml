@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+      <action actionID="1"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="miss"  actionTime="0.35"  actionType="6"  >  
+              <effect effectName="eff_node_miss.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="2"  effectType="0"  sound="sound/skill_miss.wav"  />  
+      </action>
+      <action actionID="2"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="absorb"  actionTime="0.35"  actionType="9"  >  
+              <effect effectName="eff_node_recovery.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="2"  effectType="0"  sound="sound/beattack_takebuff.wav"  />  
+      </action>
+      <action actionID="3"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="beattack_nor_bft"  actionTime="0.35"  actionType="11"  >  
+              <effect effectName="eff_node_bounce_damage.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="0.2"  effectType="0"  sound=""  />  
+      </action>
+      <action actionID="4"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="death"  actionTime="0.35"  actionType="8"  >  
+			  <effect effectName="eff_node_dead.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="2"  effectType="0"  sound="sound/skill_dead.wav"  />  
+      </action>
+      <action actionID="5"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="absorb"  actionTime="0.35"  actionType="0"  >  
+              <effect effectName="eff_node_stun.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="0.2"  effectType="0"  sound=""  />  
+      </action>
+      <action actionID="6"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="reel"  actionTime="0.35"  actionType="13"  >  
+              <effect effectName="eff_node_stun.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="0.2"  effectType="0"  sound="sound/skill_dizziness.wav"  />  
+      </action>
+      <action actionID="7"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="beattack_nor_BXX"  actionTime="0.35"  actionType="7"  >  
+              <effect effectName="eff_node_leech.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="0.2"  effectType="0"  sound=""  />  
+      </action>
+      <action actionID="8"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="beattack_nor_ftsh"  actionTime="0.35"  actionType="10"  >  
+              <effect effectName="eff_node_bounce.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="0.5"  effectType="1"  sound=""  />  
+      </action>
+      <action actionID="9"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="revive"  actionTime="0.35"  actionType="14"  >  
+              <effect effectName="eff_node_reborn.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="1.3"  effectType="0"  sound="sound/skill_relive.wav"  />  
+      </action>
+      <action actionID="21"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack04"  actionTime=".7"  actionType="1"  >  
+ <effect effectName="skill_poison_fly.ccbi"  flipType="0"  actionturnmove="1"  effectStartTime=".25"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison.wav"  />  
+      </action>
+      <action actionID="22"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack_F"  actionTime=".7"  actionType="1"  >  
+ <effect effectName="skill_poison_fly.ccbi"  flipType="0"  actionturnmove="1"  effectStartTime=".25"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison.wav"  />  
+      </action>
+      <action actionID="23"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack_SB"  actionTime=".7"  actionType="1"  >  
+ <effect effectName="skill_poison_fly.ccbi"  flipType="0"  actionturnmove="1"  effectStartTime=".25"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison.wav"  />  
+      </action>
+      <action actionID="24"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack_JS"  actionTime=".7"  actionType="1"  >  
+ <effect effectName="skill_poison_fly.ccbi"  flipType="0"  actionturnmove="1"  effectStartTime=".25"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison.wav"  />  
+      </action>
+      <action actionID="25"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack_B"  actionTime=".7"  actionType="1"  >  
+ <effect effectName="skill_poison_fly.ccbi"  flipType="0"  actionturnmove="1"  effectStartTime=".25"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison.wav"  />  
+      </action>
+      <action actionID="26"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack_H"  actionTime=".7"  actionType="2"  >  
+ <effect effectName="skill_poison_fly.ccbi"  flipType="0"  actionturnmove="1"  effectStartTime=".25"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison.wav"  />  
+      </action>
+      <action actionID="27"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack_LD"  actionTime=".7"  actionType="1"  >  
+ <effect effectName="skill_poison_fly.ccbi"  flipType="0"  actionturnmove="1"  effectStartTime=".25"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison.wav"  />  
+      </action>
+      <action actionID="28"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack_D"  actionTime=".7"  actionType="2"  >  
+              <effect effectName="skill_poison_fly.ccbi"  flipType="0"  actionturnmove="1"  effectStartTime=".25"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison.wav"  />  
+      </action>
+      <action actionID="51"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="skill_pm_beattack01.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="1"  effectType="0"  sound="sound/skill_beattack_claw.wav"  />  
+      </action>
+      <action actionID="52"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="skill_pm_beattack01.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".9"  effectType="0"  sound="sound/skill_beattack_hurricane.wav"  />  
+      </action>
+      <action actionID="53"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="skill_pm_beattack01.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".7"  effectType="0"  sound="sound/skill_beattack_wave.wav"  />  
+      </action>
+      <action actionID="54"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="skill_pm_beattack01.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".3"  effectType="0"  sound="sound/skill_beattack_stone.wav"  />  
+      </action>
+      <action actionID="55"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="skill_pm_beattack01.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".7"  effectType="0"  sound="sound/skill_beattack_ice.wav"  />  
+      </action>
+      <action actionID="56"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="skill_pm_beattack01.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".7"  effectType="0"  sound="sound/skill_beattack_fire.wav"  />  
+      </action>
+      <action actionID="57"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="skill_pm_beattack01.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".7"  effectType="0"  sound="sound/skill_beattack_light.wav"  />  
+      </action>
+      <action actionID="58"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="skill_pm_beattack01.ccbi"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".7"  effectType="0"  sound="sound/skill_beattack_poison.wav"  />  
+      </action>
+      <action actionID="31"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack05"  actionTime=".7"  actionType="3"  >  
+              <effect effectName="fatalskill"  flipType="0"  actionturnmove="1"  effectStartTime="0"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison2.wav"  />   
+      </action>
+      <action actionID="32"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack05"  actionTime=".7"  actionType="3"  >  
+              <effect effectName="fatalskill"  flipType="0"  actionturnmove="1"  effectStartTime="0"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison2.wav"  />   
+      </action>
+      <action actionID="33"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack05"  actionTime=".7"  actionType="3"  >  
+              <effect effectName="fatalskill"  flipType="0"  actionturnmove="1"  effectStartTime="0"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison2.wav"  />  
+      </action>
+      <action actionID="34"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack05"  actionTime=".7"  actionType="3"  >  
+               <effect effectName="fatalskill"  flipType="0"  actionturnmove="1"  effectStartTime="0"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison2.wav"  />  
+      </action>
+      <action actionID="35"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack05"  actionTime=".7"  actionType="3"  >  
+              <effect effectName="fatalskill"  flipType="0"  actionturnmove="1"  effectStartTime="0"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison2.wav"  />  
+      </action>
+      <action actionID="36"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack05"  actionTime=".7"  actionType="3"  >  
+              <effect effectName="fatalskill"  flipType="0"  actionturnmove="1"  effectStartTime="0"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison2.wav"  />  
+      </action>
+      <action actionID="37"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack05"  actionTime=".7"  actionType="3"  >  
+              <effect effectName="fatalskill"  flipType="0"  actionturnmove="1"  effectStartTime="0"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison2.wav"  />  
+      </action>
+      <action actionID="38"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_attack05"  actionTime=".7"  actionType="3"  >  
+              <effect effectName="fatalskill"  flipType="0"  actionturnmove="1"  effectStartTime="0"  effectTime=".5"  effectType="1"  sound="sound/skill_attack_poison2.wav"  />  
+      </action>
+      <action actionID="61"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="fatalskill_B"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime="1"  effectType="0"  sound="sound/skill_beattack_claw2.wav"  />  
+      </action>
+      <action actionID="62"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="fatalskill_B"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".9"  effectType="0"  sound="sound/skill_beattack_hurricane2.wav"  />  
+      </action>
+      <action actionID="63"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="fatalskill_B"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".7"  effectType="0"  sound="sound/skill_beattack_wave2.wav"  />  
+      </action>
+      <action actionID="64"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="fatalskill_B"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".3"  effectType="0"  sound="sound/skill_beattack_stone2.wav"  />  
+      </action>
+      <action actionID="65"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="fatalskill_B"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".7"  effectType="0"  sound="sound/skill_beattack_ice2.wav"  />  
+      </action>
+      <action actionID="66"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="fatalskill_B"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".7"  effectType="0"  sound="sound/skill_beattack_fire2.wav"  />  
+      </action>
+      <action actionID="67"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="fatalskill_B"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".7"  effectType="0"  sound="sound/skill_beattack_light2.wav"  />  
+      </action>
+      <action actionID="68"  actionFlipName=""  moveTime="0"  moveType="0"  actionName="pm_beattack01"  actionTime="0.35"  actionType="5"  >  
+              <effect effectName="fatalskill_B"  flipType="0"  actionturnmove="0"  effectStartTime="0"  effectTime=".7"  effectType="0"  sound="sound/skill_beattack_poison2.wav"  />  
+      </action>
+</actions>

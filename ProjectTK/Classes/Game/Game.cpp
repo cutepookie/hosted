@@ -1,0 +1,32 @@
+#include "Game.h"
+#include "MB_LayerPetEquipment.h"
+#include "MB_LayerItemDetail.h"
+#include "MB_LayerBackpack.h"
+bool isAutoTanChuSign;
+bool m_bIsDemoFight;
+int m_bIsChangeRole;
+char* change_appid;
+char* change_channelid;
+char* change_userid;
+char* change_token;
+const char* ChapterFileChar;
+int m_bToPageID;
+int m_bNowPassPageID;
+bool m_bIsToHome;
+bool m_bGlobalIsScaleAction;
+bool global_isRePlay;
+bool global_isYeShiJieToShop;
+std::vector<uint64_t> teamV;
+bool m_bIsCanToChapter;
+uint16_t nowHomeShowPetTypeID;
+bool m_SceneGameIsSetLevelUI;
+int m_SceneGameBigLevel;
+int m_SceneGameLittleLevel;
+bool m_IsCanRetryGame;
+CCNode* global_tutorialNode;
+const char* m_SceneGameLevelName;
+MB_SceneGame* global_sceneGame;
+MB_LayerPetEquipment* global_layerPetEquipment;
+MB_LayerPetDetail* global_layerPetDetail;
+MB_LayerItemDetail* global_layerItemDetail;
+MB_LayerBackpack* global_layerBackpack;

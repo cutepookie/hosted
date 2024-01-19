@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40291" Number="1" Name="杀人立威1" activeneedpass="40290" costenergy="2" maxtimes="10" coin="20845" exprole="4169" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6011" dungeon_level="72"/>
+	<Dungeon ID="40292" Number="2" Name="杀人立威2" activeneedpass="40291" costenergy="2" maxtimes="10" coin="20845" exprole="4169" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6041" dungeon_level="72"/>
+	<Dungeon ID="40293" Number="3" Name="兄弟相残1" activeneedpass="40292" costenergy="2" maxtimes="10" coin="21060" exprole="4212" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6031" dungeon_level="72"/>
+	<Dungeon ID="40294" Number="4" Name="兄弟相残2" activeneedpass="40293" costenergy="2" maxtimes="10" coin="21060" exprole="4212" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6021" dungeon_level="72"/>
+	<Dungeon ID="40295" Number="5" Name="兄弟相残3" activeneedpass="40294" costenergy="2" maxtimes="10" coin="21275" exprole="4255" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6051" dungeon_level="72"/>
+	<Dungeon ID="40296" Number="6" Name="难敌群魔1" activeneedpass="40295" costenergy="2" maxtimes="10" coin="21275" exprole="4255" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6061" dungeon_level="73"/>
+	<Dungeon ID="40297" Number="7" Name="难敌群魔2" activeneedpass="40296" costenergy="2" maxtimes="10" coin="21490" exprole="4298" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6021" dungeon_level="73"/>
+	<Dungeon ID="40298" Number="8" Name="殊死一搏" activeneedpass="40297" costenergy="2" maxtimes="10" coin="21490" exprole="4298" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6071" dungeon_level="73"/>
+	<Dungeon ID="40299" Number="9" Name="使用法宝" activeneedpass="40298" costenergy="2" maxtimes="10" coin="21705" exprole="4341" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="6031" dungeon_level="73"/>
+	<Dungeon ID="40300" Number="10" Name="妖王之威" activeneedpass="40299" costenergy="2" maxtimes="5" coin="21705" exprole="4341" expgeneral="0" dropitem1="10514" dropitem2="0" boss_postion="10010" addMorale="0" dungeon_icon="6059" dungeon_level="73"/>
+</Dungeons>

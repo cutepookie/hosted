@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="40081" Number="1" Name="红衣妖怪1" activeneedpass="40080" costenergy="2" maxtimes="10" coin="4465" exprole="893" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3051" dungeon_level="22"/>
+	<Dungeon ID="40082" Number="2" Name="红衣妖怪2" activeneedpass="40081" costenergy="2" maxtimes="10" coin="4465" exprole="893" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3031" dungeon_level="22"/>
+	<Dungeon ID="40083" Number="3" Name="红衣妖怪3" activeneedpass="40082" costenergy="2" maxtimes="10" coin="4565" exprole="913" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3011" dungeon_level="22"/>
+	<Dungeon ID="40084" Number="4" Name="红衣妖怪4" activeneedpass="40083" costenergy="2" maxtimes="10" coin="4565" exprole="913" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="3041" dungeon_level="23"/>
+	<Dungeon ID="40085" Number="5" Name="人心贪婪1" activeneedpass="40084" costenergy="2" maxtimes="10" coin="4665" exprole="933" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2113" dungeon_level="23"/>
+	<Dungeon ID="40086" Number="6" Name="人心贪婪2" activeneedpass="40085" costenergy="2" maxtimes="10" coin="4665" exprole="933" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2123" dungeon_level="23"/>
+	<Dungeon ID="40087" Number="7" Name="人心贪婪3" activeneedpass="40086" costenergy="2" maxtimes="10" coin="4765" exprole="953" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2083" dungeon_level="24"/>
+	<Dungeon ID="40088" Number="8" Name="人心贪婪4" activeneedpass="40087" costenergy="2" maxtimes="10" coin="4765" exprole="953" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2103" dungeon_level="24"/>
+	<Dungeon ID="40089" Number="9" Name="人心贪婪5" activeneedpass="40088" costenergy="2" maxtimes="10" coin="4870" exprole="974" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="2033" dungeon_level="24"/>
+	<Dungeon ID="40090" Number="10" Name="人心贪婪6" activeneedpass="40089" costenergy="2" maxtimes="5" coin="4870" exprole="974" expgeneral="0" dropitem1="10316" dropitem2="0" boss_postion="10101" addMorale="0" dungeon_icon="3073" dungeon_level="24"/>
+</Dungeons>

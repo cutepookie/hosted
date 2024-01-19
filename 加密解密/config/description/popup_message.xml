@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item Type = "0" 汉语 = "购买中"         英文 = "fdsfsdf"  棒子文 = "12123" />
+    <item Type = "1" 汉语 = "已经装备"          英文 = "bvcbcvb"  棒子文 = "43423" />
+
+    <item Type = "4" 汉语 = "合成倒计时"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "5" 汉语 = "胜利"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "6" 汉语 = "失败"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "7" 汉语 = "战胜了%s"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "8" 汉语 = "战败于%s"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "9" 汉语 = "成功获得"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "10" 汉语 = "未能获得"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "14" 汉语 = "强行终止"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "15" 汉语 = "取消"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "17" 汉语 = "未选中道具"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "20" 汉语 = "【%s】幸运的获得了极品：【%s】＊【%d】"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "22" 汉语 = "确定"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "23" 汉语 = "提示"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "25" 汉语 = "出售成功 获得金币%d"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "26" 汉语 = "今日"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "27" 汉语 = "%d天前"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "28" 汉语 = "请输入联系人名字"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "29" 汉语 = "请输入内容"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "30" 汉语 = "充值"          英文 = "bvcbcvb"  棒子文 = "43423" />
+    <item Type = "31" 汉语 = "无限"          英文 = "bvcbcvb"  棒子文 = "43423" />
+</items>
+	

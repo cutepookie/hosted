@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30161" Number="1" Name="传道解惑1" activeneedpass="30160" costenergy="2" maxtimes="30" coin="4465" exprole="893" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4071" dungeon_level="46"/>
+	<Dungeon ID="30162" Number="2" Name="传道解惑2" activeneedpass="30161" costenergy="2" maxtimes="30" coin="4465" exprole="893" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4091" dungeon_level="46"/>
+	<Dungeon ID="30163" Number="3" Name="校园之行1" activeneedpass="30162" costenergy="2" maxtimes="30" coin="4565" exprole="913" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4081" dungeon_level="46"/>
+	<Dungeon ID="30164" Number="4" Name="校园之行2" activeneedpass="30163" costenergy="2" maxtimes="30" coin="4565" exprole="913" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4041" dungeon_level="46"/>
+	<Dungeon ID="30165" Number="5" Name="校园之行3" activeneedpass="30164" costenergy="2" maxtimes="30" coin="4665" exprole="933" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4051" dungeon_level="46"/>
+	<Dungeon ID="30166" Number="6" Name="园中古塔1" activeneedpass="30165" costenergy="2" maxtimes="30" coin="4665" exprole="933" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4021" dungeon_level="47"/>
+	<Dungeon ID="30167" Number="7" Name="园中古塔2" activeneedpass="30166" costenergy="2" maxtimes="30" coin="4765" exprole="953" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4181" dungeon_level="47"/>
+	<Dungeon ID="30168" Number="8" Name="园中古塔3" activeneedpass="30167" costenergy="2" maxtimes="30" coin="4765" exprole="953" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4101" dungeon_level="47"/>
+	<Dungeon ID="30169" Number="9" Name="龙困古塔" activeneedpass="30168" costenergy="2" maxtimes="30" coin="4870" exprole="974" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4081" dungeon_level="47"/>
+	<Dungeon ID="30170" Number="10" Name="欺诈之龙" activeneedpass="30169" costenergy="2" maxtimes="10" coin="4870" exprole="974" expgeneral="0" dropitem1="10408" dropitem2="0" boss_postion="11000" addMorale="0" dungeon_icon="5097" dungeon_level="47"/>
+</Dungeons>

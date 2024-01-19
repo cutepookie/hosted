@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+    <task id="20001" type="2" name="普通历练" description="完成任意普通副本25次" changePage="303" Icon="" >
+        <condition type="100" target="" value="25" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="300000"/>
+        </rewards>
+    </task>
+    <task id="20002" type="2" name="伙伴升级" description="升级5次伙伴" changePage="302" Icon="" >
+        <condition type="205" target="" value="5" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="150000"/>
+        </rewards>
+    </task>
+    <task id="20003" type="2" name="伙伴进化" description="进化1次伙伴" changePage="302" Icon="" >
+        <condition type="203" target="" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="150000"/>
+        </rewards>
+    </task>
+    <task id="20004" type="2" name="装备强化" description="强化5次装备" changePage="302" Icon="" >
+        <condition type="405" target="" value="5" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="150000"/>
+        </rewards>
+    </task>
+    <task id="20005" type="2" name="装备精炼" description="精炼1次装备" changePage="302" Icon="" >
+        <condition type="406" target="" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="150000"/>
+        </rewards>
+    </task>
+    <task id="20006" type="2" name="冒险" description="进行50次冒险" changePage="304" Icon="" >
+        <condition type="500" target="" value="50" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="150000"/>
+        </rewards>
+    </task>
+    <task id="20007" type="2" name="合成" description="完成2次任意合成" changePage="201" Icon="" >
+        <condition type="700" target="" value="2" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="300000"/>
+        </rewards>
+    </task>
+    <task id="20008" type="2" name="召唤大厅" description="召唤大厅抽取1次伙伴" changePage="203" Icon="" >
+        <condition type="3001" target="" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="300000"/>
+        </rewards>
+    </task>
+    <task id="20009" type="2" name="九十九重天" description="挑战一次九十九重天" changePage="402" Icon="" >
+        <condition type="3002" target="" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="150000"/>
+        </rewards>
+    </task>
+    <task id="20010" type="2" name="挑战八岐大蛇" description="挑战火箭队一次" changePage="401" Icon="" >
+        <condition type="3004" target="" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="150000"/>
+        </rewards>
+    </task>
+    <task id="20011" type="2" name="竞技场" description="进行5次竞技场挑战" changePage="403" Icon="" >
+        <condition type="2011" target="" value="5" showType="2"/> 
+        <rewards>
+            <reward typeid="30007" rewardType="2" value="150000"/>
+        </rewards>
+    </task>
+    <task id="20015" type="3" name="财富大亨 I" description="获得20万金币" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="1000" target="1" value="200000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="100"/>
+        </rewards>
+    </task>
+    <task id="20016" type="3" name="财富大亨 II" description="获得100万金币" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="1000" target="1" value="1000000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20017" type="3" name="财富大亨 III" description="获得500万金币" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="1000" target="1" value="5000000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20018" type="3" name="财富大亨 IV" description="获得1000万金币" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="1000" target="1" value="10000000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20019" type="3" name="财富大亨 V" description="获得3000万金币" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="1000" target="1" value="30000000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20020" type="3" name="财富大亨 VI" description="获得6000万金币" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="1000" target="1" value="60000000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20021" type="3" name="财富大亨 VII" description="获得10000万金币" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="1000" target="1" value="100000000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20022" type="3" name="珠光宝气 I" description="获得100宝石" changePage="0" Icon="icon_item/item_30008.png" >
+        <condition type="1000" target="2" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="100"/>
+        </rewards>
+    </task>
+    <task id="20023" type="3" name="珠光宝气 II" description="获得500宝石" changePage="0" Icon="icon_item/item_30008.png" >
+        <condition type="1000" target="2" value="500" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20024" type="3" name="珠光宝气 III" description="获得1000宝石" changePage="0" Icon="icon_item/item_30008.png" >
+        <condition type="1000" target="2" value="1000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20025" type="3" name="珠光宝气 IV" description="获得3000宝石" changePage="0" Icon="icon_item/item_30008.png" >
+        <condition type="1000" target="2" value="3000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20026" type="3" name="珠光宝气 V" description="获得5000宝石" changePage="0" Icon="icon_item/item_30008.png" >
+        <condition type="1000" target="2" value="5000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20027" type="3" name="珠光宝气 VI" description="获得7000宝石" changePage="0" Icon="icon_item/item_30008.png" >
+        <condition type="1000" target="2" value="7000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20028" type="3" name="珠光宝气 VII" description="获得10000宝石" changePage="0" Icon="icon_item/item_30008.png" >
+        <condition type="1000" target="2" value="10000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20029" type="3" name="补天石 I" description="获得1000补天石" changePage="0" Icon="icon_item/item_30006.png" >
+        <condition type="1000" target="3" value="1000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="100"/>
+        </rewards>
+    </task>
+    <task id="20030" type="3" name="补天石 II" description="获得5000补天石" changePage="0" Icon="icon_item/item_30006.png" >
+        <condition type="1000" target="3" value="5000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20031" type="3" name="补天石 III" description="获得10000补天石" changePage="0" Icon="icon_item/item_30006.png" >
+        <condition type="1000" target="3" value="10000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20032" type="3" name="补天石 IV" description="获得30000补天石" changePage="0" Icon="icon_item/item_30006.png" >
+        <condition type="1000" target="3" value="30000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20033" type="3" name="补天石 V" description="获得50000补天石" changePage="0" Icon="icon_item/item_30006.png" >
+        <condition type="1000" target="3" value="50000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20034" type="3" name="补天石 VI" description="获得70000补天石" changePage="0" Icon="icon_item/item_30006.png" >
+        <condition type="1000" target="3" value="70000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20035" type="3" name="补天石 VII" description="获得100000补天石" changePage="0" Icon="icon_item/item_30006.png" >
+        <condition type="1000" target="3" value="100000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20036" type="3" name="收集大师 I" description="获得10个伙伴" changePage="0" Icon="icon_item/item_24201.png" >
+        <condition type="201" target="" value="10" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="100"/>
+        </rewards>
+    </task>
+    <task id="20037" type="3" name="收集大师 II" description="获得50个伙伴" changePage="0" Icon="icon_item/item_24202.png" >
+        <condition type="201" target="" value="50" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20038" type="3" name="收集大师 III" description="获得100个伙伴" changePage="0" Icon="icon_item/item_24202.png" >
+        <condition type="201" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20039" type="3" name="收集大师 IV" description="获得200个伙伴" changePage="0" Icon="icon_item/item_24203.png" >
+        <condition type="201" target="" value="200" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20040" type="3" name="收集大师 V" description="获得400个伙伴" changePage="0" Icon="icon_item/item_24203.png" >
+        <condition type="201" target="" value="400" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20041" type="3" name="收集大师 VI" description="获得700个伙伴" changePage="0" Icon="icon_item/item_24204.png" >
+        <condition type="201" target="" value="700" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20042" type="3" name="收集大师 VII" description="获得1000个伙伴" changePage="0" Icon="icon_item/item_24204.png" >
+        <condition type="201" target="" value="1000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20043" type="3" name="装备达人 I" description="获得10件装备" changePage="0" Icon="icon_item/item_10701.png" >
+        <condition type="403" target="" value="10" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="100"/>
+        </rewards>
+    </task>
+    <task id="20044" type="3" name="装备达人 II" description="获得50件装备" changePage="0" Icon="icon_item/item_10702.png" >
+        <condition type="403" target="" value="50" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20045" type="3" name="装备达人 III" description="获得100件装备" changePage="0" Icon="icon_item/item_10703.png" >
+        <condition type="403" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20046" type="3" name="装备达人 IV" description="获得200件装备" changePage="0" Icon="icon_item/item_10704.png" >
+        <condition type="403" target="" value="200" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20047" type="3" name="装备达人 V" description="获得400件装备" changePage="0" Icon="icon_item/item_10705.png" >
+        <condition type="403" target="" value="400" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20048" type="3" name="装备达人 VI" description="获得700件装备" changePage="0" Icon="icon_item/item_10706.png" >
+        <condition type="403" target="" value="700" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20049" type="3" name="装备达人 VII" description="获得1000件装备" changePage="0" Icon="icon_item/item_10707.png" >
+        <condition type="403" target="" value="1000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20050" type="3" name="交际大师 I" description="添加5个好友" changePage="0" Icon="icon_item/item_40005.png" >
+        <condition type="1004" target="" value="5" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="100"/>
+        </rewards>
+    </task>
+    <task id="20051" type="3" name="交际大师 II" description="添加30个好友" changePage="0" Icon="icon_item/item_40005.png" >
+        <condition type="1004" target="" value="30" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20052" type="3" name="交际大师 III" description="添加50个好友" changePage="0" Icon="icon_item/item_40005.png" >
+        <condition type="1004" target="" value="50" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20053" type="3" name="交际大师 IV" description="添加70个好友" changePage="0" Icon="icon_item/item_40005.png" >
+        <condition type="1004" target="" value="70" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20054" type="3" name="交际大师 V" description="添加100个好友" changePage="0" Icon="icon_item/item_40005.png" >
+        <condition type="1004" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20055" type="3" name="勇往直前 I" description="通关10次关卡" changePage="0" Icon="icon_item/item_30021.png" >
+        <condition type="103" target="" value="10" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="100"/>
+        </rewards>
+    </task>
+    <task id="20056" type="3" name="勇往直前 II" description="通关50次关卡" changePage="0" Icon="icon_item/item_30021.png" >
+        <condition type="103" target="" value="50" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20057" type="3" name="勇往直前 III" description="通关100次关卡" changePage="0" Icon="icon_item/item_30021.png" >
+        <condition type="103" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20058" type="3" name="勇往直前 IV" description="通关200次关卡" changePage="0" Icon="icon_item/item_30021.png" >
+        <condition type="103" target="" value="200" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20059" type="3" name="勇往直前 V" description="通关400次关卡" changePage="0" Icon="icon_item/item_30021.png" >
+        <condition type="103" target="" value="400" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20060" type="3" name="勇往直前 VI" description="通关700次关卡" changePage="0" Icon="icon_item/item_30021.png" >
+        <condition type="103" target="" value="700" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20061" type="3" name="勇往直前 VII" description="通关1000次关卡" changePage="0" Icon="icon_item/item_30021.png" >
+        <condition type="103" target="" value="1000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20062" type="3" name="战斗大师 I" description="战斗力达到5000" changePage="0" Icon="icon_item/item_30025.png" >
+        <condition type="2001" target="" value="5000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20063" type="3" name="战斗大师 II" description="战斗力达到10000" changePage="0" Icon="icon_item/item_30025.png" >
+        <condition type="2001" target="" value="10000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20064" type="3" name="战斗大师 III" description="战斗力达到20000" changePage="0" Icon="icon_item/item_30025.png" >
+        <condition type="2001" target="" value="20000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1500"/>
+        </rewards>
+    </task>
+    <task id="20065" type="3" name="战斗大师 IV" description="战斗力达到35000" changePage="0" Icon="icon_item/item_30025.png" >
+        <condition type="2001" target="" value="35000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20066" type="3" name="战斗大师 V" description="战斗力达到50000" changePage="0" Icon="icon_item/item_30025.png" >
+        <condition type="2001" target="" value="50000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20067" type="3" name="战斗大师 VI" description="战斗力达到80000" changePage="0" Icon="icon_item/item_30025.png" >
+        <condition type="2001" target="" value="80000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20068" type="3" name="战斗大师 VII" description="战斗力达到120000" changePage="0" Icon="icon_item/item_30025.png" >
+        <condition type="2001" target="" value="120000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="3000"/>
+        </rewards>
+    </task>
+    <task id="20069" type="3" name="战斗大师 VIII" description="战斗力达到200000" changePage="0" Icon="icon_item/item_30025.png" >
+        <condition type="2001" target="" value="200000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="3000"/>
+        </rewards>
+    </task>
+    <task id="20070" type="3" name="战斗大师 IX" description="战斗力达到400000" changePage="0" Icon="icon_item/item_30025.png" >
+        <condition type="2001" target="" value="400000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="3000"/>
+        </rewards>
+    </task>
+    <task id="20071" type="3" name="竞技之王 I" description="进入竞技场前5000名" changePage="0" Icon="icon_item/item_30020.png" >
+        <condition type="2002" target="" value="5000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20072" type="3" name="竞技之王 II" description="进入竞技场前1000名" changePage="0" Icon="icon_item/item_30020.png" >
+        <condition type="2002" target="" value="1000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20073" type="3" name="竞技之王 III" description="进入竞技场前500名" changePage="0" Icon="icon_item/item_30020.png" >
+        <condition type="2002" target="" value="500" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20074" type="3" name="竞技之王 IV" description="进入竞技场前200名" changePage="0" Icon="icon_item/item_30020.png" >
+        <condition type="2002" target="" value="200" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20075" type="3" name="竞技之王 V" description="进入竞技场前100名" changePage="0" Icon="icon_item/item_30020.png" >
+        <condition type="2002" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1500"/>
+        </rewards>
+    </task>
+    <task id="20076" type="3" name="竞技之王 VI" description="进入竞技场前50名" changePage="0" Icon="icon_item/item_30020.png" >
+        <condition type="2002" target="" value="50" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20077" type="3" name="竞技之王 VII" description="进入竞技场前10名" changePage="0" Icon="icon_item/item_30020.png" >
+        <condition type="2002" target="" value="10" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="3000"/>
+        </rewards>
+    </task>
+    <task id="20078" type="3" name="势如破竹 I" description="九十九重天完成第15层" changePage="0" Icon="icon_item/item_30024.png" >
+        <condition type="2003" target="" value="15" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20079" type="3" name="势如破竹 II" description="九十九重天完成第25层" changePage="0" Icon="icon_item/item_30024.png" >
+        <condition type="2003" target="" value="25" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20080" type="3" name="势如破竹 III" description="九十九重天完成第35层" changePage="0" Icon="icon_item/item_30024.png" >
+        <condition type="2003" target="" value="35" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20081" type="3" name="势如破竹 IV" description="九十九重天完成第45层" changePage="0" Icon="icon_item/item_30024.png" >
+        <condition type="2003" target="" value="45" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1500"/>
+        </rewards>
+    </task>
+    <task id="20082" type="3" name="势如破竹 V" description="九十九重天完成第55层" changePage="0" Icon="icon_item/item_30024.png" >
+        <condition type="2003" target="" value="55" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1500"/>
+        </rewards>
+    </task>
+    <task id="20083" type="3" name="势如破竹 VI" description="九十九重天完成第65层" changePage="0" Icon="icon_item/item_30024.png" >
+        <condition type="2003" target="" value="65" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20084" type="3" name="势如破竹 VII" description="九十九重天完成第75层" changePage="0" Icon="icon_item/item_30024.png" >
+        <condition type="2003" target="" value="75" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20085" type="3" name="势如破竹 VIII" description="九十九重天完成第85层" changePage="0" Icon="icon_item/item_30024.png" >
+        <condition type="2003" target="" value="85" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="3000"/>
+        </rewards>
+    </task>
+    <task id="20086" type="3" name="势如破竹 IX" description="九十九重天完成第100层" changePage="0" Icon="icon_item/item_30024.png" >
+        <condition type="2003" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="3000"/>
+        </rewards>
+    </task>
+    <task id="20087" type="3" name="全副武装 I" description="穿戴2件套" changePage="0" Icon="icon_item/item_10722.png" >
+        <condition type="2004" target="" value="2" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="300"/>
+        </rewards>
+    </task>
+    <task id="20088" type="3" name="全副武装 II" description="穿戴3件套" changePage="0" Icon="icon_item/item_10722.png" >
+        <condition type="2004" target="" value="3" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20089" type="3" name="全副武装 III" description="穿戴4件套" changePage="0" Icon="icon_item/item_10722.png" >
+        <condition type="2004" target="" value="4" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20090" type="3" name="全副武装 IV" description="穿戴6件套" changePage="0" Icon="icon_item/item_10722.png" >
+        <condition type="2004" target="" value="6" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20091" type="3" name="全体出击 I" description="同时出战3个伙伴" changePage="0" Icon="icon_item/item_40001.png" >
+        <condition type="2005" target="" value="3" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="100"/>
+        </rewards>
+    </task>
+    <task id="20092" type="3" name="全体出击 II" description="同时出战4个伙伴" changePage="0" Icon="icon_item/item_40002.png" >
+        <condition type="2005" target="" value="4" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20093" type="3" name="全体出击 III" description="同时出战5个伙伴" changePage="0" Icon="icon_item/item_40003.png" >
+        <condition type="2005" target="" value="5" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20094" type="3" name="全体出击 IV" description="同时出战6个伙伴" changePage="0" Icon="icon_item/item_40004.png" >
+        <condition type="2005" target="" value="6" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20095" type="3" name="战术达人" description="进行1次换阵" changePage="0" Icon="icon_item/item_10316.png" >
+        <condition type="2006" target="" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20096" type="3" name="异性相吸" description="添加1名异性为好友" changePage="0" Icon="icon_item/item_30018.png" >
+        <condition type="2007" target="" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20097" type="3" name="不再沉默" description="在频道中进行1次聊天" changePage="0" Icon="icon_item/item_30019.png" >
+        <condition type="2008" target="" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20098" type="3" name="争强好胜" description="参加1次霸主之战报名" changePage="0" Icon="icon_item/item_30022.png" >
+        <condition type="2009" target="" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20099" type="3" name="百变怪咖" description="更换1次头像" changePage="0" Icon="icon_item/item_10404.png" >
+        <condition type="2010" target="" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20100" type="3" name="竞技高手 I" description="在竞技场战斗10次" changePage="0" Icon="icon_item/item_10101.png" >
+        <condition type="2011" target="" value="10" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="300"/>
+        </rewards>
+    </task>
+    <task id="20101" type="3" name="竞技高手 II" description="在竞技场战斗50次" changePage="0" Icon="icon_item/item_10101.png" >
+        <condition type="2011" target="" value="50" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="300"/>
+        </rewards>
+    </task>
+    <task id="20102" type="3" name="竞技高手 III" description="在竞技场战斗100次" changePage="0" Icon="icon_item/item_10101.png" >
+        <condition type="2011" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20103" type="3" name="竞技高手 IV" description="在竞技场战斗150次" changePage="0" Icon="icon_item/item_10101.png" >
+        <condition type="2011" target="" value="150" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20104" type="3" name="竞技高手 V" description="在竞技场战斗240次" changePage="0" Icon="icon_item/item_10101.png" >
+        <condition type="2011" target="" value="240" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20105" type="3" name="竞技高手 VI" description="在竞技场战斗360次" changePage="0" Icon="icon_item/item_10101.png" >
+        <condition type="2011" target="" value="360" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20106" type="3" name="竞技高手 VII" description="在竞技场战斗500次" changePage="0" Icon="icon_item/item_10101.png" >
+        <condition type="2011" target="" value="500" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1500"/>
+        </rewards>
+    </task>
+    <task id="20107" type="3" name="财神驾到 I" description="招财10次" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="2012" target="" value="10" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20108" type="3" name="财神驾到 II" description="招财50次" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="2012" target="" value="50" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20109" type="3" name="财神驾到 III" description="招财100次" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="2012" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20110" type="3" name="财神驾到 IV" description="招财200次" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="2012" target="" value="200" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20111" type="3" name="财神驾到 V" description="招财400次" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="2012" target="" value="400" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20112" type="3" name="财神驾到 VI" description="招财700次" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="2012" target="" value="700" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20113" type="3" name="财神驾到 VII" description="招财1000次" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="2012" target="" value="1000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20114" type="3" name="财神驾到 VIII" description="招财2000次" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="2012" target="" value="2000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20115" type="3" name="财神驾到 IX" description="招财5000次" changePage="0" Icon="icon_item/item_30007.png" >
+        <condition type="2012" target="" value="5000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20116" type="3" name="黄金搭档 I" description="同一个伙伴，激活2条组合技" changePage="0" Icon="icon_item/item_10202.png" >
+        <condition type="2013" target="" value="2" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20117" type="3" name="黄金搭档 II" description="同一个伙伴，激活3条组合技" changePage="0" Icon="icon_item/item_10202.png" >
+        <condition type="2013" target="" value="3" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="800"/>
+        </rewards>
+    </task>
+    <task id="20118" type="3" name="黄金搭档 III" description="同一个伙伴，激活4条组合技" changePage="0" Icon="icon_item/item_10202.png" >
+        <condition type="2013" target="" value="4" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20119" type="3" name="合成达人 I" description="合成5次" changePage="0" Icon="icon_item/item_24201.png" >
+        <condition type="700" target="" value="5" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="300"/>
+        </rewards>
+    </task>
+    <task id="20120" type="3" name="合成达人 II" description="合成30次" changePage="0" Icon="icon_item/item_24201.png" >
+        <condition type="700" target="" value="30" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="250"/>
+        </rewards>
+    </task>
+    <task id="20121" type="3" name="合成达人 III" description="合成60次" changePage="0" Icon="icon_item/item_24201.png" >
+        <condition type="700" target="" value="60" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20122" type="3" name="合成达人 IV" description="合成100次" changePage="0" Icon="icon_item/item_24201.png" >
+        <condition type="700" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1500"/>
+        </rewards>
+    </task>
+    <task id="20123" type="3" name="合成达人 V" description="合成150次" changePage="0" Icon="icon_item/item_24201.png" >
+        <condition type="700" target="" value="150" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20124" type="3" name="合成达人 VI" description="合成200次" changePage="0" Icon="icon_item/item_24201.png" >
+        <condition type="700" target="" value="200" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20125" type="3" name="合成达人 VII" description="合成300次" changePage="0" Icon="icon_item/item_24201.png" >
+        <condition type="700" target="" value="300" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20126" type="3" name="合成达人 VIII" description="合成500次" changePage="0" Icon="icon_item/item_24201.png" >
+        <condition type="700" target="" value="500" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20127" type="3" name="追逐完美" description="精炼装备到完美" changePage="0" Icon="icon_item/item_10613.png" >
+        <condition type="401" target="" value="10" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20128" type="3" name="冒险达人 I" description="累计冒险100次" changePage="0" Icon="icon_item/item_10607.png" >
+        <condition type="500" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="300"/>
+        </rewards>
+    </task>
+    <task id="20129" type="3" name="冒险达人 II" description="累计冒险500次" changePage="0" Icon="icon_item/item_10607.png" >
+        <condition type="500" target="" value="500" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20130" type="3" name="冒险达人 III" description="累计冒险1000次" changePage="0" Icon="icon_item/item_10607.png" >
+        <condition type="500" target="" value="1000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20131" type="3" name="冒险达人 IV" description="累计冒险1600次" changePage="0" Icon="icon_item/item_10607.png" >
+        <condition type="500" target="" value="1600" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1500"/>
+        </rewards>
+    </task>
+    <task id="20132" type="3" name="冒险达人 V" description="累计冒险2400次" changePage="0" Icon="icon_item/item_10607.png" >
+        <condition type="500" target="" value="2400" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20133" type="3" name="冒险达人 VI" description="累计冒险3200次" changePage="0" Icon="icon_item/item_10607.png" >
+        <condition type="500" target="" value="3200" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20134" type="3" name="冒险达人 VII" description="累计冒险5000次" changePage="0" Icon="icon_item/item_10607.png" >
+        <condition type="500" target="" value="5000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20135" type="3" name="冒险达人 VIII" description="累计冒险10000次" changePage="0" Icon="icon_item/item_10607.png" >
+        <condition type="500" target="" value="10000" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20136" type="3" name="不断进化 I" description="有一个伙伴达到1转" changePage="0" Icon="icon_item/item_24205.png" >
+        <condition type="204" target="10" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20137" type="3" name="不断进化 II" description="有一个伙伴达到2转" changePage="0" Icon="icon_item/item_24206.png" >
+        <condition type="204" target="20" value="1" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20142" type="3" name="召唤达人 I" description="累计召唤抽卡5次" changePage="0" Icon="icon_item/item_30001.png" >
+        <condition type="3001" target="" value="5" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20143" type="3" name="召唤达人 II" description="累计召唤抽卡10次" changePage="0" Icon="icon_item/item_30001.png" >
+        <condition type="3001" target="" value="10" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20144" type="3" name="召唤达人 III" description="累计召唤抽卡20次" changePage="0" Icon="icon_item/item_30001.png" >
+        <condition type="3001" target="" value="20" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1500"/>
+        </rewards>
+    </task>
+    <task id="20145" type="3" name="召唤达人 IV" description="累计召唤抽卡40次" changePage="0" Icon="icon_item/item_30001.png" >
+        <condition type="3001" target="" value="40" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20146" type="3" name="召唤达人 V" description="累计召唤抽卡70次" changePage="0" Icon="icon_item/item_30001.png" >
+        <condition type="3001" target="" value="70" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20147" type="3" name="召唤达人 VI" description="累计召唤抽卡100次" changePage="0" Icon="icon_item/item_30001.png" >
+        <condition type="3001" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20148" type="3" name="召唤达人 VII" description="累计召唤抽卡200次" changePage="0" Icon="icon_item/item_30001.png" >
+        <condition type="3001" target="" value="200" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20149" type="3" name="等级压制 I" description="等级达到5级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="5" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20150" type="3" name="等级压制 II" description="等级达到10级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="10" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="300"/>
+        </rewards>
+    </task>
+    <task id="20151" type="3" name="等级压制 III" description="等级达到15级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="15" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="500"/>
+        </rewards>
+    </task>
+    <task id="20152" type="3" name="等级压制 IV" description="等级达到20级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="20" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="200"/>
+        </rewards>
+    </task>
+    <task id="20153" type="3" name="等级压制 V" description="等级达到25级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="25" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1000"/>
+        </rewards>
+    </task>
+    <task id="20154" type="3" name="等级压制 VI" description="等级达到30级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="30" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="1500"/>
+        </rewards>
+    </task>
+    <task id="20155" type="3" name="等级压制 VII" description="等级达到35级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="35" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20156" type="3" name="等级压制 VIII" description="等级达到40级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="40" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20157" type="3" name="等级压制 IX" description="等级达到45级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="45" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20158" type="3" name="等级压制 X" description="等级达到50级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="50" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20159" type="3" name="等级压制 XI" description="等级达到55级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="55" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20160" type="3" name="等级压制 XII" description="等级达到60级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="60" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20161" type="3" name="等级压制 XIII" description="等级达到65级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="65" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20162" type="3" name="等级压制 XIV" description="等级达到70级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="70" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20163" type="3" name="等级压制 XV" description="等级达到75级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="75" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20164" type="3" name="等级压制 XVI" description="等级达到80级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="80" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20165" type="3" name="等级压制 XVII" description="等级达到85级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="85" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20166" type="3" name="等级压制 XVIII" description="等级达到90级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="90" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20167" type="3" name="等级压制 XIX" description="等级达到95级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="95" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+    <task id="20168" type="3" name="等级压制 XX" description="等级达到100级" changePage="0" Icon="icon_item/item_30005.png" >
+        <condition type="300" target="" value="100" showType="2"/> 
+        <rewards>
+            <reward typeid="30008" rewardType="2" value="2000"/>
+        </rewards>
+    </task>
+</task>

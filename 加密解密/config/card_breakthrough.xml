@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<god>
+<pet id="10001">
+        <item typeid="30018" num="1" />
+        <item typeid="30019" num="1" />
+        <item typeid="30020" num="1" />
+        <item typeid="30021" num="1" />
+    </pet>
+<pet id="10002">
+        <item typeid="30018" num="1" />
+        <item typeid="30019" num="1" />
+        <item typeid="30020" num="1" />
+        <item typeid="30021" num="1" />
+    </pet>
+<pet id="10003">
+        <item typeid="30018" num="2" />
+        <item typeid="30019" num="1" />
+        <item typeid="30020" num="1" />
+        <item typeid="30021" num="1" />
+    </pet>
+<pet id="10004">
+        <item typeid="30018" num="8" />
+        <item typeid="30019" num="5" />
+        <item typeid="30020" num="1" />
+        <item typeid="30021" num="1" />
+    </pet>
+<pet id="10005">
+        <item typeid="30018" num="40" />
+        <item typeid="30019" num="20" />
+        <item typeid="30020" num="10" />
+        <item typeid="30021" num="5" />
+    </pet>
+<pet id="10006">
+        <item typeid="30018" num="200" />
+        <item typeid="30019" num="100" />
+        <item typeid="30020" num="50" />
+        <item typeid="30021" num="30" />
+    </pet>
+<pet id="10007">
+        <item typeid="30018" num="1000" />
+        <item typeid="30019" num="500" />
+        <item typeid="30020" num="150" />
+        <item typeid="30021" num="100" />
+    </pet>
+<pet id="20001">
+        <item typeid="30022" num="1" />
+        <item typeid="30023" num="1" />
+        <item typeid="30024" num="1" />
+        <item typeid="30025" num="1" />
+    </pet>
+<pet id="20002">
+        <item typeid="30022" num="1" />
+        <item typeid="30023" num="1" />
+        <item typeid="30024" num="1" />
+        <item typeid="30025" num="1" />
+    </pet>
+<pet id="20003">
+        <item typeid="30022" num="3" />
+        <item typeid="30023" num="1" />
+        <item typeid="30024" num="1" />
+        <item typeid="30025" num="1" />
+    </pet>
+<pet id="20004">
+        <item typeid="30022" num="12" />
+        <item typeid="30023" num="8" />
+        <item typeid="30024" num="1" />
+        <item typeid="30025" num="1" />
+    </pet>
+<pet id="20005">
+        <item typeid="30022" num="40" />
+        <item typeid="30023" num="20" />
+        <item typeid="30024" num="10" />
+        <item typeid="30025" num="5" />
+    </pet>
+<pet id="20006">
+        <item typeid="30022" num="200" />
+        <item typeid="30023" num="100" />
+        <item typeid="30024" num="50" />
+        <item typeid="30025" num="30" />
+    </pet>
+<pet id="20007">
+        <item typeid="30022" num="1000" />
+        <item typeid="30023" num="500" />
+        <item typeid="30024" num="150" />
+        <item typeid="30025" num="100" />
+    </pet>
+</god>

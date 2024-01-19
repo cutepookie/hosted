@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<firstpays>
+
+	<firstpay  id = "24107" num ="1" rewardtype = "1" />
+	<firstpay  id = "24204" num ="3" rewardtype = "1" />
+	<firstpay  id = "30007" num ="500000" rewardtype = "1" />
+	<firstpay  id = "7140" num ="1" rewardtype = "2" />
+
+</firstpays>

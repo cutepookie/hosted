@@ -1,0 +1,18 @@
+<RandomCombine>
+    <Monster>
+        <Combine star="1" cost="2400" />
+        <Combine star="2" cost="10000" />
+        <Combine star="3" cost="42000" />
+        <Combine star="4" cost="180000" />
+        <Combine star="5" cost="750000" />
+        <Combine star="6" cost="3000000" />
+    </Monster>
+    <Item>
+        <Combine star="1" cost="2400" />
+        <Combine star="2" cost="10000" />
+        <Combine star="3" cost="42000" />
+        <Combine star="4" cost="180000" />
+        <Combine star="5" cost="750000" />
+        <Combine star="6" cost="3000000" />
+    </Item>
+</RandomCombine>

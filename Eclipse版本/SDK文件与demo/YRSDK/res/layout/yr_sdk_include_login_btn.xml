@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/yr_sdk_ll_btn_contains"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/yr_sdk_ll_border"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="10dp"
+    android:orientation="vertical"
+    tools:showIn="@layout/yr_sdk_activity_dialog_login">
+
+    <LinearLayout
+        android:id="@+id/ll_user_prot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:gravity="left|center_vertical"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <CheckBox
+            android:id="@+id/yr_sdk_cb_user_prot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableLeft="@drawable/yr_sdk_selector_check_dot_list"
+            android:drawablePadding="5dp" />
+
+        <TextView
+            android:id="@+id/tv_userProt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="@string/yr_sdk_register_service_argee"
+            android:textColor="@color/yr_sdk_text_gray"
+            android:textSize="@dimen/yr_sdk_user_terms_size" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/yr_sdk_re_system_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@mipmap/yr_sdk_btn_login">
+
+        <TextView
+            android:id="@+id/yr_sdk_tv_system_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/yr_sdk_login"
+            android:textColor="@color/yr_sdk_title_bar_white_bg"
+            android:textSize="@dimen/yr_system_login_size" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/yr_sdk_ll_binding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:id="@+id/yr_sdk_re_fb_account_binding"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@mipmap/yr_sdk_btn_fb_login"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/yr_sdk_tv_fb_account_binding"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="@string/yr_sdk_facebook_bind"
+                android:textColor="@color/yr_sdk_title_bar_white_bg"
+                android:textSize="@dimen/yr_system_login_size"/>
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/view_cop"
+            android:layout_width="10dp"
+            android:layout_height="wrap_content" />
+
+        <RelativeLayout
+            android:id="@+id/yr_sdk_re_tourist_account_binding"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@mipmap/yr_sdk_btn_fb_login"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/yr_sdk_tv_tourist_account_binding"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="@string/yr_sdk_account_bind"
+                android:textColor="@color/yr_sdk_title_bar_white_bg"
+                android:textSize="@dimen/yr_system_login_size" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/yr_sdk_ll_fb_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/yr_sdk_btn_fb_login"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/yr_sdk_icon_fb" />
+
+        <TextView
+            android:id="@+id/yr_sdk_tv_fb_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/yr_sdk_fblogin_rightnow"
+            android:textColor="@color/yr_sdk_title_bar_white_bg"
+            android:textSize="@dimen/yr_system_login_size" />
+
+    </LinearLayout>
+</LinearLayout>

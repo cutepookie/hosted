@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30271" Number="1" Name="修行恢复1" activeneedpass="30270" costenergy="2" maxtimes="30" coin="11545" exprole="2309" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4153" dungeon_level="68"/>
+	<Dungeon ID="30272" Number="2" Name="修行恢复2" activeneedpass="30271" costenergy="2" maxtimes="30" coin="11545" exprole="2309" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5053" dungeon_level="68"/>
+	<Dungeon ID="30273" Number="3" Name="各方势力1" activeneedpass="30272" costenergy="2" maxtimes="30" coin="11705" exprole="2341" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5042" dungeon_level="68"/>
+	<Dungeon ID="30274" Number="4" Name="各方势力2" activeneedpass="30273" costenergy="2" maxtimes="30" coin="11705" exprole="2341" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5032" dungeon_level="68"/>
+	<Dungeon ID="30275" Number="5" Name="各方势力3" activeneedpass="30274" costenergy="2" maxtimes="30" coin="11865" exprole="2373" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5153" dungeon_level="68"/>
+	<Dungeon ID="30276" Number="6" Name="错综复杂1" activeneedpass="30275" costenergy="2" maxtimes="30" coin="11865" exprole="2373" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4092" dungeon_level="69"/>
+	<Dungeon ID="30277" Number="7" Name="错综复杂2" activeneedpass="30276" costenergy="2" maxtimes="30" coin="12025" exprole="2405" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4132" dungeon_level="69"/>
+	<Dungeon ID="30278" Number="8" Name="错综复杂3" activeneedpass="30277" costenergy="2" maxtimes="30" coin="12025" exprole="2405" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5112" dungeon_level="69"/>
+	<Dungeon ID="30279" Number="9" Name="错综复杂4" activeneedpass="30278" costenergy="2" maxtimes="30" coin="12190" exprole="2438" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5123" dungeon_level="69"/>
+	<Dungeon ID="30280" Number="10" Name="观音赐宝" activeneedpass="30279" costenergy="2" maxtimes="10" coin="12190" exprole="2438" expgeneral="0" dropitem1="10513" dropitem2="0" boss_postion="101" addMorale="0" dungeon_icon="6064" dungeon_level="69"/>
+</Dungeons>

@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>		
+<synopsis>		
+	<plots dungeonID="30001" condition="1" >	
+		<plot headIcon="card_7141" headPos="1" text="如来：时光飞逝啊，刹那间千年已过，我教佛法还能如此昌盛真是十分欣慰" sound="" />
+		<plot headIcon="card_6101" headPos="2" text="观音：这都是您的功劳啊，要不是您的带领和英明抉择，哪能达到这种高度" sound="" />
+		<plot headIcon="card_7141" headPos="1" text="如来：不不不，是大家的功劳，呵呵;(￣︶￣);" sound="" />
+		<plot headIcon="card_7141" headPos="1" text="如来：不过最近下界妖魔又有所动作了，我教的经书还是这样被妖魔所用实在是。。。" sound="" />
+		<plot headIcon="card_6101" headPos="2" text="观音：（─.─|）是属下管教不严，造成这样的祸事" sound="" />
+		<plot headIcon="card_7141" headPos="1" text="如来：他们四人也该转生了吧，是时候让他们去趟东土了" sound="" />
+		<plot headIcon="card_7141" headPos="1" text="如来：他们造成的祸事，也该由他们解决了，或许还能再帮我们一次" sound="" />
+		<plot headIcon="card_7141" headPos="1" text="如来：也看看我教能不能更进一步;(￣︶￣);" sound="" />
+		<plot headIcon="card_6101" headPos="2" text="观音：明白，这就去安排(.•˘_˘•.)" sound="" />
+	</plots>	
+	<plots dungeonID="30001" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这哪来的妖怪，敢来挑衅我，不知道我是谁啊，嗯。。。，我是谁来着(ˇˍˇ)"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：我来告送你，你是斗战胜佛，天地间战无不胜的存在"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：哦，然后，你是哪的，你是谁，你来干啥 (๑˘ ˘๑)"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：我来给你指引，指引你一条成佛之路(＾－＾)"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：佛是啥，能吃吗？？ (‧_‧?)"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：成佛之后就能长生不老，而且收人万众敬仰，简单说就是，包吃包住、不用上班，你看如何(＾－＾)"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：有妖怪打吗？？"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：有的，有的是呢(＾－＾)"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：行，那俺就去，最讨厌这些妖怪祸害人间"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：还有好多好处呢，比如，等等你同意了啊 o_o，好的，你去找唐僧吧，他应该在酒吧，或者是去酒吧的路上"/>
+	</plots>	
+	<plots dungeonID="30005" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：酒鬼真多，而且打架都没有招式真麻烦（︶︿︶）"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：喝完这杯，还有三杯，来继续 []~(￣▽￣)~*"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：说好的光头都很强的，你怎么让人打成这样了 (ーー゛)"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：我不就偷了点。。。，呸，出家人那叫化缘，化缘了一点东西吗，真是的"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：和尚也能喝酒？？，世道变了啊"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：算了，先带你打出去吧 ╮（﹀_﹀）╭"/>
+	</plots>	
+	<plots dungeonID="30008" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：我是谁，我在哪，我怎么没穿衣服 (｀･д･′)"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：你是唐僧，你在山洞，我帮你把衣服脱了，顺便扔河里涮了涮 ╮(﹀_﹀”)╭"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：。。。。。。(｡ŏ_ŏ)"/>
+	</plots>	
+	<plots dungeonID="30009" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：吐完了？赶紧穿衣服，然后告送我怎么成佛"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：哦，是观音姐姐让你来的啊，早说嘛，跟我走就行了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：只要找齐经书就行了，现在经书都在妖怪手里"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：找到妖怪，收回经书就行，咦我的探妖器呢"/>
+	</plots>	
+	<plots dungeonID="30010" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：来介绍你认识一下，这是我找的帮手"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：弟弟，以后记得叫哥哦 (￣_,￣ )"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：。。。。。。(*￣︿￣)"/>
+	</plots>	
+	<plots dungeonID="30010" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：知道谁是大师兄了吗？？(≖◡≖)"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：师父，大师兄欺负人 (ಥ_ಥ)"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：好了好了，别哭了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：这就是你说的帮手？？这就是传说中的猪队友，和单机玩家吧(ー`´ー)"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：我不是还有马吗，你看我跑的多快啊 ;(*￣▽￣*)/"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：为了能打妖怪，包吃包住，我忍了(ー`´ー)"/>
+	</plots>	
+	<plots dungeonID="30011" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这钦法国，不把路修好了，建这么多庙干啥 (￢‸￢) ?"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：一心向佛这是好事啊，说明大家都很善良(＾－＾)"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父说的对 ＜（＾－＾）＞"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：呵呵（ ￣-￣）"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：沙师弟别在那傻笑了，一会再把行李打破了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：不会的，这辈子都不会打破东西了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：探妖器有反应了，快追"/>
+	</plots>	
+	<plots dungeonID="30014" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：师父这是打错的第三个人了吧，你哪个什么针，真的没问题吗"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：嗯。。。。。。"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父怎么会错呢，是你打太快了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：呵呵（ ￣-￣）"/>
+	</plots>	
+	<plots dungeonID="30017" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这个妖怪肯定有经书，你看他跑的多帅啊 ^_^&quot;"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：。。。。。。(ーー゛)"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：。。。。。。(ーー゛)"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：帅。。。那帅？(｡ŏ_ŏ)"/>
+	</plots>	
+	<plots dungeonID="30020" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：看我说的没错吧，他用经书了 (‾◡‾)"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：看到了，看我怎么冲过去收拾他"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：你上，我来保护师父 (`･ω･´)"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：重担在身，不能上前 (`･ω･´)"/>
+	</plots>	
+	<plots dungeonID="30021" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你俩就不能帮我打打杂鱼"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：杂鱼？，我来 ヾ(≧O≦)〃嗷~"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：(￣口￣)!! 师父别冲动啊，冲动是魔鬼 "/>
+	</plots>	
+	<plots dungeonID="30025" condition="1" > 	
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：你们打的好开心啊，可惜我重担在身(`･ω･´)"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：你们干啥，还想抢行李，看我的厉害 (╰_╯)"/>
+	</plots>	
+	<plots dungeonID="30025" condition="2" > 	
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：哼，抢我行李的都要去死，你们谁还来;(｀^′);"/>
+	</plots>	
+	<plots dungeonID="30029" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：妖怪你受死吧，哈哈哈，果然不堪一击(´ｰ∀ｰ`)"/>
+	</plots>	
+	<plots dungeonID="30029" condition="2" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父经书在此=￣ω￣="/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：八戒，干的好(๑•̀ㅂ•́)و✧"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：不是，这妖怪是我打死的啊 (｀･д･′)"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：传说中的抢人头"/>
+	</plots>	
+	<plots dungeonID="30030" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这经书还是藏到观音姐姐给的宝贝里好了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：师父，你看再打下去容易出人命啊，你看二师兄猪头都大了一圈了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：嗯，应该能买个好价钱啊，不知道口感咋样"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：。。。。。。猪耳朵能分我一个吗？(๑;؂;๑）"/>
+	</plots>	
+	<plots dungeonID="30031" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这比丘国人挺多啊，前面这是排队的吗？"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：这是卖好吃的吗？这么多人 一 一✧"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：待我前去看看"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：有好酒记得帮我抢两瓶 (￣～￣)"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：好吃的记得帮我捎几个 (￣～￣)"/>
+	</plots>	
+	<plots dungeonID="30033" condition="2" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这都啥时候了，还不回来，不会是把好酒都喝了吧"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：对对，肯定是，师父把他开了吧，我来接替大师兄的位置"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：八戒，你说啥，再说一遍 (╬▔皿▔)"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：没有没有，呵呵，天气真好，师兄尝尝我做的蛋糕 (^～^;)"/>
+	</plots>	
+	<plots dungeonID="30035" condition="2" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空，打完了吗，说说啥情况吧"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：里面有几个和尚在算命，据说算的很准"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：没有酒啊，算了不去了 (◞‸◟ )"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：我觉得二师兄需要算一下，还能活多久（ ￣-￣）"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：有道理，看看啥时候有下酒菜 (ˇˍˇ)"/>
+	</plots>	
+	<plots dungeonID="30039" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：等等，别闹了，探妖器有反应了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：这和尚应该是妖怪假扮的 o_o？"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这是找死啊"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：大师兄上，打他个万多桃花开 （￣︶￣）↗"/>
+	</plots>	
+	<plots dungeonID="30040" condition="1" >	
+		<plot headIcon="card_3011" headPos="1" text="假僧人：长老求放过啊，我这是凭本事吃饭啊，能不能放过我 〒▽〒"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：本事？，算命的都是骗子"/>
+		<plot headIcon="card_3011" headPos="1" text="假僧人：不是啊，我的法力能感知未来，真的是算命，不是忽悠，不然哪能这么多人啊"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：那这么多废话，先打了再说 (*￣︿￣)"/>
+		<plot headIcon="card_3011" headPos="1" text="假僧人：呜呜呜 o(╥﹏╥)o"/>
+	</plots>	
+	<plots dungeonID="30040" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：果然是有经书啊"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：嗯，看来打对了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：靠，没抢到经书 (*￣︿￣)"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：还想让他帮我算命呢，下手太快了 (*￣︿￣)"/>
+	</plots>	
+	<plots dungeonID="30041" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：比丘国的夜宵有这么好吃吗，这都打半天了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：呆子，死缠烂打是吗，信不信我一棒拍死你 (ー`´ー)"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：不行，那个包子是我的，我死也不放手  o(一︿一+)o"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：咦，包子呢，师父你不是不吃吗(‧_‧?)"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：我只喝酒，要不你问问可爱的三师弟"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：好像有人谈论妖怪，我去打探一番，你们继续 (°-°〃)"/>
+	</plots>	
+	<plots dungeonID="30043" condition="1" >	
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：师父，好像真有妖怪在此地"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：听说皇子重病，重金招募名医，据说一个长相怪异的人说能治这个病"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：但是外面盛传此人吃生肉，饮兽血，可能是妖怪"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：嗯，是该好好探查一下 "/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：等等，那个包子是不是你吃的(ー`´ー)？？？"/>
+	</plots>	
+	<plots dungeonID="30045" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：一个包子引发的血案完结了吧，你们去找找线索吧，看看是不是真有妖怪"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：最好能找到经书 ;(￣︶￣);"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：请假，我要养伤，唉我的老腰啊"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：不批，赶紧的(*￣︿￣)"/>
+	</plots>	
+	<plots dungeonID="30050" condition="2" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：都回来了，有消息了吗？"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：打了9个侍卫，都说是个妖怪(￣︿￣)"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：红楼的姑娘说，是个妖怪，而且不让人服侍(￣︿￣)"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：就是妖怪，而且要用年龄百岁以上的老者之血为药引"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你怎么知道的(￢‸￢) ?"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：揭了皇榜进宫里看看就行了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：还有这种操作(‧_‧?)，你还真是聪明啊"/>
+	</plots>	
+	<plots dungeonID="30051" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：既然知道是妖怪了，是不是制定个计划"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：师父说的有道理(o゜▽゜)o☆"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：我觉得应该先找找大师兄，我说完了它就走了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：不是吧，这急脾气（*゜ー゜*）"/>
+	</plots>	
+	<plots dungeonID="30055" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空啊，你就这么打进来了啊(￣△￣；)"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：就是，你说你怎么这么冲动呢(* ￣︿￣)"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：不打进来，你告送我怎么进来o(￣ヘ￣o＃)"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：我不是说了吗揭皇榜嘛( ¬､¬)"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：额。。。你啥时候说的，我怎么没听见(°ー°〃)"/>
+	</plots>	
+	<plots dungeonID="30058" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：妖怪，哪里走"/>
+		<plot headIcon="card_4161" headPos="2" text="老国王：长老你就高抬贵手吧，让它救了我孩子再杀不迟啊╥﹏╥"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这妖怪蛊惑人心，就为了吃人才骗你的"/>
+		<plot headIcon="card_4161" headPos="2" text="老国王：可是这药是真的见效的，我孩子现在一天天好转啊"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：别被他骗了，你见过那个妖怪是好人的(￣︿￣)"/>
+	</plots>	
+	<plots dungeonID="30058" condition="2" >	
+		<plot headIcon="card_4131" headPos="1" text="吸血魔：今天杀了我，这个孩子的性命肯定不保了(′⌒`)"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：不杀你就能长寿了？"/>
+		<plot headIcon="card_4131" headPos="1" text="吸血魔：唉，国王，多谢你当年猎场的不杀之情了，可是无法报答了"/>
+		<plot headIcon="card_4131" headPos="1" text="吸血魔：就差这最后一副药了╥﹏╥"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：那这么多话，还依依惜别上了，看棒(ー`´ー)"/>
+	</plots>	
+	<plots dungeonID="30059" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这些老者还都活着呢，还有酒有肉的"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：估计妖怪想要养肥了再杀吧(￢‸￢) "/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：外面好像打起来了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：不是堵咱们的吧(‧_‧?)"/>
+	</plots>	
+	<plots dungeonID="30059" condition="2" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这是政变(‧_‧?)"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：好像是啊"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：妖怪死了，人怎么打起来了(⊙ˍ⊙)"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：老国王的几个兄弟都很有野心"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：现在皇子死了，直接开抢(￣△￣；)"/>
+	</plots>	
+	<plots dungeonID="30060" condition="2" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：唉，这真是人间地狱啊"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：都疯了吗，好好的一座城，快毁了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：红楼的姑娘们啊，她们还好吗，马路对面的蛋糕店我还没去呢(◞‸◟ )"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：难道不应该杀了他(*￣︿￣)"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：。。。。。。(￣︿￣)"/>
+	</plots>	
+	<plots dungeonID="30061" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这是哪，怎么这么多妖怪在此，看我大开杀戒(ー`´ー)"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：有人，有妖怪，我是喝多了吗，这狮驼国是个什么情况(＠_＠;)"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父，警察好像来抓咱们的，咱们跑吧"/>
+	</plots>	
+	<plots dungeonID="30064" condition="1" >	
+		<plot headIcon="card_3141" headPos="1" text="警察：胆子不小啊，还敢袭警（＝。＝）"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：都是那只猴子搞得，我只是无辜路人"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：原来你是路人啊，那包里的蛋糕我就自己吃了"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：你敢，老娘和你拼了（╯－_－）╯╧╧"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：你不是路人吗，咱来又不认识 ㄟ( ▔, ▔ )ㄏ"/>
+	</plots>	
+	<plots dungeonID="30066" condition="1" >	
+		<plot headIcon="card_3141" headPos="1" text="警察：你们几个终于老实点了，没见过你们这样的"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：等等，有妖怪的气味，难道这里也有妖怪(￢‸￢) ?"/>
+		<plot headIcon="card_3141" headPos="1" text="警察：你干啥，乱闻什么呢"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：原来你也是妖怪啊，纳命来吧(ー`´ー)"/>
+	</plots>	
+	<plots dungeonID="30070" condition="2" >	
+		<plot headIcon="card_3141" headPos="1" text="警察：你们在警局里袭警的我真是开了眼界了(¬д¬)"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：警察叔叔你好，是我们不懂事，别生气哈(*∩_∩*)"/>
+		<plot headIcon="card_3141" headPos="1" text="警察：行了，现在情况我也解释清楚了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：明白明白，这是个人妖和平相处的国家，以后看见妖怪不会打架了(*∩_∩*)"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：悟空，快道歉(*∩_∩*)"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：好好好，我知道错了（＞人＜；）"/>
+		<plot headIcon="card_3141" headPos="2" text="警察：行了，赶紧走吧，看你们就烦(￣︿￣)"/>
+	</plots>	
+	<plots dungeonID="30071" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：人和妖共同生活，真是奇闻 (￣△￣；)"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空啊，这里千万别乱打妖怪了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：好好好，不打了，不打了(ｕДｕ〃)"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父直接把他开了吧，你看我多乖啊(*∩_∩*)"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：师父你看那边好像出事了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：走瞧瞧去"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这妖怪，竟让光天化日下，残害人类(￣△￣；)"/>
+	</plots>	
+	<plots dungeonID="30073" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：还好我把他制服了"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：这警察，总是最后才来 ╮(╯▽╰)╭"/>
+		<plot headIcon="card_3141" headPos="1" text="警察：多谢你们了，我们要好好审问一下"/>
+	</plots>	
+	<plots dungeonID="30079" condition="2" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：怎么感觉人们看我的眼神怪怪的（￣□￣；）"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：怎么咱们一到这里，就这么多妖怪吃人的事呢"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：明明还是蛋糕好吃吗"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：还好有几个被我制服了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：对啊，那怎么还把咱们当坏人看呢(‧_‧?)"/>
+	</plots>	
+	<plots dungeonID="30080" condition="2" >	
+		<plot headIcon="card_7171" headPos="1" text="弥勒佛：听说取经之人去到了狮驼国"/>
+		<plot headIcon="card_7201" headPos="2" text="燃灯古佛：嗯，我已知晓"/>
+		<plot headIcon="card_7171" headPos="1" text="弥勒佛：是不是应该派人接待一下"/>
+		<plot headIcon="card_7201" headPos="2" text="燃灯古佛：已经派人去了，看看效果如何"/>
+		<plot headIcon="card_7171" headPos="1" text="弥勒佛：最好能把他们留在那里"/>
+		<plot headIcon="card_7201" headPos="2" text="燃灯古佛：对，留下来最好"/>
+		<plot headIcon="card_7201" headPos="2" text="燃灯古佛：留不下也别让他们搅了我的事;(－︿－);"/>
+		<plot headIcon="card_7171" headPos="1" text="弥勒佛：经营多年的狮驼国可不是那么容易乱的(￣_,￣ )"/>
+	</plots>	
+	<plots dungeonID="30081" condition="2" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：你们几个别吵了，追上前面红颜色衣服的妖怪"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：怎么了(‧_‧?)"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：让你追就追，师父什么时候说错过"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：探妖器有反应了，快追"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这里不是有很多妖怪吗(‧_‧?)"/>
+	</plots>	
+	<plots dungeonID="30085" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：怎么还有人类在这里呢(￢‸￢) ?"/>
+		<plot headIcon="card_3011" headPos="2" text="假僧人：这是我的雇主，你们想要问什么问他就好了"/>
+		<plot headIcon="card_4011" headPos="1" text="军人：别和他们废话，直接杀了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：打架，我喜欢ヽ(ﾟ▽ﾟ)ノ"/>
+	</plots>	
+	<plots dungeonID="30089" condition="2" >	
+		<plot headIcon="card_4011" headPos="1" text="军人：别，别杀我 o(╥﹏╥)o"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：你为什么要这么做呢，对你有什么好处(￢‸￢) ?"/>
+		<plot headIcon="card_4011" headPos="1" text="军人：非我族类其心必异，当然要想办法把妖怪都赶走了"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：这人比妖怪还坏啊(￣︿￣)"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：算了，把经书收回就好了，人就放了吧(￣︿￣)"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：这就放了，真想一棒子下去算了(ー`´ー)"/>
+	</plots>	
+	<plots dungeonID="30090" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：为什么这些人反而堵着我们呢(‧_‧?)"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：这是什么情况，把我们当坏人了(‧_‧?)"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：唉，看来需要用法宝来证明清白了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：你看这个视频没有，是他想要把妖怪赶出城去的"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：不是我们滥杀无辜的，可以让开路了吗"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：人群总算散开了(ーー゛)"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：可是，怎么感觉人和妖现在都有点怪怪的呢"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：不知道下次再来狮驼国会变成什么模样"/>
+	</plots>	
+	<plots dungeonID="30090" condition="2" >	
+		<plot headIcon="card_7141" headPos="1" text="如来：狮驼国这点事办好了"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：应该已经结束了"/>
+		<plot headIcon="card_7141" headPos="1" text="如来：在我眼皮下做这种小动作(￣_,￣ )"/>
+		<plot headIcon="card_7141" headPos="1" text="如来：还想拦截他们四人(￣_,￣ )"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：是啊，正好借次机会铲除了 ╰(￣▽￣)╭"/>
+		<plot headIcon="card_7141" headPos="1" text="如来：仇恨种子已经种下了，狮驼岭早晚也是一片焦土"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：估计用不了多久的，您大可放心"/>
+	</plots>	
+	<plots dungeonID="30091" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空想啥呢？？"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：妖怪杀了不少，可是结局都不怎么好(◞‸◟ )"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：能收回经书就行，赶紧完成任务是真的"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：只要我的行李没事就行"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空别多想了，你看前面是个度假村"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：为师准假，一起去休息放松一下;(￣︶￣);"/>
+	</plots>	
+	<plots dungeonID="30095" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这哪是放松，又爬山，又下海(￣︿￣)"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：沙师弟，佩服啊，这都要把行李背着"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：嗯嗯，行李必须我自己拿着，万一打碎了可不行"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：还好这的老板娘比较温柔可爱（*＾-＾*）"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：一股妖气，你不会看不出来吧(￣︿￣)"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：嗯，不过人家好好做生意不用管了吧（＾-＾）"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：还是需要调查一下的，知人知面不知妖啊"/>
+	</plots>	
+	<plots dungeonID="30100" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：老板娘，这都是误会〒▽〒"/>
+		<plot headIcon="card_5101" headPos="2" text="蜘蛛精：误会，你们都快把我的店给拆了(ー`´ー)"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空啊，让你探查，你这太直接了(-｡-;）"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：你又没说暗查对吧"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：嗯，有道理，无法反驳(￣△￣；)"/>
+	</plots>	
+	<plots dungeonID="30103" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这位女妖精施主，咱们也是不打不相识嘛嗯~(￣▽￣)o"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：对对，都是那只猴子弄得，不是我们"/>
+		<plot headIcon="card_5101" headPos="1" text="蜘蛛精：嗯，算了，反正我这里就是正常经营"/>
+		<plot headIcon="card_5101" headPos="1" text="蜘蛛精：你们别再捣乱就行了，还是我们的客人"/>
+	</plots>	
+	<plots dungeonID="30106" condition="1" >	
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：二师兄，这么晚才回来啊"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：你别这么大声好吗"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：大家都没睡呢，就等你了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：嗯嗯，蛋糕都吃光了吗，一点没剩？？"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：。。。。。。我这也是为了赔礼道歉嘛"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：行了，道歉完了，看看这信吧，你做的蛋糕可能喂给黑心的妖怪了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：走吧，正好是晚上，看看信里说的地方到底有什么蹊跷吧"/>
+	</plots>	
+	<plots dungeonID="30109" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：果然妖怪就不能留着"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：这蜘蛛精很厉害啊，把人困得严严实实的"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：妖怪来了，可以天降正义了"/>
+	</plots>	
+	<plots dungeonID="30110" condition="1" >	
+		<plot headIcon="card_5101" headPos="1" text="蜘蛛精：别杀我，我没做坏事"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：杀了这么多人，还敢求饶"/>
+		<plot headIcon="card_5101" headPos="1" text="蜘蛛精：这些都是坏人，他们不是地方一霸就是贪官污吏"/>
+		<plot headIcon="card_5101" headPos="1" text="蜘蛛精：这个园子就是用它们的黑钱支撑起来的"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：无故杀人就是不对的，来吧接受正义的制裁吧"/>
+	</plots>	
+	<plots dungeonID="30110" condition="2" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：怎么就是吃人的妖怪呢，明明那么温柔"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：这还有账本呢，妖怪也开始记账了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：这还真是贪官污吏比较多啊"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：果然还有经书啊，这妖怪打得没错"/>
+		<plot headIcon="card_3081" headPos="1" text="商人：谢谢你们救了我，太感谢了"/>
+		<plot headIcon="card_3081" headPos="1" text="商人：我再朱紫国做生意，你要是来朱紫国记得找我"/>
+	</plots>	
+	<plots dungeonID="30111" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这朱紫国怎么一幅破败的景象呢"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：是啊，这地方能有酒馆吗（╯＾╰）"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：。。。难"/>
+	</plots>	
+	<plots dungeonID="30113" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空啊，你以后推门啥的能不能轻点"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这都打了好几架了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：谁知道这地方这么多流浪汉，再说师父你不是说黑的地方有酒吧吗"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：感觉这里人们连饭都吃不上了吧"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：风不调雨不顺，不是地震就是暴雨，生活都困难啊"/>
+	</plots>	
+	<plots dungeonID="30116" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：可算找到酒馆了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：在打了无数架，转了半个城之后找到的"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：师弟，能不说的这么直白嘛"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：师弟，蛋糕，我饿坏了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：老板，酒，有多少上多少"/>
+	</plots>	
+	<plots dungeonID="30119" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：老板酒还有吗"/>
+		<plot headIcon="card_4021" headPos="2" text="酒店老板：没了，就剩这点了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：没了吗，那故事还有吗"/>
+		<plot headIcon="card_4021" headPos="2" text="酒店老板：孔雀明王的故事还没听够呢"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这孔雀明王菩萨竟然这么记仇"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：一千年了，也太记仇了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：对了老板，你这酒都没了，还开啥酒馆啊"/>
+		<plot headIcon="card_4021" headPos="2" text="酒店老板：这块地也让人收了，还开啥啊"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这不是还有故事嘛"/>
+	</plots>	
+	<plots dungeonID="30120" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这开发商太可恨了，都已经民不聊生了还趁机压价"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：这人在哪，我们找他聊聊人生"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：对对，聊聊人生"/>
+	</plots>	
+	<plots dungeonID="30121" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：看着金碧辉煌的屋子就知道不是好人"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：对对，师父好眼力"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：别拍马屁了，大师兄已经打进去了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：真快啊，拦都拦不住啊"/>
+	</plots>	
+	<plots dungeonID="30123" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：原来是你啊，看来你真不是什么好人"/>
+		<plot headIcon="card_3081" headPos="2" text="商人：几位恩人前来，不用打进来吧"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：别喊我们恩人，早知道你是这样的为人，我们就不应该救你"/>
+		<plot headIcon="card_3081" headPos="2" text="商人：这是不是误会了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：那你说说那个城角的酒馆是怎么回事"/>
+		<plot headIcon="card_3081" headPos="2" text="商人：你们听我解释啊"/>
+	</plots>	
+	<plots dungeonID="30126" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这就是你的理由"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：你这个坏人，做坏事还要找理由"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：杀了算了"/>
+	</plots>	
+	<plots dungeonID="30130" condition="2" >	
+		<plot headIcon="card_3081" headPos="1" text="商人：各位长老饶命啊"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：刚才还敢反抗，你胆子不小嘛"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：杀了吧，留着过年吗"/>
+		<plot headIcon="card_3081" headPos="2" text="商人：我收购酒馆加钱还不行吗"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：得饶人处且饶人吧"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：把你家酒窖的藏酒拿出来让我们庆祝一下吧"/>
+		<plot headIcon="card_3081" headPos="2" text="商人：好好，放我一条生路就行"/>
+	</plots>	
+	<plots dungeonID="30131" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：老板，帮你把不良商人解决了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：顺便帮你弄来点好酒"/>
+		<plot headIcon="card_4021" headPos="2" text="酒店老板：多谢几位长老了"/>
+		<plot headIcon="card_4021" headPos="2" text="酒店老板：不知几位能不能帮着把这妖魔收服了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：再酿几坛好酒再说"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：还有蛋糕"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：有妖怪打就行"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：唉、、、可别碰坏了行李"/>
+	</plots>	
+	<plots dungeonID="30133" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：师父，探妖器又㕛叒坏了？？"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：呵呵，可能是吧^_^;"/>
+	</plots>	
+	<plots dungeonID="30136" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：我说怎么没反应呢，他带了一根羽毛，遮掩了妖气"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：这个孔雀明王真是，真想去揍他一顿"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：唉，人家孩子被误杀了，也是人之常情"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：这祸害了近千年了，也没神仙来管管"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：人家后台硬啊，后台是。。。呜呜"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：别说出来，说出来会死的"/>
+	</plots>	
+	<plots dungeonID="30140" condition="2" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这妖怪还带着经书，省的我们费时间找了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：就因为自己的私仇，祸害这里近千年"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：成不成佛还有什么意义呢"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：你若不成佛，如何去揍孔雀明王"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：现在你可打不了，你找都找不到他"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：成佛也打不过吧"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：别打坏我行李，呜呜"/>
+	</plots>	
+	<plots dungeonID="30141" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这是到了那里，怎么都是念经的"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：不行，太吵了"/>
+		<plot headIcon="card_4051" headPos="2" text="信徒：前方就是小雷音寺，路上这些人都是在诵经祈福呢"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你也是去小雷音寺吗？？"/>
+		<plot headIcon="card_4051" headPos="2" text="信徒：对的我也是区小雷音寺的，我这次是来还愿"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：哦哦，正好顺路就结伴而行吧"/>
+		<plot headIcon="card_4051" headPos="2" text="信徒：好的，正好还能和各位长老探讨佛法"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：额。。。"/>
+	</plots>	
+	<plots dungeonID="30143" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这路上怎么还有拦路抢劫的"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：这前方就是寺庙，庙中僧人竟然不管管吗"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：管啊，死后会帮你超度的"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：。。。。。。"/>
+		<plot headIcon="card_4051" headPos="2" text="信徒：。。。。。。"/>
+	</plots>	
+	<plots dungeonID="30146" condition="2" >	
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：这就是雷音寺，果然不同凡响"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：真是佛法昌盛啊，可惜我不喜欢听人念经"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：同路的那位朋友呢，突然就不见了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：是啊，不会是偷东西的吧，我赶紧看看行李"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这不可能，一路上一直念经来着，这种信佛之人怎会偷盗"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：咦，师父你衣服怎么破了一块啊"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：我看看，被偷了，快抓小偷啊"/>
+	</plots>	
+	<plots dungeonID="30150" condition="2" >	
+		<plot headIcon="card_4181" headPos="1" text="寺院长老：你看这也不能怪我，谁让你们突然大吼大叫呢"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：我喊的抓小偷啊，又不是烧寺庙"/>
+		<plot headIcon="card_4181" headPos="1" text="寺院长老：这不正是早课时间吗，大家都很安静突然间这么一闹"/>
+		<plot headIcon="card_4181" headPos="1" text="寺院长老：误会，都是误会"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：还不是看打不过我才肯停下来听我们解释的"/>
+	</plots>	
+	<plots dungeonID="30151" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：师父，你那个什么器，能找到经书吗"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：不能啊，只能找到妖怪，经书什么的都是靠我感知的"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这可怎么办呢"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：沙师弟，你在找啥呢"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：路上问了他住址，看看他家住哪"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟净啊，你这是立了大功了"/>
+	</plots>	
+	<plots dungeonID="30153" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这是人住的地方"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：这是住所，这就是个棚子吧"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：您好，您知道xxx吗"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：哦，好的，知道怎么走了"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：走吧，就在前面了"/>
+	</plots>	
+	<plots dungeonID="30156" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：把你偷得东西交出来"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：你我也算有缘，若是有难处直接说出来就好"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：何必做这偷盗之事呢"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：别害怕，吃块蛋糕压压惊吧"/>
+		<plot headIcon="card_4051" headPos="2" text="信徒：其实我也不想，是佛祖显灵，托梦让我这么做的"/>
+		<plot headIcon="card_4051" headPos="2" text="信徒：说是盗取经书，烧了就会保我一生平安"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这种鬼话你也信"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：少了一本，你不会真烧了吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：等等，附近有妖怪"/>
+	</plots>	
+	<plots dungeonID="30159" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：没想到是你啊，你个假和尚，都混到雷音寺主持了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：这探妖器竟然也有失灵的时候"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：师父，说实话吧，是不是并夕夕买的吧"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：妖怪，今天就是你的死期"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空下手轻点"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：不用了，快拆完了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父，躲远点吧，容易误伤"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：唉，打完赶紧跑路，强拆都没你们快"/>
+	</plots>	
+	<plots dungeonID="30160" condition="2" >	
+		<plot headIcon="card_7141" headPos="1" text="如来：这燃灯和弥勒，真是不让人省心啊"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：他们再怎么折腾还不是白费"/>
+		<plot headIcon="card_7141" headPos="1" text="如来：说的也是，此事过后，他们也该收敛一些了"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：如此最好"/>
+		<plot headIcon="card_7141" headPos="1" text="如来：他们四人后面的路可就不好走了"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：您是说，天界和老君他们会阻挠"/>
+		<plot headIcon="card_7141" headPos="1" text="如来：不止啊，不过第一个目标已经达成，后面，嗯。。。"/>
+	</plots>	
+	<plots dungeonID="30161" condition="1" >	
+		<plot headIcon="card_6141" headPos="2" text="唐僧：继续走吧，前路漫漫呢"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：可是师父，这一路怎么感觉不对呢"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这妖怪，又是当和尚、又是受菩萨指使"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：人也不是什么好人，妖也不全像坏人"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我们还用收回经书吗"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：成佛还有什么意义"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：不成佛，你怎么才能改变这些呢"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：只有我们将经书收回，成佛之后，才有机会实现你的想法"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：走吧，前路漫漫，成佛之路更是漫长"/>
+	</plots>	
+	<plots dungeonID="30163" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父，去前面的学校休息一下吧"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：为什么去学校，又没有妖怪，也没有经书"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：是啊，也不卖酒"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：呵呵，还不是因为有学妹"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：沙师弟，你能闭嘴吗"/>
+	</plots>	
+	<plots dungeonID="30166" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：怎么这里有种熟悉的感觉呢"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：是啊，这里还保留了一些古代建筑"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：好像是个佛塔"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：佛塔？，进去看看吧"/>
+	</plots>	
+	<plots dungeonID="30169" condition="1" >	
+		<plot headIcon="card_5031" headPos="1" text="龙婆：原来是你们"/>
+		<plot headIcon="card_5031" headPos="1" text="龙婆：你来了是不是应该把握放出去了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：你是谁啊，我怎么一点印象都没了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：没有，不认识，我没钱，没手机"/>
+		<plot headIcon="card_5031" headPos="2" text="龙婆：看来是转世后，过去的记忆已经全忘了"/>
+	</plots>	
+	<plots dungeonID="30170" condition="1" >	
+		<plot headIcon="card_5031" headPos="1" text="龙婆：没关系，只要长老，帮我把地上的绳子解开就行"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：这个好说，不过这塔里有没有好酒啊"/>
+		<plot headIcon="card_5031" headPos="1" text="龙婆：有的啊，您快快帮我解开吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：怎么感觉有诈呢，算了，多做点善事吧"/>
+	</plots>	
+	<plots dungeonID="30173" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：你这个老巫婆，我好心救你，你怎么还要杀我"/>
+		<plot headIcon="card_5031" headPos="2" text="龙婆：当年要不是你们四个，我也不会家破人亡"/>
+		<plot headIcon="card_5031" headPos="2" text="龙婆：还被困在这里千年，你们纳命来吧"/>
+	</plots>	
+	<plots dungeonID="30176" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这龙婆，实力一般，武器缺很厉害"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：大师兄加油"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：八戒，你是去帮帮他吧"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这武器真是太强了"/>
+	</plots>	
+	<plots dungeonID="30180" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：老婆子，你可以了，逼的我们三兄弟一起出手"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：是啊，累死我了，需要吃不少蛋糕才能补回来"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：九头虫，这匕首上刻的就是你的主人吧"/>
+		<plot headIcon="card_5031" headPos="2" text="龙婆：等我女婿回来你们都要给我陪葬"/>
+	</plots>	
+	<plots dungeonID="30180" condition="2" >	
+		<plot headIcon="card_7101" headPos="1" text="九头虫：哎呀呀，只是这种程度还是不行啊"/>
+		<plot headIcon="card_4031" headPos="2" text="太白金星：你不亲自出手吗"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：你家天庭的事，我可不想参与太多"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：尤其是还会招惹如来那个危险的家伙"/>
+		<plot headIcon="card_4031" headPos="2" text="太白金星：可是我们的合作，你可别忘了"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：放心，不会让他们得逞的"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：除非你们另有交易，谈的怎么样了"/>
+		<plot headIcon="card_4031" headPos="2" text="太白金星：呵呵，还没，还没正式谈"/>
+	</plots>	
+	<plots dungeonID="30181" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这个九头虫到底是谁啊"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：师父，当年你是欠了多少酒钱"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：是不是酒后做了什么事吧"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空啊，八戒说你丑"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：师父我错了，别这样害我啊"/>
+	</plots>	
+	<plots dungeonID="30183" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：怎么天这么热了，这是到哪了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：啊，酒呢，我要喝冰啤酒"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你就忍着吧，有水就不错了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：嗯，我看看地图"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：附近有个妖洞，可以乘凉"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：妖洞，好啊，走着"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：好，打妖怪去了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：不是碰见妖怪应该躲吗"/>
+	</plots>	
+	<plots dungeonID="30186" condition="1" >	
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：我当是谁呢，原来是六弟啊"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：你说的是我？？，我不认识你啊"/>
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：贤弟不必客气，来进来吃酒"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：酒，走啊，肯定是熟人"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这就进妖窝了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：对啊，进妖窝了，呵呵，呵呵"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：沙师弟，你的表情有点可怕"/>
+	</plots>	
+	<plots dungeonID="30188" condition="1" >	
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：这位，是二师弟吧，吃啊，不用客气"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：呵呵，我不饿，我减肥"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：你天天蛋糕没断过，减肥？？"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：八戒放心吧，我这都吐了3次了，不会有毒的"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：吃吧，挺好吃的"/>
+	</plots>	
+	<plots dungeonID="30190" condition="1" >	
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：六弟啊，听说你要去收回经书"/>
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：我稍稍劝你一句，凡事手下留情"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：放心，只要不来惹我，我都不会怎样的"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：但是，要是敢来惹事，一棒一个，纷纷打死"/>
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：唉，六弟，你还这这样刚烈啊"/>
+	</plots>	
+	<plots dungeonID="30190" condition="2" >	
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：吃饱喝足了，各位长老也该上路了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：嗯嗯，对一起上路"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：上路，啊，我就说不能进来吗"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：八戒，你咋晕了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：喝多了？，喝水也能醉"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：算了，悟空你背着他吧"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：靠"/>
+	</plots>	
+	<plots dungeonID="30191" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：呆子，你再不醒来，我就把你扔河里了"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：好好，别扔，我这就下来"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：好了，醒了就快走吧"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：今天师父怎么没喝酒啊，还这么急着赶路"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：还不是因为快到女儿国了嘛"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：女儿国。。。睡什么觉，起来赶路"/>
+	</plots>	
+	<plots dungeonID="30195" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：叫你们趁夜赶路吧，遇到盗贼了吧"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：谁让赶路的谁去打吧"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：大师兄，你不能不管我们啊"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：大师兄，他的蛋糕可从来没分给过你哦"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：别吵了，快来救救我"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：我要被妖怪抓走了"/>
+	</plots>	
+	<plots dungeonID="30200" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：竟然真是妖怪"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我还以为就是普通山贼呢"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：还是师父厉害，是人是妖一下就看出来了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：额，我也是吓喊得，好像这词比较熟"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：不知道他们怎么弄得，一点妖气也没有"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：而且好像是赶来的"/>
+	</plots>	
+	<plots dungeonID="30201" condition="1" >	
+		<plot headIcon="card_4031" headPos="1" text="太白金星：你这招不行啊"/>
+		<plot headIcon="card_7101" headPos="2" text="九头虫：竟然趁夜赶路，难道我的计划被识破了"/>
+		<plot headIcon="card_7101" headPos="2" text="九头虫：这猴子可以，还是这么精明"/>
+		<plot headIcon="card_4031" headPos="1" text="太白金星：过了女儿国可就快到东土了"/>
+		<plot headIcon="card_7101" headPos="2" text="九头虫：放心，不行我就下杀手了"/>
+		<plot headIcon="card_7101" headPos="2" text="九头虫：或者，在女儿国也可以用些手段"/>
+	</plots>	
+	<plots dungeonID="30203" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这不是女儿国吗，怎么这么多男的"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：而且也是太挤了吧"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：最后还是靠我杀出一条血路"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：大师兄能说的不这么瘆人吗"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：前面是有表演吗，过去看看吧"/>
+	</plots>	
+	<plots dungeonID="30204" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这就是你们挤进来报名的目的"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：我们也是糊里糊涂报的啊"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：就他，你觉得能让女王选中，做国王吗"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：不过师父好像也报名了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：。。。。。。"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：没事，这是比武招亲，师父喝酒还行，比武选不中的"/>
+	</plots>	
+	<plots dungeonID="30206" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：不对，对面的似乎不是人类"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：看来需要上去帮忙了"/>
+	</plots>	
+	<plots dungeonID="30210" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：应该没有妖怪了，妖怪的气息消失了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：嗯嗯，探妖器也没啥反应"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：那你也该下场了吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：你看，女王一直在看我，不好直接退场吧"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：我觉得女王在看大师兄呢"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：算了，我先下去了"/>
+	</plots>	
+	<plots dungeonID="30211" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：还好没打赢"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：哎，要是换我就好了"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：二师兄，你是女王直接刷下去的吧"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：沙师弟，你话真多啊，我帮你把嘴缝上吧"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：唉，我的女王啊，酒呢"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：师父，好像还有宴会，应该有酒的"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：有酒，走去宴会"/>
+	</plots>	
+	<plots dungeonID="30214" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这是她的喜宴啊，算了喝酒吧"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这酒不错啊，正好借酒消愁啊"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：这蛋糕，刚好填补我的空虚"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：没架打不开心"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：别动我行李，不然我打人了"/>
+	</plots>	
+	<plots dungeonID="30216" condition="1" >	
+		<plot headIcon="card_5011" headPos="1" text="女儿国国王：各位长老好"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：女王好啊，恭喜您选的如此好的夫婿"/>
+		<plot headIcon="card_5011" headPos="1" text="女儿国国王：唐长老过谦了，其实我本人更希望和您结为伉俪"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：女王，那我呢"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：八戒别闹，这位国王大人不知是何方高人啊"/>
+		<plot headIcon="card_5151" headPos="2" text="驸马：我是东土而来，真是有幸来此啊"/>
+		<plot headIcon="card_5151" headPos="2" text="驸马：不知几位长老何处来啊"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：来自西天"/>
+		<plot headIcon="card_5151" headPos="2" text="驸马：西方，妖魔众多，不知几位是怎么出来的"/>
+		<plot headIcon="card_5151" headPos="2" text="驸马：看几位天赋异禀，应该是妖怪化身吧"/>
+		<plot headIcon="card_5151" headPos="2" text="驸马：来人，把他们四个抓起来"/>
+		<plot headIcon="card_5011" headPos="1" text="女儿国国王：等等，你这是要干什么"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：要干架呗，刚好我喜欢"/>
+	</plots>	
+	<plots dungeonID="30220" condition="2" >	
+		<plot headIcon="card_5011" headPos="1" text="女儿国国王：这就是我选中的夫君，竟然是如此丑陋的妖怪"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：嗯嗯，已经被我一棒敲死了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：女王陛下，您看，这是不是第二名可以替补了吧"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：师父还是跑路吧，卫兵过来了"/>
+		<plot headIcon="card_5011" headPos="1" text="女儿国国王：没事我会和他们说清楚的"/>
+		<plot headIcon="card_5011" headPos="1" text="女儿国国王：哎，怎么都不听我命令了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：被人控制了？，这让我怎么打"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：不知道控制他们的妖怪在哪啊"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：外面好像有动静，不会被包围了吧"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：还不快跑"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：只能如此了，陛下，有缘在见了"/>
+	</plots>	
+	<plots dungeonID="30224" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这一路，跑的腿都断了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：叫个车吧，也让为师休息一下"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：你不是一直骑马吗"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：马怎么办？？"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：没事，他自己认路的，是吧小白龙"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：好好，一起坐车"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：正好路过通天河，据说那座大桥相当壮观"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：别掉河里就行"/>
+	</plots>	
+	<plots dungeonID="30226" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这车开的太刺激了"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：不行了我要吐了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：看看我吐的，看一下就吐了吧"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：要上桥了，还这么快，没问题吗"/>
+	</plots>	
+	<plots dungeonID="30230" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这个不知道死的竟敢要挟我们"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：啊，下车真是好受多了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：还真是差点冲进河里"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：还好悟空你这棒子打的及时啊"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：这人都疯了吗，真是明目张胆的抢劫"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：还想跑，在我手中就没有跑的了的"/>
+	</plots>	
+	<plots dungeonID="30230" condition="2" >	
+		<plot headIcon="card_7101" headPos="1" text="九头虫：牛魔王，你这注意还不错，可惜差了一点点"/>
+		<plot headIcon="card_7191" headPos="2" text="牛魔王：这老鼋，当年就要成仙了，被他们四人给耽误了"/>
+		<plot headIcon="card_7191" headPos="2" text="牛魔王：就算转世为人，这仇恨也难消的"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：随便用点法术，就能轻易控制"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：还不留痕迹，真是妙计"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：可惜功败垂成了"/>
+		<plot headIcon="card_4031" headPos="2" text="太白金星：下面，需要两位亲自动手了"/>
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：这。。。，怎么也是拜过兄弟的"/>
+		<plot headIcon="card_7101" headPos="2" text="九头虫：我亲自来就足够了"/>
+		<plot headIcon="card_7101" headPos="2" text="九头虫：不过关键时候，还是要以大局为重的，牛兄"/>
+	</plots>	
+	<plots dungeonID="30231" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这雨下的，没完没了啊"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：这雨天就仿佛我现在的心情啊"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父是不是有喝醉了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：从女儿国出来后天天这样，应该习惯了吧"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这天气，还有人在庙里拜佛啊，心太诚了吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：去看看吧，万一是妖怪作祟呢"/>
+	</plots>	
+	<plots dungeonID="30233" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：想不到这雨竟然下了千年"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：怪不得祈福呢，不过是求雨停"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：可是已经打死这么多小妖了，也没用"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：难道不是妖怪作祟"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：不会是老天爷干的吧"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：这简单，上天问问就行"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：我去，大师兄你这是要上天啊"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：我试试，我觉得我应该能上天"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：上天，算了吧，不想再上天了"/>
+	</plots>	
+	<plots dungeonID="30234" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：天上就是这样的，这么大地方，感觉好像来过"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我该找谁呢，还有路牌啊，雷公电母，应该是他们管吧"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你好，道童，这里可是雷公电母的住处"/>
+		<plot headIcon="card_5071" headPos="2" text="仙童：是的，请问您是"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我是去东土取经人"/>
+		<plot headIcon="card_5071" headPos="2" text="仙童：一介凡人，你怎么上来的，滚出去"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：看来神仙居所，也是要打进去的"/>
+	</plots>	
+	<plots dungeonID="30240" condition="2" >	
+		<plot headIcon="card_5131" headPos="1" text="雷公：原来是大圣啊，你们连大圣也不认得了"/>
+		<plot headIcon="card_5131" headPos="1" text="雷公：大圣一向可好，有何事找小仙啊"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：停雨，帮我把车迟国的雨停了"/>
+		<plot headIcon="card_5131" headPos="1" text="雷公：这事可不好办啊，这雨不是我找来的，也就没办法停"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：你可知这雨何处来的吗"/>
+		<plot headIcon="card_5131" headPos="1" text="雷公：当年可是你求来的，解铃还需系铃人"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：我？，我怎么不知道此事"/>
+		<plot headIcon="card_5131" headPos="1" text="雷公：别的我就不得而知了，大圣慢走"/>
+	</plots>	
+	<plots dungeonID="30241" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这让我去找谁呢"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：雨，是龙王管吗，我好想也知道怎么去龙宫"/>
+	</plots>	
+	<plots dungeonID="30243" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这就是龙宫吗，有点破败啊"/>
+		<plot headIcon="card_5051" headPos="2" text="龙宫仆人：你是哪里来的"/>
+		<plot headIcon="card_5051" headPos="2" text="龙宫仆人：是你，卫兵们"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：算了，聊是没用的，还是打进去吧"/>
+	</plots>	
+	<plots dungeonID="30246" condition="1" >	
+		<plot headIcon="card_5141" headPos="1" text="龙王：原来是你，这次又想抢什么东西"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：我又不是强盗，我以前抢过你？？"/>
+		<plot headIcon="card_5141" headPos="1" text="龙王：你手中的金箍棒就是我镇海之宝"/>
+		<plot headIcon="card_5141" headPos="1" text="龙王：要不是你我这龙宫也不会如此破败"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：额。。。。。。抢的我不记得啊"/>
+		<plot headIcon="card_5141" headPos="1" text="龙王：算了，你来有什么事吗"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：还请龙王帮忙停雨"/>
+		<plot headIcon="card_5141" headPos="1" text="龙王：车迟国？，那我可管不了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：为何，难道龙王不能控制雨水"/>
+		<plot headIcon="card_5141" headPos="1" text="龙王：那是你的锅，自己想办法吧"/>
+	</plots>	
+	<plots dungeonID="30250" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：快说为什么，你们这些神仙，一个个什么都不管"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：就知道甩锅，也不说为什么"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：再不说清楚，我就打到你说为止"/>
+		<plot headIcon="card_5141" headPos="2" text="龙王：我怎么这么苦呢"/>
+		<plot headIcon="card_5141" headPos="2" text="龙王：好吧，我说就是了"/>
+		<plot headIcon="card_5141" headPos="2" text="龙王：当年是你招来的这片云"/>
+		<plot headIcon="card_5141" headPos="2" text="龙王：此云能聚集周围水汽，不停下雨"/>
+		<plot headIcon="card_5141" headPos="2" text="龙王：我只能管天下雨水，可这片云却不是我能管的"/>
+		<plot headIcon="card_5141" headPos="2" text="龙王：你要想解决这片云，只有自己想办法"/>
+	</plots>	
+	<plots dungeonID="30251" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：大师兄回来了，天上好玩不"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：悟空，你这脸色也太难看了"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：受打击了，不要灰心，后面打击多着呢"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：大师兄，你一直盯着天上看啥呢"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：想把天通个窟窿？"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：沙师弟，这真是个好注意啊"/>
+	</plots>	
+	<plots dungeonID="30253" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：嗯。。。，只是通个窟窿还不行"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我记得我兄弟那有吧扇子很好用来着"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你们等着，我去去就来"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：可怜的大圣，这锅背的"/>
+	</plots>	
+	<plots dungeonID="30256" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：怎么到哪都需要打进去呢"/>
+		<plot headIcon="card_6121" headPos="2" text="铁扇公主：不知大圣来我这里做什么"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：嫂嫂，特来借芭蕉扇一用，望嫂嫂帮忙"/>
+		<plot headIcon="card_6121" headPos="2" text="铁扇公主：那先把我孩儿还回来"/>
+		<plot headIcon="card_6121" headPos="2" text="铁扇公主：牛魔王不在乎，我可在乎"/>
+	</plots>	
+	<plots dungeonID="30259" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：嫂嫂，咱们能好好说话了吗"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我这前世到底做了多少孽"/>
+	</plots>	
+	<plots dungeonID="30260" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：嫂嫂，对不住了，只是借来一用，用过就还"/>
+		<plot headIcon="card_6121" headPos="2" text="铁扇公主：果然是什么都忘了，曾经不可一世的妖王"/>
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：现在却是见妖怪就像打的打手"/>
+		<plot headIcon="card_6121" headPos="2" text="铁扇公主：而且自己还不知，看来必须出手了"/>
+		<plot headIcon="card_6121" headPos="2" text="铁扇公主：你还知道回来，狐狸精那待腻了"/>
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：那，哪敢啊"/>
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：最近在忙着谋划我这位六弟呢"/>
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：这下必须对他出手了"/>
+	</plots>	
+	<plots dungeonID="30261" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：师弟，待会帮我扇风啊"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：好的，师兄请放心"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：真是雨过天晴了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：感觉心情都好多了，晚上可以喝一杯了"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：每次喝酒都打架，不知道今天打几场"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：又能打架了，真好啊"/>
+	</plots>	
+	<plots dungeonID="30264" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：打一架真爽啊"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：怎么我一喝酒就有人找茬呢"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：酒品不好还乱喝，不挨打就不错了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：前面的人拦路什么意思，还想打架吗？"/>
+	</plots>	
+	<plots dungeonID="30267" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你们到底是谁，到底是何方妖孽"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：怎么感觉这么熟悉呢"/>
+	</plots>	
+	<plots dungeonID="30268" condition="1" >	
+		<plot headIcon="card_6141" headPos="2" text="唐僧：八戒，沙和尚，你们快去帮帮悟空"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：这两个可不是悟空一个人就能解决的"/>
+	</plots>	
+	<plots dungeonID="30269" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：该死，看来我也就走到这了"/>
+		<plot headIcon="card_7191" headPos="2" text="牛魔王：可以了，我们只要找到经书就可以了"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：老牛你还是狠不下心来"/>
+	</plots>	
+	<plots dungeonID="30270" condition="1" >	
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：怎么没有，是不是他们藏起来了"/>
+		<plot headIcon="card_7101" headPos="2" text="九头虫：不行，只能下手了"/>
+		<plot headIcon="card_7131" headPos="1" text="菩提老祖：可否手下留情啊"/>
+		<plot headIcon="card_6051" headPos="2" text="乌巢禅师：给我们两人一个面子如何"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：面子，那要看看你们有没有了"/>
+	</plots>	
+	<plots dungeonID="30270" condition="2" >	
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：两位果然很有面子"/>
+		<plot headIcon="card_7101" headPos="2" text="九头虫：哼，下次见面再切磋"/>
+		<plot headIcon="card_7131" headPos="1" text="菩提老祖：呵呵，有缘再见了"/>
+	</plots>	
+	<plots dungeonID="30271" condition="1" >	
+		<plot headIcon="card_7131" headPos="1" text="菩提老祖：醒了啊，活动一下吧"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你们是谁"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：我谁谁、我在那，我在干啥"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：又喝大了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：经书呢，经书还在啊，太好了"/>
+		<plot headIcon="card_7131" headPos="1" text="菩提老祖：既然你们都醒了，我们也该聊聊了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你们到底是谁啊，为什么呢要救我们"/>
+		<plot headIcon="card_7131" headPos="1" text="菩提老祖：先来活动一下吧，为师看看你现在修行的如何了"/>
+	</plots>	
+	<plots dungeonID="30273" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：哼，别以为能打赢我就能当我师父了"/>
+		<plot headIcon="card_7131" headPos="2" text="菩提老祖：歇歇吧，我也和你们说说为何有人要夺取经书"/>
+		<plot headIcon="card_7131" headPos="2" text="菩提老祖：还有天界的种种你也应该知道了"/>
+	</plots>	
+	<plots dungeonID="30276" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：原来是这样，就为了这些"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：所谓的妖怪原来是截教门徒"/>
+		<plot headIcon="card_7131" headPos="2" text="菩提老祖：对，不过现在想重回天庭，让天界承认他们的身份"/>
+		<plot headIcon="card_7131" headPos="2" text="菩提老祖：各有所需而已，何况如来做的有些过了"/>
+		<plot headIcon="card_7131" headPos="2" text="菩提老祖：现在可不是千年前了，天界也不需要如来来平衡太上三清的影响了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：那，师父，我们还要继续吗"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：当然，不然前面的路岂不是白走了吗"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：而且观音姐姐可是说过，完成任务可是能够立地成佛的"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：我会跟着师父的，只要师父还需要我来背行李"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：既然师父要去，我也想和这些妖魔大战一场"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：不过还是应该问问观音姐姐"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：看看得到点帮助"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：不管怎么说，现在任务难度可是提升了好多级别"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：好，我去去就来"/>
+	</plots>	
+	<plots dungeonID="30280" condition="1" >	
+		<plot headIcon="card_6101" headPos="2" text="观音：悟空，你每次都要打进来吗"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：别废话，现在和是和你说的不太一样了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这可不是一路向东，找找经书这么简单了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：而且，我可不想参与你们天上那些事"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：打妖怪也不是这么好玩"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：悟空，不要抱怨"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：你可知道，你为何痛恨妖族"/>
+		<plot headIcon="card_6101" headPos="2" text="观音：你原本斗战圣佛"/>
+		<plot headIcon="card_6101" headPos="1" text="观音：在和妖族的战斗中陨落重生的"/>
+		<plot headIcon="card_6101" headPos="1" text="观音：为何你一直痛恨妖魔鬼怪，也是因此"/>
+		<plot headIcon="card_6101" headPos="1" text="观音：我已知你们前路难行，早已准备了法宝"/>
+		<plot headIcon="card_6101" headPos="1" text="观音：现在赐你这三根毫毛，可在危急时刻使用"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：额，我原来就是佛吗"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：先说说这个宝物怎么用"/>
+		<plot headIcon="card_6101" headPos="1" text="观音：拔下毫毛即可"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：我先试试"/>
+		<plot headIcon="card_6101" headPos="1" text="观音：别，这宝物，用过一次就不能用了，还是等危急关头再用吧"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：也好，等打妖怪时再用"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：难道我前世真是佛"/>
+	</plots>	
+	<plots dungeonID="30280" condition="2" >	
+		<plot headIcon="card_6101" headPos="1" text="观音：还好没在这拔了，不然南海就毁了"/>
+		<plot headIcon="card_6101" headPos="1" text="观音：可算把这个瘟神送走了，是该和如来交代一下了"/>
+	</plots>	
+	<plots dungeonID="30283" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这就是传说中的宝物"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：可以关键时刻就我们一命的东西"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：那大师兄你可千万别随便用了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：八戒，你要是再动手，小心为师不客气了"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：我就摸摸，不拔的"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：好好，我不碰了还不行吗，别盯着我看了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：嗯，怎么到处贴着咱们的画像呢？？"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：这好像是通缉令啊，等等"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：现在是不是该跑路了"/>
+	</plots>	
+	<plots dungeonID="30286" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：为什么啊，我们什么也没做啊"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：呆子，快跑吧别废话了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：往哪跑啊，这都四面围堵了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：往人多的地方去，警察不好抓"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：前面好像是个体育馆"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：走，就去那了"/>
+	</plots>	
+	<plots dungeonID="30289" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：好像暂时甩掉了吧"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：别停，继续走"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父，他们为啥抓咱们啊"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：我看通缉令上说咱们要刺杀国王"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：可是我们都没见过"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：说是国师预言的"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：不好又来了，快跑"/>
+	</plots>	
+	<plots dungeonID="30290" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这打也不是，跑也没地方跑"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这是逼我杀人了"/>
+	</plots>	
+	<plots dungeonID="30293" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：怕了吗，你们区区凡人还刚来追我吗"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：悟空等等，好像有妖怪出现了"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：这不止一只，而且很强啊"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：哼，最好一起来，也好报我上世陨落之仇"/>
+	</plots>	
+	<plots dungeonID="30296" condition="1" >	
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：六弟，杀人可不好，那可不是一心向佛之人应该做的事"/>
+		<plot headIcon="card_7101" headPos="2" text="九头虫：直接上吧，难道还要叙旧吗"/>
+		<plot headIcon="card_7011" headPos="2" text="金翅大鹏：过去的仇一起报了吧"/>
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：或者乖乖交出经书吧，然后你们大可逍遥人间"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：经书，看看你们今天还不能不能活着出去吧"/>
+	</plots>	
+	<plots dungeonID="30299" condition="1" >	
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：六弟，还是交出经书吧，你是打不过我们的"/>
+		<plot headIcon="card_7101" headPos="2" text="九头虫：而且今天不可能有人来救你们了"/>
+	</plots>	
+	<plots dungeonID="30300" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：没想到危急时刻这么快就到了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：也看看这法宝到底有何用处"/>
+	</plots>	
+	<plots dungeonID="30300" condition="2" >	
+		<plot headIcon="card_7101" headPos="1" text="九头虫：妖王果然是妖王，妖力全开后果然非同凡响"/>
+		<plot headIcon="card_7191" headPos="2" text="牛魔王：佛祖竟然愿意解放他的妖力，我这六弟不知还能活多久"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：既然佛祖是要全力保住取经的事，那就该玉帝去聊聊了"/>
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：不过他现在好像心智全无的样子"/>
+		<plot headIcon="card_7101" headPos="1" text="九头虫：那正好，让我好好欣赏下妖王的风采"/>
+	</plots>	
+	<plots dungeonID="30301" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父，妖怪是打跑了，可是大师兄他现在怎么了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：确实很厉害，可是不受控制了，完全没有心智了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：快想办法控制住悟空，不然这座城都要毁了"/>
+	</plots>	
+	<plots dungeonID="30303" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：我来念紧箍咒试试"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：好久不念了，是啥词来着"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：师父快点吧，我们两个可是真顶不住了"/>
+	</plots>	
+	<plots dungeonID="30306" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父继续，好像有点效果了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：后面什么词来着，前面的想起来了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：后面的真忘了"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：再想不起来，真就是满城废墟了"/>
+	</plots>	
+	<plots dungeonID="30309" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：啊，头疼死了，受不了了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：能不能停下来啊"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：师父，可以了，大师兄已经清醒了"/>
+	</plots>	
+	<plots dungeonID="30310" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这些都是我做的，人都是我杀的"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这就是法宝的作用？"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：大师兄，你也是和那些妖魔打得发狂了"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：还好师父及时念起了什么咒来着"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：你这容易发狂的性子还是和以前一样"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：我，我比妖还不如吗"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：好了，走吧，不用再悲伤了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：人们自有他们的因果福报"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：他们今日所受之苦，来世自会获得福报的"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：走吧，取得经书，净化邪魔，还世间一片净土吧"/>
+	</plots>	
+	<plots dungeonID="30313" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：大师兄，别伤心了，那吃块蛋糕吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：悟空啊，前面找个地方歇歇吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：你也好放松一下"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：就是，前面有个不错的庄园，看看哪里能不能借宿一夜"/>
+	</plots>	
+	<plots dungeonID="30316" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：大师兄，这么直接硬闯进来不太好吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：算了，让他发泄一下吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：正好也看看有没有好酒"/>
+	</plots>	
+	<plots dungeonID="30319" condition="1" >	
+		<plot headIcon="card_7211" headPos="1" text="镇元大仙：呵呵，原来是兄弟你来了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：你认识我？？"/>
+		<plot headIcon="card_7211" headPos="1" text="镇元大仙：当然，我们可是不打不相识的"/>
+	</plots>	
+	<plots dungeonID="30320" condition="2" >	
+		<plot headIcon="card_7211" headPos="1" text="镇元大仙：这次可信了吗"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：确实是个对手"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：那你可知我的过往吗？"/>
+		<plot headIcon="card_7211" headPos="1" text="镇元大仙：呵呵，自然是知道的"/>
+		<plot headIcon="card_7211" headPos="1" text="镇元大仙：来，我们边喝边聊"/>
+	</plots>	
+	<plots dungeonID="30323" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：上次取经就是我们几个人"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：还再这里偷吃过人生果"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：人生果好吃吗"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：额，怪不得感觉经书很熟悉呢"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：可惜现在人参果还未成熟，无法请你们品尝了"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：今晚就在此安睡一晚吧"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：悟空兄弟，来我房中咱们多年不见，趁此机会好好促膝长谈"/>
+	</plots>	
+	<plots dungeonID="30326" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我当年真是这么厉害"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：斩杀各种妖魔，连神仙坐骑都不是我的对手"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：那是啊，你可是齐天大圣，当年也是天界响当当的人物"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：所以妖魔鬼怪不要担心"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：至于你说的那件事"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：你想，要是任由妖魔横行，岂不是更悲剧"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你说的也对，确实如此"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：再说说我成佛之后还做过什么惊天动地的事"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：不忙，听我慢慢讲来"/>
+	</plots>	
+	<plots dungeonID="30330" condition="2" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：你可开导完了"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：自然是，怎么说也是结拜兄弟"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：他的脾气秉性还是知道的"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：那就好，就快到大唐了，别在这功亏一篑"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：放心，你们后面应该不会有阻碍了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：哦，佛祖已经和天庭谈妥了"/>
+		<plot headIcon="card_7211" headPos="2" text="镇元大仙：嗯，不过你也别忘了，你该做的事"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：放心，他上不了天庭的"/>
+	</plots>	
+	<plots dungeonID="30331" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这是什么地方，这么繁华"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：不知道，不过大师兄你倒是恢复了往日的风采"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：（小声嘟囔）昔日风采，现在比昔日可差远了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：嗯，不错的地方，应该有不少好酒"/>
+	</plots>	
+	<plots dungeonID="30333" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这地方原来是座金山银山啊"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：什么金山银山"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：就是金矿和银矿，这座城市就是因为这个才建起来了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：怪不得呢，连酒里都有金子"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这纸醉金迷的生活真好啊"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：走，看看这繁华之地"/>
+	</plots>	
+	<plots dungeonID="30336" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：沙师弟，你这带的什么路，这都到哪了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：师父不是想去黑暗的地下酒馆吗"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这是贫民窟了吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：繁荣的代价啊"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：不应该啊，这里挖金子应该赚不少钱的"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：商人没有不黑心的"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：走吧，看着就不爽"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这些穿制服的在干啥，怎么这么凶"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：难道又是妖魔在作怪"/>
+	</plots>	
+	<plots dungeonID="30339" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：什么，城主来收税"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：你们都穷成这样了，还要交税"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：还让不让人活着了"/>
+		<plot headIcon="card_5091" headPos="1" text="农夫：我们本来是在这里种地务农的"/>
+		<plot headIcon="card_5091" headPos="1" text="农夫：可是自从什么矿找到了，就被人强行把良田买走了"/>
+		<plot headIcon="card_5091" headPos="1" text="农夫：只能来此挖矿谋生"/>
+		<plot headIcon="card_5091" headPos="1" text="农夫：唉，现在只能算是勉强活着了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：还真是妖魔作怪，探妖器确实有反应了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：先找城主聊聊人生，再找妖怪"/>
+	</plots>	
+	<plots dungeonID="30340" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：看来就是你横征暴敛了"/>
+		<plot headIcon="card_5061" headPos="2" text="城主：哦，几位强人有事吗，等我礼佛参拜过后再谈"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：你还好意思拜佛"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：你做的好事拜佛也消不了你的罪孽"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：不废话，看棒"/>
+	</plots>	
+	<plots dungeonID="30340" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：嗯？，他是从那跑的"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：好像是动用了什么法宝"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：嗯，应该是佛家法器"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：真是虔诚的信徒，连佛祖都骗过了"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：（小声嘟囔）只看香火，不看善恶"/>
+	</plots>	
+	<plots dungeonID="30341" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：走吧，去看看这妖魔是何许人也"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：嗯，好像就在矿里"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：走，出发，还是打妖怪过瘾"/>
+	</plots>	
+	<plots dungeonID="30343" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：就是你在这捣鬼的"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：别跑，受死吧"/>
+	</plots>	
+	<plots dungeonID="30346" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这妖怪好弱"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：早知道我就动手了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：嗯嗯，没想到他身上也有经书"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：经书应该就差一本了"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：怎么感觉山洞有点不稳呢"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：不会是要塌了吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：快跑真要塌了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：大师兄，你说你怎么到哪都弄出这么大动静来"/>
+	</plots>	
+	<plots dungeonID="30349" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：好了，现在矿山塌了，以后也就别想要金子了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：不知道是不是能因祸得福呢"/>
+	</plots>	
+	<plots dungeonID="30350" condition="2" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：你看，那不是城主吗"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：怎么哭成这样了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：大师兄，还去教训他吗？"/>
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：我看不用了，他平常欺压的那些百姓不会饶过他的"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：走吧，这里应该没我们什么事了"/>
+	</plots>	
+	<plots dungeonID="30353" condition="1" >	
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：这里就是流沙河了"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：各位师兄，就在这里告别了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：悟净，你这是何意"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：前面就是大唐地界了，应该不会再有磨难了，我也该在这里休息了"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：师父应该知道我的意思"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：师父应定要记得，这一路上我可没让行李旁落他人"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：既然师弟要留在这里，那等我们净化经书成佛之时再来找你"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：希望如此"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：再会了，小师弟"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：大师兄啊，你还是要被算计一次"/>
+	</plots>	
+	<plots dungeonID="30356" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：唉，没人让我欺负了，好无聊啊"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：我也有点凡心大动了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：呆子，不行拿行李就直说"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：确实不想拿了，师兄你背会吧"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：滚，自己好好背着"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：要是能找个会做饭的姑娘就好了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：在这里过个平凡生活也不错"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：前面好像是个村庄，咱们去吃点东西吧"/>
+	</plots>	
+	<plots dungeonID="30359" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：呆子，看啥呢"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：看人家厨师了吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：确实很美啊，而且酒酿的不错"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：何止啊，蛋糕做得可好吃了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：能在这多主几天吗？"/>
+	</plots>	
+	<plots dungeonID="30360" condition="2" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师父，看来我不能再和您走了"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：大师兄，你可要好好保护师父啊"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：你这是看上人家姑娘了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：确定要留下，马上就要成功了"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：不了，我本来就对此没什么兴趣"/>
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：只是觉得和师父亲近，所以才跟来的"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：那也好，只是没人陪为师喝酒了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：你想留在这就在这吧，行李给我吧"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：那等我们净化经书成佛之时再来找你"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：祝你们早日成功了"/>
+	</plots>	
+	<plots dungeonID="30363" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这就是大唐境内了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：确实繁花似锦"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：不止，这里的酒相当清冽甘甜"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：师父可知最后的经书在哪"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：以前是在皇宫，不止现在会放到哪里"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：先去图书馆吧，我想应该会在那里"/>
+	</plots>	
+	<plots dungeonID="30366" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：额，看书看得头痛啊"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：还不如和妖怪打一架省事了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：呵呵，大唐境内可是没有妖怪的，这点你可以放心"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：好好找吧"/>
+	</plots>	
+	<plots dungeonID="30369" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：不是说没妖怪了吗"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：意外，真的只是意外而已"/>
+	</plots>	
+	<plots dungeonID="30370" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：好了最后一本经书到手了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：师父剩下就该看你的了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：快点将经书净化了吧"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：别急，需要点时间"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：先喝陪为师喝一杯庆祝一下"/>
+	</plots>	
+	<plots dungeonID="30370" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：师父真是好酒量啊，今天竟然没醉"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：那是当然了，今天怎么也要把你灌醉才行"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我，为什么要把我灌醉？"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：这么多年的醉生梦死，终于要熬到头了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：悟空千万不要怪为师"/>
+	</plots>	
+	<plots dungeonID="30371" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：啊，头好疼啊"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：师父，你在做什么"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：没事，一会就好了"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：只是借你的法力一用"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我的法力？师父你要化去我所有法力？"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：为什么，已经收回所有经书，就差净化经书了啊"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：对啊，净化经书就需要你的全部法力"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：为什么是我，为什么"/>
+	</plots>	
+	<plots dungeonID="30373" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空，你可知为师为何天天借酒消愁吗"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：你可知为什么是我们四人去收回经书吗"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：你可知我们四人是因为什么转世的吗"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：还不都是因为你"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：我到底是谁，我到底做了什么"/>
+	</plots>	
+	<plots dungeonID="30376" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：你放着好好的斗战胜佛不做，偏偏不服管束"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：还和天庭、老君、甚至是那些妖族朋友来往"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：最不该的是，把经书的秘密透露给你那些妖族朋友"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：经书的秘密？妖族朋友？"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：头好痛，好痛"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：还有就是你的血，你这个本是妖族，却有佛法的斗战圣佛的血"/>
+	</plots>	
+	<plots dungeonID="30379" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：你哪个好兄弟，牛魔王呼朋唤友的准备借用经书的力量和我教抗衡"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：和妖族开战的时候，你还不忍心和自家兄弟"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：结果还不是让人偷袭，重伤临死"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：佛祖也迁怒于我们，害的我们几个陪你进入轮回"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：我，啊，头好痛"/>
+	</plots>	
+	<plots dungeonID="30380" condition="1" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：放心，马上就好了，马上就没有痛苦了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：这紧箍还要在带一会"/>
+	</plots>	
+	<plots dungeonID="30380" condition="2" >	
+		<plot headIcon="card_6141" headPos="1" text="唐僧：大功告成，可以回西天复命了"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：看在师徒一场，就把你埋葬在这五指山下"/>
+	</plots>	
+	<plots dungeonID="30381" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：（500年后）疼疼疼疼"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：什么东西在我头上"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：这是什么地方，我怎么要什么都不记得了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：这头上的东西，我要想办法把它弄下来，好疼，好疼"/>
+	</plots>	
+	<plots dungeonID="30383" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：怎么还这么疼"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你这个破铁环，在我头上这么长时间"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：今天我看我把你捏碎了"/>
+	</plots>	
+	<plots dungeonID="30386" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：想起来了，全都想起来了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：原来是这样，就因为这样"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：所有人都在利用我，玉帝、老君、如来、牛魔王都是在利用我"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：用我制衡他人"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：用我开疆扩土"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：用我争权夺利"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：还是我的如意金箍棒对我真心实意"/>
+	</plots>	
+	<plots dungeonID="30390" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：那就和我一起去把这天通个大窟窿"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：嗨，四位天将，还认得我吗，今天是不是该开蟠桃会了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我就不请自来了，你们不通报一声吗"/>
+		<plot headIcon="card_4061" headPos="2" text="四大天王：你这泼猴，还活着呢，直接就地正法"/>
+	</plots>	
+	<plots dungeonID="30391" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：既然你们现在已经不能通报了，那我就自己进去了"/>
+		<plot headIcon="card_4061" headPos="2" text="四大天王：你不要猖狂，里面有的是天兵天将在等着你"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我要是怕，也就不来了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：这不是哪吒父子吗"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你们带着这些军队去哪啊"/>
+		<plot headIcon="card_6031" headPos="1" text="哪吒：听说有人在南天门闹事，我们带人去看看"/>
+		<plot headIcon="card_6031" headPos="1" text="哪吒：你，是你，就是你在惹事吧，快把他拿下"/>
+		<plot headIcon="card_6041" headPos="2" text="李靖：别让他再搅乱了蟠桃会"/>
+		<plot headIcon="card_6041" headPos="2" text="李靖：当年王母娘娘怎么处罚咱们的可别忘记了"/>
+	</plots>	
+	<plots dungeonID="30392" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：还是这些人，还是这些招式"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：但年就不是我的对手，你以为现在就能打赢我了"/>
+		<plot headIcon="card_6091" headPos="2" text="二郎神：果然你还是来了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：原来是二郎神啊"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：老对手来比试一下吧，看看你退步了吗"/>
+	</plots>	
+	<plots dungeonID="30393" condition="1" >	
+		<plot headIcon="card_6091" headPos="1" text="二郎神：算了，不打了，你要做的事，本来我也管不着"/>
+		<plot headIcon="card_6091" headPos="1" text="二郎神：而且，你这几世轮回，反而越来越强了"/>
+		<plot headIcon="card_6091" headPos="1" text="二郎神：我也没什么胜算"/>
+		<plot headIcon="card_6091" headPos="1" text="二郎神：而且，我也想看看你这次能闹出多大动静"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：呵呵，会很大的，大到无法收场"/>
+		<plot headIcon="card_6091" headPos="1" text="二郎神：（小声说）不知道你看到那几人你会是什么表情"/>
+	</plots>	
+	<plots dungeonID="30394" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：蟠桃会怎么不叫我呢，是我不够资格吗"/>
+		<plot headIcon="card_7151" headPos="2" text="玉皇大帝：你，你怎么还活着"/>
+		<plot headIcon="card_7141" headPos="1" text="如来：玉帝放心，有我在，他来了有能如何"/>
+		<plot headIcon="card_7181" headPos="2" text="西王母：这泼猴是专门来烦我的，每次都是蟠桃会时出现"/>
+		<plot headIcon="card_7151" headPos="1" text="玉皇大帝：王母放心，你看这众仙皆在此，而且他们几个也在"/>
+		<plot headIcon="card_7011" headPos="2" text="金翅大鹏：不必劳烦各位大仙，就先让我们三兄弟解决了他"/>
+	</plots>	
+	<plots dungeonID="30394" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：还真以为当年我打不过你们"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你们继续一个个上，还是让我一起解决了"/>
+	</plots>	
+	<plots dungeonID="30395" condition="1" >	
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：师兄别来无恙"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：嗯？，你不是在高老庄享受人生吗"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这已经500年了，人间享受够了，也该会天庭复命了"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：还有卷帘大将何在"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：我那个好师父呢"/>
+		<plot headIcon="card_6141" headPos="1" text="唐僧：悟空，你何必如此，现在三界和睦不是很好吗"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：是是是，你们三界和睦"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：我呢就是一个可有可无的牺牲品"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：那我就要一棒捅破这三界"/>
+	</plots>	
+	<plots dungeonID="30396" condition="1" >	
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：师兄果然好本领"/>
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：不打了，我可打不过你，而且也不想和你打"/>
+		<plot headIcon="card_6141" headPos="2" text="唐僧：还是请佛祖出手吧"/>
+		<plot headIcon="card_7141" headPos="2" text="如来：也好，让我在好好教育这泼猴一次"/>
+	</plots>	
+	<plots dungeonID="30397" condition="1" >	
+		<plot headIcon="card_7141" headPos="1" text="如来：你这泼猴，始终无法登上大雅之堂的"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：是啊，就让你看看，你眼中的下界之人"/>
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：我，齐天大圣，到底有多少本事吧"/>
+	</plots>	
+	<plots dungeonID="30398" condition="1" >	
+		<plot headIcon="card_7141" headPos="1" text="如来：不好，这泼猴要玩命了，竟然燃烧自己的法力来提升"/>
+		<plot headIcon="card_7141" headPos="1" text="如来：都快来帮忙，封住他的妖力"/>
+		<plot headIcon="card_7151" headPos="2" text="玉皇大帝：如来不是开玩笑的，让他做成了，天庭不保啊"/>
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：这天看来是真要破了"/>
+	</plots>	
+	<plots dungeonID="30399" condition="1" >	
+		<plot headIcon="card_7181" headPos="1" text="西王母：这猴子实在是我的克星"/>
+		<plot headIcon="card_7181" headPos="1" text="西王母：上次就让他搅了蟠桃会"/>
+		<plot headIcon="card_7181" headPos="1" text="西王母：这次直接就要炸了，还好各位仙家出手啊"/>
+		<plot headIcon="card_7151" headPos="2" text="玉皇大帝：这泼猴，真要是玩命还真是不好对付"/>
+		<plot headIcon="card_4031" headPos="1" text="太白金星：又要请老君用炼丹炉炼化他了"/>
+		<plot headIcon="card_7151" headPos="2" text="玉皇大帝：这次可别放水了"/>
+		<plot headIcon="card_7141" headPos="1" text="如来：等等，他还没死，真是小强啊"/>
+	</plots>	
+	<plots dungeonID="30400" condition="1" >	
+		<plot headIcon="card_7181" headPos="1" text="西王母：你，你，你要干什么"/>
+		<plot headIcon="card_7141" headPos="2" text="如来：不好，快拦住他"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我这烂命能把你这天界搅得天翻地覆也可以了"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你们晚了"/>
+		<plot headIcon="card_7181" headPos="2" text="西王母：你，我不会饶了你"/>
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：看看我这烂命还能捅出来多大的窟窿来"/>
+	</plots>	
+	<plots dungeonID="30400" condition="2" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：金箍棒啊，不能再让你陪我了，去找你的新主人吧" sound="" />
+		<plot headIcon="card_7151" headPos="2" text="玉皇大帝：收了他的是尸体，交给老君炼化" sound="" />
+		<plot headIcon="card_6071" headPos="1" text="沙和尚：是，谨遵天命" sound="" />
+		<plot headIcon="card_7151" headPos="2" text="玉皇大帝：这泼猴，死都这么刚烈" sound="" />
+		<plot headIcon="card_7151" headPos="2" text="玉皇大帝：唉，这天庭重建不是何年何月" sound="" />
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：这花果山还是这样人杰地灵" sound="" />
+		<plot headIcon="card_6071" headPos="2" text="沙和尚：不知道老君所留的八卦炉是不是还在这" sound="" />
+		<plot headIcon="card_6021" headPos="1" text="猪八戒：有了就在那山崖上" sound="" />
+		<plot headIcon="card_6021" headPos="2" text="猪八戒：大师兄你就安息在这天地灵气汇聚之地" sound="" />
+	</plots>	
+	<battle dungeonID="101" condition="1" >	
+		<plot headIcon="card_7191" headPos="1" text="牛魔王：六弟，你还是让开吧，我们只是找如来聊聊天，喝喝茶而已" sound="" />
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：你当我这么好骗吗，我现在是斗战胜佛，想过去就先打赢我" sound="" />
+		<plot headIcon="card_7011" headPos="1" text="金翅大鹏：别废话了，直接打倒他，去找我那外甥聊天" sound="" />
+		<plot headIcon="card_6131" headPos="2" text="孙悟空：哼，放马过来吧！" sound="" />
+	</battle>	
+	<battle dungeonID="102" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：你们脚下代表生命值的红条不多了，这招就送几位回家了！" sound="" />
+		<plot headIcon="card_7191" headPos="2" text="牛魔王：六弟，我们大不了继续下界为妖" sound="" />
+		<plot headIcon="card_7191" headPos="2" text="牛魔王：你可不一样，我们怎么上到天界的你应该知道！！" sound="" />
+		<plot headIcon="card_7101" headPos="2" text="九头虫：如来可是不会饶过你的" sound="" />
+		<plot headIcon="card_7191" headPos="2" text="牛魔王：你还是自求多福吧" sound="" />
+	</battle>	
+	<battle dungeonID="103" condition="1" >	
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：那就不劳各位关心了" sound="" />
+		<plot headIcon="card_6131" headPos="1" text="孙悟空：我自会去佛祖面前请罪的" sound="" />
+	</battle>	
+</synopsis>		

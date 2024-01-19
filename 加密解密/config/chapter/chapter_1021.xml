@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Dungeons>
+	<Dungeon ID="30201" Number="1" Name="阴谋连出1" activeneedpass="30200" costenergy="2" maxtimes="30" coin="6660" exprole="1332" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4092" dungeon_level="54"/>
+	<Dungeon ID="30202" Number="2" Name="阴谋连出2" activeneedpass="30201" costenergy="2" maxtimes="30" coin="6660" exprole="1332" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4112" dungeon_level="54"/>
+	<Dungeon ID="30203" Number="3" Name="国王选夫1" activeneedpass="30202" costenergy="2" maxtimes="30" coin="6780" exprole="1356" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5102" dungeon_level="54"/>
+	<Dungeon ID="30204" Number="4" Name="国王选夫2" activeneedpass="30203" costenergy="2" maxtimes="30" coin="6780" exprole="1356" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4172" dungeon_level="54"/>
+	<Dungeon ID="30205" Number="5" Name="国王选夫3" activeneedpass="30204" costenergy="2" maxtimes="30" coin="6900" exprole="1380" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="5012" dungeon_level="54"/>
+	<Dungeon ID="30206" Number="6" Name="妖魔乱入1" activeneedpass="30205" costenergy="2" maxtimes="30" coin="6900" exprole="1380" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4123" dungeon_level="55"/>
+	<Dungeon ID="30207" Number="7" Name="妖魔乱入2" activeneedpass="30206" costenergy="2" maxtimes="30" coin="7025" exprole="1405" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4013" dungeon_level="55"/>
+	<Dungeon ID="30208" Number="8" Name="妖魔乱入3" activeneedpass="30207" costenergy="2" maxtimes="30" coin="7025" exprole="1405" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4023" dungeon_level="55"/>
+	<Dungeon ID="30209" Number="9" Name="还好没赢1" activeneedpass="30208" costenergy="2" maxtimes="30" coin="7150" exprole="1430" expgeneral="0" dropitem1="0" dropitem2="0" boss_postion="0" addMorale="0" dungeon_icon="4163" dungeon_level="55"/>
+	<Dungeon ID="30210" Number="10" Name="还好没赢2" activeneedpass="30209" costenergy="2" maxtimes="10" coin="7150" exprole="1430" expgeneral="0" dropitem1="10414" dropitem2="0" boss_postion="11" addMorale="0" dungeon_icon="5059" dungeon_level="55"/>
+</Dungeons>
